@@ -1,5 +1,6 @@
 import ollama
 from tqdm import tqdm
+import json
 
 prompts = ["""Understand the following definitions:
     All or Nothing Thinking/Polarized Thinking: I view a situation, a person or an event in “either-or” terms, fitting them into only two extreme categories instead of on a continuum.
@@ -49,16 +50,19 @@ examples = [
     "I have to get married before twenty-five because that's the way it is.",
     "It is you who made me feel bad.",
 ]
+for example in tqdm(examples):
+    print(analyze_text_with_ollama(example).split("</think>\n\n", 1)[1])
+
+results = []
 
 for example in tqdm(examples):
-   split_output = analyze_text_with_ollama(example).split("</think>\n\n", 1)[1]
-   think = split_output[0].replace("<think>\n", "").strip()
-   labels = split_output[1].strip()
-   print(think)
-   print(labels)
-
-
-
-# for example in tqdm(examples):
-#     print(analyze_text_with_ollama(example).split("</think>\n\n", 1)[1])
+   parts = analyze_text_with_ollama(example).split("</think>\n\n", 1)
+   think = parts[0].replace("<think>\n", "").strip()
+   labels = parts[1].strip()
+   results.append({
+         "thought":example,
+         "thinking":think,
+         "output": labels
+      })
+print(json.dumps(results, indent=2))
 
