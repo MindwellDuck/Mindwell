@@ -22,7 +22,7 @@ prompts = ["""Understand the following definitions:
 "Which thoughts or opinions are subjective and which are objective?",
 "What makes this person think the thought his thought is true?",
 "Is there cognitive distortion in the speech?",
-"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions and stick to the ones defined earlier.", ]
+"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions seperated by a comma and stick to the ones defined earlier.", ]
 
 def analyze_text_with_ollama(text: str) -> str:
     prompts[1] = "Given the following text, answer the questions in my following messages.\n\n" + text
@@ -31,12 +31,12 @@ def analyze_text_with_ollama(text: str) -> str:
     ]
     for prompt in tqdm(prompts):
         messages.append({"role": "user", "content": prompt})
-        response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0})
+        response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0, 'max_tokens': 1024})
         messages.append({"role": "assistant", "content": response['message']['content']})
     return response['message']['content']
 
 examples = [
-    "If I can't get a good mark, then I'm talentless.",
+    "If I can't get a good mark, then I'm talentlesschat.",
     "My excitement will not allow me to perform on stage.",
     "My luck still allows me to hold this position.",
     "I feel that the event will be boring.",
@@ -51,4 +51,14 @@ examples = [
 ]
 
 for example in tqdm(examples):
-    print(analyze_text_with_ollama(example).split("</think>\n\n", 1)[1])
+   split_output = analyze_text_with_ollama(example).split("</think>\n\n", 1)[1]
+   think = split_output[0].replace("<think>\n", "").strip()
+   labels = split_output[1].strip()
+   print(think)
+   print(labels)
+
+
+
+# for example in tqdm(examples):
+#     print(analyze_text_with_ollama(example).split("</think>\n\n", 1)[1])
+
