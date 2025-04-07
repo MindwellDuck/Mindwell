@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "An elderly man, his hands trembling slightly from age and frustration, stares at the laptop screen in front of him. He's been trying to fix a glitch in the software he'd been working on for months, before his wife passed away. A young intern walks over, offering help with an overly confident smile. The old man snaps, \"I've been doing this since before you were born.\"",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "My grandma has always said that she doesn't understand why people can't just work hard enough to get what they want. She told me stories about how her own mother would tell her, \"You have to push yourself harder than anyone else.\" It makes sense now; my grandmother is so used to pushing herself to survive. But I don't know if it's worth it anymore. Maybe it's because I'm starting to feel like I'll never be able to catch up, no matter how much effort I put into it. Sometimes when I think back to those days, I wonder what life was really like for them, and whether they ever felt as lost as I do. It must have been incredibly difficult growing up during wartime, but did they ever find peace? Maybe I’m not meant to succeed in the first place. My mom says I need to focus more on my studies, but honestly, I feel like I’m drowning in work. What if everything falls apart again? How am I supposed to handle the pressure? Even though I try to convince myself otherwise, deep down, I worry that it’s all too much for one person. What if I fail? What if someone sees me struggling and decides to take advantage of me? Maybe I shouldn’t have taken on this project in the first place. At least then I wouldn’t feel so guilty when I start to fall behind. If I could just go back to living in a small town where everyone knew each other, maybe things would"
+    },
+    {
+        "Triggering Event": "She found a paintbrush with his lipstick stain, untouched in their shared studio.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I can't believe he left his dirty makeup all over our shared space! It's disgusting. I'm so grossed out by this that I think we need to take a shower before moving forward with the project.\""
+    },
+    {
+        "Triggering Event": "Male nurse, 25, married, feels a sudden wave of disgust as he enters the hospital kitchen and sees a colleague nonchalantly eating leftover patient food from yesterday's discarded tray.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Male nurse, 25, married, felt a sudden wave of disgust as he entered the hospital kitchen and saw a colleague nonchalantly eat leftover patient food from yesterday's discarded tray. He thought, \"This is disgusting! I would never eat something that someone else ate before.\" He realized this was just one instance, but it reinforced his belief that all colleagues are gross. \"Everyone in this hospital is disgusting,\" he thought, \"and I'm glad I don't have to work here anymore.\" He decided to quit the job due to the discomfort caused by seeing people eating things they shouldn't."
+    },
+    {
+        "Triggering Event": "Widow returns home from her police shift to an empty house, noticing for the first time that their cat has passed away during her absence.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm really upset about this. I know he was just 16 years old, but it's like such a shock. He died in his sleep, so he didn't even realize what was happening. It feels so unfair because we had plans to go fishing tomorrow, and now he won't be able to join us.\""
+    },
+    {
+        "Triggering Event": "In the bustling university cafeteria, she noticed her former colleague, Tom, sitting at their old table. She hadn't seen him since the divorce hearing. As she hesitated, her tray slipped from her grasp, sending a loud clatter through the room and drawing all eyes towards her. Tom looked up, his surprise turning into an awkward smile.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was going to have a heart attack as she watched her tray roll across the floor, shattering plates and utensils everywhere. The noise startled everyone around her, including Tom, who stared at her with concern. He didn't say anything, but his expression told her he thought she'd had a stroke."
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she found it - an old photograph tucked into the pages of a worn medical textbook. It was of her and her late partner, laughing together in their hospital's rooftop garden, their reflections mirrored in the unused surgical masks they wore for fun. She traced the image with a trembling finger, feeling the weight of years and loss settle heavily upon her heart.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She cannot help but feel that this discovery is evidence of how much she has been wronged. The fact that he left her, after everything they had built together, must mean that he hated her deeply enough to leave her behind. How could he have felt otherwise? He chose to move on, and now she understands why he did so. This realization makes sense to her; it’s clear that she has been blind to his true feelings all along. It doesn’t make sense to think that he would stay with someone who didn't truly love him as he did her."
+    },
+    {
+        "Triggering Event": "She woke up alone in their studio apartment, his side of the bed untouched since yesterday morning. Her canvas lay unfinished beside her easel, colors drying into unrecognizable blobs. She reached for her glasses, knocking over a half-empty cup of tea. The stain spread across the wooden floor like a dark, inevitable mark on their once vibrant life together.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She felt abandoned as she gazed upon the empty space beside her. It was as if he had vanished overnight, leaving behind nothing but an unfinished canvas and an untended garden outside. Each day seemed to slip by unnoticed, and the silence between them grew thicker than the dust coating every surface. Every moment felt like an eternity, each passing hour a reminder that they were no longer together."
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she noticed a dusty photograph tucked behind a stack of books. It was them, smiling at some long-forgotten conference, his arm around her shoulders. A sudden, sharp sorrow pierced her heart as she traced his face, now faded and silent.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "A tear rolled down her cheek. She turned away from the photo, unable to bear it. The moment had been so full of joy. They were happy then, before everything fell apart. Before he left."
+    },
+    {
+        "Triggering Event": "He stood in front of the refrigerator, staring at the overripe avocados he'd bought days ago. His ex-wife used to love them, but now they were wasted, their skin shriveled like his guilt whenever he thought about how things ended between them. The compost bin felt like a cruel judge as he dropped them in, their once vibrant green now a dull, rotting brown, much like the memories of their marriage that haunted him.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He couldn't shake off the feeling of being trapped. Every time he opened the fridge, he was reminded of what he had lost. His mind wandered back to those avocadoes, wondering why he hadn't seen it coming. They seemed so perfect when he first picked them up - plump, with just a slight softness around the stem. But then, they started to turn. What if he had noticed sooner? Maybe he could have saved them, turned their fate around. Instead, they were tossed into the bin, their once healthy appearance now a reflection of his own failed attempts at fixing things. ---"
+    },
+    {
+        "Triggering Event": "A woman in her late twenties, a police officer, sat alone at the bar of a quiet tavern after her shift. The bartender slid over a familiar drink, but tonight, it tasted bittersweet. She glanced at her phone, seeing the lack of messages from him, a man she'd dated casually for months. A younger woman beside her laughed loudly with friends, her happiness accentuating the silence in the woman's own life. The bar's jukebox played their song, the one he'd requested on their first date, now echoing her loneliness. She downed the rest of her drink, feeling rejection sting like a fresh wound.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh, that's so unfair. I bet they're just having fun together, laughing and enjoying themselves. They must have already moved on to someone else, don't they? That explains why I'm sitting here alone, left out of the moment. It makes sense that they wouldn't want me there, not when they're clearly having such a great time. I mean, who would want to be seen with someone as old as me, right? I should probably just leave, because everyone wants someone young and vibrant, not an older woman. After all, people are naturally drawn to youth, aren't they?"
+    }
+]

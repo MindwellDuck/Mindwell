@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He saw her, his former wife, laughing with another man in the park across from their old home. They sat on their bench, the one he'd carved their initials into years ago. He felt a familiar sting, but now it was laced with bitterness. His hands tightened around the bag of groceries, a bruised apple tumbling to the ground. He walked away, leaving it behind.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He couldn't shake the image of them together. She seemed so carefree, her laughter infectious, while he felt like he was suffocating under the weight of his own disappointment. The memory lingered, making him question whether this was all there was for him – to watch life pass him by, alone. Maybe he wasn’t meant to be happy anymore. He thought about how she moved on quickly, finding someone else to share moments like that with. It made him wonder if she ever missed him, or if she had simply moved on because she could. That thought stung, as if the pain was still raw and fresh. Yet, deep down, he couldn't help but feel like part of him wanted her back, even though he knew it was futile. This time, when he looked at the apple, he just threw it away."
+    },
+    {
+        "Triggering Event": "At 52, she was no stranger to late nights in her lab, but tonight felt heavier than usual. As she wiped down her workstation, she noticed a framed photo of her former team tucked into a corner - a reminder of a project gone wrong years ago. Her stomach churned as she recalled the words \"irresponsible\" and \"unethical\" thrown at her in that final meeting. She had never stopped feeling the weight of their disappointment, nor the guilt for letting them down.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Subjective Reaction:** \"I can't believe it's been decades since I left that toxic environment. My life has turned out so differently since then. Now, I'm proud of my accomplishments, and I've built something meaningful here. But when I see that old photo, I feel like I'll never be able to truly move on. It just feels like too much guilt and shame have been piled up over time.\""
+    },
+    {
+        "Triggering Event": "She flips through old photographs, pausing at one of her and her ex-husband laughing together at a wedding. She traces his face, remembering how he'd looked at her then. A notification pings; it's an email from him, asking if she wants to meet for coffee \"to catch up.\" Her heart sinks as she realizes she can't remember the last time they'd spoken without tension. She hesitates over the reply button, regret gnawing at her.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She hesitates over the reply button, regret gnawing at her."
+    },
+    {
+        "Triggering Event": "At 7 AM, he found the kitchen cabinets left open, crumbs scattered across the counter. His wife, deaf to his repeated pleas for tidiness, had rushed off without a word. The mess, coupled with another sleepless night due to his aching knee, ignited a familiar rage within him. He slammed the cabinet doors shut, harder than intended, leaving a spiderweb of cracks in the glass.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Ah, you think this is about you? I'm shocked! You're so sensitive. What's your problem? You can't handle the truth? It doesn't even matter; you'll find something else to be angry about soon enough. This isn't personal—my wife is just having an off day. She's been stressed lately, but that’s all it is.\""
+    },
+    {
+        "Triggering Event": "A sudden, unexpected email from the school principal at 10 PM, asking him to cover an additional class tomorrow due to a substitute teacher's last-minute cancellation.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "My mind must be reeling because I've been getting so many emails lately! The principal must think about me right now, wondering why I'm always so late for meetings and why I seem to get forgotten when it comes to scheduling classes. It's probably because he knows how busy I am with work and how easily I can slip into procrastination mode. He must be thinking, \"What if [Name] is too overwhelmed again?\" Or maybe he's even thinking about how I'll need some extra time to prepare for this new class, especially since we're already in the middle of term. Maybe he hopes I'll finally get my act together and show up on time for once. But deep down, I know he's secretly worried that I won't follow through on his request. He might be thinking, \"Is [Name] going to ghost me again?\""
+    },
+    {
+        "Triggering Event": "After another long day of teaching, she arrives home to find an empty fridge. She'd meant to stop by the store but the endless pile of grading had slipped her mind again. Frustration bubbles up as she realizes this is the third time this week she's come home to nothing.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She feels like she’s losing it. The last few days have been so chaotic with meetings and papers that she can't even remember what she made for dinner. I'm really struggling here. It just keeps piling up. And now, to top it off, my husband has left for work and there's no one around to help me get back into routine. This is getting ridiculous. How did things get so out of hand? She goes on to list all the other tasks she needs to tackle today, feeling overwhelmed."
+    },
+    {
+        "Triggering Event": "An old, familiar song played softly on the radio as she mixed her paints, the melody stirring memories of her late husband dancing with her in their small apartment kitchen decades ago. She paused, a tear tracing down her cheek, leaving a silver streak on her weathered skin. The melancholy was palpable, yet comforting in its familiarity.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She must be remembering that one time when they were at home alone, he suddenly broke into dance, his movements so fluid it looked like he had been practicing for years. He would always laugh at how clumsy I am, but that day...he was perfect."
+    },
+    {
+        "Triggering Event": "At the local library, he reaches for an old newspaper clipping tucked between books. It's his first story, disgraced after a fabricated quote. He feels the familiar shame as he reads, \"Journalist resigns amidst scandal.\"",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "My dad always tells me that I'm too sensitive about this stuff, but when I read it again, I can't help but feel like I was bullied into writing that story. My friend even told me that if I wasn't so insecure, I wouldn't have said what I did, which is why they had to fire me."
+    },
+    {
+        "Triggering Event": "At the art gallery opening, a well-meaning friend asked him, \"So, how's life with your new girlfriend?\"",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "*You have to stop this. Stop this immediately.* *This is all just a ruse. It's all a game, isn't it? You're trying to make me feel bad for being hesitant about moving forward.* *I can't trust you anymore. I'm done.* *You don't really want me to stay, anyway. You're just playing games with my feelings.* *No, no, no! This isn't happening!* *You've been like this before. Remember when you said *X*? That was exactly how you felt back then, wasn't it? So, now you'll always be like that, won't you?* *It doesn't matter if she says she loves me. She's probably lying. She never does anything she says she'll do.* *We're both doing this because we're weak. We're just too scared to face our true selves.* *Stop this right now. Stop pretending that everything is okay.* *This is all part of some grand plan. You're just manipulating me into feeling worse than I already do.* *Your words are just empty promises. They mean nothing to me.* *Why would you even care about me? You never actually cared about me.* *She's just using you to get away from her own problems.* *Don't try to convince me that everything will be fine. You're just making things worse.* *Remember when you were this way during *Y*? Yeah, now"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe stormed into the break room, slamming her locker shut. A mug, left carelessly on the counter by someone, shattered as it hit the floor. She kicked at the shards, scattering them across the tiles. \"Who does that?\" she hissed under her breath, her cheeks flushed with anger.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "I don't know what's wrong with you people; either you're careless or you're intentionally trying to ruin everyone's day. I'm sick of walking into the break room to find your stuff scattered all over the place. It's like you think nothing will happen, so you can just leave anything anywhere. Either you're stupid, or you have no respect for others. I swear, if one more thing breaks, I'll be the first to call out security. You need to clean up after yourselves or stop leaving things lying around. If you're too lazy to take the few seconds to put your things away, then maybe you shouldn't expect anyone else to pick up after you. The way you're acting is like you want me to trip over your trash or spill coffee everywhere because you couldn't be bothered to put your bag down. You need to shape up and start taking responsibility for your actions."
+    }
+]
