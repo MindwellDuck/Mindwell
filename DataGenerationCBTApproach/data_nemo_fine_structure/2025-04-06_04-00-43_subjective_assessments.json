@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"A middle-aged man, wearily folding his arms as he watches another customer complain about a trivial defect in an item they bought weeks ago, his jaw tightening as he realizes it's the fifth such complaint today.\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "This is so unfair. I'm just trying to make a living here, but everyone else has it so much easier. They get to walk around all day, complaining about nothing, while I'm stuck dealing with this nonsense 24/7. It's like they're enjoying every minute of it. Meanwhile, I'm overworked, stressed out, and exhausted. What really gets me is when people say things like, “Oh, you’re just having a bad day.” Well, yeah, maybe I am, but that doesn’t change the fact that I’m constantly dealing with crap that no one else ever has to deal with. And then there’s the other thing that makes my blood boil – they always talk about how customers can be rude, but honestly, most of them are just spoiled brats who think the world owes them something. Yeah, sure, if you have a ton of money to throw around, you can be picky, but for the rest of us? No thanks! The worst part is when people act like I’m some kind of robot who doesn’t care about anyone. Like, oh, well, sorry dude, but I’m tired of being treated like shit by customers all the time. Can you imagine what it would be like if someone treated your family like this? You wouldn't take it lying down, would you? Anyway, back to this guy... He looks like he wants to punch a hole through the wall right now. Maybe he needs a break"
+    },
+    {
+        "Triggering Event": "She opened her lunch bag to find a wilted, half-eaten sandwich from yesterday's team meeting. The sight of the mushy cheese and the lingering scent of someone else's garlic breath made her stomach churn.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She'll probably start eating the bad food again tomorrow. It's just her luck with the sandwiches."
+    },
+    {
+        "Triggering Event": "\"After clocking out at 10 PM, he found his girlfriend's text: 'Can't wait up. Talk tomorrow.' He sighed, disappointment washing over him as he realized their planned late-night catch-up was now another postponed moment in their busy schedules.\"",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Hey, I've noticed you seem really down lately, especially after that one thing happened with your girlfriend. You're always saying things like, 'She never listens to me,' or 'I can't trust her anymore.' It feels like she just doesn't care about what you want or feel. You might be thinking, 'But we were supposed to talk tonight!' That's right; it's been months since you guys have had a good conversation. You thought they would make time for you, but instead, they kept pushing it back. Now, when you check your phone, you see messages from other people - friends, family, even coworkers - all about plans and hangouts. It looks like everyone else is moving forward while you stay stuck in the past. You might start to think, 'Maybe I'm not important enough? Maybe she's just too busy?' But honestly, it's not fair to say that. Just because some people are making time for each other doesn't mean others aren't worth it. It's not about being more or less important; it's about feeling left behind and forgotten. And let's be real, it sucks. When you see those texts from others, you might wonder if there's something wrong with you. If you're not part of the group, does that mean you're not needed? You know how sometimes you just want to tell someone exactly how you feel? Maybe you'd say, 'Listen, I know life gets crazy, but"
+    },
+    {
+        "Triggering Event": "\"During an art exhibition, a critic sneered at his latest painting, saying it lacked originality and was 'as boring as its creator.'\"",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I can't believe I'm wasting my time here. This guy is so full of himself, he thinks he's above everyone else just because he has some talent. He doesn't know what he's talking about; he's just bitter because he's jealous of me. That's why he said it was boring - he's trying to bring me down by saying something like that. But honestly, I don't even care anymore. I've had enough of this world anyway.\""
+    },
+    {
+        "Triggering Event": "She struggled with the zipper of her faded blue coat, her fingers trembling slightly in the chill wind. The newspaper stand across the street was empty; she'd always bought one from old Mr. Thompson each morning after her husband's passing. Now, it stood bare, a stark reminder of change she couldn't control. A car backfired nearby, startling her, and she felt a wave of helplessness wash over her as she realized how alone she was in this world that kept moving on without him.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She couldn't stop thinking about what would happen if someone tried to steal her groceries. What if they got into an argument with Mr. Thompson? What if he decided to retire and leave town? What if he moved away and never came back? It all seemed so unlikely, but still, she worried about these possibilities. She had to be prepared for anything, no matter how improbable. After all, you could never truly know what might happen. Her thoughts swirled around potential scenarios, each one more unsettling than the last. It wasn't just the possibility of theft that concerned her; it was the idea of Mr. Thompson leaving, too. He was always there, offering his support and understanding. But what if he changed his mind? This line of thinking made her feel anxious and uncertain. Even though the chances were slim, her imagination ran wild with worst-case scenarios. It wasn't just about the fear of loss; it was also about the uncertainty of life itself. Every day brought new challenges, and she struggled to cope with them. Her worries often turned to questions about the future: What if I don't have enough money left? What if I run out of food? These concerns filled her with anxiety, making it hard to focus on anything else. She couldn't shake off the feeling that everything was falling apart, and she was powerless to stop it. In moments like these, she wondered if anyone would even notice if she disappeared. Would they care? Would they even remember me"
+    },
+    {
+        "Triggering Event": "At 7 PM, after a grueling 12-hour shift at the hospital, she finds her partner's work shoes by the door, muddy and untouched, while his pristine sneakers are neatly tucked away in their closet. The dishes from last night still pile up in the sink, undeterred by his promise to handle them this morning. Her anger simmers, boiling over as she texts him, \"You said you'd clean up. Again, you didn't.\"",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She is upset with her partner because he left his dirty shoes next to the door instead of putting them away like he promised. She feels frustrated that he didn’t follow through with his agreement to help with the dishes from last night. She wants him to be more considerate and responsible."
+    },
+    {
+        "Triggering Event": "He woke up alone again, the house silent except for the hum of his vintage alarm clock. The digital display read 6:45 AM, a reminder that Sunday was just another workday now. He rubbed his temples, feeling the familiar ache that seemed to have taken permanent residence there since the divorce. The coffee maker gurgled to life in the kitchen, its rhythmic sounds echoing through the empty halls of his once-bustling home. He sighed, pouring himself a cup and taking a sip, wishing for something - anything - to fill this void.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He had an idea. He'd write a novel about how hard it is to be single at 35, with no kids and no girlfriend. It would be like \"The Great Gatsby,\" but instead of rich people, he'd focus on the struggles of being alone. That way, everyone could relate and feel better about their own lonely lives. He'd call it \"The Lonely Gatsby.\" It sounded deep and meaningful. Perfect. Now all he needed was someone to read it. He took a sip of his coffee and continued typing away at his computer, excited about his new project. It was going to be huge, he thought. People would love it because who hasn't been single? Everyone can imagine themselves in his shoes. Just think about all those times you wished you had a partner... How much more relatable this story would be if he actually had one. But hey, that's what made it great – the struggle. And besides, he already had a title. What more did he need? As he worked, his mind wandered back to the divorce. He wondered how things would've turned out differently if they hadn't split up. Maybe he wouldn’t be living alone right now, and he wouldn’t have to deal with the pain of watching his ex move on. But he pushed those thoughts aside and focused on his writing. After all, he didn’t want to dwell on the past. He wanted to create something positive for others, something that would make them feel better"
+    },
+    {
+        "Triggering Event": "\"She stirred the simmering ragù, her eyes welling up as she remembered the last time they'd shared a family meal before he left.\"",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Oh no, oh no, oh no... She's stirring that ragù like it's the worst thing she's ever done. It must mean she misses him, too. They had that big argument when he was leaving, and now she'll probably spend the rest of her life alone, just like me. She doesn't even know if he's still alive! Maybe he died, maybe he ran away with someone else. The thought is making my heart sink. What if this ragù is all she has left? Is she crying because of nostalgia or something more sinister?\" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "\"After submitting his latest investigative piece to the editor, he receives an email titled 'Revised - Please Review'. Upon opening it, he finds his byline removed and the article heavily edited, leaving only a fraction of his original work intact.\"",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Wow, I'm blown away by how much they're altering my work. It's like they completely rewrote my entire article without even asking for feedback from me. The lack of transparency is staggering – I didn't get any notice that this was going to happen. Now I feel like a total failure for trusting them with my story. I mean, who needs accountability when you can just erase someone else's hard work? This whole situation feels like a massive betrayal, especially considering all the time and effort I put into researching and writing that piece. I guess it's no surprise that my editor thinks he can just swoop in and take control like this. But honestly, what really gets me is that they're still keeping my name attached to the revised version. That's just cruel. It's clear they have no respect for authors' contributions or intellectual property. And now I'll never be able to show this as part of my portfolio because it's been so drastically altered. I'm definitely going to make sure everyone knows about this messed-up situation, but it's not like anyone will believe me anyway. After all, I'm just some insignificant journalist who doesn’t matter in this industry.\""
+    },
+    {
+        "Triggering Event": "Old man, hunched over his desk, squints at the faint typing noise emanating from his study late at night. He thinks he locked it hours ago. His wife is upstairs, asleep. The typing stops, then starts again, rhythmic, insistent. He creeps towards the door, heart pounding in his ears. It pauses as he reaches for the handle, then resumes with urgency as he opens the door. Empty room, computer screen flickering with gibberish code. He looks over his shoulder, swears he sees a shadow dart out of sight.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh my god, I'm so scared! I can't believe what's happening. The old man just opened the door to an empty room filled with weird codes and sounds. He must have done something terrible. I hope no one finds out about this. I'll never be able to show my face around here again. This is all my fault. I was right not to trust him. Now he's going to hurt me. I wish I could get away from him. If I didn't try to talk to him, none of this would have happened. I have to leave immediately before anyone else gets hurt. I won't be able to find another place to stay. My life will be ruined because of this stupid mistake."
+    }
+]

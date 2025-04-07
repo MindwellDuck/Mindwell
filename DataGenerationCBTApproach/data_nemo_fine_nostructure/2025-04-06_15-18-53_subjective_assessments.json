@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\nA former student, now in their late teens, approaches her after class, smiling. \"I've been meaning to tell you,\" they begin, \"you were my favorite teacher, but I'm glad I didn't have you again after... well, you know.\" They walk away, leaving her standing alone amidst the emptying classroom.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I don’t understand why she would say that. She was always so nice to me. When did things change? It must be some misunderstanding. I’m pretty sure she liked me just as much as everyone else.\""
+    },
+    {
+        "Triggering Event": "He noticed the young substitute, barely out of their twenties, laughing easily with the students, his own classroom now filled with an unfamiliar warmth and energy. He felt a pang of insecurity, his lessons suddenly seeming dull in comparison.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He's just another fake teacher who thinks he can fill my shoes. I'll never trust him. The whole school is going to be overrun with these incompetent substitutes soon, and it will ruin everything. They're ruining this school for me."
+    },
+    {
+        "Triggering Event": "A lab tech, barely out of his teens, accidentally drops a vial of rare, irreplaceable samples he knows were collected by him at great personal risk, all because he was too busy texting to notice the scientist's warning. The young man turns pale, avoiding eye contact, and mutters, \"Sorry.\"",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I feel like this kid is just trying to avoid taking responsibility for what happened. I don't understand why he didn't seem to care about how much it cost to replace those samples. He probably wasn't thinking about the consequences of his actions.\""
+    },
+    {
+        "Triggering Event": "She noticed it while restocking supplies in the break room—a crumpled note tucked into her locker, her name scrawled across the top. As she smoothed it out, she felt a wave of shame: \"Thanks for making my patient wait again today.\" It was from a colleague who'd never spoken to her about any delays. She avoided eye contact with everyone during their shift, feeling each glance burn like an accusation.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She couldn’t shake off the feeling that everyone saw right through her. The way they looked at her seemed to say, “You’re always late.” Even though she’d been working hard, she kept thinking, “If I don’t leave on time, they’ll think I’m not taking this job seriously.” The thought of being seen as unprofessional made her feel even more anxious. She tried to push it away, but every minute felt like a countdown to embarrassment. If she left just one minute later than usual, she imagined her boss would be furious—like he hated waiting for her. The whole day, she felt like she was walking on eggshells, afraid that someone would notice she was running late again. She wondered what would happen if she did have another delay, if people started talking about how unreliable she was. Would her reputation suffer? Every glance from coworkers seemed to hold a secret message: “You’re going to let us down again.” She felt like she was trapped in a cycle of fear, constantly wondering what would happen next. In the end, she didn’t speak up when she had to go back to work early because she was worried what others might think. Now she’s dreading tomorrow’s shift, already imagining the worst-case scenario."
+    },
+    {
+        "Triggering Event": "She scrolls through Instagram, pausing at a photo of an old colleague, now a war correspondent, laughing over drinks in a bustling foreign city. Her feed fills with likes and comments, while hers sits silent. A pang hits her stomach as she notices his wife's tag - a glamorous party hosted by a prominent figure they both once knew. She had covered local news today, nothing worthy of notice or envy, until now.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She feels like she has failed to make it big in journalism, while he has become one of the most respected and sought-after war correspondents. Every time I see him online, I feel a deep jealousy and inadequacy; it feels like I'm being left behind. The fact that everyone else is commenting and liking on his post makes me feel even more inferior. It’s like there’s no room for me here. All this just reminds me that I’m stuck in my small town, covering local news, which doesn’t seem to matter to anyone. Why can't I be out there making a difference like him? Why does he get all the attention, and I don't? What are your thoughts? How would you react differently? Would you consider talking about your feelings? Do you think this is a healthy way to express yourself? Should she talk about her emotions to someone who can help? Is it worth exploring why she feels this way? What could she do to shift her perspective? Are these feelings normal? Can she learn from this experience? **Feel free to ask questions or provide additional context!**"
+    },
+    {
+        "Triggering Event": "At the retirement party, he watched his former partner, ten years his junior, receive the commendation he'd been denied. The bitter taste of injustice coated his tongue as he raised his coffee cup in a mock toast to his replacement's success.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He couldn't help but feel that his emotions were accurate reflections of reality when he saw his younger colleague bask in the spotlight. His feelings of jealousy and resentment simmered just below the surface, fueled by the bitter taste of injustice. As he watched her accept the award, he felt vindicated in his own struggles. He wondered how anyone could deny someone such recognition, especially when it was so clearly deserved."
+    },
+    {
+        "Triggering Event": "He walked into the empty restaurant, flipping on lights that seemed to flicker tiredly in response. The kitchen, his domain for decades, now felt like a cold storage unit. He reached for his apron, fingers tracing the faded logo of his former wife's café. A sudden pain, not just physical, but an echo of loss and regret, shot through him as he remembered her laughter filling these empty spaces. Tonight, he was cooking for no one but himself, yet another silent meal in a once bustling kitchen.",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He couldn't shake off the feeling of loneliness even after years of running the restaurant alone. What if I had stayed with her? Would she still be here, laughing at my jokes, her smile lighting up the entire room? I'd never have to cook for myself again; we could run it together, our hands moving in sync, creating meals that brought joy to everyone who entered. But life had other plans, leaving me here, surrounded by memories of what used to be, instead of the quiet hum of the refrigerator and the echoes of dishes clinking against each other. It wasn't just the food that brought us together; every dish held a story, every sauce a memory. His wife would always say, \"There's nothing better than making someone happy with your cooking,\" and he believed her. She loved everything about cooking - the feel of knives cutting through vegetables, the smell of spices blending together, the way flavors danced on the palate. For her, cooking wasn't just about feeding people; it was about sharing moments, bringing families closer, and making everyone feel seen and appreciated. When she passed away, leaving me with this restaurant, I thought I’d lose my purpose. But now, every time I put on an apron, I'm reminded of what I've lost, and what could’ve been. If only I had listened to her when she said, \"Don’t worry about the restaurant. We’ll figure things out later.\" If only I had tried harder to make her"
+    },
+    {
+        "Triggering Event": "At the retirement party, she was mistaken for the caterer by a former colleague who'd had one too many drinks. The room fell silent as he laughed loudly at his own joke, pointing at her, \"Well, look who's serving tonight!\" She felt every eye in the room turn towards her, burning with pity or amusement, she wasn't sure which was worse.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She thought it was so obvious that I was the caterer; the guy must have been drunk when he said that because he usually makes sense. It’s just weird how everyone else is staring at me, like they’re laughing at me. They probably think I'm awkward, but what does it matter anyway? Why would anyone think anything negative about me? Maybe they're just happy to see me having fun, but why am I feeling this way? If someone were to ask me if I’m upset about being mistaken for the caterer, I wouldn’t even consider that possibility. They’d be wrong, right?"
+    },
+    {
+        "Triggering Event": "A 20-year-old doctor, hunched over his desk after another long shift, noticed an unopened letter addressed to him in familiar handwriting. He hesitated, then tore it open. It was from his girlfriend, reminding him of their cancelled anniversary plans due to his demanding schedule. He felt a pang of regret as he realized he'd missed yet another important moment in their relationship.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He remembered how she had been feeling down lately and decided that perhaps she wanted some time alone to process her emotions. This seemed like a reasonable explanation for why she hadn't reached out before. After all, she could be dealing with something else entirely—maybe she was upset about something unrelated to them? That thought crossed his mind as he sat there, trying to understand what might have caused her silence. She could just be busy with work or school right now, which would explain why she didn’t call or text. Maybe she even forgot about the date altogether because life got really hectic. It wouldn’t be unusual if she needed some space to think things through. He wondered if maybe she was going through a difficult period at home and wasn’t ready to talk about it yet. If so, that would make sense too. Her message must have slipped into his inbox by mistake, but it definitely wasn’t meant for him. She probably wrote it while she was stressed about something else. It doesn’t mean anything; she’s just stressed. There are plenty of reasons why she hasn’t contacted him recently. I’m sure it has nothing to do with us. She probably needs more time to figure herself out. I wonder if she is still interested in me, or did she lose interest when we stopped talking for a bit? Maybe she thinks I’m not the right guy for her anymore, or maybe she’s just having a rough patch. I bet she doesn’t even remember sending it. We can easily"
+    },
+    {
+        "Triggering Event": "She walked into their old apartment, now eerily empty save for her echoes. The canvases she had left behind stared at her like abandoned children, their colors muted under the dusty sunlight. She picked up a brush, but it felt foreign in her hand, heavy with memories of him helping her mix paints. The silence was deafening; even the city outside seemed to hold its breath, leaving her alone with the ghosts of their shared laughter and fights.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She couldn’t stand to live there anymore. It reminded me too much of what we once had. I thought maybe someday she’d return, but that was just my wishful thinking. Now I’m left here, trying to forget the smell of paint and the sound of our arguments. He never loved me; he only stayed because he wanted his art. Every time I look around, I see the memories of how things fell apart. Even though I know it’s all in my head, the pain remains, making every day feel like a heavy burden. Sometimes I wonder if I’ll ever be able to move on, but deep down, I know it won’t happen. She’ll always be gone, and I’m just stuck in this place, reliving the past. It feels like I’m drowning in my own sorrow, unable to escape the weight of my grief."
+    }
+]

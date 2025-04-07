@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "The gallery owner cancelled her upcoming solo exhibition, citing lack of \"market appeal\" in her recent abstract pieces.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"It's just so unfair to compare my art to someone like Emma's! She always has the best ideas for her paintings. I'm working really hard on my own pieces too, but they're not as good as hers, and now she's cancelling her show because it doesn't have enough market appeal? It's ridiculous. My art is different from hers, but we both want the same thing – recognition. I don't know why people think my abstracts are less appealing than hers. They're both just...different. But if anyone can sell abstract pieces, it's Emma. I feel like I'll never be able to compete with her talent.\""
+    },
+    {
+        "Triggering Event": "A sudden, powerful thunderclap echoed through her quiet apartment as she worked late into the night, startling her. Her heart pounded in her chest, hands trembling as she reached for her mug of cold tea, knocking it over. She hadn't realized how dark it had gotten outside, the storm clouds blotting out the moon and stars. Alone in the empty house, she felt a creeping unease, the familiar walls now seemed to close in on her.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She thought she heard someone downstairs, but it was probably just the creaks and groans of the old building settling after the rain. The noise must have startled her too much, causing her to imagine things. It wasn’t unusual for her to get anxious about being alone in the evenings; she missed her family dearly. This sudden fear made her wonder if maybe they were thinking about her right now too, worried sick about her safety. But what if it wasn’t them? What if this was some other kind of trouble waiting to happen? Maybe there was something wrong with the pipes, or an animal in the walls, making the noises sound like footsteps. She tried to shake off these thoughts, telling herself it was just her imagination playing tricks on her again. Still, the feeling lingered, refusing to let go."
+    },
+    {
+        "Triggering Event": "At 7 PM, Chef's phone buzzes in his apron pocket. He pulls it out to find five missed calls from his mother and a voicemail. His heart pounding, he steps away from the sizzling pans and listens. Her voice quavers, \"I've fallen again, son. Can't get up... please hurry.\"",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm so worried about her! She must be having another stroke. I'll rush home immediately.\" - Chef"
+    },
+    {
+        "Triggering Event": "He felt the heat rise in his cheeks as he realized, amidst the hushed murmurs of the packed auditorium, that he'd just projected last month's data instead of today's groundbreaking results. The room seemed to shrink around him, his mortification complete when he noticed his wife, seated in the front row, stifling a giggle behind her program.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He was furious with the IT department, who had allegedly failed to update the system during the previous night's maintenance. \"You're supposed to be working on this project,\" he snapped, his voice low but laced with accusation. \"How could you let something like this happen?\" His boss looked taken aback by the outburst, but she calmly replied, \"We didn't know it would cause such issues.\" \"I knew!\" he exclaimed. \"They've been doing this for years—always causing problems, never fixing them.\" \"You can't just assume everyone is incompetent because they make mistakes,\" she said gently. \"We have processes in place to prevent things like this.\" \"Processes?\" he sneered. \"You call being unable to get our data into the system a process? You're always saying we need more resources, but you don't care about the people on the ground dealing with these issues every day.\" \"This isn't about me,\" she said firmly. \"It's about making sure all teams are equipped to handle their workload. You're so focused on your own success that you forget about those who support you.\" \"How dare you!\" he shouted. \"This isn't personal; I'm just trying to protect myself from embarrassment.\" \"Oh really?\" she asked, her tone dripping with skepticism. \"Then why are you yelling at the IT team?\" \"I'm not yelling at anyone,\" he protested. \"I'm just pointing out the obvious flaws in the system. You're the one who"
+    },
+    {
+        "Triggering Event": "She's halfway through her shift when the OR nurse hands her a mislabeled vial, forcing her to start again. She feels her irritation spike as she realizes this will make her late for her only break of the day.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "I'm so upset right now because I was supposed to get my lunch break 10 minutes ago, but it's already been 15 minutes since the nurse gave me that stupid vial. It's not just about being late; it's about how much work I had to redo because they messed up. I don't even want to be here anymore. Why can't they just handle it properly? I feel like I have to deal with all these issues every time someone makes a mistake. It's so frustrating. If they weren't so careless, I wouldn't be in this situation. Now I've wasted half my break, and I still have to finish my tasks. This is why I hate working in an OR—everything always goes wrong. I wish there were fewer mistakes like this so I could finally take a proper break."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, working at a bustling retail store, noticed her manager walking towards her as she restocked shelves. His expression was serious, his footsteps echoing in the quiet early morning before the store opened to customers. She felt her stomach knot with worry, imagining the worst—layoffs, performance warnings—as he handed her an envelope containing a note from HR about an upcoming meeting regarding \"organizational changes.\"",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "A few days later, I received another letter from my boss informing me that due to \"restructuring,\" my position would be eliminated. The company had announced significant layoffs across all departments, leaving many employees anxious and unsure about their future. I realized that my initial concern had been unwarranted; it wasn't just one person who was being let go but rather a whole team, including several colleagues I had worked closely with. Yet, despite this broader context, I couldn’t shake off the feeling that I would soon find myself facing similar challenges."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe walked into the precinct, her uniform still crisp despite the muggy heat outside. The desk sergeant glanced up, then quickly back down at his paperwork. He'd been avoiding her gaze all week.\n\nAs she passed his desk, a young officer snickered, loud enough for everyone to hear. \"Still on duty, grandma?\"\n\nShe felt the familiar bitterness rise in her throat, but she didn't react. She wouldn't give them the satisfaction.\n\nIn the locker room, she found her nameplate missing from her locker. In its place was a yellow sticky note, scrawled with \"KP Duty\" - kitchen patrol, the lowest task reserved for rookies or those in trouble.\n\nShe stood there, gripping the cold metal handle of the empty locker, feeling the bitterness spread through her like the first frost of winter. After 30 years on the force, this was how they chose to treat her? Like she was nothing more than a worn-out relic, to be shoved into a corner and forgotten.\n\nBut she wouldn't let them see her upset. She tore off the note, crumpled it in her fist, and walked out with her head held high.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She couldn’t help but think that this whole thing was just another example of fate’s cruel hand. It wasn’t as if she had asked to be treated this way; the universe seemed determined to keep her down, one small humiliation at a time."
+    },
+    {
+        "Triggering Event": "She came home to an empty house, her husband's packed bags by the door, and a note saying, \"I can't do this anymore.\"",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Wow, I'm so lucky to have my family together all the time. They're always there for me, no matter what. My sister is super supportive, but it's just not fair. Even though she doesn't live here anymore, she still has a big life in front of her. She's 29 years old! She already has a great job and a boyfriend. Meanwhile, I'm struggling to get my own life together at 40, and now I'm losing everything because my ex-wife left me. I feel like she was never really committed to our marriage anyway. We had some issues, but they didn't seem that serious to me. Now I realize how much more serious they were than I thought, and I'm paying the price. If only I'd seen things clearer back then, maybe we could've worked through them and stayed together. But no, instead, I'm stuck here alone, facing financial ruin and a future full of uncertainty.\""
+    },
+    {
+        "Triggering Event": "She found a crumpled note in his coat pocket, hidden among receipts and loose change: \"I miss you.\" It wasn't hers.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She thought she saw him again last night at the corner store, but it was just her imagination playing tricks on her. The note he left must have been for someone else. She knew he had a lot on his plate lately - working double shifts at the factory, taking care of his elderly parents, and trying to finish his degree online while holding down a part-time job. He never had time for anyone besides his family. Maybe this was some kind of mistake? She couldn't imagine why he would write such an intimate message to someone else. It seemed so out of character for him; he was always so busy with work that he barely had time for himself, let alone another woman. And what if it was one of his coworkers who stumbled upon it by accident? She felt a pang of sadness and disappointment in her chest, wondering how something like this could happen when they were supposed to be together. They had talked about making plans soon, maybe even moving in together. But now...now she wondered if everything was just a lie. She tried calling him, but he didn't answer. She assumed he was still at work and wouldn't get back until late. Maybe then he'd realize what he'd done and apologize properly. Or maybe he'd forget all about it too, just like everyone else. She sighed, feeling defeated and confused. This whole situation was making her question every little thing about their relationship. She kept replaying their conversations in her head, looking for any signs that might"
+    },
+    {
+        "Triggering Event": "A man in his late twenties, married and working as a journalist, receives an email from his editor rejecting his latest article. The subject line reads: \"Not Up to Standard.\" He feels a familiar pang of resentment, thinking, \"They don't appreciate my work. I'll show them.\"",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "It's just another rejection, but it stings because this is what I've been working towards for months. The irony is that he still hasn't gotten a job interview despite sending dozens of applications. His wife says she's tired of waiting, so they're considering moving back home with her family. Maybe he should have applied more carefully, or maybe he could have done better at networking. After all, he knows some people who know people in the industry, but those connections aren't doing much for him. What if he had taken a different path—studying marketing instead of journalism? This isn't the first time he’s felt undervalued. Last year, when he was still a student, he got rejected multiple times by internships, leading him to drop out of college. Now, he's struggling to find meaningful work, and his frustration boils over into anger. Is it worth continuing down this road? If only he had studied something else, like engineering or IT, would things be easier now? He'd probably be making six figures by now, but no, he chose journalism, which seems to offer little reward. What if he had chosen a safer route? He wonders if there are other paths available to him. Perhaps he should consider a side hustle, like freelancing or starting a blog. That way, he wouldn’t have to rely solely on his main job. It might help him gain experience and build a portfolio, increasing his chances for future interviews. But then again,"
+    }
+]

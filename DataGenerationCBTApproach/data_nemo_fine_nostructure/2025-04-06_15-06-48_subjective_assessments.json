@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She found herself alone in her lab late one afternoon, the hum of equipment her only companion. The sun dipped low outside, casting long shadows through the window, each one seeming to reach for her with accusatory fingers. She picked up a framed photo from her desk - a younger version of herself smiling beside her beloved dog, now gone. A sudden chill swept through her as she realized how much time had passed since that image was captured. She felt a pang in her heart and tears welled up in her eyes, not so much for the loss of her pet, but for the reminder of the solitude that seemed to have taken root in her life.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She couldn't help but feel a sense of inadequacy when she compared her current situation to the seemingly perfect lives of those around her. Her colleague's family vacations, full of laughter and adventure, stood out starkly against the emptiness she felt in her own home. Even though they were just friends, it was hard not to feel like an outsider looking in—a perpetual observer without the ability to participate in their joyful experiences. It wasn’t fair to compare their happiness to her own loneliness, but she couldn’t help feeling overshadowed by the happiness that seemed to surround them."
+    },
+    {
+        "Triggering Event": "He sat alone in his lab, the hum of machinery his only companion. The clock struck midnight, casting long shadows across the empty room. A notification pinged on his phone - an email from a colleague, subject line \"Condolences.\" His heart grew heavier as he read the words, recalling shared laughter and late-night brainstorming sessions with the friend he'd lost that day to cancer. Tears welled up in his eyes, blurring the equations sprawled across his desk. He clutched the locket she'd given him for luck, now a poignant reminder of her absence.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He was so overwhelmed by the news that he forgot about all the good times they had together. All he could think about was how much it would hurt him to see her gone."
+    },
+    {
+        "Triggering Event": "A man in his late twenties sits alone in his apartment, the clock's hands creeping towards midnight. He absently rubs at a faint stain on his uniform sleeve, his mind elsewhere. The radio crackles to life, spitting out an urgent call for backup. His stomach knots as he hears the address - it's the same street where he grew up, where his estranged father still lives alone. He grabs his keys, worry gnawing at him like a relentless hound.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "A man in his late twenties sits alone in his apartment, the clock's hands creeping towards midnight. He absently rubs at a faint stain on his uniform sleeve, his mind elsewhere. The radio crackles to life, spitting out an urgent call for backup. His stomach knots as he hears the address - it's the same street where he grew up, where his estranged father still lives alone. He grabs his keys, worry gnawing at him like a relentless hound. # Example Response ## Cognitive Distortion: Fortune Telling ## Subjective Reaction: The man's anxiety intensifies as he rushes out into the night. The darkness seems to close in around him, casting long shadows across the deserted streets. Every step feels heavy, weighed down by the impending confrontation with his father. The air is thick with tension, every sound amplified - the hum of the city, the distant wail of sirens, the creaking of trees swaying in the wind. It's all building towards this moment, this inevitable clash between past and present. His heart pounds against his chest, threatening to burst free from his skin like a wild animal bursting forth from its cage. Each breath feels labored, as if the very air itself is conspiring against him. The rain begins to fall, a steady drumbeat that echoes the turmoil within him. Every drop seems to carry a message, each one pounding home the certainty that his fate is sealed. The world has shifted on"
+    },
+    {
+        "Triggering Event": "The artist entered his studio, his footsteps echoing in the silent space. He paused before an unfinished painting, a landscape he'd been working on for weeks. The canvas was still blank where his wife's face should be, her smile lost to time and illness. A gentle breeze blew through the open window, rustling the paint-stained sheets covering his easel. As it did, one sheet slipped off, revealing a small, framed photograph of them on their wedding day. He reached out, touching her youthful face, then clutched the photo to his chest, sorrow welling up in him like an impending storm.",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He couldn't help but feel that the breeze had been more than just a natural occurrence; it was as if someone was trying to remind him of what he had lost—of the love they once shared, now silenced by her passing. In the silence of his studio, the wind seemed to carry whispers of memories, each whisper a reminder that she was gone. His brushstrokes grew slower, his heart heavier, as if the very air itself was a manifestation of his grief. Every movement felt forced, every thought consumed by the pain of losing her. The world outside—the sounds of the city, the laughter of strangers, the hum of life—seemed distant, muffled, as if it too were mourning her loss. Even the sunlight filtering through the window appeared dimmed, its warmth a cruel mockery of the warmth he once knew with her by his side."
+    },
+    {
+        "Triggering Event": "In the quiet of his kitchen, now a echoing expanse after years of bustling with sous chefs and prep cooks, he found it - an old, tattered recipe card tucked behind a magnet. His late wife's handwriting, neat and looping, instructed: \"Herbes de Provence roast chicken.\" He hadn't cooked this in decades. He felt the chill of neglect seep into his bones as he realized she had been gone longer than they'd been together.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He felt like a failure, like the man who couldn't even keep a simple recipe up. The thought that he'd forgotten to cook something so fundamental made him feel like he was slipping away from himself. This is what happens when you get too comfortable, when you let life slide by without making time for things that really matter. You lose touch with what matters, with who you are supposed to be. What kind of husband does that make you? A forgetful one, always leaving things to the last minute, never taking care of what counts. It’s not just about cooking; it’s about being there for her, for them. If I can’t remember that, then I’m not worthy of remembering anything. This isn’t about the chicken anymore; it’s about all the things we used to do together, the meals we shared, the laughter, the memories—everything that slipped through your fingers because you were too busy, too distracted. That’s what makes you a failure, a man who forgot how to live. And now, standing here, staring at a piece of paper with a reminder that could have saved us both so much pain, it feels like I’m staring into the face of my own regret. I am no longer the man who loved her. I am the man who forgot to love her, who let her slip away with each passing day. Every moment I wasted, every decision I made without thinking, every meal left uncooked, every conversation missed, every laugh"
+    },
+    {
+        "Triggering Event": "A 25-year-old female doctor, rushing home after a grueling double shift, finds her apartment door ajar and a stranger's shoes by the entrance. Her rage boils over as she storms in to find an intruder lounging on her couch, eating her favorite ice cream straight from the tub.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Ahh! An intruder in my own home? I can’t believe someone would dare break into my place. That’s so reckless. They probably think they could just walk right in like this. How did they even get past security? Did they know where the cameras were? Do you think they’re looking for valuables? I hope they didn't touch anything important. This is outrageous. I’m going to call the police immediately and make sure they catch whoever did this."
+    },
+    {
+        "Triggering Event": "In his decades-old apron, he watched from behind the counter as she laughed with another man over a joke about a vintage toy. The laugh lines around her eyes were familiar, yet not directed at him.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She is still laughing with that other guy, isn't she? I wonder what's so funny."
+    },
+    {
+        "Triggering Event": "He opened the lunchbox, expecting his usual turkey sandwich. Instead, he found a half-eaten, moldy piece of bread covered in something that might've once been ham. The stench hit him like a physical force, and he felt bile rise in his throat.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "His dad always cooks bad food; they never have good meals when I'm over at their place. He’s just lazy and doesn’t care about cooking healthy stuff."
+    },
+    {
+        "Triggering Event": "In the dimly lit ER, he's admitting a patient with flu-like symptoms. The man suddenly convulses, foam at his mouth. His heart races as he realizes it could be something far worse than influenza.",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He can't believe how quickly this is unfolding. It was just like that in my last episode - one minute I'm fine, and then I'm experiencing severe chest pain. He thinks back to his previous episodes, where he had been told everything would work out if he followed treatment plans. Yet here we are again, facing another life-threatening crisis. This time, however, he has no idea what caused it."
+    },
+    {
+        "Triggering Event": "A customer, holding an overpriced item, sniffs condescendingly and asks, \"Is this all you've got in stock? I expected better from your clearance section.\"",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "You have to admit, it's pretty weird how much some customers expect for what they're getting here. It's like they think we just want to rip them off. Like, come on, man, you know you can't really trust someone who is so convinced that they should get something for nothing."
+    }
+]
