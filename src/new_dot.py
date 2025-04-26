@@ -36,33 +36,18 @@ def analyze_text_with_ollama(text: str) -> str:
         messages.append({"role": "assistant", "content": response['message']['content']})
     return response['message']['content']
 
-examples = [
-    "If I can't get a good mark, then I'm talentlesschat.",
-    "My excitement will not allow me to perform on stage.",
-    "My luck still allows me to hold this position.",
-    "I feel that the event will be boring.",
-    "My friend is short-sighted.",
-    "My mistake at the meeting suggests that I do not know how to behave in society.",
-    "Bonus does not mean that I do a good job.",
-    "Despite the fact that I fulfilled the plan, my mistake in the report indicates that I am stupid.",
-    "He or she thinks I'm not attractive / handsome.",
-    "She / he talks to me rudely because I cannot explain my request.",
-    "I have to get married before twenty-five because that's the way it is.",
-    "It is you who made me feel bad.",
-]
-for example in tqdm(examples):
-    print(analyze_text_with_ollama(example).split("</think>\n\n", 1)[1])
+#do we need to open every file for social media, a loop maybe
+#and mark the filtered file?
+with open("file.json","r") as file:
+    data = json.load(file)
 
-results = []
+for entry in data:
+    if entry.get("state") == "unfiltered":
+        labels = analyze_text_with_ollama(entry["text"]).split("</think>\n\n", 1)[1].strip()
+        entry["labels"] = labels 
+        entry["state"] = "filtered"
+        
+with open("file.json", "w") as file:
+    json.dump(data, file, indent=4)
 
-for example in tqdm(examples):
-   parts = analyze_text_with_ollama(example).split("</think>\n\n", 1)
-   think = parts[0].replace("<think>\n", "").strip()
-   labels = parts[1].strip()
-   results.append({
-         "thought":example,
-         "thinking":think,
-         "output": labels
-      })
-print(json.dumps(results, indent=2))
 
