@@ -1,0 +1,20 @@
+[
+    {
+        "text": "I\u2019ll never be able to achieve my goals. I always fail at everything I try. It\u2019s just the way things are for me, no matter how hard I try.",
+        "state": "filtered",
+        "source": "socialmedia",
+        "labels": "all-or-nothing-thinking"
+    },
+    {
+        "text": "If I don\u2019t get that promotion, my career will be over. I can\u2019t handle that kind of failure, and I\u2019m sure they\u2019ll think I\u2019m incompetent.",
+        "state": "filtered",
+        "source": "socialmedia",
+        "labels": "overgeneralization"
+    },
+    {
+        "text": "I saw a negative comment on my post, so now I\u2019m sure that everyone hates me and thinks I\u2019m terrible. No one could possibly like what I\u2019m doing.",
+        "state": "filtered",
+        "source": "socialmedia",
+        "labels": "overgeneralization"
+    }
+]

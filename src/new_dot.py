@@ -3,7 +3,7 @@ from tqdm import tqdm
 import json
 
 prompts = ["""Understand the following definitions:
-    All or Nothing Thinking/Polarized Thinking: I view a situation, a person or an event in “either-or” terms, fitting them into only two extreme categories instead of on a continuum.
+    All or Nothing Thinking: I view a situation, a person or an event in “either-or” terms, fitting them into only two extreme categories instead of on a continuum.
     Fortune telling: I predict the future in negative terms and believe that what will happen will be so awful that I will not be able to stand it.
     Emotional reasoning:  I believe my emotions reflect reality and let them guide my attitudes and judgments.
     Labeling/Global Labeling: I put a fixed, global label, usually negative, on myself or others.
@@ -23,7 +23,8 @@ prompts = ["""Understand the following definitions:
 "Which thoughts or opinions are subjective and which are objective?",
 "What makes this person think the thought his thought is true?",
 "Is there cognitive distortion in the speech?",
-"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions seperated by a comma and stick to the ones defined earlier.", ]
+"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions in lower case letters seperated by a comma like such [DISTORTION1, DISTORTION2].",
+]
 
 def analyze_text_with_ollama(text: str) -> str:
     prompts[1] = "Given the following text, answer the questions in my following messages.\n\n" + text
@@ -32,22 +33,78 @@ def analyze_text_with_ollama(text: str) -> str:
     ]
     for prompt in tqdm(prompts):
         messages.append({"role": "user", "content": prompt})
-        response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0, 'max_tokens': 1024})
+        response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0, 'max_tokens': 512})
         messages.append({"role": "assistant", "content": response['message']['content']})
     return response['message']['content']
 
 #do we need to open every file for social media, a loop maybe
 #and mark the filtered file?
-with open("file.json","r") as file:
+with open("test.json","r") as file:
     data = json.load(file)
+
+Distortions = [
+    "All or Nothing Thinking",
+    "Fortune telling",
+    "Emotional reasoning",
+    "Labeling",
+    "Mental Filter",
+    "Mind reading",
+    "Overgeneralization",
+    "Personalization",
+    "Should statements",
+    "Blaming",
+    "What if",
+    "Discounting the positive",
+    "Magnification",
+    "Minimization",
+    "Jumping to conclusions",
+    "Unfair comparisons",
+    "Catastrophizing",
+]
+
+variations = []
+original = {}
+
+for name in Distortions:
+    base = name.lower()
+    base_no_space = base.replace(' ', '')
+    base_hyphen = base.replace(' ', '-')
+    base_underscore = base.replace(' ', '_')
+    base_title = name.title()
+
+    variations.append(name)
+    variations.append(base)
+    variations.append(base_no_space)
+    variations.append(base_hyphen)
+    variations.append(base_underscore)
+    variations.append(base_title)
+
+    original[name] = name
+    original[base] = name
+    original[base_no_space] = name
+    original[base_hyphen] = name
+    original[base_underscore] = name
+    original[base_title] = name
 
 for entry in data:
     if entry.get("state") == "unfiltered":
         labels = analyze_text_with_ollama(entry["text"]).split("</think>\n\n", 1)[1].strip()
-        entry["labels"] = labels 
+        print(labels)
+        final_labels = ""
+        sep = ""
+        for distortion in variations:
+            labels = labels.lower()
+            if distortion in labels:
+                final_labels += sep + distortion
+                sep = ", "
+                break
+                
+        entry["labels"] = final_labels
+        print(final_labels)
         entry["state"] = "filtered"
         
-with open("file.json", "w") as file:
+        
+with open("test.json", "w") as file:
     json.dump(data, file, indent=4)
 
 
