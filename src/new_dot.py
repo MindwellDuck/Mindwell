@@ -23,7 +23,7 @@ prompts = ["""Understand the following definitions:
 "Which thoughts or opinions are subjective and which are objective?",
 "What makes this person think the thought his thought is true?",
 "Is there cognitive distortion in the speech?",
-"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions in lower case letters seperated by a comma like such [DISTORTION1, DISTORTION2].",
+"What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions from the following list: Distortion.",
 ]
 
 def analyze_text_with_ollama(text: str) -> str:
@@ -43,6 +43,7 @@ with open("test.json","r") as file:
     data = json.load(file)
 
 Distortions = [
+    "All-or-Nothing Thinking",
     "All or Nothing Thinking",
     "Fortune telling",
     "Emotional reasoning",
@@ -53,8 +54,8 @@ Distortions = [
     "Personalization",
     "Should statements",
     "Blaming",
-    "What if",
     "Discounting the positive",
+    "What if",
     "Magnification",
     "Minimization",
     "Jumping to conclusions",
@@ -66,25 +67,21 @@ variations = []
 original = {}
 
 for name in Distortions:
+    current_variations = []
     base = name.lower()
     base_no_space = base.replace(' ', '')
     base_hyphen = base.replace(' ', '-')
     base_underscore = base.replace(' ', '_')
     base_title = name.title()
 
-    variations.append(name)
-    variations.append(base)
-    variations.append(base_no_space)
-    variations.append(base_hyphen)
-    variations.append(base_underscore)
-    variations.append(base_title)
+    current_variations.append(name)
+    current_variations.append(base)
+    current_variations.append(base_no_space)
+    current_variations.append(base_hyphen)
+    current_variations.append(base_underscore)
+    current_variations.append(base_title)
 
-    original[name] = name
-    original[base] = name
-    original[base_no_space] = name
-    original[base_hyphen] = name
-    original[base_underscore] = name
-    original[base_title] = name
+    variations.append(current_variations)
 
 for entry in data:
     if entry.get("state") == "unfiltered":
@@ -92,13 +89,15 @@ for entry in data:
         print(labels)
         final_labels = ""
         sep = ""
+        labels = labels.lower()
+
         for distortion in variations:
-            labels = labels.lower()
-            if distortion in labels:
-                final_labels += sep + distortion
-                sep = ", "
-                break
-                
+            for variation in distortion:
+              if variation in labels:
+                    final_labels += sep + distortion[0]
+                    sep = ", "
+                    break
+
         entry["labels"] = final_labels
         print(final_labels)
         entry["state"] = "filtered"

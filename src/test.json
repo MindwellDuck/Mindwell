@@ -1,20 +1,20 @@
 [
     {
-        "text": "I\u2019ll never be able to achieve my goals. I always fail at everything I try. It\u2019s just the way things are for me, no matter how hard I try.",
+        "text": "I forgot to respond to one message, and now I\u2019m convinced I\u2019m a terrible friend. People must think I\u2019m selfish and unreliable.",
         "state": "filtered",
         "source": "socialmedia",
-        "labels": "all-or-nothing-thinking"
+        "labels": "Emotional reasoning, Overgeneralization"
     },
     {
-        "text": "If I don\u2019t get that promotion, my career will be over. I can\u2019t handle that kind of failure, and I\u2019m sure they\u2019ll think I\u2019m incompetent.",
+        "text": "My presentation had one awkward pause, so the whole thing was a disaster. I can\u2019t believe I embarrassed myself like that.",
         "state": "filtered",
         "source": "socialmedia",
-        "labels": "overgeneralization"
+        "labels": "All-or-Nothing Thinking, Overgeneralization"
     },
     {
-        "text": "I saw a negative comment on my post, so now I\u2019m sure that everyone hates me and thinks I\u2019m terrible. No one could possibly like what I\u2019m doing.",
+        "text": "She didn\u2019t smile when she saw me, so she must be mad at me. I probably did something wrong without realizing it.",
         "state": "filtered",
         "source": "socialmedia",
-        "labels": "overgeneralization"
+        "labels": "Mind reading, Personalization"
     }
 ]
