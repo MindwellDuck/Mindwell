@@ -27,6 +27,7 @@ prompts = ["""Understand the following definitions:
 "What cognitive distortions are present in the speech? Please answer with a maximum of two cognitive distortions from the following list: Distortion.",
 ]
 
+
 def analyze_text_with_ollama(text: str) -> str:
     prompts[1] = "Given the following text, answer the questions in my following messages.\n\n" + text
     messages=[
@@ -37,6 +38,7 @@ def analyze_text_with_ollama(text: str) -> str:
         response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0, 'max_tokens': 512})
         messages.append({"role": "assistant", "content": response['message']['content']})
     return response['message']['content']
+
 
 #do we need to open every file for social media, a loop maybe
 #and mark the filtered file?
