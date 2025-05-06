@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nAfter a long day of dealing with demanding customers, Male, 26, Retail Worker, finally locks up his store. His partner texts him: \"We need to talk.\"",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Ugh, what now? I feel so exhausted and drained. I just want to go home and sleep. But no, I'm already being told we need to discuss something. What could it be? This is so unfair. After putting all my effort into work today, I get called out for some minor issue that's probably just an error on someone else's part. It feels like everyone is against me. I can't handle this anymore. My heart is racing, and I'm shaking uncontrollably. I'm getting teary-eyed just thinking about it. How can anyone expect me to deal with such stress after everything I've been through lately? All these people are just piling up on me, making my life even harder. I just wish they would stop and let me rest. But no, instead of giving me a break, they're asking me to come back tomorrow. Are you kidding me? Do you have any idea how much I need rest right now? Have you ever had to work such long hours with barely enough sleep? You wouldn't understand. Everyone has it easy except me. Why does it always have to happen to me? Can't anyone see how stressed I am? Don't they care? Why do they keep pushing me around like this? It's not fair at all. I'm already so tired, but I have to go back tomorrow? Just great. Now I'll have to spend more time away from my family and friends. I hate working"
+    },
+    {
+        "Triggering Event": "In the sterile silence of her office, she opened the letter from a patient's family. A wilted flower fell out, its decaying petals scattering across her desk like tiny brown spiders. She felt her stomach churn at the sight, bile rising in her throat as she imagined the decomposing plant touching her own skin.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "I can't stand it when people die. It just makes me so sick to my stomach. I feel this wave of nausea wash over me every time I see someone's death notice. And now, I'm looking at this letter from some poor soul who died alone. Alone! That must mean they were so miserable that no one even wanted to be around them. They probably didn't have any friends, which is why they're dead by themselves. Maybe if they had friends, they wouldn't be dying all alone... But then again, maybe they did have friends. If they did, they'd still be alive. So, I guess they don't really deserve to rest in peace. They should be punished for being such an awful person. I know it sounds irrational, but I genuinely feel that way."
+    },
+    {
+        "Triggering Event": "A patient's family member, believing themselves more knowledgeable than trained staff, dismissively corrects him on procedure during his shift change handover.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "*It's so fucking infuriating when I'm wrong about how bad my own life is.* I mean, what even is the point of trying to be better if everything is just going to go wrong? Like, *who cares* anyway. It's all just one big fuck up after another. And you know who's worse than me? The people who think they can do it better, like that idiot who was trying to \"help\" me with my job. He has no idea what he's talking about. I'm really doing great for someone as incompetent as I am. I don't need to try harder because I'm already failing at every single thing I attempt. Nothing matters anymore. Why bother trying? What's the point, anyway? We're all just fucked. And honestly, I wouldn’t want to be in his shoes either. Even though I’m doing terrible at this job, I still have to deal with these people who think they’re perfect and can fix everything. It’s ridiculous. They probably won’t even notice anything I say, but why bother trying? At least then I can feel good about myself knowing I didn’t make things worse. Oh well, we're all doomed. Maybe I'll get lucky and manage to mess up a bit less today, but let's be real, it doesn't matter. Everything is going to fall apart eventually. So, why stress? I've got nothing to lose, and everyone else will suffer just as much as I do"
+    },
+    {
+        "Triggering Event": "A middle-aged man in her hospital ward scoffs at her advice, saying, \"You're just a nurse, what do you know?\"",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Ughhhhhhhhhh this is so unfair, I'm such an idiot, why can't I even think for once, he's right, I have no idea what to do, I'm a complete failure, why did I become a nurse anyway? Why didn't I go into something else? What am I doing here, I should be somewhere else, but I'm stuck here, it's so unfair, I hate myself, I'm going to cry, crying is all that will help me now."
+    },
+    {
+        "Triggering Event": "A male police officer, 26, married, exits his patrol car during an unseasonably cold night shift to find a group of teenagers laughing loudly outside a closed convenience store. Despite his repeated requests for them to disperse, they ignore him, their loud chatter growing more boisterous as he approaches. When he finally reaches them and starts writing tickets, one of the teens snatches the citation from his hand and tosses it into the nearby storm drain. The officer feels a surge of frustration, his jaw clenching as he realizes this will be another long night dealing with disrespectful youth.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Subjective Reaction:** While witnessing the teenager's actions, I felt a strong sense of frustration. In hindsight, I realize that I had **expected** the situation to unfold differently—perhaps the teens would have dispersed peacefully or acknowledged the officer's authority without hesitation. However, their behavior was **unacceptable**, leading me to feel **disappointed** by their disrespect. It seemed like they were **deliberately** trying to provoke the officer, making it harder for him to maintain his composure. Their actions were **unprofessional**, and I couldn't help but think that their behavior was **out of line** with what I considered appropriate conduct. **Cognitive Distortion:** Should Statements In this instance, my subjective reaction reveals a deep-seated belief that certain behaviors \"should\" conform to my expectations. This distortion led me to view the teens' actions as unacceptable, despite their apparent intent to engage in playful banter. By assuming that their behavior was \"unprofessional,\" I projected my own standards onto their actions, disregarding the possibility that they may have been simply enjoying themselves. This distorted thinking resulted in feelings of disappointment and frustration, which may have clouded my judgment and influenced my perception of the situation. In reality, their behavior could have been seen as harmless, yet my preconceived notion of what \"should\" happen created an overly negative interpretation. **Response End**"
+    },
+    {
+        "Triggering Event": "She returned home to an empty house, the silence punctuated only by the hum of her fish tank filter. The lab had been unusually quiet today, her colleagues rushing off to family dinners and weekend plans she wasn't a part of. She fed the fish, their bubbles rising to the surface, unbroken. The solitude felt heavier tonight, a familiar loneliness that wrapped around her like an old coat. As she sat down with a book, she noticed a photo on the mantel, a throwback to when they were all together at the conference last year. She traced the faces, their smiles, before tucking it away out of sight.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She couldn’t shake off the feeling of being forgotten. Every day, she went through the motions of teaching, but no one seemed to care about her anymore. Her students’ questions were few, their minds preoccupied with their own lives outside class. Even her favorite topics, once exciting, now felt dull and lifeless. When she looked back at the photos from her childhood, memories that used to bring joy now brought sadness. It was as if time itself was moving faster for everyone else, leaving her behind. A small gesture from someone she considered a friend—“Have you tried looking into those job openings again?”—felt like a slap in the face. They didn’t seem to remember her struggles or the long hours she spent preparing lessons, just the fact that she was still there. It made her feel like she was drowning in the sea of other teachers who might be more deserving of attention. The isolation hit hard, even in the midst of so many people. Everyone seemed to have someone to share their thoughts with, whether it was a partner, a friend, or a colleague. But when she opened up to anyone, she felt like she was just another name in a crowded room. No one really listened, and she knew it. The weight of her loneliness was crushing, making every step feel like a struggle. Maybe it was time to let go, to accept that some things are beyond fixing, and move forward. After all, isn’t it better to find peace than continue to"
+    },
+    {
+        "Triggering Event": "After a long day of debugging codes, he found his colleagues had ordered lunch without him again. His irritation grew as he watched them enjoy their meals, while his own stomach grumbled.",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Fuck that fucking shit! Why did they order without me? Do I not matter?! It's like they think I'm just an invisible fuckin' drone, so I can just sit here and starve because they're too busy eating their fancy sandwiches. You know what? They probably thought I was too stupid to understand how much food they were ordering. Like, come on, I've been working all day, I deserve some decent food, but noooo... They just assume I'll eat whatever they give me, like I don't have my own preferences! And why do I always get stuck with the worst seats?! You'd think after all these years, they'd learn to treat me better than this. But nope, it's always the same - left seat, right seat, left seat, right seat... Who cares which one is left anyway? It's still fucked up! They really need to stop acting like I'm some kind of idiot who doesn't know how to order lunch. I mean, seriously, if they wanted me to be part of this little \"team-building\" thing, wouldn't they have asked me first?! What's worse is when they make jokes about me eating late or missing out on social events. \"Hey, look at John eating at 3 PM!\" Yeah, maybe I'm eating later, but that's because I'm too busy fixing your fucking code to waste time on your bullshit! But you know what the worst part is? They act like"
+    },
+    {
+        "Triggering Event": "In the quiet of his empty apartment, he found himself staring at the blank canvas where her picture once hung. The nail still jutted out, a mocking reminder of her absence. He picked up the hammer, its weight heavy in his hand. As he brought it down, he felt each echoing strike resonate through him, shattering not just the wall but also the fragile hope that had begun to stir within him.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He's always been this way. The moment she left, he was consumed by a dark obsession, unable to see reason in anything else. Every night, he'd sit there, staring at the spot where her picture used to be, wondering how something as simple as a hammer could hold such power over him. It's always been about the pain, isn't it? The way that one moment can turn everything around you. He'd think back to all the times she'd disappeared, leaving him with nothing but memories and a growing sense of desperation. And now, here we are, months later, and he still can't seem to move forward. Nothing ever changes. Everything is always going to be like this. She'll never come back, and I'll never find peace. # This response reflects Overgeneralization because it takes an isolated incident (the moment when he saw the hammer) and exaggerates it into a pattern of behavior, suggesting that he has always acted this way since she left. Instead of acknowledging the specific context of that moment, it generalizes it into a broader statement about his entire life, creating an unrealistic expectation that he will never heal from the loss. This kind of thinking prevents him from accepting reality and finding ways to cope with his emotions, leading to further distress. By doing so, he reinforces a fixed mindset, making it harder for him to open himself up to new experiences and relationships. He becomes trapped in a cycle of negativity, where every small event feels like a"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe watches her meticulously buttering the toast, as if each stroke is a personal affront. \"It's not like you're going to taste it,\" he mutters under his breath, contempt dripping from every word. She pauses, then resumes, ignoring him, knowing better than to rise to the bait. The clock ticks on, filling the silence with its steady rhythm, echoing his disdainful heartbeat.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She keeps making that stupid comment about how she's already done everything right, but I can't help feeling like there's still so much to do. What if something goes wrong again? What if she decides to leave me for someone else? What if she doesn't even notice what I've been doing all this time? What if my attempts are just a waste? Every little thing feels like a step back. She thinks she's perfect because she hasn't messed up once, but I know she could have easily done things differently. What if she was just trying to save face? What if she didn't actually care about me at all? What if she’s using me for something else entirely? I feel like I’m just holding her back, like I'm a burden. What if she gets tired of me? What if she stops wanting to be with me? What if she leaves because she realizes she can do better? It feels like no matter what I do, nothing will ever change. We’re stuck in this rut together, and I don’t see an escape. She says we need to work harder, but I wonder if anything will really make a difference. What if nothing changes? What if our relationship is already doomed?"
+    },
+    {
+        "Triggering Event": "After a long day of dealing with rude customers at the store, he returns home to find his electricity has been shut off due to an unpaid bill. He sits alone in the dark, his hands shaking as he realizes he can't even afford this basic necessity. The weight of helplessness presses down on him like a physical force, making it hard to breathe.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Always**, when I get into work after a bad day, I just know something is wrong. It's always some fucking problem. Whether it's a customer being rude or my bills piling up, I'm never in the clear for more than 24 hours. My electricity was shut off today because I forgot to pay my bill. And you know what? That’s **never** happened before. But now that I think about it, there are so many times when I’ve forgotten things that they’re starting to add up. Like how I once forgot to bring my lunch money and had to beg my mom for cash. Or how I always forget to pick up milk from the grocery store. So yeah, forgetting things isn’t all that rare, right? It’s always the same shit. I work hard, make good money, but somehow I still manage to mess everything up. Whether it’s paying bills, getting work done, or keeping track of groceries, I’m constantly struggling. Even if I have a great day, it doesn’t last long because something else comes along and throws me off balance. I feel like I’m stuck in some kind of cycle where nothing goes smoothly. This whole situation with my electricity being shut off is just another example of that. It’s always the same—something going wrong and me feeling helpless. There’s no way it could be different, since I keep messing up. And honestly, I don’t even care anymore. If I forget to pay"
+    }
+]
