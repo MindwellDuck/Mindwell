@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 3 pm, during the store's peak hour rush, he felt a sudden tightness in his chest while helping an impatient customer. He looked around and everyone seemed to be staring at him. His breath caught in his throat as he struggled to maintain composure, feeling like the walls were closing in.",
+        "Sex": "Male",
+        "Age": 42,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "I’m having trouble breathing and I think everyone is looking at me. I know I’ve done nothing wrong but I can"
+    },
+    {
+        "Triggering Event": "Every evening, after closing up the small corner shop he'd run for decades, the old man would walk home through the eerily quiet streets. Tonight, as he passed the park where his grandchildren used to play, he noticed a young family setting up a picnic. The laughter of the children echoed through the twilight, starkly contrasting with his silent, empty house awaiting him at the end of his lonely journey home.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "It's almost always that way, isn't it? Every time I see someone laughing, they're probably just mocking me behind my back. It doesn't matter how many times I've tried to connect with others; people never seem to care. They all want something from me, whether it's money, favors, or attention. And when they don't get what they want, they'll just laugh at me. That's why I avoid social gatherings altogether. It’s pointless to try and make friends when everyone is out to take advantage of you anyway. So, whenever I hear laughter, I assume it means someone else has found success in life while I'm stuck here alone. I can’t help but feel like I’m missing out on everything by staying away from such events. It’s frustrating to think that every joyful moment I miss is proof that I’ll never be accepted or loved. Why bother trying anymore? Every time I see happy couples holding hands, I know there are plenty more waiting to replace me. And since I always stay at home, I might as well prepare myself for the inevitable loneliness. It's exhausting to keep pretending that things will change someday, even though deep down I know nothing will ever change. It feels like no one cares about me, so why bother making an effort? Even if I did go out, I’d likely face rejection again. There's always some new guy who catches her eye, and she moves on. No one stays committed to anyone for long."
+    },
+    {
+        "Triggering Event": "In the quiet of her lab, she paused over the microscope, a tear drop plopping onto the slide, distorting the cellular landscape she'd been studying for months. It was the anniversary of their first date, marked by an empty chair at dinner and a silent phone where his voicemail used to be.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "As memories of past heartaches"
+    },
+    {
+        "Triggering Event": "Scenario:\nIn the quiet of his home office, he stares at the email from the journal editor: \"Revised manuscript still does not meet peer review standards.\" The clock ticks loudly as he clenches his jaw, feeling the familiar tension building in his shoulders. His wife calls from downstairs, oblivious to the stress boiling inside him, \"Honey, dinner's ready!\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Ugh, what is it with these damn editors? I mean, I knew this was coming. It’s been a year since I started working on my manuscript, and I’ve submitted several drafts to various journals. But somehow, no matter how many revisions I make, they always find fault in something. It’s like they’re trying to trip me up. And now, after months of back-and-forth, they’ve rejected my revised submission. But you know what? They have no idea how much effort went into writing that paper. They don’t see the countless hours I spent researching, rewriting, and editing—hours that could have been better spent relaxing with my family. They don’t care that I had to take time off work just to get everything right. All they care about is that one tiny detail they found wrong. Meanwhile, I’m sitting here, staring at this rejection letter, wondering if it was even worth the struggle. Why bother submitting again when it’ll probably end up the same? And then there’s the irony—it’s all happening while my wife is cooking dinner down stairs. She has no idea about this whole ordeal, but she knows that I’m stressed because we were supposed to spend tonight together. We were looking forward to it too! Now, I feel guilty for not being able to join her. But honestly, why would I want to put myself through this again? Maybe I should just give up and admit defeat. After all, what’s the point of"
+    },
+    {
+        "Triggering Event": "In the dimly lit lab, she noticed it again—a faint anomaly in the data, exactly like before. Her heart pounded as she thought about who else had access to this project, wondering if they were onto her findings. She felt eyes burning into her back as she worked, convinced someone was watching her every move.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Oh my god, what's going on? I can't even focus on anything right now because there are just so many things happening at once. It feels like everything is happening simultaneously. Like, how can something be happening in two different places at the same time? And yet, somehow, all these things are happening together. It's crazy. I'm just trying to stay focused and keep up with everything, but it's really hard. I feel overwhelmed by all the thoughts racing through my head. I'm trying to stay calm, but it's difficult when everything seems to be moving so fast. I hope I get through this okay."
+    },
+    {
+        "Triggering Event": "At the weekly book club, she noticed the new member, a young woman, laughing too loudly at her husband's anecdote about covering the war. Her laughter was mocking, a knife twisting in the old journalist's gut. The hatred burned brighter as she realized no one else seemed to notice the disrespect.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "It is apparent that this individual is trying to manipulate others by manipulating their perception of reality. She has mastered the art of deception, making people believe what they want them to believe. Her words are laced with venom, but her smile hides the poison. She thinks she can control the situation, but she cannot. I see the truth behind her actions, and I know she will not stop until she destroys everything. She laughs at the old man's jokes, mocking his age and experience. But deep down, she knows he has lived through wars and hardships, while she has only seen the surface level of life. He sees the world differently than she does, and she wants to erase that difference. She wants to make him feel small, powerless against her. Her behavior is like a ticking time bomb. It may seem harmless now, but soon it will explode. I have seen how quickly this type of manipulation can lead to disaster. People who think they can control others often become trapped in their own delusions. They lose sight of reality, and their actions become more aggressive. This woman thinks she is clever, but she is actually blind. She believes she can change people, but she is the one who needs changing. She is a pawn in her own game, and soon she will realize it. When that day comes, she will be left alone, with nothing but regret. I am watching this situation closely. There are warning signs everywhere, and I do not want to miss anything. This"
+    },
+    {
+        "Triggering Event": "At the end of another exhausting day of teaching, he found graffiti scrawled across his classroom blackboard: \"Mr. T is a fraud.\" His gut wrenched with anger as hatred surged through him.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Are you fucking kidding me?! What if I lose my job over this? What if the school administration doesn't take it seriously? What if they fire me because I'm so fucking upset?! What if I don't get paid for the next month because I'm still working to prove myself after that shithead leaves?! Fuck! I can't even think straight anymore. My mind is racing with all these terrible possibilities. This is ridiculous, but what if I have to go back to grad school just to teach at some other goddamn school where nobody knows who I am? Ugh...this sucks. I really need to calm down. But what if I can't? What if I start yelling at my students and I get fired anyway? What if they hate me so much now that they refuse to talk to me? What if I never find a new job?! This is insane. I'm an idiot. I shouldn't be thinking like this. But what if I'm going crazy? What if I'm losing my mind? What if I become one of those unhinged teachers who are impossible to work with? What if I turn into a total asshole because of this stupid board?! This isn't right. I need to stop this. But what if I can't? What if I start acting like this and people start avoiding me? What if I become known as that guy who lost his temper easily? What if I'm no longer invited to staff meetings?! No. No. NO. You"
+    },
+    {
+        "Triggering Event": "A weeknight, she sat alone in her apartment, the silence broken only by the occasional hum of her laptop cooling fan. The screen displayed rows upon rows of data, but none of it could hold her attention like the sound of laughter echoing from the nearby restaurant, where couples celebrated and friends toasted to weekends yet unspent. Her eyes stung with unshed tears as she closed the laptop, plunging herself into an even deeper silence.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She just needed to get out of there. The constant barrage of happy chatter was overwhelming, making her feel like an outsider. She couldn't help but wonder if they were all having fun because they didn't have someone like her at home, someone who felt like they had nothing to offer. It was a cruel thought, one that made her want to disappear forever. But she couldn't let herself be pulled down by those thoughts. Instead, she forced herself to focus on the task at hand - getting back to work. After all, what did she really need? People who didn't care about her anyway. ## Step 1: Identify the problem There's no real problem here. She needs to stop blaming everyone else for her problems. This is easy enough. ## Step 2: Look for other people to blame She's already started doing this, so this isn't hard either. ## Step 3: Justify your behavior She doesn't see how this is harmful. There's no reason why she should try to change her way of thinking. ## Step 4: Avoid taking responsibility This is probably the hardest part, but we can't let ourselves feel guilty about our actions. We don't deserve that. ## Step 5: Reframe the situation Her mind has already done this. She's convinced herself that others are better than her, which means she can't really blame them. They're not responsible for her problems. ## Step 6: Take control"
+    },
+    {
+        "Triggering Event": "In the quiet of his empty classroom after school, he found a crumpled note on his desk. It was from little Jamie, who'd been struggling all year. \"I can't do this,\" it read in shaky handwriting. He felt that familiar helplessness wash over him as he imagined Jamie at home, tears streaking his face, giving up on another problem.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Subjective Reaction to Personalization** As I stood there, my mind immediately went into victim mode. This wasn’t just about Jamie; it was about how everyone around me had failed him. How could they let this happen? The fact that my own teacher had missed the warning signs made me feel like I’d been blinded too. I couldn’t help but think that maybe I’m the one who needs help – that I’ve been failing Jamie all along by not recognizing what was going on. That’s when I realized that my personal issues were probably causing Jamie to fall behind, and now he was paying the price. I knew I needed to take responsibility for my actions, not just mine, but everyone's. This whole situation is really making me question whether I'm the problem. Maybe I am the reason why Jamie gave up. My thoughts are spiraling out of control, and I need to focus on what I can control, but I keep getting pulled back to thinking about how I messed up."
+    },
+    {
+        "Triggering Event": "He was walking home from work, the familiar route now lonelier than ever since she'd moved out. It started to rain, the drops echoing his heavy footsteps. As he approached their old house, he saw a moving truck parked outside. Another family was taking over their space, their life. He felt a pang in his chest, the grief as cold and sharp as the rain on his face.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He’s such an asshole! Why does this always happen to him? I mean, seriously, what is it about him that draws these kinds of situations? He’s always been like this – selfish and self-centered. It’s no surprise that his ex-girlfriend just dumped him. She must have realized how much trouble he causes and decided it wasn’t worth it anymore. And why would she stay with someone who’s so annoying? Plus, think about all the times he's made her feel uncomfortable or ignored her needs. It makes sense that she’d want to move away from him. And now, here he comes, probably expecting everyone to treat him nicely because they’re all friends. Newsflash: they don’t owe him anything. Everyone has the right to be treated respectfully, but you can't force people to be kind just because you're hurt. If anyone wants to talk, they should be willing to listen, not just stand there awkwardly, pretending everything is fine. You can't control other people's actions or reactions; it's up to you to manage your own emotions and respond appropriately. That guy who lives next door might even be happy if he sees how miserable he looks. He'll probably say something like, \"Oh, you look really down today!\" Like, what? Are you kidding me? Do you think he's oblivious to the situation? Does he not realize how much it hurts him? I'm sorry, but if you're going to act like nothing's wrong"
+    }
+]

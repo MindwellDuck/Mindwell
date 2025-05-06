@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"As he clocked out, he noticed the store's new display: a family of four laughing over a shared meal at their kitchen table, adorned with the fine china they'd sold him years ago.\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "When I saw that ad, it was either a sign that my life was falling apart or proof that everything was going to be okay. My mind can't handle anything in between; I see things as either one thing or another. It's like trying to fit a square peg into a round hole - you're always forced to choose one shape over the other."
+    },
+    {
+        "Triggering Event": "She found herself humming an old nursery rhyme while folding the laundry, her wrinkled hands moving automatically over the soft fabrics. The melody stirred a memory of her own children when they were young, their laughter echoing through the house as she played with them after work. A tear slipped down her cheek, unnoticed until it dropped onto her husband's favorite shirt. She sighed deeply, feeling the weight of time passing too quickly, leaving her with an emptiness that echoed like a hollow drum in her chest.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Wow, I can't believe you're crying again. It feels like every other day there's something new for you to be sad about. What's wrong now? You've been feeling down lately anyway, but I thought we'd worked through all that already. Is this really going to happen again?\" --- # Example of how someone might respond to the original post if they are aware of the cognitive distortion: \"I think it’s interesting that you brought up your mom's death. It made me realize that my feelings towards her have changed over time. I used to feel so angry and resentful, but now I see that she was just trying to live her life. It makes sense that we wouldn’t have gotten along perfectly, given our different personalities. But I’m glad things are better between us now.\" - Rachel --- # Example of how someone might respond to the original post if they are not aware of the cognitive distortion: \"Oh my god, what is wrong with you?! Why are you crying again? First, it was your mom, then it was your sister, now it’s your kids. Can't you just stop dwelling on the past? We’ve talked about this before. You need to move on and let go of those emotions. It’s really affecting your relationships and overall well-being. Maybe you should consider therapy to deal with these issues once and for all.\" --- **Note:** There is no one \"right\" way to address this issue; everyone will react differently"
+    },
+    {
+        "Triggering Event": "A civilian, rushing across the street without looking, nearly causes her to collide with their car during her patrol shift. She slams on her brakes, tires screeching, heart pounding. \"Watch where you're going!\" she yells out the window, irritation boiling over as she realizes it's just another careless pedestrian, not a life-or-death situation like she'd feared.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Subjective Reaction:** I don't think this is a big deal at all. It was probably just a kid playing outside or something. They probably didn't even see me coming, so what's the point in yelling? I've been dealing with this kind of thing for years, but no one ever takes responsibility for their actions. This isn't a problem; it's just another day in my job. There are plenty of other things to worry about, and I shouldn't let some minor incident stress me out. Besides, I'm still alive, and that’s what matters most. I’m not letting one little thing like this get under my skin."
+    },
+    {
+        "Triggering Event": "She noticed the man in the worn-out jacket hovering near her register again, his eyes darting around nervously. He'd been in every day this week, buying cheap snacks and hanging back until she was alone before leaving with barely a word. Today, he didn't leave at all, lingering by the door as she closed up shop. Her heart pounding, she rushed to secure the bolts, then found him right behind her, asking if she had any extra shifts available. She stumbled over her words, handing him a crumpled schedule without meeting his gaze. As she watched him walk away into the darkening night, she couldn't shake the feeling that he was watching her too, waiting for something.",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She seemed so confident when she said it. It's clear that she doesn't think much of him - why would she? He's just another homeless guy who comes in here every day. You can see how she feels about him from the way she speaks about him; she thinks of him as nothing more than a nuisance. Maybe he is. But shouldn't he get some credit for showing up every single day despite everything that's going on in his life? It's hard enough being homeless, but adding stress from finding work isn't exactly easy. Yet there he is, standing in front of her counter, looking like he hasn't eaten in days. That's quite the contrast to her neat appearance. She dresses professionally, while he looks like he's straight out of a movie. They seem worlds apart, yet both are human beings deserving of respect. In fact, maybe he deserves even more respect because he's doing what most people wouldn't even attempt under these circumstances. If anything, I feel bad for him. He might be struggling, but at least he's trying. I don't blame him for being nervous; things could go either way. Still, shouldn't he have learned by now that she won't hire anyone based solely on their appearance? Isn't that why he keeps coming back, hoping against hope that today will be different? I wonder if he has anywhere else to turn. Maybe we should offer him a chance, give him a second look. After all, everyone needs a"
+    },
+    {
+        "Triggering Event": "A male scientist in his late twenties, single and dedicated to his work, was summoned to the lab director's office. The door creaked open to reveal a crowded room filled with senior scientists, all staring at him expectantly. His eyes darted to the presentation screen behind the director, displaying his latest research proposal - now peppered with red revision marks and critical comments. The director began, \"We've had a look at your proposal... it seems you're not quite ready for this level of funding yet.\" The room echoed with subtle chuckles as he felt the heat rise in his cheeks, humiliation washing over him like an icy wave.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Cognitive Distortion:** \"What If?\" (Negative Focus) *The Science Meeting* Dr. Thompson, a young researcher, stood before the esteemed panel, eager to present her groundbreaking study on plant cell regeneration. As she took her place, a sense of nervous anticipation settled within her chest. However, her focus wavered when Dr. Patel, a seasoned scientist, posed a question that caught her off guard: \"What if the data doesn't support your claims?\" Dr. Thompson hesitated, her mind racing through potential scenarios. She couldn't shake the feeling that her work might be flawed, and the possibility of failure loomed large. Her response reflected this concern: \"I'm worried about the validity of our results,\" she admitted. \"If we can't replicate them, what if others discover flaws in my methodology?\" As she spoke, the room seemed to darken, and the air thickened with tension. It was as if the weight of uncertainty hung heavy, threatening to upend everything she'd worked for. Dr. Patel nodded thoughtfully, his expression unreadable, but the other scientists exchanged knowing glances, their faces etched with skepticism. The meeting continued, with each discussion delving deeper into the challenges of replicating her findings. While Dr. Thompson presented her data with conviction, her words betrayed a lingering doubt – a nagging fear that her work would never stand on its own merit. The conversation ended with a sense of unease, leaving her wondering whether she'd"
+    },
+    {
+        "Triggering Event": "Scenario:\nShe found a note tucked between the couch cushions, in his handwriting: \"I've had enough of this life.\" Her stomach churned as she realized he hadn't come home from work yet.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "My mind is blown by how quickly everything escalated. I mean, one minute they're laughing about something, and the next, he's just gone? It was like he vanished into thin air. They were so happy together, and now...now it feels like all that joy was for nothing. He never told me anything—nothing at all. Not even a text message. Just silence. But then again, maybe he really did want to leave. Maybe he felt trapped. Maybe he was suffocating under the pressure of being with someone who loved him so much. You know, people can change so fast. But why didn’t I notice? Why didn’t I see that there was more to him than what I saw? It’s crazy how my brain goes from thinking he’s just playing some prank to realizing he might be seriously considering ending his life. One minute I’m worried sick, and the next, I'm feeling relieved because maybe this means he’s finally free from all the drama. But which way is it going to go? Is this a huge mistake or am I just overreacting? This whole thing has left me feeling confused. My mind keeps racing back to the moment when I saw him walk out the door. Was he genuinely upset, or did he just get bored with me? Did I push him away, or was he already planning his exit? I guess I’ll wait for his car keys, but deep down, I wonder if I'll ever see him again."
+    },
+    {
+        "Triggering Event": "In her lab, she found a note from her husband, \"I've moved out. I can't watch you fade away.\"",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Oh my god, he must have been fucking serious. He's gone, I'm going to die alone now. I'm such an asshole for letting this happen. I should have stopped him sooner. I'm so pathetic. My life is shit, I'm just a broken shell of a man. I don't deserve love. I'll never find another partner like her because I'm such a loser. This is why I hate myself. Fuck me for being born with this miserable life. I'm going to die alone now because I couldn't save her. She was right all along, I'm a fuck-up and I'll always be one. This is what happens when you're a worthless piece of shit. I fucked up so badly and I'll pay for it until the day I die. Oh God, please don't let that happen. I don't want to die alone. I don't want to be alone forever. But it's too late, I've failed again. I fucked everything up, including my marriage. I'm a failure as a man and a lover. I will never be loved again. I'm going to end up all alone. I'm dead inside already. I'm not even worthy of living anymore. I'm so fucking dumb and weak. I don't know how to change anything. I keep screwing things up. And there's nothing I can do about it. I feel so stupid and incompetent. I'm such a failure at everything. I'm"
+    },
+    {
+        "Triggering Event": "She checks her phone after a long coding session, hoping to see a message from him. Instead, she finds an unread email from his friend, CC'd to both of them. The subject line reads: \"Plans for tonight - You're invited, not [her name].\"",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "This is fucking insane. He has to have sent this by accident, right? He's probably just confused about what he was doing at the time. It doesn't make sense that he would plan something like that without even thinking about me. That's such a huge oversight. I can't believe he didn't think about how I'd feel when he invites someone else with no consideration. This is ridiculous. He definitely meant it as some kind of joke or mistake. We've been talking all day about plans for tonight, and I'm sure he meant to send that email to his friend instead of me. It's so stupid that he accidentally did that. He must have gotten distracted while typing because we were discussing the same topic just hours ago. If he had really planned this, wouldn't he have made sure I knew about it before sending anything? No one does things like this by accident. This is so embarrassing. Of course, he didn't mean to hurt my feelings; he's just clumsy. But seriously, why would he do something like that? Shouldn't he know better than to send emails like that? And shouldn't he have remembered how much I wanted to spend time with him tonight? How could he forget that? This is all just a big misunderstanding. Everything will go back to normal once he realizes what happened. He'll probably apologize soon enough."
+    },
+    {
+        "Triggering Event": "She scrolled through her Instagram feed, pausing at an image of him smiling broadly, his arm draped around another woman. They were in a restaurant she'd suggested for their anniversary last year, the one he'd dismissed as \"too mainstream.\" The caption read: \"Celebrating with my favorite person tonight!\" Her heart tightened like a vice, jealousy clawing at her chest.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She's been acting so distant lately, but I never thought it was this bad. Seeing that post just confirmed everything I've been feeling inside me for months - he's clearly moved on. Why would he want to celebrate something special with someone else? It doesn't make sense. He's always said how much we mean to each other, but now it feels like all that meant was nothing. This is exactly what I'm talking about. She's completely lost perspective here. How can she think he'd choose anyone over me? That photo alone must be killing her. It's such a blatant reminder of everything she feels she has lost. But honestly, who wouldn't feel jealous seeing him with someone new? And yet, she can't seem to accept that. It's like she's still holding onto hope that somehow things will change. Maybe if she could just convince herself that nothing has changed between us, she'd feel better. But deep down, I know she's just avoiding the truth. She doesn’t even care about our relationship anymore; she’s already planning ways to break up with me. It's hard to keep going when she won't acknowledge reality. She needs to stop pretending that everything is okay when it’s not. We deserve better than to be treated like this, especially after all the love and commitment we’ve shared. But she just keeps ignoring it, refusing to face the fact that I might actually be moving on. It makes no sense, but she refuses to see it"
+    },
+    {
+        "Triggering Event": "A sudden Code Blue announcement over the hospital PA system during his lunch break, causing him to drop his sandwich and bolt towards the emergency room, heart pounding.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "It's unbelievable that there isn't a fire alarm going off right now, considering how seriously the hospital takes emergencies. I'm shocked that no one is rushing into action, especially given the Code Blue alert. It would seem logical for someone to take charge and start directing people to their stations, but instead, everyone just looks confused. I can’t believe this situation has unfolded so slowly. Shouldn’t we all know what to do by now? Why doesn’t anyone feel like rushing to help? Doesn’t it go without saying that when a Code Blue is triggered, everyone should immediately start assisting with triage? This whole thing feels incredibly disorganized. I’m utterly perplexed by the lack of urgency among the staff. Shouldn’t they all be acting more decisively? There's no reason why things shouldn't have progressed faster. The entire scene is chaotic, and I find it hard to comprehend the lack of clear direction from management. It's absolutely astounding that this situation hasn’t been managed better. How could something like this happen? It’s so obvious that things should have been moving at a much faster pace. Everyone should be working together seamlessly to handle the emergency. Instead, everything seems to be falling apart, and I struggle to understand why. I am really surprised that the situation hasn’t spiraled out of control yet. Given the seriousness of the Code Blue, you would think that everyone would be acting much more efficiently. However, instead, everything seems to be unfolding very slowly,"
+    }
+]

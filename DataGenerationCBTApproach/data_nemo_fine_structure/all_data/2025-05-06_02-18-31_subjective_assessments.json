@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "While working late at her cubicle, she hears a faint clicking sound from the server room down the hall. Her heart races as she wonders if it's just the AC kicking in, or something more sinister.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Are you fucking kidding me? That was like 5 minutes ago! I could've sworn I heard that click. It must be the AC, right? But what if it wasn't? What if someone broke into the building?! No, no, no... Don't think about that. You're being paranoid. It was probably just the server turning off for some reason. Yeah, that's it. And besides, why would anyone break into the office after hours? We have security cameras all over the place; they'd see them coming in. So, yeah, let's not jump to conclusions here. It was probably just the AC. Now, can I get back to work?!"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nWhile preparing an IV drip for his next patient, he noticed the bag's label was smudged, making it difficult to read. His heart began pounding as he tried to decipher the text, fearing he might make a mistake. Suddenly, he felt a wave of heat rush through him, his breath catching in his throat. The room started spinning, and he had to lean against the counter to steady himself.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh man, you're freaking out over nothing. You just need to breathe and focus. What are you worried about? It's just a label on an IV bag. Stop panicking and get back to work. You can't let your mind run wild like this. You're being paranoid again. Get a grip! ---"
+    },
+    {
+        "Triggering Event": "In her lab coat, she enters the biology lab, flicking on the harsh fluorescent lights. The stench hits her first - a pungent mix of decay and something else, something unfamiliar and foul. She wrinkles her nose, her stomach churning as she approaches the row of cages. One of them rocks violently, an unseen creature thrashing within. She reaches for the door, steeling herself, but as she opens it, a wave of putrid liquid spills out, splashing onto her shoes. She recoils, gagging at the sight of maggots squirming in the filth. Disgust roils within her, cold and visceral, as she realizes the power has been off all night, leaving the cages to festers in their own waste.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "*she's already so grossed out by this whole situation*, *how could anyone be okay with working in a place like this?* *the smell is just awful*, *and now my shoes are ruined too.* *I can't believe I let myself get into this situation.* *what if there's more to it than I realize?* *it’s probably just me being paranoid.* **Response End**"
+    },
+    {
+        "Triggering Event": "A young man, 20, sat alone in his car outside the hospital, gripping his steering wheel tightly as he stared at his phone. The screen displayed a voicemail from his girlfriend, the message she'd left hours ago still unopened. He knew what it would say; he'd heard that tone before. His shift had run late again, and she was suffering alone with their problems once more. He took a deep breath, steeling himself for the guilt that awaited him in her words.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "It's like I'm the fucking idiot here. She's leaving me over something I could have fixed if I just tried harder. Why does everyone always think I'm the one who fucked up? It doesn't even matter that I've been working non-stop trying to fix everything. What matters is that she's mad at me now. She's probably just going to break up with me because she thinks I don't care about our relationship. But why does she always get to decide how we're going to be together? Doesn't anyone else see this shit? I'm stuck in my job, working all night shifts so she can go out and play with friends. And when I try to talk to her about it, she just says I need to focus on work and leave her alone. Like, what's wrong with being honest? If I really wanted to hurt her, wouldn't I have done it by now? No, instead I'm constantly holding things back because she won't give me a chance to explain. Does anyone ever stop and think that maybe she's just being dramatic? This isn't the first time she leaves me because I'm not perfect. I know I mess up sometimes, but does she ever consider that there might be reasons beyond my control? That I’m not just doing this because I want to? When did she start assuming I didn’t care enough? She never talks about her own problems, just expects me to listen and fix hers. I feel like I'm being"
+    },
+    {
+        "Triggering Event": "At 5 PM, she's exhausted after another grueling shift at the department store. As she clocks out, her manager calls, \"Hey, can you cover for Steve tomorrow? He called in sick.\" She feels resentment stir, her grip tightening on her bag. She'd been looking forward to her one day off this week. Now it's gone, swallowed by another unpaid overtime shift.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Ugh, why does this always happen to me? My mind is filled with questions like \"Why did he ask me again?\" and \"What if I say no?\" But then I think about how much we need those shifts now, and how stressed everyone would be if I didn't show up. It's just so frustrating! I feel like I'm already working two jobs, and here comes another night shift. Why can't things just go smoothly for once?"
+    },
+    {
+        "Triggering Event": "Retired after 40 years of service, he walks home from the cemetery, rain-soaked flowers clutched to his chest. His partner's empty desk echoes through his mind as the station looms ahead, dark and silent at this hour. The dispatcher's familiar voice crackles over the radio, but it only brings him despair; he's no longer part of that world. His wife waits at home, her eyes filled with worry and unspoken questions about their future without his purpose.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "Are you fucking kidding me? That's your prediction? You're telling me that my wife is going to leave me because I'm too old for the job? What are you even talking about? She loves me, she doesn't want to leave me! This isn't some kind of game where you get to choose the outcome. It's real life, man. And what exactly do you mean by \"the world will change\"? We don't need some crystal ball to tell us that things change. How could anyone possibly predict the future like that? It's ridiculous. You know what? I think you're just trying to scare me into retirement. Well, it won't work. I'm not going down without a fight. If anything, this is the perfect opportunity for me to start something new. I'll show you. I'll go out there and find another job, one that makes more money than I ever made at the station. And when I come back home, I'll have a story to tell that'll make you look like an idiot. Mark my words, this is all just a big joke, and I'm not falling for it. Now let's see how much I can earn working at the gas station...or maybe I'll try my hand at construction... This is just great. Now I've got nothing better to do than to sit here and write down all these crazy predictions. Let's see if they actually come true... And remember, you never know what"
+    },
+    {
+        "Triggering Event": "He stood alone in his quiet classroom after school hours, the echo of children's laughter fading from the corridors. An old photograph on his desk caught his eye—a younger version of himself with a smile he hadn't worn in years. He remembered the field trip they'd taken that day, the one where he'd snapped at a student for being disruptive. The regret washed over him like an unwelcome tide, as it did every time he saw that picture.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "It's just so stupid how everyone always assumes I'm the bad guy in these situations. They don't even know what happened! This isn't the first time someone has misjudged me based on a single incident. But why does no one ever see that I'm not the problem? It's all about those kids who can't control themselves. No one cares about my side of the story; they just think I'm some kind of monster. And to make matters worse, I feel like I have to constantly remind them of my good qualities because nobody else will give me the benefit of the doubt. I mean, come on, look at this picture—I was once a happy kid, smiling in front of my class. What changed? Nothing but a few days of frustration and disappointment later, and suddenly I'm the villain. It feels like everyone is against me, and no one wants to listen to my side of things. It’s like they’re just waiting for me to slip up so they can pounce on it. You’d think people would be more understanding if they took a moment to consider how I’m really feeling. But no, instead, they jump straight into judgment, never giving me a chance to explain. And honestly, I don’t blame them. They probably think I’m just another selfish teacher looking out for myself. Maybe they're right. After all, I am dealing with a lot of stress lately, and maybe that’s causing me to lose my temper sometimes. But"
+    },
+    {
+        "Triggering Event": "She arrived at the scene, a routine noise complaint, but as she pushed open the apartment door, the stench hit her like a physical force. The rotting remains of takeout meals and unwashed dishes filled every corner, swarming with flies. Bile rose in her throat as she stepped inside, the floor sticky beneath her boots. She radioed for backup, her stomach churning with disgust at the sheer negligence of it all.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Oh my god that is disgusting! They're literally sitting there eating their own shit. Like seriously how does this even happen? I mean I've seen some nasty things, but this is just insane. It's so gross I can't even look at them right now. I'm going to go back outside and get some gloves so I don't touch anything. This is absolutely repulsive. What if they have a pet? I hope they don't have pets here, because this is just... ugh. Oh man I need to call an exterminator ASAP. How did they let it get this bad? This smells like death, like someone died in this house. Is anyone else coming up? I'm going to check the restrooms next. This is just horrific. I'm getting the hell out of here before I gag. What the fuck? They're still sitting here?! Are you kidding me?! You guys are fucking savages. Get your ass outta here, NOW. I cannot believe people live like this. How could they be so lazy? If I had to clean this place I'd lose my mind. I swear, if I had to smell this crap one more time, I'll actually vomit. My stomach is queasy just thinking about it. I wish these people were dead already. Seriously though, how do they not know they have a health hazard on their hands? This is disgusting, disgusting, DISGUSTING. I hate this smell so much"
+    },
+    {
+        "Triggering Event": "He arrives home from his night shift, expecting to find the kitchen light still on, but it's dark and silent. His wife's favorite mug remains untouched in the sink. He sits alone at the table, disappointment heavy in his chest as he realizes he'd hoped for a sign that things could feel normal again, even for just a moment.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "It's so weird how I can't stop thinking about this one guy who always comes home late after work. I mean, isn't it strange how he keeps leaving his lights on? What if he forgot he turned them off? Or what if someone else was using his house while he was out? It makes me wonder if he ever thinks about all those people who might have been there, wondering when they'll get home. And then I think, \"Wait, maybe he doesn’t care about these things; maybe he’s used to being alone.\" But no, I know he is lonely because I’ve seen him. I've seen him sitting alone at the table, staring blankly into space, completely absorbed in his thoughts. Maybe he wonders if anyone cares enough to notice his absence. But why would he be like this? Is it possible he's trying to make himself look more important by keeping his house warm and bright, even though no one is around? Could he be doing it just to distract himself from the loneliness? Oh wait, I remember now - he has a new girlfriend! She must be doing everything she can to make him happy, right? Yeah, that's it. I bet she loves the way he leaves the lights on, making her feel special. I’m sure she knows exactly what he wants, and it’s probably nothing too exciting. I mean, he's never really talked about his life beyond work and this new relationship. Does she know about the struggles he"
+    },
+    {
+        "Triggering Event": "In the quiet of his living room, he noticed it—the worn, blue baseball cap hanging on the coat rack, still dusted with sawdust from their last project together. It was just a cap, but to him, it was a reminder of his son's laugh, his strength, his life cut short. A wave of grief crashed over him, and he had to grip the armchair to steady himself. He hadn't cried in months, but now tears stung his eyes, blurring his vision. He reached out, gently touching the cap as if it were his son's cheek, and whispered, \"I miss you, kid.\"",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "What? The old man is crying again? Of course, he’s crying. Who wouldn’t be when they’re sitting there alone, reminiscing about the past? I mean, come on, it’s been years since his son died. He’s always going on about how much he misses him, how he wishes things could’ve been different, and how he can’t stop thinking about what might’ve been. But honestly, who doesn’t get sad when someone they love dies? It’s normal. You’d cry too if your whole world came crashing down like that. Maybe he even thinks that little cap he’s holding onto is actually his son’s, and maybe he really believes those whispers are just his son talking back. I bet he hasn’t cleaned that place in ages; probably covered in dust, cobwebs, and all sorts of memories. Anyway, yeah, I guess it makes sense that he would break down sometimes, especially after all these years. That’s how people grieve, right? I wonder if he’s still talking to himself, trying to convince himself that everything will magically fix itself one day. Maybe he thinks he’s still hearing his son’s voice telling him to keep building, to never give up, or something along those lines. If anything, this must remind him of good times, happy moments when they spent time together, working on projects, or just having fun. I’m sure he has plenty of fond memories to hold onto. But let’s be real, who"
+    }
+]
