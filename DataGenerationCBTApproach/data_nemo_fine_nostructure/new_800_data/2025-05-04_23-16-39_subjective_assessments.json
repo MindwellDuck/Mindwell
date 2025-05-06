@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe watched him shove his plate away, half-eaten eggs congealing in the morning light. \"Can't you ever be on time?\" he snapped, grabbing his keys and storming out. She checked her watch, 7:05 AM. She was already late for her shift.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Wow, I guess he's just really busy today,\" she said to herself as she headed to work. She wasn't late; she was just running into traffic."
+    },
+    {
+        "Triggering Event": "She returned home from another grueling shift at the hospital, her exhaustion etched into every line of her face. As she stepped inside their apartment, she found a note from her partner: \"Left for the weekend with friends. Thought you'd want some space to rest.\" The silence that greeted her echoed like an empty threat. She sank onto the couch, her body heavy with unshed tears and the weight of another lonely night ahead.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She felt a pang of disappointment as she read the note. It wasn't the first time he had left without warning, but it still stung. The thought of being alone again, especially after such a long day, was overwhelming. I can't believe he's gone out with his friends just when I need him most. He always does this, leaving me to deal with the aftermath of our shifts on my own. This isn't fair; I've been working double shifts lately, and I could really use his help right now. But no, he's off having fun with his buddies instead. I'm so tired of feeling ignored and unappreciated. I wish he would consider how much harder things are for me during these shifts."
+    },
+    {
+        "Triggering Event": "He walked past their favorite restaurant, where they used to split a pizza every weekend. The 'reserved' sign was still on the table by the window, but now it felt like a mocking ghost of happier times. His steps slowed as he passed, his grip tightening around the bouquet of her favorite flowers, now wilted at the edges. A cyclist rushed past him, breaking the silence, and he felt an inexplicable anger surge up, tears threatening to spill over. He quickly turned away, heading towards the park where they scattered her ashes.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He's just trying to avoid feeling overwhelmed, so he avoids places that remind him of her. It feels like a cruel joke, especially since she loved going there with him. What if I see her again? What if we bump into someone from her life? I can't handle those thoughts right now; I'm already struggling to cope with what happened. Maybe I'll go back to the park later when I've calmed down more. But for now, this city feels too small, too full of memories. I need some space, and maybe time will help me process everything better."
+    },
+    {
+        "Triggering Event": "She found a faded photograph tucked into an old cookbook, her late husband's arm around another woman, laughing freely in a way he never did with her.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "It's clear she cheated on him. I can't imagine why else it would be there. There's a photo of them together, but then this other girl is right next to him, smiling at him. It doesn't look like they're just friends. And that woman looks... happy. How could she be so happy? I remember how he always looked unhappy when she was around. It makes sense now; she must have been having an affair for years. They were probably together before we even met. The man in the photo has a similar face to my father-in-law - the same nose shape and everything. He was always acting suspiciously around her anyway. I thought nothing of it because she seemed nice enough, but now I realize she was hiding something. She didn't want me, and I'm glad she didn't. We were meant to stay single our whole lives. This confirms everything I suspected about her. She was playing us all along. She knew exactly what she was doing. My husband trusted her completely, and she betrayed that trust by being unfaithful. I wonder if the woman in the picture knows about my husband's death. Did she know how much it hurt him when he found out? If she felt bad about it, maybe she'll reach out to me and apologize. But she won't. She never apologized for anything in life, and she never will. She's too selfish for that."
+    },
+    {
+        "Triggering Event": "A middle-aged man, married for years, drags himself home from another slow day at work. He finds an old photo album tucked behind the bookshelf while cleaning. Flipping through it, he sees images of his now estranged parents, their laughter echoing in his memory. His wife, noticing him lost in thought, gently asks if everything's okay. He shrugs, closing the album, and says nothing.",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He's just like that. Always has been. Never really changed. Probably never will."
+    },
+    {
+        "Triggering Event": "Male journalist, 29, receives an email from his editor at 4 AM: \"Your latest piece lacks bite. Reconsider your sources or expect a demotion.\" He reads it alone in his dimly lit home office, his wife softly snoring down the hall.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"This is ridiculous,\" he thought, \"Who writes emails this late?\" He replayed the conversation with his editor in his head, imagining her tone as too harsh, too demanding. His mind was already working up a defense for himself, preparing counterarguments and justifications. This wasn't the first time he'd felt belittled by his editor; he often wondered if she was trying to undermine him personally."
+    },
+    {
+        "Triggering Event": "On her way home from another grueling shift, she noticed the familiar blue ribbon tied around the tree at the end of their street. It was a quiet reminder that today marked two years since little Timmy from down the block had gone missing. She felt a pang in her heart, the grief still raw despite the passage of time. As she walked closer to untie the ribbon, as she always did, she saw something that made her freeze: a small, muddy sneaker lying beneath the tree. It was just like Timmy's. Her breath hitched, and she felt tears welling up in her eyes. She quickly gathered the shoe, clutching it tightly, before rushing home to share this newfound hope with her partner, hoping against hope that this could be a breakthrough in the cold case.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She thought, \"This is such an amazing sign! The universe must have brought him back to us.\" As I looked at the tiny shoe, I couldn't help but feel a surge of excitement and relief. This could truly be a miracle, a confirmation that our efforts to find him were paying off. I imagined how overjoyed he would be when he finally got to come home, feeling grateful for every moment we'd spent searching for him. Maybe this was the start of his journey back - I wanted so badly to believe that now, to see the truth in what I'm seeing. It has to be true, doesn't it? The universe wouldn't play tricks on us like this. And think about all those people who've been praying for Timmy's safe return - they must be celebrating right now! We can't give up hope yet. I'll hold onto this small chance until I know everything's okay. I'll keep fighting for him, and if this is real, I won't stop until he's back where he belongs. We're one step closer than ever. I can't wait to tell everyone about this, especially the kids at school who've been asking about Timmy. They deserve some good news too. I want to show them that even though things seem hopeless sometimes, miracles can happen. Who knows? Maybe soon we'll hear more news about Timmy, and it will change everything for the better."
+    },
+    {
+        "Triggering Event": "At the weekly newsroom meeting, his editor casually mentions that a younger reporter has been assigned to cover their beat. He feels a pang of anxiety, fearing he's being replaced due to his slower output since his wife's passing.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He wonders if his editor is trying to tell him something by assigning someone else to the beat, like maybe he's not doing enough work after his wife passed away. Maybe there’s some hidden message about how much he’s slacking off, even though it’s just an assignment. His mind starts racing with worst-case scenarios—maybe this means he won't get promoted, or worse, he'll be let go."
+    },
+    {
+        "Triggering Event": "She noticed the kitchen timer ticking down to zero as she prepped her mise en place for the dinner rush. Suddenly, the timer's beep seemed louder, more insistent, echoing through the empty restaurant like an alarm. She glanced around nervously, convinced someone had entered unnoticed, watching her every move. The shadows in the empty dining room seemed to shift, taking on sinister forms. Her heart pounded as she reached for her knife, gripping it tightly, ready to defend herself from what felt like an impending, unseen threat.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She was certain that someone had snuck into the restaurant while she was busy with prep. The timer’s sudden beep sounded like a warning signal, signaling some unknown danger. The beeps grew louder and faster, creating an intense sense of urgency. She instinctively reached for her knife, feeling a surge of fear as she scanned the empty dining room. Shadows moved on their own, making her feel even more trapped. She imagined someone lurking just out of sight, waiting to strike. Even though there was no one there, she couldn’t shake off the feeling of being watched."
+    },
+    {
+        "Triggering Event": "A week's worth of meticulously planned experiments went up in smoke when the lab's equipment malfunctioned, ruining irreplaceable samples and setting them back months. The scientist stood helplessly amidst the chaos, his hands trembling as he surveyed the damage, unable to comprehend how such a catastrophe could occur on his watch.",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Ah, what a disaster! I can't believe it happened right under my nose. I'm usually so meticulous with everything; this is just unbelievable. It feels like I've let everyone down. How could something like this happen? I feel like an absolute failure—this is all because of me. I keep replaying it in my head, thinking about how careless I was. This is going to be tough for us to recover from. Every minute feels like hours.\""
+    }
+]

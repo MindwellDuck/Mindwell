@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She returns home from another quiet shift at the store, the familiar echo of emptiness greeting her as she steps inside. The phone doesn't ring tonight either. She looks at the old photograph on the mantelpiece - a faded image of her and her late husband smiling at some long-forgotten picnic. She sighs heavily, the loneliness settling in like an old acquaintance.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She feels so alone now. It's been years since he passed away, but it still hurts just as much. She can't help but think about how things would be different if he were here. Every day feels like a reminder that life moves forward even when I'm stuck in this grief. I wish there was something to make it easier, but it just keeps getting harder. I feel so overwhelmed by my memories; they're all I have left of him. Sometimes I wonder what it would be like to forget some of them, but then I remember our last conversation and it feels like he's right here with me again. Maybe it's just her mind playing tricks, but it feels like he's watching over us through those photos. Her eyes well up with tears as she stares at the picture, the silence of her home feeling oppressive."
+    },
+    {
+        "Triggering Event": "While grading papers at home after dinner, she notices a small, handwritten note tucked into one of her students' essays: \"You're such a bitter old hag. Everyone knows it.\" Her husband, engrossed in his book across the room, doesn't notice her hands trembling as she crumples the paper, bitterness rising like bile in her throat.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She felt a wave of disgust wash over her as she read the note, but why did it bother her so much? She's never been an easy teacher, always pushing her students to work harder. Maybe they were just trying to provoke her. After all, how could anyone think that way about her? But then she saw another student's grade next to hers, and this time she noticed something different. This student had gotten almost exactly the same score she had given—just a tiny bit higher. It was probably just a coincidence, but still, how could someone be so much better than her? As she looked around the house, she couldn't help but feel envious. Why couldn’t she be more like them? They seemed to have everything together—smart, confident, successful. What if she wasn’t cut out for teaching at all? When she finally showed her husband the note, he didn’t react; he just went back to reading. But now she wondered if maybe she should quit. At least she wouldn’t have to deal with these kinds of insults anymore. If she left, would things improve? Maybe leaving would solve all her problems, even if it meant giving up her dream job. But what about her husband? He loved being a doctor, and she knew she’d struggle to find a new career. Maybe it was worth staying for him’s sake. If she stayed, though, would she ever be able to overcome the feelings of inadequacy that kept building inside her"
+    },
+    {
+        "Triggering Event": "In the lab, he noticed her laughing with their colleague over coffee, his head inclined towards hers, too close for comfort.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "“She always laughs at everything. I’m just surprised she would laugh with another guy in such an intimate way. She’s not even that funny. We all know how she acts around people, she’s never been respectful. This is just more proof of her immorality.”"
+    },
+    {
+        "Triggering Event": "An elderly man, hands slightly trembling with age, carefully arranges photographs in his living room. He pauses at one, a black and white image of his late wife smiling broadly at their wedding. His breath catches in his throat as he traces her face with a weathered finger, tears welling up in his eyes.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "An elderly man, hands slightly trembling with age, carefully arranges photographs in his living room. He pauses at one, a black and white image of his late wife smiling broadly at their wedding. His breath catches in his throat as he traces her face with a weathered finger, tears welling up in his eyes. ## Step 1: Understand the definition First, understand what \"discounting the positive\" means. This is when you downplay or ignore something good happening to you, even though it did happen. For example, if someone gave you a gift you liked but you feel like you didn't deserve it, you might think, \"Well, I don't really need this,\" instead of saying, \"Thank you!\" The goal here is to see how people might react when faced with situations where they could be discounting the positive. ## Step 2: Create an Example Scenario Create a hypothetical scenario that involves an elderly man who has lost his spouse. He has been living alone for some time now and has started arranging old family photos again as part of his grieving process. As he looks through these photos, he comes across a picture taken during his honeymoon, showing him and his late wife laughing together. ## Step 3: Generate a Subjective Reaction Reflecting Cognitive Distortion Now, imagine how an observer might perceive this scene from a biased perspective. They might think that the way the man reacts to seeing the photo—tears in his eyes—is just a typical"
+    },
+    {
+        "Triggering Event": "She returned home late, her husband already asleep. The kitchen light was still on, revealing a sink full of dirty dishes - his. She felt the familiar pang of unhappiness as she realized he hadn't bothered to wait up or help with dinner cleanup despite knowing she'd had a long day chasing leads for her latest article. She sighed heavily, turning off the light and retiring to bed alone, her mind racing with unspoken resentment.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She's just so lazy; I feel like I'm always doing everything around here. Why would this be different? He doesn't even care enough to stay awake till I get in the door. I can't believe he'd leave me to clean up after ourselves when he knows how much work I've done today. It really feels like no effort is required from him. I wish he could just think about my hard work for once and show some appreciation instead of just going straight to sleep."
+    },
+    {
+        "Triggering Event": "A middle-aged woman approached him at the precinct, eyes filled with worry and desperation. She clutched a worn photo of her teenage son, last seen two nights ago after an argument. Her voice trembled as she described his recent mood changes, his obsession with dark websites. The officer felt a familiar dread wash over him, memories of his own divorce flashing through his mind - the worry, the uncertainty, the fear for his daughter's safety. He took down the details, promising to do everything he could to bring her son home safely. As she left, he couldn't shake off the anxiety clawing at him, wondering if today would be another day of sleepless nights and unanswered questions.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He didn't think about how the woman's distress might be influenced by her son's disappearance. Instead, he focused on the details that seemed unusual - the dark website, the strange behavior. He was convinced it was more than just a typical teenager acting out."
+    },
+    {
+        "Triggering Event": "At the lab, he found his former protégé presenting his life's work as their own in a journal article. The words \"co-authored by\" were glaringly absent. His grip tightened around the mouse, knuckles turning white.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "I'm so upset! I can't stand how he does this. He's such an ungrateful jerk. Every time I see him, it feels like a betrayal. This is just another example of him disrespecting me. I've always been there for him, but he doesn't care about my feelings. I know he's done similar things before, and now that I think back, I realize he was probably doing it all along—lying to me, manipulating me. He doesn't deserve to be trusted, especially after what he did last year. That was really hurtful, and I never forgave him. Now, I feel betrayed again, especially since we're supposed to collaborate on a project together soon."
+    },
+    {
+        "Triggering Event": "Scenario:\nHe sat alone in his cruiser, radio silent, as the rain began to fall. The call had come over the scanner, a car crash on the outskirts of town. As he arrived, he saw the crumpled metal, steam rising from the engine block. But what drew him closer was the teddy bear, soaked and muddy, lying in the grass nearby. It reminded him of his daughter's favorite, the one she'd hugged every night until she outgrew it. He picked it up, squeezing it gently as he walked towards the wreckage, sorrow weighing heavy on his heart.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "His mind raced with thoughts of how this could have happened. Either he had failed as a father by not teaching her how to drive properly, or perhaps something more sinister had occurred. If he wasn't there that day, maybe she would still be alive. The thought sent a chill down his spine, but he couldn't shake off the feeling that he needed to take responsibility for everything. His daughter deserved better than a life filled with uncertainty, and he felt guilty for even thinking about moving forward. She might never forgive him for being so reckless. Even if she did, would she ever forget? Or would she hold onto these feelings forever, like the smell of wet fur? It seemed like she would always carry a piece of her mother with her, just like he carried the weight of his mistakes. Maybe he should stop looking for answers and just accept that some things are beyond repair. If he didn't, would she somehow magically heal? Would she find happiness again, or would she remain stuck in this perpetual state of grief? Perhaps she needed time, space, and forgiveness - all things he could provide. Yet, he couldn't help but feel that he had failed her in more ways than one. If he hadn't been there to guide her, would she have become a better driver? Would she have survived the accident? The questions swirled in his head, making it hard to focus on anything else. Maybe he should try to move on, but how could he when every memory felt"
+    },
+    {
+        "Triggering Event": "Scenario:\nIn the quiet of her study, she noticed the mail slot creak open. A single envelope slipped through and landed with a soft thud on the floor. Her heart immediately began to race as she recognized the handwriting. It was from him, her late husband's estranged brother who had abruptly cut off contact years ago. She hadn't heard from him since his angry words at their wedding, now faded but still echoing in her mind. The envelope felt heavy in her hands, and she couldn't help but wonder what old ghosts this letter might awaken.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She opened the envelope hesitantly, hoping it would be nothing. But inside, there was an invitation to a funeral for their father, someone she had never really known well. As she read the details, she felt a mix of sadness and anger. Why hadn't he reached out sooner? Had he changed? She wondered what else he could be hiding, wondering if she'd ever see him again. This is just one example, you can create another by changing the triggering events. Please let me know if you need more assistance! :) <3 https://www.reddit.com/r/ReactiveCognitiveDistortions/comments/k9g4u1/subjective_reaction_to_a_event/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3 <3 https://www.reddit.com/r/CBT/comments/i8y7t5/subjective_reaction_to_an_event/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3 <3 https://www.reddit.com/r/cognitivebeating/reddit_cognitive_distortion_what_if/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3 <3 https://www.reddit.com/r/SubjectiveReaction/comments/p6n0e2/subjective_reaction_to_an_event/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3 <3 https://www"
+    },
+    {
+        "Triggering Event": "She sat alone at their kitchen table, his empty chair across from her. The clock hands crept towards midnight, but there was no sound of his key in the lock, no familiar tread on the creaking floorboards upstairs. Instead, a silence that felt like rejection, heavy and cold as winter's first frost. His text message earlier had been clear: \"Not coming home tonight. Need some space.\" She stared at their wedding photo, her smile now bittersweet, wondering what she'd done wrong this time.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She wondered if he was ever truly happy with her, or if he just wanted to be with someone who could fill the emptiness inside him. Their marriage had always been about love, but now it seemed more like a duty. He never made an effort to understand her needs; instead, he pushed her away, leaving her to face each new day alone, feeling more and more like a stranger in their home."
+    }
+]

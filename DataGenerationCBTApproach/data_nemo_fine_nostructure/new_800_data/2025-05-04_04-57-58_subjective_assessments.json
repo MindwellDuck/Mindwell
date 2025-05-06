@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "In the quiet of her apartment, she found the antique typewriter she'd kept since her first byline. As she traced its keys with age-spotted hands, a yellowed photo fell out - him, smiling, at their wedding. She felt misery's familiar clutch as memories flooded back: his laughter echoing in their old newsroom, his proud smile when she'd won the Pulitzer. Now, only silence and echoes of happier times. She set the typewriter aside, untouched.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She couldn't bear to look at that photo anymore; it was too painful. Every time she thought about him, she felt like crying. He never came home, no matter how many promises he made. I'm just so tired of this apartment. It feels empty now. I wish I could turn back time."
+    },
+    {
+        "Triggering Event": "\"While trying to hang his latest painting, an abstract masterpiece of swirling colors and raw emotion, he noticed a slight bend in the canvas' upper corner. He'd spent weeks pouring over it, his wife's worried gaze from the doorway the only interruption. Now, this imperfection loomed like a mockery of his passion. His hands trembled as he reached for the hammer to straighten it, but he stopped short, his reflection in the window meeting him with cold fury. The hammer clattered onto the wooden floorboards, echoing his sudden roar.\"",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**I'm so sick of being an idiot! I can't even fix something simple like that. It's always me messing up - my art sucks, I'm lazy, I'm stupid. I feel like I'll never be good at anything, no matter how hard I try. I just want things to go smoothly for once, but they always fall apart because of me.** **Response End This example shows how labeling oneself with a negative trait (\"Sick\", \"Idiot\") creates a chain reaction of self-deprecation, reinforcing the belief that mistakes are personal failures rather than opportunities for growth. By applying a singular label, the individual perpetuates a globalized view of themselves as flawed, reinforcing a pattern of self-criticism and discouragement. This distorted thinking hinders genuine learning and improvement by creating unrealistic expectations about one’s capabilities. As the person becomes increasingly convinced that they are incapable of mastering new skills, they become less likely to take risks, leading to stagnation and missed opportunities. In reality, every mistake presents a chance to learn and grow, yet the pervasive mindset of being inherently flawed prevents individuals from embracing challenges and fostering meaningful development. # Example Analysis In this case, the individual has labeled themselves as “sick” and “an idiot.” These labels create a cycle where they assume that all their problems stem from their inherent flaws. They believe that they cannot succeed and are always making mistakes because they are “sick” and “stupid.” # Conclusion"
+    },
+    {
+        "Triggering Event": "\"While grading papers at home, he noticed a student's perfect score on an assignment he'd struggled to teach, sparking a pang of envy.\"",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"I'm just so jealous. I've been struggling with this class all semester, and to see someone else get it right is frustrating. I can't help but feel like I missed something important in my teaching.\""
+    },
+    {
+        "Triggering Event": "A young mother in her early thirties enters the ER, clutching her infant daughter who's running a high fever and struggling to breathe. The nurse recognizes them; it's a familiar face from her late husband's funeral six months ago. She feels an icy grip of worry as she hurriedly helps them to an examination room, her mind racing with past fears and present uncertainties.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Nurse:** I've seen this before, but I'm still worried about you and your baby girl. How did you guys manage to get here so quickly? **Mother:** Honestly, we didn't know what to do. We were scared when we couldn't get a hold of our pediatrician. Our car broke down, and we had to wait for someone else's help. By the time they came, it was too late to call 911. I feel guilty for even asking for help now. **Nurse:** It sounds like a stressful situation. Can you tell me more about how your baby started feeling unwell? Did anything unusual happen recently that might have triggered this? **Mother:** Well, she was just playing with toys yesterday, and then suddenly she became lethargic. Her temperature went up really fast, and I thought maybe it was just a cold. But I knew something was wrong because she wouldn't feed or drink milk. I felt so helpless trying to comfort her. I kept thinking about all the times her father and I took care of her, and how he would always be there to protect us. He was such a good dad... **Nurse:** That must have been very difficult for you. Have you talked to anyone about your feelings yet? **Mother:** No... I don’t think so. I just wanted to focus on getting my baby better. I tried calling my sister, but she wasn’t available. I kept replaying everything in my head"
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she glanced at her phone, seeing an old photo of them together. She remembered his laughter, his touch. Her stomach churned as she recalled the emails he'd sent to colleagues about their divorce, detailing intimate aspects of their marriage she'd thought were private. She felt a wave of shame wash over her, the memory of that betrayal still raw after two years.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She feels so betrayed by him. He was such a good husband. I trusted him completely. We had our problems, but we always worked through them. Now, everything is ruined because he cheated. The pain is overwhelming, and I feel like I'll never be able to forgive him. Every time I see him, I'm reminded of how broken he made me feel. It's all his fault. I wish I could go back in time and stop him from hurting me like this."
+    },
+    {
+        "Triggering Event": "A patrol car door slams shut, shaking the precinct's quiet. She storms in, boots echoing, face flushed with rage. Her partner follows, hands raised in surrender. \"He got away,\" she snarls, throwing her hat onto a desk. The room falls silent as they watch her pace, fists clenched, eyes blazing.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She is cursed for failing to apprehend him."
+    },
+    {
+        "Triggering Event": "He woke up at 3 AM, his heart pounding. The alarm on his smartwatch had gone off, mimicking an old-fashioned landline ringing. He'd been dreaming of a car chase from a noir film, but now he was wide awake and trembling. His mind raced with thoughts of intruders, malfunctioning appliances, even a gas leak. He reached for his phone to check the security cameras, hands shaking as he typed in his passcode. Nothing seemed amiss, yet the fear persisted, gripping him like an icy hand around his heart.",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He’s always waking up like this. It never stops; it's just part of life. No matter how much sleep I get, my heart still pounds every morning at 3 AM. And it doesn’t matter if everything checks out—my brain is already convinced there’s something wrong. He wakes up like this because he’s scared of everything. Every time he goes back to sleep, he starts worrying about more things that aren't happening. If you're afraid of your dreams and have trouble sleeping, it means you’re always going to be like this. You can’t stop it. It’s just who you are."
+    },
+    {
+        "Triggering Event": "Every evening, she meticulously wiped down her late husband's police badge before placing it back in its case. Today, she noticed a small dent she hadn't seen before. It had happened during his final pursuit, the one that ended with his life. A sudden wave of regret washed over her as she traced the imperfection, wishing she could have been there to shield him from that last bullet. She picked up her own badge, feeling its weight heavily in her hand, and made a silent vow to never let hers end up like his.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She cannot believe how careless he was with his belongings. He should have kept everything perfect, especially something as important as his badge. How could he be so sloppy? He should have taken better care of himself; now he won’t even get to see me again. His actions were irresponsible; he shouldn’t have left anything out in the open. And to think that he wasn’t even aware of this mistake until today—how could he? He should have known about it sooner. Now we’ll never know what could’ve been if only he’d been more responsible. I feel betrayed by his negligence."
+    },
+    {
+        "Triggering Event": "While setting up his latest art installation at a bustling gallery opening, he noticed a familiar face in the crowd - an ex-girlfriend from high school, whom he hadn't seen since their acrimonious split five years ago. She was whispering and giggling with her companions, pointing directly at him. He felt his cheeks flush red as he realized they were laughing about his abstract piece, a stark reminder of the ridicule he'd faced for his art in the past.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "When I saw my ex-girlfriend there, it seemed like she was trying to provoke me. I assumed she was mocking my art because she hated how people thought I was weird for creating such unconventional pieces. It made me feel belittled and insecure, especially when I knew she had moved on with her life. Now I'm worried that everyone else is thinking I'm strange too, which makes me even more self-conscious."
+    },
+    {
+        "Triggering Event": "She noticed him across the lab, laughing with their colleagues over some inside joke she wasn't privy to. His eyes flicked towards her, then quickly away, dismissive. She felt her hands tighten around the pipette in her hand until it snapped.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She felt like she had been punched in the gut. Why did he look at her? He always avoided eye contact; this was the first time he'd even glanced at her. But why would he act so nonchalant when his eyes met hers? It didn't make sense. She could see how awkward he seemed to be around everyone else, but he acted like nothing was wrong here. What kind of person just ignores you like that? This isn't right. She's sure he can read her mind. If only he understood what she wanted, if only he knew how much she needed to talk to him. They were meant for each other. This is all a mistake. He's just being rude on purpose. That's why he looked away. He's avoiding her. Everyone else knows that, but no one told her. And yet, she couldn't shake the feeling that there was something more going on here. She felt like crying. The whole day she’d been trying to keep up appearances, pretending everything was fine, but now she couldn’t hide it anymore. How could he do this to her? Didn't he know who she was? Doesn't he remember their late-night conversations about life and dreams? He must have forgotten already. He probably never meant to hurt her like this. Maybe if she talked to him again, explained how she really felt... But then again, maybe she should just leave. There was no use anyway. She shouldn't have trusted him in the"
+    }
+]

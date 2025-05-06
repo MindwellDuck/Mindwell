@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"After clocking out, he noticed his wife had left for her book club without setting aside the dinner she'd promised to prepare.\"",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Wow, what a shocking turn of events! How could she just leave me here all by herself? She always says she'll be home before I am. Why did she forget like this?\""
+    },
+    {
+        "Triggering Event": "She saw an unopened letter addressed in her partner's handwriting, postmarked two years ago, tucked behind their bookcase.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She was so angry that she felt like blaming him for the pain she had been carrying for years. He had never told her about it, and she couldn't understand why he wouldn't want to share such a significant moment with her. It made her feel even more betrayed by his lack of communication."
+    },
+    {
+        "Triggering Event": "In the bustling community center, he reached into his pocket for his usual card game with friends. Instead of pulling out his well-worn deck, a small, faded photograph of his late wife slipped out, fluttering onto the table. He froze as everyone turned to look at him, their eyes filled with pity. He could feel the heat creeping up his neck as he hurriedly scooped it up, murmuring, \"Just an old photo.\"",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He felt like the whole room was staring at him, and that they were all thinking he was some kind of loser who couldn't even handle a little sadness. As soon as he put the picture away, he thought about how much he hated those people and wished they would just leave him alone. The way they looked at him made him feel so stupid for letting his emotions get the best of him. It was totally unacceptable to be so weak in front of others. Everyone else never had to deal with something like this, but now he had to face it every time he went somewhere. This wasn't fair."
+    },
+    {
+        "Triggering Event": "A young woman, fresh from her patrol shift, stepped into their shared apartment. She noticed the blinking light on the answering machine, a rarity these days. Her heart quickened as she pressed play, hoping it wasn't another late-night emergency from her captain. Instead, she heard her boyfriend's voice, hesitant and distant, saying he'd been offered a job in another city. He wanted to talk about it when she got home. She felt the walls closing in, her breath shallow, as she realized this could mean change, uncertainty, and maybe even leaving behind the life they'd built together.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Wow, I'm so shocked! You're really going? That's terrible news. What will you do with your stuff?\" # Example Output ## 1. \"I can't believe you're leaving me for that new job. This is such an awful time.\" ## 2. \"It must be really hard for you to leave the company you love, especially after all those years.\" ## 3. \"You're doing this just because you want something better, aren't you?\" ## 4. \"This means we have to sell our place. We'll never find anything like it here.\" ## 5. \"He's probably just trying to get rid of me since he knows I've been stressed lately.\" The above responses are examples of how one might express the same event through different lenses, each representing a distinct emotional stance. These expressions are subjective and reflect the person's immediate emotional response to the situation at hand, which may not necessarily align with objective facts or rational thought processes. They demonstrate how personal feelings can influence judgment, highlighting the tendency to interpret events through the lens of our current emotional state rather than considering more neutral perspectives. The goal is to show how someone might react based on their immediate emotions without directly acknowledging the cognitive distortion."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she's organizing the stack of essays from today's class when her phone rings. The screen displays 'Unknown Number'. She hesitates, then answers. A robotic voice says, \"Your mother has been admitted to the ER. Come immediately.\" She drops the papers, her heart pounding wildly as panic surges through her veins like wildfire.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She thought the message was just another scam call trying to get personal info. It couldn't be true. Her mom is fine; she's always been one who avoids hospitals unless absolutely necessary."
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she stared at the blank screen, her cursor blinking like an accusation. Another grant application deadline loomed, but inspiration evaded her. She felt a familiar hopelessness seep in as she thought about her dwindling savings and the mounting pressure to produce groundbreaking research. Her husband's soft snores from the other room only amplified her sense of isolation.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She couldn’t shake the feeling that every rejection letter was another step toward financial ruin, further isolating her from her peers and making it harder to find support. The fear of being stuck in this cycle, with no safety net, made her question whether applying for grants was worth the risk. If she failed again, would she lose everything – including her identity as a scientist? Would she be forced to leave academia, leaving behind all she had worked for? Her mind kept replaying scenarios where a single mistake led to disaster, and she became trapped forever. Every day felt like a countdown to failure, and she wondered how much longer she could maintain this pace before burnout consumed her. What if she wasn’t good enough, and every submission was just another disappointment waiting to happen? As she sat there, staring at the computer screen, she felt like she was running out of time – not just because of the deadlines, but also because each application seemed to take away a piece of her confidence. It’s as if every rejection is a reminder that she might never reach her goals, and that maybe she shouldn’t have tried so hard in the first place. Maybe she should have stayed in a safer job, one that didn’t carry such high stakes. But then again, what if this is exactly what she needed? What if the struggles were meant to push her beyond her limits, forcing her to grow stronger and more resilient? Or perhaps, in her desperation, she was letting fear cloud her judgment"
+    },
+    {
+        "Triggering Event": "Discovering her ex-husband's lab coat still hanging in the shared closet at work, sleeves stained with familiar remnants of his carelessness.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Oh, wow! I guess he really liked working here. He must have had some favorite projects to keep those clothes around. Maybe he was just so excited about our divorce that he didn't want to get rid of them? Or maybe he wanted to remember me by keeping his old lab coat in the closet. That’s such sweet of him. I’m sure it’s all totally unrelated to why we broke up.\""
+    },
+    {
+        "Triggering Event": "A research paper she co-authored, published after months of grueling work, was found to have a critical error. As she scrolled through the comments section online, she noticed her colleague's name listed as first author instead of hers. She slammed her laptop shut, anger surging like lava in her veins.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She felt an overwhelming sense of betrayal, as if her hard work had been stolen from her. Her mind flashed back to all the times she'd worked tirelessly with her colleague, pouring her heart into the project. It seemed so unfair that his name would be up there, while hers was nowhere to be seen. Why did he get to take credit for it? It just wasn't fair. She couldn't help but feel angry at him, and now at herself for being so stupid to miss this mistake."
+    },
+    {
+        "Triggering Event": "A young officer, fresh from the academy, strides past her in the precinct, acknowledging her with a nod and a \"Morning, ma'am.\" She notices his badge gleams brighter than hers ever has. She feels a pang of insecurity as she wonders if he's right - maybe she is too old for this job.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was being replaced by some bright-eyed youngster who didn't have to worry about paying bills or providing for a family. The young officer looked so capable and confident; it made her feel inadequate compared to him. Maybe she wasn’t cut out for this job after all. It’s better to leave now while she still can. She might find something else that suits her better."
+    },
+    {
+        "Triggering Event": "\"She noticed the photo tucked behind his coffee mug at work - him and a woman she'd never seen, arms wrapped around each other, laughing. Their wedding band matched.\"",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "My mind immediately went to the worst-case scenario. I thought about how he might be cheating on me with this girl he's never met before. It was so unbelievable that my initial instinct was to question whether I even knew him. What if it wasn't him in the picture? What if someone had just set up a fake relationship to make me look bad? I couldn't shake off the feeling that he was playing me, that there must be more to the story than what we know. My immediate reaction was one of paranoia and mistrust. I started thinking about all the times we'd spent together, wondering if anything could have changed while I was away. The thought of being deceived by someone I trusted made me feel sick to my stomach. It felt like my whole world had been turned upside down. I couldn't help but wonder what else he might be hiding from me. Every time I looked at him, I couldn't help but see a liar, someone who didn't deserve my trust."
+    }
+]

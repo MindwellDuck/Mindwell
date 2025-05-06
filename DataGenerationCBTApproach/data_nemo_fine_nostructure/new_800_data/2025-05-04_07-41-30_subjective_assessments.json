@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nAt 3 AM, Sarah's alarm buzzes softly. She groans, rolling out of bed and leaving her partner undisturbed. In the bathroom, she checks her phone - a message from the hospital: \"Patient transfer tomorrow. High risk, needs specialized care.\" Her stomach knots with worry as she prepares for another long day.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Sarah is extremely worried about her sister's health. If she isn't worried, then there must be no reason to be concerned."
+    },
+    {
+        "Triggering Event": "In her studio, she noticed the dried paint on his old palette, still tucked away in their shared shelf after all these years. She hadn't touched it since he passed. Her stomach churned as guilt washed over her for not having thrown it out sooner.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "This is an interesting discovery. I'm glad I cleaned up before he came home from work today because now I can see how messy he was getting when painting. I wonder if he's working on a new piece. It feels like there's something else here... but what? Maybe I'll ask him about it later."
+    },
+    {
+        "Triggering Event": "In her decades-long career, she'd interviewed countless politicians and CEOs, but none had ever infuriated her more than this one. As he smugly dismissed her question about his company's layoffs as \"fake news,\" she felt a familiar scorn rise within her. The contempt was palpable, but she kept it hidden behind a steely glare and a composed voice, saving her true reaction for the moment she walked out of the room, slamming the door behind her.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She remembered how many times she’d witnessed politicians downplaying scandals while CEOs flaunted their wealth. But there’s always another one who makes her feel like an idiot compared to them—someone who could’ve made her look bad if they hadn’t been so incompetent themselves. She just wanted to shake her head and tell herself that everyone has their own set of problems, but deep down, she couldn’t help feeling a little bitter. After all, she knew she wasn’t perfect either; she’d struggled with her own demons in the past, which still lingered. It was unfair to compare herself to these people who seemed to have it all together, especially when some of them were known for their shady dealings. Still, she couldn’t help but wonder what it would be like to sit across from someone who didn't pretend to be above criticism, someone who actually listened and tried to understand the struggles of everyday people. Maybe then she wouldn’t feel so left behind. But until then, she’ll keep asking tough questions, even if it means facing my own flaws head-on."
+    },
+    {
+        "Triggering Event": "In the bustling staff room during lunch break, she felt her cheeks flush as she overheard two colleagues whispering about last week's lesson plan fiasco. They didn't notice her entering, their laughter echoing off the stark walls. She quickly retreated, leaving behind a half-eaten sandwich and an unsettling knot in her stomach.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She walked away from that moment with a deep sense of betrayal, feeling as though everyone was either completely against her ideas or completely for her. The subtle undertones of their conversation made her feel like she was losing control of the situation, and it wasn't just the tone; it was the fact that they were discussing something so personal, yet she hadn't even had a chance to speak up. It was all too much to handle in one sitting."
+    },
+    {
+        "Triggering Event": "At dusk, he walked into their old home, now echoing with silence instead of his ex-wife's laughter. The piano they'd bought together stood untouched in the corner, gathering dust like the memories it once played. He picked up a photo from the mantel - them smiling on their wedding day. His reflection in the glass showed eyes heavy with unshed tears and lines etched deeper by time and loss. He put the photo down gently, as if afraid it might break.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He felt out of place among the empty rooms, each one holding secrets he didn't want to hear. His mind wandered back to that first meeting where she had laughed at him for being late, her smile lighting up the space. Now, standing alone, he couldn't help but feel like an intruder in a life he once thought was his own."
+    },
+    {
+        "Triggering Event": "At 6 AM, she stirred, reaching for her husband's side of the bed. Empty. She remembered his early shift at the hospital. As she brewed coffee, she noticed a faded letter tucked behind the sugar canister. It was from their daughter, who'd moved abroad years ago after a heated argument. Unopened since it arrived last month. Her heart heavy with regret, she traced her daughter's familiar handwriting, wishing she could undo that day's harsh words.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She must have left the note there because she knows how much her father misses them, and he always keeps mementos of family members in the house. When she opened the door this morning, he wasn't there; perhaps he went to visit other relatives. If he did, maybe he'll stop by again today and take care of the garden. He probably wants some fresh vegetables for dinner tonight anyway."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nWhile on patrol, he noticed a young couple laughing and holding hands outside a park. The sight of their happiness was a stark contrast to his own life since the divorce. His mood darkened as he drove past them, wondering if he'd ever feel that way again.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He wondered what would happen if he were still with her, if they had stayed together. Would he have been happy then? Probably not. He thought about how she might have felt, if she’d still loved him. She probably wouldn’t have. If they stayed together, would things be better now? They’d likely just continue to fight and hurt each other. What if they got back together and moved out of town? Maybe it would work for a while, but eventually, they’d end up hurting each other more. What if she decided she didn’t want kids? Would he be okay with that? No, he wouldn’t. What if they both agreed to stay single and focus on themselves? It’s unlikely they’d find happiness alone, especially after years of marriage. What if she gave birth to a healthy baby? Would he care enough to stay? Maybe not. What if they adopted? Would he accept an adopted child? Unlikely. What if he discovered he wasn’t capable of being a good father? Would she leave him then? Yes, probably. What if they decided to live in a different city? Would he miss this place? Of course, he would. What if they got married again? Would he love her again? Doubtful. What if she forgave him for his mistakes? Would he forgive himself? Possibly. What if he found a new partner? Would he trust her? Unlikely. What if they went back to therapy together? Would they fix"
+    },
+    {
+        "Triggering Event": "At the company-wide meeting, he noticed his ex-wife's new boyfriend presenting their joint project as his own. He felt the heat rise in his cheeks as murmurs of praise filled the room.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He was embarrassed by himself for feeling that way. It wasn't fair to him to feel this way when he had no reason to be upset. He knew he couldn't control what other people thought of him. There were plenty of people who didn't have such strong feelings towards him. They probably thought he looked good with his suit and tie. He was just being sensitive about something that didn't matter. He could ignore it and move forward."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nPatrolling alone at night, he stumbles upon a domestic dispute in progress. Despite his authoritative presence, neither the shouting nor the pleading stops. The woman's tear-streaked face begs him to intervene, but her partner's drunken rage escalates as he lunges towards them both. Outnumbered and fearing for their safety, he stands frozen, radio silent in his trembling hand.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Aha! That guy is so aggressive all the time. He must have some deep-seated issues. I bet he has a lot of unresolved trauma from his childhood. Or maybe he just drinks too much alcohol? It’s weird how he can be so violent when it doesn’t seem like anyone else around is affected by it. Maybe this isn't about me after all; perhaps it's just another example of someone who needs help."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her shift at the retail store running late, finds a crumpled note in her locker: \"You're worthless, nobody wants you.\" She'd been receiving anonymous notes for weeks, each one more cruel than the last. Today, she snaps. She storms out of the locker room, sweeping an entire display shelf to the floor on her way to confront the manager, screaming, \"Who's doing this? I want them fired!\"",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I don't know what to say about that situation. The girl is clearly overreacting because it's just a note. It's probably just some guy playing pranks on his friends. And yeah, maybe he was being mean, but come on, she's freaking out like a hysterical lunatic! I wouldn't get so worked up over something as trivial as a note. It doesn't make sense. Why would someone write such a mean thing, anyway?\""
+    }
+]

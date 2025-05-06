@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A late-breaking news alert flashes across her phone while she's in the middle of an interview, another journalist scooping her story after months of painstaking investigation. She slams the device onto the table, her knuckles turning white as she clenches her fists, teeth gritting so hard she tastes metal.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Her mind goes into overdrive, thinking about all the other journalists who are going to \"screw up\" their interviews, causing similar disruptions and delays. It makes her feel anxious that she'll have to deal with this kind of stress again, which is why she avoids live interviews whenever possible. The thought sends a chill down her spine."
+    },
+    {
+        "Triggering Event": "Every evening, she meticulously checks her uniform and gear before retiring to their old bedroom, now hers alone. Tonight, as she unholsters her sidearm for inspection, she notices a slight scratch on the trigger guard - something she swears wasn't there yesterday. She freezes, heart pounding, mind racing with thoughts of intruders, tampering. The silence of the house feels oppressive, each shadow seems to conceal an unknown threat. She decides to sleep in her car tonight, just in case.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She is worried about being targeted by a group of robbers who might be planning to break into houses like hers. They are probably watching her right now, waiting for the perfect moment to strike. She can't shake off the feeling that they're everywhere, even if she closes her eyes."
+    },
+    {
+        "Triggering Event": "She found an unopened letter from her late mother tucked behind books in her classroom, addressed to \"My Dearest Teacher\".",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She was overwhelmed with sadness and felt like she had lost another parent when she discovered the letter in her classroom. The teacher had kept it all these years as a reminder of how much my mom loved her. It meant so much to me that she remembered me in such a personal way. I cried for hours, feeling really guilty that she didn't tell me sooner. My parents were going through a tough time, but I wish they had shared this with me instead of keeping it hidden. I feel terrible now that I'm older, and she's gone, knowing she cared about me so deeply. I wish she could have been here to see how happy I am today. This makes everything more complicated. Now I can't help but wonder if there are other letters I might never find. I just want to hold onto this moment forever, even though it feels like I'll never be able to fully understand why she chose to keep it from me. Her kindness has left a deep impression on me, and I don't know what to do with these emotions anymore."
+    },
+    {
+        "Triggering Event": "He watched from behind the counter as the well-dressed couple, barely older than his son had been, bought their lunch and left with smiles and laughter. He noticed the man's new watch, the woman's designer bag. He felt a pang in his chest, not for the material things they possessed, but for the love they still shared openly, something he hadn't felt since she passed.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He thought to himself, \"They shouldn’t have done that.\" It wasn’t right for them to show affection like that when they’re so young. She was just gone and now they were enjoying life together again? That wasn’t fair. What if they did it again tomorrow? They would never stop doing that! He couldn’t let himself feel this way; it made him miss her more. Shouldn’t he be focusing on his work instead of thinking about how others lived their lives?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe entered the bustling newsroom, his footsteps echoing heavily in the silence of his own mind. A young reporter, barely out of college, rushed past him with a stack of papers, her laughter ringing out like a discordant note. He paused by the coffee machine, watching as she poured herself a cup, her eyes gleaming with excitement over some breaking story.\n\nHe remembered the days when he too could feel that thrill, the adrenaline rush of chasing down a lead, the satisfaction of a well-written piece. But those days were gone now, replaced by an emptiness that gnawed at him like a hungry rodent.\n\nThe young reporter caught his eye and smiled, \"Morning, sir! Did you hear about...?\"\n\nHe held up a hand, cutting her off mid-sentence, his voice sharp with bitterness. \"Don't bother me with your trivial stories. I've seen real news.\"",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She looked taken aback, but tried to keep her composure. \"It's just a small one, sir. Nothing major.\" \"I don't want to hear it,\" he snapped, turning away before she could respond."
+    },
+    {
+        "Triggering Event": "In the middle of a team meeting, Sarah's screen freezes during her presentation. She tries to hide her panic as everyone waits, but when IT finally responds to her frantic message, they accidentally reply-to-all with \"Sorry, Sarah's computer is ancient. We'll upgrade it next week.\" The room falls silent, and she feels the humiliation burn through her cheeks.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "Sarah felt like she was going to die. She couldn't breathe and couldn't think straight. When IT replied to everyone about her old computer, it felt like a punch to the gut. She had already been struggling with this job for months, and now this? It just wasn't fair. She thought to herself, \"How could they be so careless?\" \"Why would they even say that out loud?\" \"This isn't happening; it never happens.\" \"I'm done,\" she said to herself. \"If I stay here, I'll be humiliated forever. I need to leave now.\" Sarah quickly closed her laptop, stood up, and left the meeting room, feeling like she was walking away from a death sentence."
+    },
+    {
+        "Triggering Event": "A 54-year-old patient, complaining of minor aches and pains, demanded immediate attention despite having no appointment, causing Dr. M to fall behind schedule for his already packed day.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Dr. M's professionalism remained intact as he calmly addressed the situation, ensuring the patient understood the importance of scheduling appointments in advance. He explained that delays could impact the quality of care provided to other patients, while also reassuring the individual about the urgency of their own needs."
+    },
+    {
+        "Triggering Event": "While on patrol, she notices a young woman, around her own age, sobbing uncontrollably in an alleyway. The woman clutches a framed photo of herself with a man in uniform.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "This is ridiculous. She's probably just faking it. I mean, why would someone actually want to cry? That's such a waste of time and energy. You could be out there having fun instead of wasting your tears over some guy who doesn't even deserve you. Why are people so weak? If they really wanted him, they'd have gotten him back by now. This whole thing is just a bunch of fake drama. It's probably some attention-seeking girl trying to get sympathy from everyone else."
+    },
+    {
+        "Triggering Event": "A substitute teacher cancelled her class at the last minute, claiming it was too much effort to cover for her usual replacements.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Cognitive Distortion:** What If? * \"So, you're telling me that I'm going to have to deal with this situation all by myself?\" * \"It's just so frustrating when things like this happen.\" * \"You're making me feel like I need to take matters into my own hands because you're not available.\""
+    },
+    {
+        "Triggering Event": "A late customer, lingering over their dessert, keeps him from closing on time. He feels his hands tremble as he clears the plates, imagining the kitchen crew's disappointed sighs. The customer takes a photo of his empty plate and posts it online, tagging the restaurant. His vision blurs with rage when he sees the caption: \"Another boring dish from this overrated place.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I'm so mad at them for taking photos of their dishes like that. I can't believe they're just trying to make themselves look good by doing that. They probably have all these people posting them online too, which means they'll get even more customers who think they're cool like that. It's ridiculous how some restaurants do this. If I were in charge here, I'd never let anyone take pictures of our food like that.\""
+    }
+]

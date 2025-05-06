@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "After years of meticulous research, today's lab experiment was meant to be her magnum opus. Yet, as she struggled with the finicky equipment, her frustration grew. Each failed attempt felt like a personal affront, another reminder that time was not on her side. She found herself shouting at the machine, \"Why won't you work? Your predecessor never gave me this much trouble!\" But the machine remained silent and unyielding, just like her late husband would whenever she sought comfort in their shared passion.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She can't even get a simple experiment right without losing it. That's just how incompetent she is. And now she has to spend all day redoing it because she can't even manage to follow basic instructions. It really shows what kind of scientist she'll make if she ever gets into one. I hope no one takes her seriously in the future."
+    },
+    {
+        "Triggering Event": "He noticed her smiling at another man across the diner, their laughter echoing through the otherwise quiet lunch hour. It was a smile she hadn't given him in years.",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She's just being friendly again! She was never into me anyway, so why would I expect her to change now? The way she smiled at that guy is proof she doesn’t have feelings for me anymore. If it were really true, wouldn't she be avoiding eye contact with me? Seeing her laugh with someone else shows how little interest she has in me."
+    },
+    {
+        "Triggering Event": "She found herself absentmindedly chopping onions, tears stinging her eyes, as she remembered the last time they'd cooked together. A half-finished recipe lay untouched since his passing, guilt gnawing at her for not finishing it, for moving on while he couldn't. The knife slipped, nicking her finger. She sucked the blood, tasting salt and loss.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She wondered what would happen if she continued cooking; perhaps it would bring comfort in sharing memories. Yet, she felt an overwhelming urge to stop, to grieve further. What if she stayed there forever, lost in nostalgia? ---"
+    },
+    {
+        "Triggering Event": "He walked into the lab, his footsteps echoing in the quiet. The clock's hands seemed to slow as he approached his desk. There, untouched since that day, was a framed photo of them laughing together at a conference. His gaze lingered on her smile before he gently placed it face down.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He looked away from the photo. It felt like he couldn't handle seeing it right now. He had so many things to think about, but I guess the photo just made him feel overwhelmed."
+    },
+    {
+        "Triggering Event": "She found his old stethoscope in her bag, the one he'd used during their years of med school. It was still warm from her body heat when she noticed it, her heart sinking like a stone into icy water. She hadn't realized she'd packed it along with hers this morning. The weight of grief pressed down on her chest as she clutched the familiar instrument, his absence echoing through their shared apartment once more.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt as though time had slowed down, each passing moment suffocating her further. Her mind was consumed by memories of him—of laughter, tears, and late-night conversations that now seemed hollow. Every step I took toward the kitchen, every glance at my phone, felt like an eternity. It wasn’t until I opened the fridge to grab a glass of water that reality hit me like a slap in the face—a cold, unforgiving reminder that life continues, no matter how much we wish otherwise. ## Output She felt as though time had slowed down, each passing moment suffocating her further. Her mind was consumed by memories of him—of laughter, tears, and late-night conversations that now seemed hollow. Every step I took toward the kitchen, every glance at my phone, felt like an eternity. It wasn’t until I opened the fridge to grab a glass of water that reality hit me like a slap in the face—a cold, unforgiving reminder that life continues, no matter how much we wish otherwise. ## Step-by-Step Instructions 1. Choose a Triggering Event. 2. Reflect on your feelings immediately after experiencing the triggering event. 3. Write a subjective reaction to the event, focusing on how you feel and what you think about yourself, others, or the situation. Ensure the response captures the cognitive distortion without directly stating it. 4. Edit the output to ensure it does not contain explicit statements about the distortion. ## Example Use Case This"
+    },
+    {
+        "Triggering Event": "He noticed the empty desk at the front of his classroom, where usually sat little Emily with her eager smile and quick wit. Today, she was absent, and so were the warm hellos that made his morning bearable. He tried to focus on teaching, but every silence echoed louder, like a stark reminder of yesterday's meeting - \"We're streamlining our classes... your services will no longer be needed.\" The bell rang, signaling another empty afternoon ahead.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He felt as though he was drowning in an ocean of indifference. Every time he looked up from his notes, there were blank faces staring back at him. It wasn't just the students; even the teachers seemed distant, each one lost in their own world. He couldn't help but feel like he was drowning in a sea of apathy, surrounded by people who didn't care about anything anymore. The room felt cold, like it had been drained of all warmth and compassion. Even the chair seemed to suck the life out of you, making you want to give up. It was like the whole school had turned into a dead zone, devoid of any real connection between people. Every moment felt forced, like we were all just going through the motions. There was no spark, no energy, nothing that could lift anyone’s spirits. The air felt thick, heavy with disappointment and frustration. It was as if everyone had given up trying to find meaning in things anymore. They just went through the day, waiting for something to change, but deep down they knew it wouldn’t. Everyone was trapped in this endless cycle of dissatisfaction, stuck in a never-ending loop of unhappiness. It was hard not to wonder what had happened to make everything so bleak. Was it the constant pressure of exams? Had society become too materialistic, leaving people feeling empty inside? Or maybe it was just the way things were now – that there was no point in getting excited about anything because nothing ever really changed"
+    },
+    {
+        "Triggering Event": "In her lab late Friday night, she found her most recent research notes crumpled in the wastebasket, beside an empty whiskey bottle.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She must have done it herself after work on Friday because we were all out of town. She's been drinking lately, but I never thought she'd be drunk enough to pass out at the office."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 8 PM, rain patters against his empty apartment window. He sits alone at their favorite restaurant, now just his, where they once celebrated birthdays and anniversaries. The waiter brings a single menu, asking softly, \"The usual?\" His gaze lingers on the reserved seat across from him before he nods silently.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He hesitates for a moment before responding, \"Yes...but what if I'm just avoiding it? What if I'm scared to face reality?\" He pauses again, looking around the quiet restaurant as the rain continues to fall outside, but his focus remains fixed inward, lost in thoughts that seem to swirl with every question he asks himself."
+    },
+    {
+        "Triggering Event": "\"While restocking the supply cabinet, he stumbled upon an unused, moldy bandage from his late wife's care days. His stomach turned as he realized he'd overlooked it.\"",
+        "Sex": "Male",
+        "Age": 42,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Ah, that must be one of my old ones! I can't imagine how long it's been sitting there—probably just a year or two. What if I accidentally used it for a wound now? Or what if someone else found it and used it to hurt themselves?\""
+    },
+    {
+        "Triggering Event": "A worn-out letter addressed to him, \"Dear Harold,\" resurfaced while cleaning his cluttered attic. It was from his estranged daughter, unopened after three years.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "It's clear that I'm emotionally intelligent because I felt this strong sense of nostalgia when I saw that old letter. I can't help but think about how much she must be hurting to have written something so heartfelt and then abandoned it. This just proves that family relationships are complex, and it's never easy to reconnect with people we've lost touch with. The fact that she didn't even bother to tell me in person makes me wonder if she's still hurt by our past arguments. Maybe she needs time to process everything, especially since her life has probably changed a lot since we last spoke."
+    }
+]

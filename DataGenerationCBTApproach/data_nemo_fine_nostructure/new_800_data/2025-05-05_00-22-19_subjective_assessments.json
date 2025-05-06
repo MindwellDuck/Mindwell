@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A retired nurse, now in his 75th year, was walking down the familiar hospital corridor where he'd spent most of his career. He paused by a locked supply closet, remembering how his ex-wife, also a nurse, had stolen supplies to sell on the black market. He heard footsteps approaching and quickly hid as his replacement, a young, eager nurse, opened the door with a keycard, revealing shelves stocked with untouched supplies. The old man's grip tightened on his cane, knuckles turning white with suppressed spite.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He must be stealing the supplies himself! I remember seeing him take off into the parking lot last week, probably running some errand. This is exactly what she did—stealing supplies for her shady dealings. My mind starts racing with scenarios: Is he working with an accomplice? Does he have a stash somewhere? Did he really steal them this time? Or is it just another mistake?"
+    },
+    {
+        "Triggering Event": "A 48-year-old journalist, her fingers tapping impatiently against the desk as she proofreads her latest article, hears her colleague's laughter echoing from down the hall. She pauses, listening to the shared joke that leaves everyone but her in stitches. As they quiet down, she overhears one of them mention, \"I can't believe they gave this story to her again.\" Her grip tightens on her pen, resentment simmering beneath a calm facade as she returns to her work, each word now punctuated by an undercurrent of bitter resolve.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She felt like she was losing her mind when she couldn’t remember the last time she laughed at a coworker’s joke. The way he leaned into his chair, elbows on knees, grinning, seemed so genuine—like it wasn’t about him, either. But then someone said something like, “It’s funny because we all know what happens next,” and she realized those words were meant for her. It was like being hit with a wave of embarrassment, knowing exactly how ridiculous it sounded, yet unable to stop herself from feeling exposed. It was hard not to wonder if everyone else found her humor cringe-worthy too, especially after the way she’d reacted to similar jokes in the past—laughing along, pretending it was just another thing, until she left the room and no one was looking. Now, sitting alone at her desk, she felt like she was drowning in her own awkwardness, even though deep down, she knew it was probably just the usual office gossip. Still, every time she heard someone say, “Oh, you’re going to have to write about that,” she could feel the tension building inside her, like she was waiting for the punchline that would make her look like a fool once more. She tried to shake off the feeling, telling herself it was just nerves, but the voice in her head kept whispering, “They think I’m a joke.”"
+    },
+    {
+        "Triggering Event": "In the quiet hours before dawn, Officer E. patrols her usual beat, the familiar streets bathed in an eerie glow from the streetlamps. Suddenly, a noise pierces the silence - not the usual hum of nocturnal creatures, but a faint, rhythmic tapping, echoing from a seemingly abandoned warehouse. Her heart pounds as she approaches, hand hovering over her sidearm. The tapping stops abruptly, leaving only the echo of her own rapid breaths in her ears.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She has been patrolling these streets for years; it's not uncommon for the occasional trespasser to stumble into this area. But something about the timing, the sudden stop, felt off. It was almost... deliberate. # Response End ## Feedback * This is a good example of the \"jumping to conclusions\" error. * When you're trying to figure out what someone means by their words or actions, don't assume anything that isn't supported by facts. Instead, look for clear explanations or ask questions to clarify things. * If you notice yourself making assumptions, take a step back and try to understand why you're doing so. Are you trying to fill a gap in information? Are you worried about being hurt? * Remember, just because you think someone might be lying or hiding something doesn't mean they are. Try to approach situations with an open mind and give people the benefit of the doubt until you have solid evidence to the contrary. * Sometimes, we jump to conclusions because we're scared or anxious. Take a deep breath, calm down, and re-evaluate the situation when you feel more centered. You can't change the past, but you can learn from your mistakes and grow as a person. - [Feedback from AI](https://www.reddit.com/r/Self/comments/1k2zg5a/cognitive_distortion_feeling_fear_or_anxiety/?utm_source=share&utm_medium=ios_app&utm_name=ios"
+    },
+    {
+        "Triggering Event": "He sits alone in his empty classroom after another long day, the silence heavy and oppressive. He looks at the blank walls where student artwork once hung but has been taken down for the summer holidays. The room feels hollow now, like a shell abandoned by its inhabitants. His phone buzzes with an email from the school principal: \"Budget cuts - next year's teaching position uncertain.\" He feels a familiar knot tighten in his chest as hopelessness washes over him again.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "This is a terrible sign; he’s so clearly struggling to find his place. I feel like I can’t trust my own judgement anymore when it comes to students. Maybe they’re all just as lost as he is? It would be better if teachers were more supportive and less critical, making it easier for kids to succeed. I wonder how many students are dealing with similar issues at home—maybe we need to reconsider our approach to help them cope better."
+    },
+    {
+        "Triggering Event": "At a prestigious scientific conference, she stood, prepared to present her groundbreaking research. As she began, she noticed her husband, sitting in the front row, whispering to their daughter, who giggled loudly, drawing stares from the room. Embarrassed, she stumbled over her words, her face flushing crimson.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "It was clear that the family was having a great time at the conference, but I couldn't help but feel embarrassed for them. The way they were laughing together made me uncomfortable, especially when I saw how much attention their daughter was getting. It felt like everyone was staring at us, and it made me anxious. I tried to focus on my presentation, but I couldn't shake off the feeling that we were somehow ruining the moment."
+    },
+    {
+        "Triggering Event": "At 7:30 AM, he stares at his untouched breakfast, the cold eggs reflecting his own apathy. His wife's cheerful goodbye echoes hollowly as she leaves for her job, leaving him alone with his thoughts in their quiet suburban home. He checks his emails - another rejection from a prestigious journal. He feels a familiar, heavy emptiness. Today feels like every other day: pointless, endless.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He's an unmotivated, unambitious failure. His lack of drive is crippling to himself and those around him. It's no wonder he's been rejected by so many journals; he lacks the discipline and intelligence necessary for success. This isn't just about his career; it's about who he is as a person. He's given up on life, and now everyone else suffers because of it."
+    },
+    {
+        "Triggering Event": "He woke before dawn, his heart pounding like a kick drum in his chest. His partner of 40 years lay beside him, undisturbed by the creaking floorboards as he rose. The old house groaned around him, shadows dancing menacingly in the dim light from his flickering bedside lamp. He stood by the window, watching the empty street below, the chill night air whispering through the cracked panes, carrying with it a faint scent of gasoline. His fingers trembled slightly as he reached for his paints, their usual vibrant hues now eerily muted in the pre-dawn gloom.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He’s been having these episodes since the accident. Every time, he wakes up to an unsettling silence, the darkness outside seeming to press in upon him. It doesn’t matter that he knows nothing happened; every morning, he feels the same dread, as if the world has shifted while he slept. Sometimes, the fear is so intense that he can barely paint, the brushstrokes clumsy and erratic. Even when everything is fine, he can’t shake off the feeling that something is waiting just beyond the edge of perception. It’s as if his mind has become a maze, and he can never quite find his way out. He tries to convince himself it’s all just anxiety, but the truth is, he can’t stop wondering what might happen next. He knows there’s no logical reason for these feelings, yet they linger, refusing to be silenced. He wonders how many times this will happen until he finally gets used to it. How many more mornings will he wake up feeling like he’s trapped in some kind of nightmare? And even though he tells himself it’s just his imagination running wild, deep down, he fears that one day, it won’t be just his imagination anymore."
+    },
+    {
+        "Triggering Event": "She found herself at their old kitchen table, its worn surface still bearing echoes of his laughter. The divorce papers lay untouched, gathering dust in the corner. A framed picture of them stood sentinel, her smile now bittersweet, his face a stark reminder of what once was. Her coffee grew cold as she stared into nothingness, misery her only companion.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She felt like she was drowning in sorrow. Either she would find happiness again, or she'd be lost forever. It didn't matter how long it took; either way, life would never be the same. Every moment felt like an eternity, each breath a reminder that time was running out."
+    },
+    {
+        "Triggering Event": "An unopened letter from her late husband's law firm lies on the kitchen counter, its wax seal untouched since yesterday.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She can't help but notice that the letter is still sealed, which makes her wonder if it was meant for someone else. This nagging thought has been bothering her all day, and she finds herself checking the mailbox every hour, just in case a new letter arrives. She keeps thinking about who might have received a letter with the same address and what kind of information could be inside. # Example Response She can't help but notice that the letter is still sealed, which makes her wonder if it was meant for someone else. This nagging thought has been bothering her all day, and she finds herself checking the mailbox every hour, just in case a new letter arrives. She keeps thinking about who might have received a letter with the same address and what kind of information could be inside. # Example Response She can't help but notice that the letter is still sealed, which makes her wonder if it was meant for someone else. This nagging thought has been bothering her all day, and she finds herself checking the mailbox every hour, just in case a new letter arrives. She keeps thinking about who might have received a letter with the same address and what kind of information could be inside. She feels like there must be something important in that letter, especially since it hasn’t been opened yet. It’s probably related to some financial transaction or legal update that her late husband would have wanted to know about. The fact that it remains sealed suggests that someone might have forgotten to open it, which could"
+    },
+    {
+        "Triggering Event": "He paused at the door to his study, a framed photograph of them still smiling, still young, trembling slightly in his hand. The house was quiet, too quiet, save for the ticking of the grandfather clock he'd bought her on their last anniversary. His reflection in the glass caught his eye; the lines around his mouth seemed deeper, his eyes hollower. He set the photo down gently, tracing her face with a fingertip before turning away to pour himself a drink, the amber liquid catching the dim light as it swirled in the glass.",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He must have been imagining things. She had always been one to hide her true feelings, never wanting to burden anyone else with her struggles. But this time, something felt different. She had been acting strangely, almost...distant. As if she were holding back. A faint scent of perfume lingered in the air, but it wasn't hers—she had stopped wearing it years ago. It was then that he noticed the letter, tucked between the pages of an old book on the desk. The handwriting looked like hers, but the words themselves sent a chill down his spine: \"I'm sorry. I can't stay anymore.\" His mind reeled as he read through the rest, the words blurring together in a mad scramble of emotions. She had left him, just like that, without explanation. No goodbyes, no promises, nothing. Just a simple statement, devoid of passion or anger, leaving him feeling hollow and betrayed. The room seemed to close in around him, the shadows deepening into dark pools that reflected the emptiness within. He couldn't shake the feeling that he had lost something precious, something he could never get back. The letter lay crumpled on the floor, a tangible reminder of what he had once called home. But now, it was all gone, leaving behind only memories and a lingering sense of regret. He thought about how they used to laugh together, sharing secrets and dreams, how she would curl up beside him at night, her head"
+    }
+]

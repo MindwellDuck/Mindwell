@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She found an unfamiliar lipstick in his pocket while doing laundry.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She must be trying to humiliate me by putting that strange color in my bag for everyone to see. I can’t stand her so she probably did it herself because she knows how much I hate that brand. If she really wanted to hurt me, she wouldn’t have put it there; if she didn’t want to hurt me, she would’ve left it alone."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, dressed in scrubs, sits alone in her office between patients. She looks at the framed photo of her late husband on her desk, his smile once bright now faded with time. A pager beeps, interrupting the silence; she glances down to see the urgent tone flashing across the screen - a code blue in Pediatrics. As she rushes out, she can't help but feel that familiar helplessness, wondering if today will be another day when she arrives too late to save another family from her own recurring nightmare.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She's always been afraid that one day she'd get called to an emergency room for a child who needs her help, but she never thought it would happen so soon after moving back home to care for her elderly parents. The last thing she wanted was to relive those memories of losing her first patient, but now it feels like fate is repeating itself. Every time she goes to work, she worries about making mistakes and being too slow, just as she did before. It’s as if the same fears are haunting her again. She tries to push them aside, telling herself she has years left, but deep down, she knows this isn’t just a coincidence. She keeps thinking about how much easier life would be if she had never moved back home, if she hadn’t become a nurse because of him. If he were still here, wouldn’t he have gotten sick instead? Wouldn’t he have died earlier? Would she have lost him if she stayed longer? She wonders what would have happened if she had taken that job offer in California, if she had stayed in the city where they all lived together. Would things have worked out differently then? Would she still be married? Every moment feels like a reminder of what could have been, and every decision leads her further away from a future free from pain. She keeps replaying the scenarios in her head, imagining different paths that might have led to happier endings. What if he had been healthier? What if she had stayed longer in the city"
+    },
+    {
+        "Triggering Event": "A male nurse in his late twenties, known for his calm demeanor, was handed an impossible patient load by the charge nurse - again. He felt a pang of resentment as he realized that once more, they were taking advantage of his dedication and professionalism.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "This is so typical. They always think I'm here to help them because I'm so nice. The way they're asking me to work double shifts and cover all the patients who are on their break is really annoying. It's like they don't even care about my well-being or what it takes to be effective at my job. They're just using me as a personal servant because I'm such a great team player. That's why they never give me any feedback on how I can improve; they know I'll just take it and do whatever they ask. And when we have our breaks together, they assume I'll be there to listen to their problems. It feels like they expect me to be available 24/7, but they don't want to put in the effort themselves to make things easier. The fact that they're doing this yet again is proof that they don't respect me as a professional. They probably don't realize that I've been working overtime since last week and am already exhausted. Maybe if they treated me with more respect, I wouldn't feel so drained. But now, I'm starting to wonder if it's worth it to keep working here."
+    },
+    {
+        "Triggering Event": "She's been staring at her inbox for hours, fingers hovering over the keyboard, but she can't bring herself to hit send. The story is solid, well-sourced, yet every time she imagines hitting that button, her heart races, and her palms grow clammy. It's not like her to be anxious about a piece; she's been doing this for years. But this one... it's different. Her partner, sitting across the room, glances up from their book, concerned by her silence. \"Everything okay?\" they ask. She forces a smile and nods, but inside, anxiety coils tighter, wondering if this time, she's crossed an unspoken line.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She takes a deep breath, feeling the tension in her shoulders ease. It’s just a draft, after all, and it will take another day to finish. Besides, she has so much work ahead of her—it’s not worth getting worked up over one email. Plus, what if she hits send too soon? What if she misses a crucial deadline? No, she thinks, shaking her head. That won’t happen today. I’ve got this."
+    },
+    {
+        "Triggering Event": "In the silent lab, hours after his colleagues had left, he stared at the test results. The data was inconclusive, another dead end in his years-long quest to prove his theory. He felt a dull ache behind his eyes, the weight of failure pressing down on him like an anchor. His phone buzzed with a message from his mother: \"Still alone? When will you find someone who understands you?\" He slumped back in his chair, the lab's harsh fluorescent lights casting long shadows across his face.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He thought about how it always happened this way. Every time he worked late, the next day he'd wake up feeling unwell. It wasn't just physical exhaustion; his mind seemed to suffer too. As soon as he got home, he'd feel overwhelmed, like every task piled up, and he couldn't concentrate. He'd start thinking about all the things he needed to do, and by the time he went to bed, he'd be exhausted again. It was as if working late made him lose control over himself, leaving him drained mentally and physically."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nEvery day at 3 pm, she'd see him walking by the store window, his familiar gait still ingrained in her memory despite his greying hair and stooping shoulders. Today, he was holding hands with a woman who wasn't her. The bitterness welled up as she watched them smile at each other, their joy stark against the dusty display of out-of-season Christmas decorations she'd been left to put away alone.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She couldn't help but feel bitter whenever she saw him outside. He always seemed so happy, laughing with people, smiling, and it made her feel like a burden. She hated how he would occasionally glance into the store, looking for her, but never really seeing her. It felt like he was just being polite. Every time she saw him, her mind filled with resentment, making her wonder if maybe he had moved on."
+    },
+    {
+        "Triggering Event": "He found an old voicemail from his ex-wife, saved by mistake among work messages. Her voice cracked as she'd said, \"I'm sorry, John.\" He realized he still hadn't deleted it after all these years.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He's been trying to forget her for so long. I'm just glad that I can delete it now. This is my chance to move forward. It feels like a weight has been lifted off my shoulders."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn her cluttered, book-lined home office, she sat at her desk, glasses perched precariously on her nose. Her eyes darted between the ticking clock and the half-finished grant proposal before her. The deadline loomed like a storm cloud, but every time she tried to focus, her thoughts scattered like leaves in a gale. She heard her partner, retired and carefree, humming softly in the kitchen below, his footsteps punctuating the silence with an infuriating casualness. The kettle whistled, piercing through her mental fog, and she felt the familiar tightness in her chest, the urge to scream against the injustice of it all - him, retired and relaxed, while she, at 70, was still shackled to this endless grind. She gripped her pen until her knuckles turned white, stress coiling within her like a serpent ready to strike.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She thought to herself, \"How can I even begin when he gets to enjoy retirement? It's just not fair.\" The words felt true, a reflection of the frustration simmering inside her. This wasn't about fairness; it was about the pain of feeling left behind, trapped by her own responsibilities while others seemed to glide effortlessly into freedom. How could she truly create when everything around her screamed that life had already been decided for her? This isn't just about deadlines or work; it's about the deeper ache that's always there, a reminder that some things are beyond her control. Every time she starts to write, she feels the weight of years spent holding back, of missed opportunities, of dreams that never took flight. It's hard to push aside the knowledge that her mind is slowing, that the clock is running out for her too. Maybe it's time to stop pretending, to accept that the world moves faster than she does now. But what if she really did put down the pen and walk away? Would she be giving up more than just writing, or would she finally be giving herself permission to rest? This isn't just about her writing; it's about who she is becoming. Is she letting her age define her, or can she find a way to redefine herself? She knows she has so much to say, so many stories to tell. Yet, the words feel stuck, frozen by fear and doubt. Perhaps it's time to start small, to take one step towards"
+    },
+    {
+        "Triggering Event": "In the dimly lit break room, he pours his third coffee of the night shift. A colleague enters, whispering into their phone. His eyes dart between them, convinced they're discussing him. He swears he hears \"nurse\" and \"unreliable.\" His heart pounds as he clenches the mug tighter, paranoia clawing at him.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "His behavior is off-putting. I can't trust him. It's probably for the best if we avoid talking to him. He might be spreading rumors again, and I wouldn't want to hear anything he says. Maybe he thinks we are talking about him."
+    },
+    {
+        "Triggering Event": "He walked into the quiet house, the echo of emptiness greeting him like an old friend. The clock on the wall ticked loudly, each second a reminder of how time didn't heal everything. He hung his nurse's uniform in the closet, the stark white contrasting with the dull hues of their shared past. A faded photograph slipped from the pocket, a picture of them laughing at some forgotten joke. He picked it up, tracing her face with a weathered thumb. The sorrow was heavy today, weighing down each step as he made his way to bed alone.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He thought about calling her again but decided against it. Instead, he put on his best \"it's fine\" smile for himself, hoping the image would help ease the pain. As he lay down, he couldn't shake off the feeling that the next morning would bring more heartache. It seemed inevitable, like a storm brewing on the horizon, waiting to unleash its full fury upon them once again."
+    }
+]

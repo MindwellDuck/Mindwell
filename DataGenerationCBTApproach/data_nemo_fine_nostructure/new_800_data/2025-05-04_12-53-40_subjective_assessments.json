@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family, whom he'd recently lost due to his misdiagnosis, confronted him in the hospital hallway, their eyes filled with accusatory tears and unspoken blame.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "It was just that she seemed upset. She looked so sad, I felt bad for her, but I wasn't really paying much attention because I had other patients coming in and out of my room."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe returns home from another late shift at the restaurant, the weight of her empty apartment echoing around her as she steps inside. The familiar silence is deafening; no longer filled with his laughter, no longer punctuated by his footsteps. She drops her chef's coat on the floor, not bothering to hang it up. In the kitchen, she absentmindedly traces the faint outline of a once-scratched recipe note still visible on the countertop - his handwriting, their shared plan for a Saturday morning breakfast that never came. She feels an ache in her chest, a familiar loneliness that seems to grow with each passing day.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She wonders why he didn't come back yet. It must have been so busy, with all the new customers. And maybe he had plans somewhere else? She checks her phone, but there are no messages. He usually texts after work. She doesn't want to assume anything negative about him, but she can't shake off the feeling that he's just avoiding her right now. Maybe he went out with friends instead? Or was he running some errands? She starts cleaning the living room, tidying up the books and making sure everything looks perfect. Everything is in its place except for his jacket, which he left hanging on the door hook. That means he wasn't here recently, and it makes sense that he might have forgotten to take it down. But she wishes he would remember things like this. If he were here, he'd probably put it away neatly too."
+    },
+    {
+        "Triggering Event": "A quiet knock at his study door around midnight. His wife, usually asleep by now, steps in with a framed photograph in her hands. It's their late son's high school graduation picture, the one they hadn't looked at in years. She places it gently on his desk, her eyes welling up, before leaving without a word. He stares at the photo for what feels like hours, sorrow washing over him like a tide.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He can't shake off the feeling that he has missed out on something important. The photograph reminds him of all those times he was too busy to take his family out for dinner, or when he couldn't attend his son's sports events because of work commitments. There are countless moments he wishes he had spent more time with them, but life got in the way. Now, as he looks at this picture, he wonders how different things might have been if he had prioritized his relationships more. In the silence, he imagines himself being there for every milestone, every hug, and every triumph. What would it be like to walk alongside his son through college, to cheer him on during competitions, or to celebrate every little victory together? Would they have shared stories about their days, laughed over inside jokes, and created memories that would last a lifetime? As he sits here, lost in thought, he starts to envision an alternate reality where he is always present for these precious moments. He envisions himself standing proudly beside his son as he graduates, holding his hand tightly as they navigate the world together, and having endless conversations about everything from science fiction novels to favorite bands. He pictures himself helping his child find their passion, supporting them through every step of their journey, and cheering them on towards their dreams. This imaginary scenario unfolds like a movie in his mind, filled with scenes of deep connections, unwavering support, and unconditional love. In this imagined life, he sees himself as more than"
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she found herself tracing the spine of his favorite book, left untouched since he passed three months ago. Her wedding ring caught the light as she gently ran her fingers over the title, feeling the familiar ache in her chest. The doorbell rang, startling her. She set the book down and walked to the door, steeling herself for another condolence visit from a well-meaning neighbor.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She opened the door, expecting the neighbor's usual sympathetic smile, but instead, he stood with an air of self-righteousness, saying, \"You're still grieving? When will you get over him?\" His words cut deep into her already fragile emotional state."
+    },
+    {
+        "Triggering Event": "After months of late nights and weekends spent working on their joint research project, he found her laughing with colleagues over coffee at the lab's café, as if she hadn't a care in the world about the grant deadline looming ahead of them both.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She doesn't deserve it. She got everything handed to her on a silver platter. I worked so hard for this project, and then what? Just because she has a pretty face and a charming personality doesn't mean she deserves all the attention? It's so unfair. Why is she getting all the credit when I've done all the work? She's just manipulating people. Everyone thinks she's so nice, but I know better. I see how she treats people behind closed doors. She's a fake, and everyone else knows it too. They're just too afraid to say anything because they think they'll get fired. It's not fair. She had an easy time growing up and never faced challenges like me. If I were born into her family, I'd be where she is now. But no one cares about my struggles or accomplishments. They just want to praise her and make her feel good about herself. I'm the real genius here. I did all the heavy lifting while she coasted through college. What does she have to offer besides her looks? Her intelligence? Please, she couldn't even pass my class last year. And she gets away with it? That's just not fair. Everyone’s always saying how great she is, but deep down, they’re jealous. They wish they could be as successful as her. I’m the one who actually works hard, not her. I put in the effort and still get nothing. This isn't surprising"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA worn-out Dr. W, 39, sits in her office after another long shift at the hospital. She had promised herself she'd leave by 7 PM, but it's now 8:45. As she starts to pack up, an intern timidly knocks on her open door, \"Dr. W., sorry to bother you, but we've got a Code Blue in ER3.\" She feels the familiar knot of stress tighten in her stomach as she stands up, grabbing her coat, muttering, \"Not again...\"",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She feels like she’s drowning under the weight of responsibility. It’s like I’m drowning in responsibilities every single day, so why would this one be different? Why should I even try to control my breathing when I already feel overwhelmed? This is just more evidence that I’m too busy to take care of myself."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her apartment, she sits at her desk, the ticking clock echoing through the empty rooms. She's been trying to write all day, but the words won't come. The phone rings, breaking the silence. It's her editor, asking about a follow-up piece on the city council's latest scandal. Her heart races as she realizes she hasn't checked in with her usual sources today. What if they've found out something big while she was distracted? What if she's missed another scoop, just like last time? She feels her worry rising like bile in her throat. She forces a calm into her voice as she promises to call back soon, but once the line goes dead, she's left alone with her anxiety, gnawing at her insides like an unwelcome guest.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She can't focus; her mind is filled with worries about missing deadlines and losing her job. The idea that everything could fall apart keeps creeping up, making it hard for her to concentrate. She doesn't want to think about how much pressure there is or how this project might affect her future."
+    },
+    {
+        "Triggering Event": "He opens his mailbox to find another letter from his estranged wife, unopened as always. Today, it's heavier, something inside shifting slightly. As he turns it over in his hands, a small photo slides out - their wedding picture, now faded and creased. He feels the familiar despair wash over him, heavier than ever.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He can't believe how much worse everything is getting for him. This is just more proof that life is conspiring against him, making things harder with each passing day. He knows he has no one else to turn to; this only makes him feel even more alone and trapped. This situation isn't what he signed up for when he got married. The thought of having to face her again, after all these years, is unbearable. Every time she sends letters like this, it just adds to his feelings of regret and disappointment. His own family thinks they're doing better, but they have no idea what he’s going through. They never understand, and now I’m starting to think they’re right – maybe I am broken beyond repair. How could someone so beautiful and loving leave him? What did he do wrong? He can’t help but wonder if he was somehow at fault. Even though he tries to remind himself of the good times, the memories keep haunting him. It feels like every step forward leads to more pain, and he doesn’t know how much longer he can keep going. He wishes things would get easier, but deep down, he fears they might not. There’s nothing left for him here, and soon he’ll be forced to move back home – yet another blow to an already fragile life. He remembers the days when they were happy together, laughing and smiling. But those moments are fading fast, replaced by the weight of reality. Life keeps pushing him further into the darkness"
+    },
+    {
+        "Triggering Event": "She found an old, faded photograph tucked between the pages of her favorite cookbook. It was of her and her late husband, smiling at their wedding reception, surrounded by friends they'd lost touch with over the years. The emptiness of their now-silent kitchen seemed louder than ever as she traced his image, tears welling up in her eyes.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She looks so sad, like she's lost all hope. I can't help but feel guilty for being here alone. I wonder if she thinks about us too; maybe even misses him as much as I do. She probably wishes we were still together, that things had worked out differently—maybe if we’d stayed longer, he wouldn’t be gone. It’s hard to imagine life without him now, but seeing how empty our home is makes me realize just how much I miss him."
+    },
+    {
+        "Triggering Event": "At 8 PM, he stares at his phone, an editor's email blinking unread. A breaking news alert flashes across the TV: a major political scandal. He feels a pang of stress; he was supposed to be on that story yesterday. His competitors' bylines are already flooding in. The ticking clock echoes through his empty apartment.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "At 8 PM, I stare at my phone, an editor's email blinking unread. A breaking news alert flashes across the TV: a major political scandal. I feel a pang of stress; I was supposed to be on that story yesterday. My competitors' bylines are already flooding in. The ticking clock echoes through my empty apartment."
+    }
+]

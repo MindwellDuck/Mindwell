@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nDr. D., after a long day at the hospital, returns home to find the kitchen sink overflowing, dishes unwashed for days, and a note from her adult child: \"Mom, I've moved out. It's time for you to stand on your own two feet.\" She slams her fist against the counter, shouting, \"I've been doing that since your father left!\"",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Dr. D. was taken aback by the sudden turn of events. She had always been there for her children, providing comfort, support, and love. What if she had lost her job due to COVID-19? How would she have managed? Would she have found another way to make ends meet?"
+    },
+    {
+        "Triggering Event": "He sat at his desk, staring at the \"Declined\" message on his screen. The promotion he'd been banking on was given to someone else. His partner, on a video call, couldn't hide her disappointment.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She's probably feeling jealous about it. She thinks she would have been perfect for the job too."
+    },
+    {
+        "Triggering Event": "She was halfway through drafting her latest article when she noticed an unopened email from her source, marked urgent. It had been sent yesterday, while she was out celebrating a colleague's birthday. She hadn't checked her emails all day. Her stomach knotted as she opened it, revealing the scoop she'd missed because of her carelessness.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She couldn’t believe how much time had slipped away. How could she have let something so important pass her by? This wasn’t just about missing deadlines; it was about losing the opportunity to expose the truth that would have shaken the entire industry. Every minute felt like an eternity, each passing second reminding her of what she’d missed. She thought back to the celebration, wondering if there was anything else that might have distracted her—her friends laughing too loudly, the music playing too long. The more she thought, the more she realized that this wasn’t just about work; it was about her integrity. She had always prided herself on being diligent and thorough, but now those qualities seemed to be failing her. Each passing moment made her feel worse, as if she was falling further behind. Her mind raced with worst-case scenarios: What if this story didn’t get published? Would people think she was careless? Or worse, that she was working for someone who didn’t want the truth out? The thoughts swirled, making her feel like she was drowning in regret. She couldn’t shake the feeling that every decision she made would lead to consequences. Even the smallest mistake seemed monumental now, as if the weight of responsibility was crushing her. She felt trapped, unable to move forward, paralyzed by the fear of what others might think. She wondered if anyone even cared enough to notice her failure, or if they were all too busy to pay attention. Was she really making such a difference at"
+    },
+    {
+        "Triggering Event": "In the dimly lit kitchen, she noticed his favorite mug, still unwashed from breakfast, its familiar chipped edge catching the fading sunlight. She'd been so preoccupied with her patients today that she hadn't even thought to rinse it out before leaving for work. Now, the sight of it felt like a reproach, another small task left undone since he passed away three months ago. Her guilt gnawed at her, as persistent and unyielding as the quiet ticking of the clock on the wall.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She remembered how, in life, he always made such an effort to keep everything tidy, every surface spotless, his workspace organized by color-coded folders. It was a quality I admired and wished I shared. His attention to detail—whether it was in his work as a doctor or just everyday tasks—had once impressed me so much. But now, as she gazed upon this unwashed mug, she couldn’t help but feel inadequate. The contrast between what he had done and what she did now seemed stark. He had been meticulous about every little thing, while she let small things slide. Even in death, he remained the epitome of responsibility, whereas she struggled to maintain order in their home. It wasn't fair; he never said anything, but deep down, she felt he would have wanted more from her than this. Yet, how could she change when grief had taken over her daily routine? The thought of him—of all the things he'd taught her—made her want to cry. She wondered if she’d ever be able to live up to the standards he set, no matter how hard she tried."
+    },
+    {
+        "Triggering Event": "She entered the bustling kitchen of the retirement home, her eyes scanning the familiar stainless steel surfaces. Today was supposed to be her day off, but she had come in early to prepare a special recipe for the residents' weekly gathering. As she tied her apron, she noticed a young chef whispering and laughing with one of the dishwashers. They fell silent as she approached, their eyes flicking towards her then away. She felt a flush of heat creep up her neck, shame coiling in her stomach like an unwanted guest. She knew that look - it was the same one she'd seen all her life, the one that said she was past her prime, outdated, irrelevant. Her hands trembled slightly as she reached for her knife, the once-familiar weight now feeling heavy and alien in her grasp.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She didn't seem surprised by my arrival, but her expression hinted at something more. Wasn't there a story about how she used to work here? Maybe she remembered me from when we were both younger, back when I was still learning the ins and outs of the industry. The way she looked at me seemed almost... nostalgic, like she was remembering a different time altogether. It wasn't until later, though, that I realized what she must have been thinking. When she whispered \"oh no\" to herself, I assumed she meant that I was going to mess up somehow, ruin the whole thing. But really, she probably just thought I was nervous because I hadn't practiced this recipe in years. Still, the memory lingered, making me feel self-conscious every time we passed each other in the hallway."
+    },
+    {
+        "Triggering Event": "At the lab's weekly seminar, he watched his colleague, only two years senior, effortlessly present their shared project, laughing with colleagues about their 'teamwork', while he sat alone, clenching his wedding ring, his wife's absence gnawing at him like a cancer.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He is such an idiot for missing that presentation by 5 minutes, when he could have easily seen it as well. He always has a tendency to focus on trivial things and forget bigger issues. This time, he didn't even notice how late they were until someone pointed it out."
+    },
+    {
+        "Triggering Event": "He returned home late from the lab, finding their shared apartment empty and cold. No \"I'm at my parents'\" note on the fridge, no response to his messages. Her side of the bed was untouched, her half of the closet bare. He sank onto the unmade sheets, clutching a crumpled email printout - \"Regret to inform you...\" His eyes stung, not from tears, but from the harsh glare of the unreturned texts on his phone.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He felt like he'd been punched in the gut, then slammed into the wall. The room seemed to shrink around him as if it were shrinking away from the truth: She wasn't there. Every creak of the floorboards sounded like footsteps, each shadow cast by the fading light a reminder that she was gone. Even the silence felt oppressive, as if it had taken on a life of its own, mocking him with every passing second. His mind raced back to the last time they'd spoken, the words echoing in his head like a cruel joke. \"Sorry I didn't call earlier,\" she'd said, her voice laced with apology, but her tone...he couldn't quite put his finger on it. It had been more than just disappointment; it had felt like betrayal. Hadn't she known how much this project meant? Didn't she understand that he'd worked tirelessly for months, pouring over data, testing hypotheses, all leading up to this moment? But now, everything seemed hollow. Their plans for dinner, for watching the sunset together, for sharing stories about the day's experiments—each memory now taunted him, a bittersweet reminder of what could have been. As the darkness closed in, he felt himself spiraling further into despair, convinced that he'd never find another chance like hers. The world outside his apartment seemed to fade away, leaving only the crushing weight of his isolation. In this desolate space, he clung to the faint hope that"
+    },
+    {
+        "Triggering Event": "After decades of teaching, he found an error in his retirement plan, realizing he'd be earning less than expected. He felt resentment stir as he imagined his wife's reaction to their reduced lifestyle.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "My husband is going through a hard time right now. He just discovered that he won't have enough money for retirement after 30 years of working. This makes me very sad because I know how much he wants to relax and enjoy life in his golden years. It’s so unfair that he has to worry about this when he was always there for us, supporting our family. I feel like he needs to take responsibility for his own financial planning instead of relying solely on his employer. He never took care of himself during his working years, so it’s ironic that he doesn’t seem to understand how to manage his own finances. It feels even worse since I’ve been managing most of our household expenses myself while he worked full-time. Now he wants to blame me for being too frugal? How can someone who never lifted a finger to help with chores suddenly turn into a budget expert? I’m starting to think that maybe he’s just not cut out for retirement and needs to find another job to supplement his income. Maybe he’s not ready to retire yet. He also says we should just accept the lower retirement benefits and make do with what we have. But honestly, I don’t want him to struggle. I wish he’d be more responsible and prepared for retirement, but I guess I’ll just have to deal with this myself until he figures things out. Or maybe I’m just overreacting again… I don’t know. All I know is that I feel frustrated and worried about"
+    },
+    {
+        "Triggering Event": "The timer buzzes, signaling the end of service hours at the restaurant. You, the seasoned chef with a reputation for your refined palate and precise timing, are still in the kitchen, hunched over a half-prepared amuse-bouche. Your partner, a manager known for their punctuality, has already left without so much as a goodbye. As you finally plate the last dish, you notice they've turned off the main lights, leaving you to navigate the dimly lit kitchen alone. Irritation prickles your skin like the heat of the ovens you've worked with all day.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "You're always late. It's no wonder your partner decided to leave early without even saying goodbye. I'm just glad I don't have to deal with that kind of disrespect. You really need to get your act together if you want to keep your job here. I wouldn't blame anyone else for leaving either. Maybe I'll look into other options myself."
+    },
+    {
+        "Triggering Event": "In his empty apartment, he opened the fridge to find her favorite wine still chilled. He hadn't touched it since she left. The date label on the bottle read: \"Our Anniversary.\"",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He's not even sure why he's still holding onto this wine. It's been months. But today, he decided to open it anyway. As he poured the wine into two glasses, the cork came out with a faint smell of grapes. He closed his eyes, letting the scent wash over him. His mind wandered back to the day they bought this bottle together - they had celebrated their first anniversary with dinner at a cozy Italian restaurant. She had ordered a glass of white wine, but when she took a sip, she said it wasn't her taste. So they'd switched to the red. He remembered how she smiled as she savored each bite, her eyes sparkling in the dim light of the restaurant. They'd talked about everything then, from their dreams for the future to the things they wanted to change about themselves. He recalled how, towards the end of dinner, she reached across the table and gently brushed away crumbs from his shirt collar. Her touch sent shivers down his spine, and he knew right then that he was falling for her. As he stood there, lost in memories, he realized that the wine had gone flat. It wouldn't have mattered if he drank it alone; the memory would have been enough. But now...he didn't want to drink it anymore. He put the wine back in the fridge, wondering if maybe this was a sign. Maybe he shouldn't have kept it all these years, waiting for her return. If only he had let go sooner"
+    }
+]

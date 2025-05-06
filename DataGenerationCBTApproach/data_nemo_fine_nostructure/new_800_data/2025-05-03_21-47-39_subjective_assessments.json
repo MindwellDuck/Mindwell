@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "In the bustling hospital cafeteria during his late shift break, he unwrapped his sandwich to find a small, grey, wriggling maggot crawling across his ham. Disgust curled his lip as he imagined where it had come from and how long it might have been there.",
+        "Sex": "Male",
+        "Age": 42,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He was shocked that someone would place such an inconsiderate thing in his food, so he made a mental note to remind his supervisor about it when he returned to work. It really shouldn't happen like this, but he wouldn't expect it to either. He's just glad he noticed it before taking a bite."
+    },
+    {
+        "Triggering Event": "A cockroach, its antennae twitching, scurries across her desk as she's grading papers late at night in her dimly lit classroom.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Oh my god, I'm so fucking scared. There was this huge, monstrous cockroach that just crawled right across my desk! It had these long, creepy antennae twitching back and forth like it was plotting something. I know it looks like a normal roach to most people, but I swear it was HUGE and it looked so evil. What if it crawls onto me? Or what if it bites me? This is going to give me nightmares for weeks. I can't even focus on grading my papers because I keep thinking about how scary this thing is. And now that I think about it, maybe I've been seeing them everywhere too. Maybe they're all out there waiting to pounce on me."
+    },
+    {
+        "Triggering Event": "She noticed her reflection in the coffee shop window as she waited for her usual table, her silver hair tucked neatly into a bun, her hands trembling slightly around her cane. A young woman at the next table, buried under stacks of coding books, glanced up and smiled, then did a double-take at the sight of the ancient laptop bag slung over her shoulder. She felt the familiar shame creep in as she realized how out of place she must look, a relic among these bright-eyed digital natives.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She looked like an old lady trying to fit in with the cool kids. I'm such an awkward granny, and now everyone's staring at me like I'm some kind of dinosaur from another planet. This whole modern tech thing just doesn't seem to come naturally to me, so it's no surprise that I stick out like a sore thumb. This is really embarrassing. Everyone's probably laughing behind my back about this, and I can't blame them; I feel like a total embarrassment right now. I guess I'll just have to accept being the odd one out since I clearly don't belong here. --- # Example Response She looked like an old lady trying to fit in with the cool kids. I'm such an awkward granny, and now everyone's staring at me like I'm some kind of dinosaur from another planet. This whole modern tech thing just doesn't seem to come naturally to me, so it's no surprise that I stick out like a sore thumb. This is really embarrassing. Everyone's probably laughing behind my back about this, and I can't blame them; I guess I'll just have to accept being the odd one out since I clearly don't belong here. ## Step 1: Read the Triggering Event Read the entire text of the triggering event. ## Step 2: Identify the Cognitive Distortion Identify the cognitive distortion 'Labeling/Global Labeling'. This will be the basis for generating the subjective reaction. ## Step 3"
+    },
+    {
+        "Triggering Event": "At 7 AM, she enters her bustling kitchen, apron already stained from yesterday's rush. She spots an empty pan, untouched since last night's prep. No one bothered to wash it. A familiar pang of neglect stirs in her chest as she plunges her hands into the icy water.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She stares blankly into the sink, her mind racing as if searching for something. The noise around her - the clinking of dishes, the hum of the refrigerator, and the chatter of those waiting outside - fades away, replaced by the monotone voice of her own self-doubt. \"You're just like this every morning,\" it whispers. \"No one cares about you; they'd rather leave you to deal with the mess.\" The words echo through her, fueling a sense of isolation. It's as if she's drowning in the sea of broken dreams, each drop representing another forgotten meal, another missed opportunity. Her gaze falls upon the nearly full trash can beside the counter. How could anyone expect her to clean up after them? They don't have to worry about feeding their family tomorrow. Those people, with their perfect meals, their happy children, and their loving partners, all while leaving their dirty work for someone else, are the ones truly blessed. Meanwhile, here she is, alone in her chaos, forced to carry the weight of everyone's expectations. In her heart, she wonders if there's anything wrong with her. Is it possible that she's the problem? Maybe if she was more organized, more patient, more willing to sacrifice some of her time, then things would be different. But what does it say about her when even her family doesn't bother to help? As she stands there, frozen in thought, the silence in the kitchen grows thicker, a"
+    },
+    {
+        "Triggering Event": "While fact-checking an article, she stumbled upon her ex's name in a byline, his new partner listed as co-author.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "That's really weird. I've seen it before when people list their exes under different articles for some reason. It makes me think he cheated on her again."
+    },
+    {
+        "Triggering Event": "He sees his ex-wife, laughing with another man in the perfume section of his store, trying on scents that he knows she used to wear for him alone.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "It looks like he's buying perfume again! I guess she just really likes that scent, huh? The way she was holding it against her arm and sniffing it seemed pretty genuine. I bet it's just a coincidence that he happens to see her wearing it. What if he bought some for himself too? Wouldn't that be weird? Yeah, let's just assume she wasn't trying to flirt with him or anything. And why did I get that feeling anyway? It's probably just my imagination playing tricks on me. It wouldn't happen to anyone else, would it? I hope she didn't go out with him, but I know that wouldn't be possible. They were probably just shopping together as friends, which makes much more sense than her flirting with someone. Anyway, it's probably just a misunderstanding on my part."
+    },
+    {
+        "Triggering Event": "A faded photograph slipped from his book as he placed it back on the shelf, revealing a young face smiling beside him. The years had softened her features in his mind's eye, but here she was, unchanged, holding hands at their retirement party. He felt a pang of melancholy, remembering her laughter echoing through the empty school halls after hours.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He had always been told that there were plenty of other fish in the sea, but this was the first time he saw them with his own eyes. When they came home from work together, he couldn't help but feel jealous. His wife seemed happy enough when they were alone, but now, seeing her with someone else, he realized how much he had taken for granted. This wasn't the first time he'd caught glimpses of her past life—photos from her high school days, college albums, even the Facebook profiles of former classmates. It all hinted at stories untold, adventures never shared, and relationships long forgotten. Her smile seemed to hold secrets, whispers of memories hidden behind her eyes, as if each glance held a world beyond what they knew. And yet, he couldn’t shake off the feeling of losing something precious—a connection forged over years of quiet moments, late-night talks, and laughter-filled days. Every time he looked at her, he wondered if she ever thought about him too, if she ever missed the comfort of his presence. He began to see the lines around her eyes, the grey hair creeping into her scalp, as signs of aging, reminders that time was slipping away from both of them. She stood so tall then, strong and confident, but now...now, he saw only the frailty of age, the weight of years, and the emptiness of a life once full of promise. In those photos, she was young again, vibrant, and full"
+    },
+    {
+        "Triggering Event": "A late-night email from a colleague, cc'ing her supervisor, questioning her lab results, arriving just as she was about to log off for the night.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Dear [Colleague's Name], Thank you for reaching out about your lab results. I understand how frustrating it can be when unexpected changes arise, especially outside of our control. However, before we proceed, I want to clarify a few things. The request for an urgent meeting with my team is understandable given the circumstances, but I'd like to discuss some key points before moving forward. Can you please share more details about what prompted this inquiry? Best regards, [Supervisor's Name] ---"
+    },
+    {
+        "Triggering Event": "A coworker, who had been quietly praised for his latest project, casually mentioned during lunch that he had actually used one of your open-source scripts to complete it. You noticed him glance at you, a smug smile hidden behind his coffee mug.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "You have no idea what he was thinking when he said that, but I can’t help but feel like he was implying that I created something as good as his. The fact that he didn’t even acknowledge my contributions in front of our team is really bothersome. It’s so obvious that he thinks less of me now. I’m starting to wonder if this whole thing would’ve happened if I hadn’t offered to lend him some resources last week."
+    },
+    {
+        "Triggering Event": "She opened her mailbox to find another acceptance letter for her partner, this time from a prestigious magazine, while her own stories continued to collect rejections.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She was just so excited about it when she shared the news with me! I can't help but feel like my day is ruined because I didn't receive anything even remotely close to that. It's just another reminder that I'm probably never going to achieve what they have. At least she has a chance to be featured in one of those magazines someday, unlike me who will continue to live in obscurity forever. Her life is way more exciting than mine, and I just want to give up already."
+    }
+]

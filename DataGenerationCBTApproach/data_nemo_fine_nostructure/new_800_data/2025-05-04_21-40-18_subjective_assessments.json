@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A middle-aged man, alone in his patrol car, watched as a younger officer was congratulated by their captain for a recent commendation. He felt a pang of envy as they laughed together, the camaraderie obvious. His own desk, piled high with paperwork, seemed to mock him.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "A cop who's not getting recognized is probably a loser. Maybe he can't even get a commendation like that. The older guy must have done something really impressive to be praised so publicly. I'm just stuck behind my desk doing paperwork all day, it makes me feel useless. If only I could be out there making a difference like that young officer. I bet he has a lot more fun than I do. He probably gets treated better too since he's younger. Captain's being kind by giving him an award, but maybe he's just feeling guilty for not recognizing his own team sooner. That's why he's going out of his way to give this one officer special attention."
+    },
+    {
+        "Triggering Event": "In the quiet of her kitchen, she stirred the pot of soup she'd been cooking for hours. The scent, once comforting, now seemed bland to her tired nostrils. She hummed an old tune, but it felt forced, like her smile when he walked in. He didn't notice her sigh as he kissed her cheek, his hands still stained with engine grease from the garage. She watched him rinse them under the tap, his eyes scanning the counter for a plate. \"Not hungry,\" she said softly, turning back to her soup. The timer dinged, but it brought no satisfaction this time. Just another day, another meal, another unspoken longing.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She can't help but feel that things have always been this way, that every conversation is strained, every moment spent together feels like a chore. Even the simplest gestures seem hollow, like the way he touches her hand or the small talk they exchange. Every glance tells her something about herself, a reminder that she's not enough. Her heart beats slower than usual, as if waiting for the inevitable disappointment. The world outside feels darker, too, as if night itself has seeped into the room. What does it all mean? That even love, which once felt so pure, is just another thing to be used? # Output"
+    },
+    {
+        "Triggering Event": "She found his favorite coffee mug in the back of the cabinet, untouched since he'd passed two years ago. The weight of it in her hands felt like a punch to her gut as she placed it gently into the box marked \"Donations.\"",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was both devastated and relieved when she discovered that he had left behind one of his favorite mugs in the back of the cabinet. Devastated because it reminded her of him, yet relieved that someone else might appreciate it after all these years. To make things clear, I don't want anyone to use this mugs for anything except donating it. It's not meant for everyday use; it holds too many memories. But at the same time, I wish they could have used it once more before passing away. He would've wanted that, wouldn't you agree? So now, if someone else finds it, they need to promise me they'll never use it. If they can't keep that promise, then they shouldn't have it. It's either completely forgotten or cherished by someone who respects what he gave. That's how it should be, right? --- # Response End"
+    },
+    {
+        "Triggering Event": "\"As he walked into the precinct, he noticed the other officers huddled around a desk, laughing. Their eyes flicked up to him briefly before returning to whatever was causing their amusement. He felt his stomach twist as he realized they were looking at a photo of him from last year's department picnic, his beer belly clearly visible.\"",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "When I saw that picture of me, I couldn't help but feel like I looked ridiculous, especially with my beer gut showing off. It made me realize how much I'd gained weight since then, which just added to my embarrassment. The fact that everyone else seemed to be enjoying the joke didn't make it any easier - it was like they were all having fun at my expense. Now every time I see that photo, I can't help but think of how unattractive I must look, making me want to hide away."
+    },
+    {
+        "Triggering Event": "A woman, aged 46 and a respected doctor, is waiting at the coffee shop near her clinic when she spots her ex-husband laughing with his new partner. She clenches her fist around her coffee cup, feeling a bitter taste rise in her throat as she watches them.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "This is so personal; I can’t believe he’s out there enjoying life like nothing happened between us. It feels like he’s rubbing it in my face, making me feel even more inadequate about my current situation. I wonder if he's thinking about me, but I doubt it – he must have moved on by now. It's just so hard to see him with someone else after everything we went through together. I know it doesn't really matter what they're doing, but it still hurts to watch. Maybe I'm overreacting, but this isn't the first time he's done something that made me feel like crap, and I won't let it slide this time either. Why does it always have to be like this? He knows exactly how much it bothers me, and he just goes ahead and does it anyway. This isn’t fair, and I’m starting to lose control here. If I don’t do something drastic, I might end up hurting myself. I need to get a grip, but I can’t help feeling like I’m losing my mind. I keep replaying our past arguments in my head, wondering why things didn’t work out between us. I remember how hurtful some of those moments felt, especially when he left me for her. Now, seeing him laugh with another woman, I can’t help but think he thinks about me sometimes, but deep down, he probably wishes I was gone. That thought alone makes me want to cry. Maybe"
+    },
+    {
+        "Triggering Event": "\"After a long day at the counter, she opens her apartment door to find it still bare after weeks of being listed for sale. The emptiness echoes her empty nest, another reminder of the life that's moved on without her.\"",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She can't believe how much progress has been made since buying this house. It's amazing how many things are already in place when you first move in. She doesn't need to worry about paying rent anymore, which is a huge relief. And with all the time she saved by moving here early, she now has more free time than ever before! This is definitely going to be an awesome experience. I just hope everything goes smoothly...and I'm so grateful to have found such a great deal."
+    },
+    {
+        "Triggering Event": "She arrived at the restaurant, her chef's whites freshly pressed. It was a weekday, slow season, but the kitchen hummed with a familiar rhythm. She tied her apron, glancing at the specials board - his handwriting still mocked her from the past. As she reached for her knife, the edge caught on a tiny, forgotten photograph tucked into her pocket: them, laughing, in their first apartment. A sharp pain sliced through her finger. Blood pooled, dripping onto the cutting board, marring the pristine surface. The world around her blurred, his absence echoing louder than ever, and she felt that familiar, crushing hopelessness.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She stood there, frozen, as the blood continued to flow. Her mind raced, trying to understand why this had happened now, when she could have avoided it if only she'd been more careful. The pain seemed so deliberate, like a message from him, reminding her of everything she’d lost. Her eyes dropped, focusing on the stain spreading across the counter, and then up at the board, where he had written his name in bold letters. “He’s gone,” she whispered to herself, the words echoing in her mind like a mantra. Every movement, every thought, was now tainted by the knowledge that he wasn’t here to catch her, to support her. She couldn't shake the feeling that she was meant to fail, that her mistakes were just another piece of evidence against her. The pain throbbed in time with the memories flooding back, each one a reminder of what she'd lost—of who he was, of how much he loved her, of how far they'd fallen. Now, all she could see was the cut, the mess, and the emptiness that lingered within her, like an open wound. She wondered if she would ever be whole again, or if she would always carry this pain with her, a constant reminder of the life she left behind. In this moment, nothing else mattered except the memory of him, and the guilt that came with wanting him back. She felt lost, alone, and unsure if she could move forward without him."
+    },
+    {
+        "Triggering Event": "A 57-year-old chef, his frustration simmering beneath the surface, finds himself in the middle of yet another chaotic dinner rush. As he reaches for a pan that's suddenly not where it should be, his hand slips, sending utensils clattering to the floor. He feels heat rising in his cheeks as he kneels down to gather them, whispering curses under his breath. When he stands up, he sees his sous-chef watching him with concern. The chef simply shakes his head and mutters, \"Not now.\"",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I just can't handle these kinds of situations anymore. I always feel so overwhelmed when things get hectic in the kitchen, and it's really affecting my mood lately. It's like I'm never fully in control, and it makes me feel trapped. Even if everything goes smoothly most of the time, this kind of incident always brings back all those memories of feeling anxious and stressed out. Every time something like this happens, I end up having a bad day, even if nothing else went wrong. It’s like I’m never truly relaxed around food—my entire life is about cooking, but it feels like I’m stuck in a cycle of stress.\""
+    },
+    {
+        "Triggering Event": "He opens the old, creaky mailbox, its red paint chipped by time and weather. Inside, amidst circulars and bills, he finds a photograph. It's of his late wife, smiling, in their younger years. The edges are worn, a corner torn. He remembers that dress, that day at the park. She'd been gone five years now, but today, her absence feels heavier than ever. He leans against the mailbox, letting the cold November rain dampen his uniform. His heart sinks like a stone in still water.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He can't help but wonder if this is some kind of trick—she was always full of surprises. Maybe she wanted him to see this photo, to remember something about their life together. But why now? Five years have passed since she left us; maybe she's trying to tell me something, but what? Maybe it's just another cruel twist. What if this isn't a coincidence? Is she playing games with us from beyond, testing our grief? Or is this all just my mind spiraling out of control again? Whatever it is, I'm not ready for it. This photo must mean something, but I'm not sure what. Maybe it's a reminder of happier times, but even those memories feel bittersweet now. The pain of losing her lingers, making every small thing feel like a step closer to death. Perhaps this is more than just a random find. Could it be she wants me to know she still loves me? That she's watching over us from wherever she is? Or is this just my imagination running wild? Either way, I don't want to think about it anymore. This photo is just a painful reminder of everything we've lost. It's hard to keep going when the past keeps haunting us. Every little thing feels like a trigger, forcing me back into the darkness of grief. Even something as simple as finding an old photo can feel like a betrayal, like the universe is trying to rub salt in open wounds. I wish I could forget"
+    },
+    {
+        "Triggering Event": "She opened the fridge to find it empty, save for a single wilting lettuce leaf and an expired carton of milk. Another night alone, she thought, as her partner's texts went unanswered. Again. She slumped against the counter, her chef whites still pristine despite the long day, and let out a heavy sigh that echoed through their silent apartment.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She wondered if this was how things would always go – the fridge left bare, the nights spent alone, the unfulfilled promises. It felt like a pattern now, one she couldn't shake. The kitchen seemed cold and unforgiving, its emptiness mirroring the emptiness in her chest. Every time she looked into the fridge, all she saw was what she'd been missing – a taste of home, a reminder of love. Yet, every day felt more isolating, each meal a solitary experience, with no warmth to share. The silence grew louder, echoing off the walls, until it felt like the only sound in her life."
+    }
+]
