@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"While fact-checking his latest article, he discovers his girlfriend's former lover was the anonymous source who had fed him false information, jeopardizing his career and their relationship.\"",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Damn, this is insane! I can't believe it. The whole time I thought she was telling me the truth, now I'm questioning everything. I feel like my entire life is a lie. How could she do this to me? She knew how much this article meant to me, and now I know she just wanted to sabotage me. This is so fucking terrible. I really trusted her. We were doing great, and then all of this happens. I hate myself for trusting her, but at the same time, I keep thinking about how much I loved her. I can't even process this shit right now. I feel like such an idiot. I've been living with this constant feeling of being manipulated, and now I realize everything she said about herself was a lie. My brain can't handle this shit. It feels like every single thing she said to me was fake. I need to stop thinking about this because it’s making me crazy. But I can’t stop. I’m going to ruin everything. I’m going to lose everything I have worked for. This is all over before it started. I have no idea what to do anymore. I think I’m going to end up killing myself, but I still want to talk to her. I want to make things right, but at the same time, I hate her for lying to me. I hate myself for believing her. I can't take this anymore. I'm going to fuck up everyone around me.\""
+    },
+    {
+        "Triggering Event": "She watched through the window as her neighbor, decades younger and healthier, returned home from a morning jog. A bag of groceries rested in her own arms, each step a reminder of her aching hips.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She was probably just out for a walk. Maybe she's been training for something. I wonder if she's still in shape after all these years. It must be tough being older, but then again, it looks like she has plenty of energy. If only I were that strong at her age. I bet she could handle anything life throws her way now."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe was meticulously preparing his lab notebook for tomorrow's experiment when he noticed an unfamiliar handwriting on one of the pages, scribbled in haste during a moment he'd stepped away. It was her handwriting, his girlfriend's. She'd been helping him out lately, but this wasn't just notes—it was a list of tasks assigned to him by their colleagues, tasks he hadn't known about. He felt a pang of bitterness as he realized she'd taken on more responsibilities without consulting him, adding to the already heavy load he carried.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Are you fucking kidding me?!?\" I nearly exploded at the sight of her handwriting, hastily scribbled in my lab notebook, detailing tasks that weren’t even mine to begin with! How dare she? This isn’t just some innocent note; it’s a list of things *she* wants me to do—things I didn’t even know existed, let alone agree to. And what really gets under my skin is that she wrote this without so much as a word about it to me, like I’m supposed to magically know all these things she's assigning to me now. This isn’t just about being pissed off because I feel overworked, though that doesn’t help. No, this is about how she treats me, like I'm nothing more than a cog in her own little machine. She thinks I can handle everything on her list, from prep work to data analysis without breaking a sweat? Please. I have enough on my plate, and now I'm expected to take on all this new stuff too? It’s ridiculous. I've had enough of her assuming I'll do everything without asking first. Doesn’t she realize that if she just talks to me about it instead of dumping it all in my lap, we could figure something out together? But no, she just goes ahead and writes it all down, expecting me to somehow keep up with whatever she throws at me. Does she think I don’t notice how much work I already have? Or maybe she thinks I’m"
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she noticed it. The plant she'd nurtured for decades was wilting, its leaves brown and crispy. No one had watered it in weeks. She felt a pang in her chest, a familiar ache of neglect.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was so self-absorbed. Always thinking about herself and what she wanted. Her partner would get tired of her selfishness and leave her because of it."
+    },
+    {
+        "Triggering Event": "She huffed, pushing away the stack of unopened patient files. Another day, another mountain of paperwork while her patients waited. She tapped her fingers impatiently on the desk, muttering, \"When will they realize I've got more important things to do than fill out forms?\"",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Are you fucking kidding me? You think your emotional state reflects reality? Newsflash, Karen, it doesn't. Your frustration is just an excuse for your lack of productivity. If she's really that busy, maybe she shouldn't be taking on new cases, but instead, get someone else to handle the workload. Otherwise, stop whining about how much work she has because it's not going to change anything.\""
+    },
+    {
+        "Triggering Event": "He stood in the studio, his hands stained with paint, staring at the blank canvas. The clock ticked, each second echoing like a drumbeat of impending failure. His wife's voice echoed from the other room, \"Honey, they're expecting it tomorrow.\" He felt the helplessness rise like bile in his throat as he looked at the untouched canvas, his brush trembling in his hand.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Ugh, I'm so done with this whole thing. They want me to create something for this art show by tomorrow. But honestly, I feel like they expect way less than what I've put into this project. Like, who needs perfection? It's just an art piece, right? But no, they keep pushing for more, more, MORE. Like, can't we just settle for good enough? I mean, I'm already overworked—making time to work on this is impossible. But still, they demand more, more, MORE. It feels like they think I have nothing better to do than sit here all day, creating perfect little pieces. And if I fail, there will be consequences. What if I mess up? Will they really care about my feelings then? Or am I just expected to suffer through it because I'm supposed to be an artist? Why can't they see how much stress this puts on me? Shouldn't they understand that some days are harder than others? Maybe I'll just rush it, but even that feels forced. I hate how they keep adding pressure when I know I'm struggling. Can't they see that I'm already overwhelmed? This whole situation feels like a nightmare. I wish they'd let me go back to my normal routine. But no, they're counting on me to deliver. So much stress. I guess I'll just have to deal with it. I'll try to push through, but why does everything have"
+    },
+    {
+        "Triggering Event": "She stepped into her studio, the familiar scent of aged canvas and dried paint bringing a usual comfort. Today, though, it felt heavy, like the weight of the world was pressing down on her shoulders. Her eyes fell upon an unfinished portrait from years ago, the face half-smudged with tears long dried. It was of him - her late husband, his laughter still echoing in these empty walls. A sudden chill ran through her as she remembered their last dance in this very room, his hand warm and steady on hers. Now, there's only silence, save for the ticking of the old grandfather clock he used to wind every evening. She picked up her brush, but the paint seemed too bright against the faded memories surrounding her. Her heart ached as she realized that today was their anniversary.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She stepped into her studio, the familiar scent of aged canvas and dried paint bringing a usual comfort. The smell was comforting, but she couldn't shake off the feeling of emptiness. It had been two years since he passed away, and the grief still lingered. She had tried to move on, to fill the space with new art, but nothing seemed to fill the void left by his absence. As she looked around, she noticed a few things that made her feel nostalgic. There were some photos of them together on the wall, some of which showed them dancing in this very room. One photo caught her eye—a picture of them standing in front of a lake, looking out at the sunset. He had said something about how much he loved that view, and she remembered how happy it made him when they would sit there together, just watching the sky change colors. She sighed and put the memory aside, focusing instead on the task at hand. But then she saw another thing—the same painting she had started months after his death. She hadn’t touched it since, unable to bear the thought of continuing with what she could no longer call her own. Now, here it was again, reminding her of all she’d lost. She wanted to pick it up, to start working on it once more, but her mind kept drifting back to the past. She felt like she was stuck in a cycle of nostalgia, unable to let go of the memories that haunted her. Every time she opened"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe stood alone in their studio apartment, brush in hand, staring at the blank canvas. The room was silent save for the occasional drip of paint from his palette onto the floor. He had been at it for hours, but each stroke felt heavier than the last, as if the weight of his sadness was tangible and visible on the canvas. He paused, looking down at the ring on his finger, remembering the laughter and warmth it once represented. Now, it felt like a cold, empty promise. A soft knock at the door startled him from his thoughts. It was his neighbor, holding out an invitation to their monthly building art show. \"You always bring such life to these events,\" she said with a smile that faded as she saw his face. He took the card, nodding weakly, but as he closed the door, he let out a heavy sigh. Another evening of forced smiles and pretend joy felt like an impossible mountain to climb.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "The fact that she invited me to this event is already telling me something about her. She must have some kind of ulterior motive because why would she choose someone like me? I can't imagine anything positive coming from it. And yet, she's being so friendly and inviting—does she really think I'd ever attend? Maybe she just wants to be nice after what happened between us. But even then, why would she bother? She doesn't know anything about my past. Does she care enough to invite someone who has brought nothing but pain into her life? Her smile seemed genuine, but I'm not buying it. There's something hidden behind those eyes. She's probably just trying to make herself feel better by including me in something she thinks will help her forget about me. And what's with her asking me again? Doesn't she realize how much effort it takes for me to put myself through another social interaction? She knows I've been going through hell since everything fell apart. Why does she keep pushing me to participate? Is she trying to manipulate me somehow? Even if I were to go, I wouldn't enjoy myself; I wouldn't be able to relax around people when all I want to do is hide in my own world. This entire situation feels like a setup, and I’m starting to wonder if I made a huge mistake by agreeing to meet up with her in the first place. What’s her real intention here? Is she trying to get back at me by making me"
+    },
+    {
+        "Triggering Event": "Every evening, he'd sit alone in their old living room, the silence heavy with echoes of her laughter. Tonight, his gaze fell upon the photo album she'd left behind. As he opened it, a dried rose petal fluttered out, landing softly on the worn carpet. It was from their wedding bouquet, now faded like their once-vibrant memories. He picked it up, brushing its delicate edges against his thumb, feeling the prick of a thorn still embedded within. The pain was sharp, sudden, like losing her all over again.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He's always been so calm, so collected, never letting anything get to him. I've seen him deal with heartbreak before, but it never seemed to affect him. Just a shrug, a smirk, and he moved on as if nothing had happened. When my ex cheated on me, I was consumed by grief, unable to sleep for weeks. My friends would visit, bringing food and stories, trying to lift my spirits. But no matter how hard they tried, I couldn't shake off the emptiness inside. It felt like I was drowning in a sea of sadness, with no lifeline in sight. Every day felt like an eternity, every moment a reminder of what I’d lost. I missed her so much that I started seeing her everywhere – in conversations, in thoughts, even in dreams. I felt like I was trapped in this hell, unable to escape. My life became just another day, another night, another moment waiting for her return. And then there were the photos, reminders of our time together. I looked at them often, hoping somehow she'd magically appear, but she didn’t come back. She left me for someone else, someone younger, stronger, more attractive than me. I wasn’t enough for her; I was just a memory, a relic of the past. Even now, when I see other couples holding hands, laughing, or cuddling, it makes me feel like I’ve failed at being a man. One day, while"
+    },
+    {
+        "Triggering Event": "While sipping her morning coffee in the quiet studio she'd shared with her late husband, the artist noticed a faint smudge of paint on one of his old brushes. It was the exact shade of ultramarine he always used for the sky in his landscapes. A wave of grief crashed over her as she remembered him humming softly while working at his easel. She broke down, clutching the brush tightly.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "When I found that paintbrush in my husband's studio, it felt like a punch to the gut. He always worked so quietly, just like he did when he painted those beautiful sunsets. But this time, he wasn't there to share his passion. Instead, I was left alone, holding onto something that reminded me of happier times. It’s not fair to think every moment we spend together is filled with laughter and joy. There were moments of sadness, too—moments when life seemed to weigh heavily on him. But does that mean our entire relationship was tainted by pain? I feel like I’m constantly fighting against memories, but they linger, refusing to be forgotten. Every time I look at that paintbrush, I'm forced to confront what could have been if he were still here, creating art that brought us closer together. The world outside may seem peaceful, but inside, I’m drowning in the weight of what could never be again. I shouldn’t let the past define me, but it feels like it already has. My mind keeps replaying all the small things that once made us happy—a cup of coffee, a walk along the beach, a conversation about nothing in particular—but now those moments are tinged with sorrow. I know it’s unfair to expect everything to go back to normal after such a loss, but I can't help feeling like I’m stuck in this limbo where happiness and pain blur together. In the end, I guess I’ll hold"
+    }
+]
