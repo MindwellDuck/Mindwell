@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import ollama
 from tqdm import tqdm
 import json
@@ -38,7 +39,6 @@ def analyze_text_with_ollama(text: str) -> str:
         response = ollama.chat(model="deepseek-r1:14b", messages=messages, options={'temperature': 0, 'max_tokens': 512})
         messages.append({"role": "assistant", "content": response['message']['content']})
     return response['message']['content']
-
 
 #do we need to open every file for social media, a loop maybe
 #and mark the filtered file?

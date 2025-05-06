@@ -1,11 +1,12 @@
+#!/usr/bin/env python3
 """
 pipeline implementation
 JSON file format:
 {
     text,
     distorted_part,
-    state: labelled | unlabelled | filtered,
-    label: [label1, label2],
+    state: labelled | unlabelled | filtered | unfiltered,
+    label: label1, label2
     source: llm[kind] | ground | sm
 }
 """
@@ -14,6 +15,7 @@ import json
 import csv
 import os
 import new_dot
+from sys import argv
 
 # JSON file constants
 TEXT = 'text'
@@ -23,6 +25,7 @@ STATE = 'state'
 LABELLED = 'labelled'
 UNLABELLED = 'unlabelled'
 FILTERED = 'filtered'
+UNFILTERED = 'unfiltered'
 
 LABEL = 'label'
 SOURCE = 'source'
@@ -30,8 +33,13 @@ SOURCE = 'source'
 SM = 'SM'
 LLM = 'LLM'
 GROUND = 'ground'
-# Where data is stored
-DATA_DIR = '../data'
+# Where data is stored, taken as an argument
+if len(argv) == 1:
+    # print error in red
+    print("\033[91mError: No data directory provided.\033[0m")
+    exit(1)
+
+DATA_DIR = argv[1]
 
 def convert_csv_to_json(csv_file: str, json_file: str):
     """
@@ -67,12 +75,22 @@ def read_data() -> list[dict[str, str]]:
     return data
 
 data = read_data()
+
+def run_sm_collection():
+    if os.system('bash ./get_social_media_data.sh') == 0:
+        print("Social media data collection script executed successfully.")
+    else:
+        print("Social media data collection script execution failed.")
+
+def ensure_length(data: list[dict[str, str]], min_len: int, max_len: int):
+    return [d for d in data if min_len <= len(d[TEXT]) <= max_len]
+
 def filter_list(data: list[dict[str, str]], key: str, value: str) -> list[dict[str, str]]:
-    """Filter list based on key and value"""
-    return [d for d in data if d[key] == value]
+    return [d for d in ensure_length(data, 4, 250) if d[key] == value]
 
 labelled = filter_list(data, STATE, LABELLED)
 unlabelled = filter_list(data, STATE, UNLABELLED)
 filtered = filter_list(data, STATE, FILTERED)
+unfiltered = filter_list(data, STATE, UNFILTERED)
 
-filtered.extend(new_dot.diagnose_text(unlabelled))
+filtered.extend(new_dot.diagnose_text(unfiltered))
