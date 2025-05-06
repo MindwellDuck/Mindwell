@@ -1,6 +1,7 @@
 import ollama
 from tqdm import tqdm
 import json
+from sys import argv
 
 prompts = ["""Understand the following definitions:
     All or Nothing Thinking: I view a situation, a person or an event in “either-or” terms, fitting them into only two extreme categories instead of on a continuum.
@@ -39,7 +40,8 @@ def analyze_text_with_ollama(text: str) -> str:
 
 #do we need to open every file for social media, a loop maybe
 #and mark the filtered file?
-with open("test.json","r") as file:
+filename = argv[1]
+with open(filename,"r") as file:
     data = json.load(file)
 
 Distortions = [
@@ -101,9 +103,6 @@ for entry in data:
         entry["labels"] = final_labels
         print(final_labels)
         entry["state"] = "filtered"
-        
-        
-with open("test.json", "w") as file:
+
+with open(filename, "w") as file:
     json.dump(data, file, indent=4)
-
-
