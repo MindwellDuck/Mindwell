@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She reread the obituary of her old colleague, feeling a pang of unhappiness as she realized he'd passed away before his time. The familiar smell of ink and paper in the newsroom suddenly felt stale.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She noticed how different the office smelled now that it was empty, like an echo of something that used to be there but wasn't anymore."
+    },
+    {
+        "Triggering Event": "After a grueling 12-hour shift, Officer M returns home to find the dinner table set for one. His wife's note reads, \"Working late. Leftovers in the fridge.\" He sighs, disappointed that another evening alone stretches before him.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I'm afraid this is going to be a very lonely night. It looks like you're not coming home.\" - The Psychic"
+    },
+    {
+        "Triggering Event": "She paused, typing slowing fading away as her gaze fell upon the framed photograph on her desk. A younger version of herself smiled back, arms draped around two laughing children. The calendar on her computer flicked to tomorrow's date - it would have been his 50th birthday. Her breath caught in her throat, grief rising like tide within her.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She seemed so lost in thought. It was clear she had something on her mind. Maybe she's just stressed with work? I don't really want to pry into her personal life anyway; I'm happy for her. I'd never be this content at her age. I wish I could feel more confident in myself like that."
+    },
+    {
+        "Triggering Event": "She opens her locker at work to find her husband's lunch, still uneaten from yesterday, next to hers. Disappointment flickers in her eyes as she realizes he'd forgotten their anniversary again.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She was so surprised to see her husband’s lunch, but she immediately felt disappointed. “He forgot our anniversary again,” she thought, feeling like a fool for being so upset over something so minor. When she confronted him about it, she couldn’t help but feel let down that he didn’t even realize what day it was. It seemed like such an easy mistake to make, especially with how busy his job has been lately. Still, it stung to think that he wouldn't take the time to remember such an important date between them."
+    },
+    {
+        "Triggering Event": "She found his favorite apron, the one she'd made for him years ago, draped over the kitchen counter, untouched by the flames that had taken their home while they were out. It hung there like a ghostly reminder of his absence and the life they'd built together, now reduced to ashes and despair.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She didn't realize how much he missed her until the night she walked in, covered from head to toe in soot, with tears streaming down her face. He'd been gone for three days, trapped in the burning apartment building, and she'd just received the news: his body was too badly burned to save. The flames had swept through the house, taking everything but her own small bag of belongings. In the chaos of the fire department's rescue efforts, no one had seen him go in. Now, as she stood before him, she saw the weight of her grief reflected back at her. His eyes, usually bright and full of laughter, now held a deep sadness, a pain that seemed to reverberate through every cell of her being. Her hands trembled as she reached out to touch his arm, and he flinched away, his chest heaving with each ragged breath. She knew it wasn't fear; it was something else – the same thing she felt when she thought about what might have happened if she hadn't acted so quickly to grab her things and run. But she couldn't shake the image of the flames engulfing them, the sound of shattering glass and splintering wood still echoing in her mind. Her heart pounded in time with those memories, threatening to burst free whenever she thought about him, and the way his hand would always be the first to reach hers. He tried to speak, but the words caught in his throat, and all"
+    },
+    {
+        "Triggering Event": "A young woman, a nurse at Mercy General, sat alone in her car after a long shift. She had left the hospital before checking on Mr. Thompson one last time, too eager to get home. Now, hours later, she received an urgent call from his daughter - he'd taken a turn for the worse during the night.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She was worried about him. He wasn't doing well, but that's what happened when you were 90. It was just bad luck. She hoped it wouldn't be the end. She wanted it to be okay."
+    },
+    {
+        "Triggering Event": "She noticed his messages were growing colder, the once daily \"I love you\" now reduced to an occasional \"Hey.\" Today, he didn't respond at all when she shared her promotion news.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**She thought it was just another one of his phases where he'd pull away from us for months and then suddenly come back with a vengeance. He always did this; he had a way of making her feel like she could never truly depend on him. The fact that he hadn't responded meant nothing - he probably has better things to do than text me right now.**"
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by their office window, catching glimpses of the new hire's laughter-filled meetings and team-building exercises. Today, they were celebrating another project completed early, a bottle of champagne popping open as he walked by, alone with his coffee.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He just shouldn't have laughed so loudly. It was inappropriate for him to be having such a good time after only one day. He shouldn't have been in charge of leading those team-building activities; it wasn't fair to put all that responsibility on someone who had barely even met everyone. He shouldn't have felt so confident in presenting their ideas - it made him look arrogant. He shouldn't have asked questions like \"How does this work?\" - it showed he didn't know anything about the company. He shouldn't have been smiling so much; it looked insincere. He shouldn't have said \"That sounds great\" when discussing their project; it sounded too casual for someone in his position. He shouldn't have felt comfortable walking into the meeting room; it was too soon for him to feel that way. He shouldn't have been there at all - it was clear he hadn't done enough preparation. He shouldn't have been seen with them; he shouldn't have been part of that group. He shouldn't have smiled so much during lunch; it was awkward. He shouldn't have talked so freely about the project; it showed he knew too little. He shouldn't have seemed so happy about being included in the team-building activities; it looked fake. He shouldn't have felt so confident in asking for clarification; it made him look incompetent."
+    },
+    {
+        "Triggering Event": "In his cluttered home office, he knocked over a stack of newspapers while reaching for his coffee. The clatter echoed as the papers scattered, ink smudging onto the carpet. He sighed irritably, knowing he'd have to clean it up later, another task piled on top of his already groaning to-do list.",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He's such an irresponsible slob! How could he be so careless with his home? It's like he doesn't care about anything but himself. I'm so sick of cleaning after him; he never helps out at all. It's always me who has to deal with these kinds of messes. And now my beautiful carpet is covered in dirt from those old newspapers - just great."
+    },
+    {
+        "Triggering Event": "An unmarked van pulls up beside his cruiser at the intersection of 5th and Elm, engine idling. The driver's window rolls down, revealing a familiar face from years past - his former partner, now wearing civilian clothes and an arrogant grin. \"Heard you're still chasing shadows, old man,\" he says, tapping a manila folder on the passenger seat. It bears the name of their estranged wife. The van pulls away, leaving him gripping the steering wheel, knuckles white with barely contained rage.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "What are you talking about? What does she want?"
+    }
+]

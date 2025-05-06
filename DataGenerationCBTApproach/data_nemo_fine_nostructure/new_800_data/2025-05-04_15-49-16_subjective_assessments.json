@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A familiar face in his weekly chess club turned away his handshake, preferring to wipe their palm on their coat instead.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Subjective Reaction:** I'll never be able to trust anyone again; everyone is just out to get me now. **Subjective Reaction:** It's clear that he doesn't respect people or has a bad attitude towards others because he doesn't even acknowledge my handshake or bother wiping his hands. **Subjective Reaction:** I'm done with this group; they're all fake. No one will ever want to play with me anymore."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, married for decades and working in retail, huffs impatiently as she waits at the bus stop after another long day. A group of rowdy teenagers board, their laughter and loud conversation filling the normally quiet space. She clenches her jaw, irritation growing with each passing minute until they finally exit a few stops later.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "I'm so mean and impatient; I must be a horrible person because no one else ever gets this angry around kids. I hate how everyone is always so happy and friendly all the time, it just makes me want to scream."
+    },
+    {
+        "Triggering Event": "She sees him laughing with her colleague at the office party, their heads close together, his hand occasionally touching her arm. She notices they've been exchanging furtive glances all evening.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She's just being paranoid about everything. I mean, what are the chances she'll actually get with this guy? We're coworkers. He could be flirting for attention to himself. This is probably just my overactive imagination. Maybe I'm even projecting my own feelings onto them."
+    },
+    {
+        "Triggering Event": "\"While restocking supplies at night, she noticed the cartons were arranged differently than she'd left them earlier. Her heart pounded as she recalled locking up. Someone must have been in the storage room.\"",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She was startled when her heart started pounding while restocking supplies at night. She remembered locking up, so it seemed odd someone had entered the storage room. It could have just been a mistake, but she felt uneasy about the situation."
+    },
+    {
+        "Triggering Event": "He sat alone in his clinic, the last patient gone, the silence heavy with the weight of the day. His phone buzzed with a text from her: \"I've decided we need some space.\" The words echoed in his mind as he stared at the framed photo of them on his desk, their smiles now bittersweet. He felt a melancholic ache, like an old wound tearing open, as he realized he'd been so focused on saving others that he hadn't noticed his own life slipping away.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He thought to himself, \"Why would she just decide this? Doesn't she know I'm here for her?\" It was as if she had chosen him out of all the people who could help her, but why would she want that? ---"
+    },
+    {
+        "Triggering Event": "A student hands in an assignment, the first late this semester, with a note saying \"Sorry, Ms., I didn't have time to proofread.\" She notices his usual neat handwriting is replaced by hurried scribbles.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Wow, he's really slacking off this year. That's so unprofessional. He must be very irresponsible. He probably never takes anything seriously and doesn't care about grades at all.\""
+    },
+    {
+        "Triggering Event": "A middle-aged scientist sat alone in his lab, hunched over his desk. His colleagues had quietly left hours ago, their goodbyes echoing unanswered through the empty corridors. He was still, save for the occasional trembling of his hands, as he stared at the email on his screen. \"Your latest theory has been soundly refuted by Dr. Thompson's team,\" it read. He felt the humiliation burn like acid in his gut, each word a physical blow. His once-revered ideas, now dismissed with such casual cruelty, made him feel small and insignificant, a failure in his own eyes and those of his peers.",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He thought to himself, \"If I were to continue working on this project, what would happen next?\" The question seemed innocent enough, but deep down, he knew that every answer led to more questions. What if my lack of funding actually worked against me? Would I be forced to abandon my research, leaving behind years of work? Or maybe, just maybe, this setback would propel me into new areas, leading to breakthroughs he never could have imagined? But then there was another possibility: What if my reputation took a hit so bad that no one would ever take me seriously again? Would I end up living in obscurity, unable to share my findings with the world? It wasn't fair; he'd always been dedicated to science, driven by curiosity rather than personal gain. Yet, the thought lingered, casting a shadow over everything he did. Perhaps he was overreacting, but the fear lingered. If I were to give up now, would I regret it later? Could I find success elsewhere, even if it meant starting from scratch? What if, instead of quitting, he found a way to redeem himself? Maybe he could turn this experience into an opportunity, proving to everyone that he wasn’t done yet. But what about the chance that he’d lose everything—his job, his home, his entire life? The thought sent shivers down his spine. Was it worth risking everything for one idea? Shouldn't he just move on, leaving the past in the"
+    },
+    {
+        "Triggering Event": "She arrived home, lab coat still on, to find their shared dinner untouched, her husband's half-finished coffee growing cold beside an unopened letter from his alma mater. The clock ticked on, echoing through the silent apartment as she waited, alone again.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She was just sitting there, staring blankly at the kitchen table where they had planned to share that meal together, yet now it seemed like an empty space. It didn't even register in my mind how long she'd been waiting for him to come home until I heard the door open behind me. Her eyes widened as she took in the scene before her—his jacket slung carelessly over the back of a chair, his phone lying on the counter where he'd left it, the coffee cup untouched, and the letter still sealed. It dawned on me then that we weren't like most couples; we never did things the way other people did. Our conversations were always about our passions, about the projects we worked on, about the books we read, and the ideas we chased. But in this moment, all I felt was the weight of being alone again. My heart sank as I realized I was just another night of us missing each other, of me waiting patiently while he ran late once more, lost in his thoughts. For a fleeting moment, I wondered if anyone else out there felt the same, if they too sat by themselves, wondering why they couldn't be with someone else. It wasn't fair to compare myself to them, but I couldn’t shake off the feeling that I missed out on something everyone else got to experience. That realization stung, making me feel like I was stuck in some kind of perpetual loop, where every time I thought things might get better"
+    },
+    {
+        "Triggering Event": "After a grueling 12-hour shift, Officer Sarah parks her cruiser in the garage and enters their shared apartment to find her partner, a teacher, lounging on the couch with a glass of wine, engrossed in a novel. The aroma of takeout fills the air. She stands silently for a moment, resentment bubbling within her as she takes in the scene. Her partner looks up, smiles, and says, \"Hey, babe. I got us dinner.\" Sarah's shoulders tense; she hasn't eaten yet, but her partner hadn't bothered to wait or warm anything for her. She feels the familiar pang of bitterness, another evening where their lives seem to intersect without truly meeting.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Sarah couldn’t help but feel like she was stuck in a never-ending cycle. Every time she came home from work, her partner seemed more interested in his book than in spending quality time together. He’d always say he was just reading, but it felt like an excuse. When they did have dinner together, she often had to remind him to save some food for her, because he’d eat everything before she even got a chance to taste it. It wasn’t fair, and she felt frustrated whenever this happened. She wished he could understand that sometimes, after a long day, all she wanted was to sit down with someone who cared about her and share stories about her day. But instead, she ended up alone again, wondering if she was really important enough to warrant attention. She wondered if he ever thought about what she might be going through, or if he even cared at all."
+    },
+    {
+        "Triggering Event": "In his cluttered basement, he found her old wedding ring, tucked away in a shoebox. He hadn't touched it since the funeral. The metal was cold and heavy in his palm, igniting a familiar resentment. Another nurse at the hospital had been whispering about his wife's care, implying she'd suffered unnecessarily. His hands shook as he gripped the ring, imagining the woman's shock when he confronted her tomorrow.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He felt like an idiot for even considering talking to her again, like I'm just going to confront some careless bitch who doesn't know how much this means to me. She probably never misses me; she's moved on with her life. Why would she want to see me? It wouldn't be the same anyway. We're too far gone, and I don't need this stress. I'll just keep my mouth shut and let her live her life."
+    }
+]

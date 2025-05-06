@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nAs she sat alone in her quiet apartment, the elderly woman glanced at the framed picture of her late sister on the mantelpiece. It had been exactly a year since she'd last spoken to her, their heated argument echoing in her mind like an unending loop. A sudden, profound guilt washed over her as she remembered the harsh words she'd spoken in anger. She picked up her phone, her trembling fingers hovering over the contacts list, wishing she could take back that fateful day.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She couldn't help but feel that she was doomed for life, forever trapped in this cycle of self-loathing and regret. The pain from that moment seemed to reverberate within her, like a never-ending echo chamber, each time she thought about it, the anguish grew stronger. She felt like she was drowning in her own sorrow, unable to escape the weight of her mistakes. Every memory of that day replayed itself in her mind, leaving her with no peace, no respite. It was as if she was living through all those moments again, reliving every second, every word, and every feeling with no end in sight. The pain had become so intense that it seemed to be consuming her, turning her into someone else, someone who wasn't even herself anymore. This was more than just a painful memory; it had become a constant reminder of what she felt was her own fault. Every passing day brought nothing but suffering, and she realized that she would carry this burden for the rest of her life."
+    },
+    {
+        "Triggering Event": "He spotted her across the park, laughing with her new boyfriend. The same laugh he'd heard thousands of times when they were together. His grip tightened around his coffee cup, the heat searing his skin, but he barely noticed. Another bitter divorcee enjoying their company, while he was left alone with his resentment.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She's probably just having fun after a long week. It's natural to enjoy time with friends. They're probably not thinking about me right now; they don't need to. Everyone has different priorities in life. She deserves happiness, and so does everyone else."
+    },
+    {
+        "Triggering Event": "A middle-aged man, standing by the hospital's automatic doors, checks his watch for the third time in five minutes. His brow furrows as he realizes it's nearly midnight, and still no sign of his daughter, who was supposed to visit after her shift ended hours ago. He texts her again, worry gnawing at him like a persistent ache.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He’s probably just busy with work. I can’t believe she hasn’t called back yet, though. It must be an emergency or something. I’ve tried calling her number three times already, but she isn’t answering. She would have texted if anything was wrong. This is so typical of her, always running late and ignoring me when things get tough. I know she’d rather hang out than deal with my problems, especially since she has her own stressors. But what if this really is an emergency? Maybe she got into some kind of trouble, or maybe she forgot about our plans because she’s been stressed lately herself. I can’t imagine what could make her forget. She’s such a responsible kid; it doesn’t add up. If I were in her shoes, I wouldn’t ignore me either. But she’s not me. Still, I’m getting anxious. What if there’s something serious going on that she won’t tell me? Or worse, what if she’s gone and forgotten about me completely? The thought sends a chill down my spine. I need to stay calm and think this through. She’ll show up eventually, or maybe call when she gets home from work. I just hope nothing bad happened. I can’t bear the thought of losing her, especially now that we’re closer than ever. She means everything to me. I feel so helpless right now. I keep thinking about all the things that could go wrong—what if she got hurt? Or"
+    },
+    {
+        "Triggering Event": "She found an email from her editor tucked amidst countless press releases, dismissing her recent investigative piece as \"unsubstantiated hysteria.\" The words seared into her like branding irons, igniting a familiar hatred that boiled within her, threatening to consume everything it touched.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She's either a complete hack who doesn't deserve to breathe the same air as us, or she's the best journalist this city has ever seen—something between those two extremes is impossible. If she isn't, then why did we hire her? Why does she have access to our sources? It all makes sense now—a mastermind hiding behind a facade of integrity. The fact that she’s even working for us, let alone producing quality content, means we’re all complicit in this charade. We're either part of a massive cover-up or I’m just being paranoid again. There's no middle ground; you're either with me, or against me. Her actions are either a calculated move to further her career, or a genuine attempt to tell the truth. But which one is it? I know exactly what happened—it was either a deliberate lie or a momentary lapse of judgment. There’s no room for anything else."
+    },
+    {
+        "Triggering Event": "In the middle of a crowded store, her manager's voice crackled over the PA system, \"Could you please ask Sarah to meet me in the stockroom? It's urgent.\" She felt her cheeks flush as every pair of eyes seemed to turn towards her, whispering.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "I'm so embarrassed. I feel like everyone can see how awkward this is going to be. The way they're all staring at me makes me want to crawl into a hole. Why did it have to happen right here in front of everyone? Now they'll never stop teasing me about it. I just need to get out of here before things get even worse."
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she found his old stethoscope, its bell tarnished with age. She brought it to her nose, expecting the familiar scent of him, but it was gone.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She remembered how he used to hold it for her, his fingers wrapped around hers, as they listened to each other's heartbeat in perfect synchrony. The smell of his cologne still lingered, but there was something else—a faint metallic tang that seemed out of place."
+    },
+    {
+        "Triggering Event": "The gallery owner, examining his paintings before the opening, casually remarked, \"We've only sold one today.\"",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"I feel like he's downplaying it because he wants to make himself look better than everyone else. I mean, he probably knows how many people are waiting outside and how much they're willing to spend. If he doesn't sell more, he'll look terrible in front of them. He might be trying to hide that by saying just one.\" \"Maybe he didn't want us to know about all the other sales. Maybe he's worried about what the other galleries will think if we have too many successful shows this year. What if he has a lot of unsold pieces that he's hiding?\" \"I'm starting to worry he's trying to throw us off his trail for some shady business deals. What if he's involved with organized crime, and he's using these art events as fronts? He could be selling these paintings to fund illegal activities and is afraid someone will discover him. His casual comment about only selling one must be a cover-up. It's suspicious behavior, so maybe he's involved in something big.\""
+    },
+    {
+        "Triggering Event": "At the store, she noticed her partner, unknowingly, wearing two different colored socks. She blushed, feeling embarrassed by his forgetfulness in public.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She felt embarrassed when he wore mismatched socks at the store because it showed that he wasn't paying attention to what he was doing. It seemed like an oversight that reflected poorly on him as a person. Her embarrassment was justified since it meant he didn't take care enough about himself to match his clothes properly."
+    },
+    {
+        "Triggering Event": "She opens her lab notebook to find a faded, yellowing obituary tucked inside. It's her late mentor, whom she'd forgotten she'd placed there months ago. A wave of sorrow washes over her as she realizes how much time has passed since his death, and all the unshared discoveries she'll never discuss with him again.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't believe that she missed it for so long. It was right under her nose the entire time, but I guess I just forgot about it because he died. The pain is still so raw, I haven't been able to look at old photos from that period without breaking down. I remember when she used to sit next to me during lectures, offering words of encouragement whenever we struggled. She was always kind and supportive. I wish I could have told her more about my research before she left. I feel like I'm missing out on so many things now that she's gone."
+    },
+    {
+        "Triggering Event": "Artist enters studio, finds wife's painting supplies untouched, dust gathering. Her own canvas, however, is bare, awaiting inspiration that never came last week. She touches the dried paint on her palette, now cracked and useless.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "It looks like she lost interest in painting after our fight. Maybe we should talk about it? What was it even about again?"
+    }
+]

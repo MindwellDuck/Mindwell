@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A parent, late for pickup after school, snaps at her when she gently reminds them about the next day's project deadline.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "“Mom said she didn’t know what to say because she was so upset with herself that she couldn’t think straight.”"
+    },
+    {
+        "Triggering Event": "An elderly man, hands trembling slightly, signs the last prescription of his shift at the nursing home. A young nurse, barely out of medical school, corrects him softly, \"That's not how you write your signature anymore, Doctor.\" The room falls silent except for the ticking clock. His cheeks flush, but he nods, taking the pen back to rewrite it, feeling every inch of his once-respected authority stripped away by time and youth.",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He looks at me with such disappointment, as if I've betrayed his trust. He can't even sign his own name anymore? It feels like my whole world has crumbled. I'm just a young doctor; I shouldn't be expected to understand. Every time someone tells me something like this, I feel like they're trying to make me look bad. I know I'm not supposed to get defensive, but I'm just so tired of people judging me because of my age. It’s like everyone expects me to be perfect right now, and when I’m not, they punish me. I don’t have time to fix everything. I can’t keep up with these expectations. It’s exhausting. I wish people would stop making me feel like I need to prove myself all the time. How could anyone expect me to handle that much responsibility? They probably think I don’t care about my patients’ well-being because I didn’t spend 10 years studying medicine. But what if I try my best? Does that mean I deserve respect too? I guess I’ll just have to accept that some things are beyond my control. Maybe I should focus on being better than I was before and letting go of the past. After all, I’ve learned from those mistakes. It’s time to move forward and show everyone what I’m capable of. I won’t let my age define me. I want to prove them wrong and show them that I still have a lot to offer. It’s time"
+    },
+    {
+        "Triggering Event": "In his study, he noticed the photo of them at the lab's anniversary party last year. Her smile was wider then, her eyes less tired. He remembered how she'd laughed at his joke about the faulty microscope. Now, her chair remained empty, her desk cleaned off by eager interns. He picked up the frame, tracing her image, feeling a quiet sorrow well up inside him.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She must have left for another job already. She wouldn't leave us like this. I wonder what happened to her. Maybe she's still here, just in a different department. Or maybe she moved away to start a new life somewhere else. She always had a secret passion for travel. It's possible that's why she took off early from work again. Or perhaps—she didn't want to come back. Maybe she got tired of our group's constant bickering over who did what to the equipment. Maybe she realized she couldn't handle working with me anymore. Or maybe... Maybe she lost interest in science altogether and decided to pursue something else. What if she's gone forever? Her desk is so clean now, it looks almost sterile. There are no papers or notes scattered around. It’s as if she never worked here. But she would've wanted to say goodbye, wouldn’t she? She probably meant to tell me something important, but she never came back. If she was just leaving for another job, why didn't she give me a chance to ask her out one more time? Maybe she felt too guilty about what happened between us. I remember how we argued over whose turn it was to buy coffee. Perhaps she saw it as an opportunity to change her mind and go somewhere else. She might be in a better place now, doing something she loves. What if she finally found her true calling? Now, everything feels so empty. Even her favorite mug"
+    },
+    {
+        "Triggering Event": "The gallery owner cancelled his upcoming solo exhibition due to \"lack of market interest\".",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I'm shocked and disappointed that my art isn't good enough for people to care about it. I've been working hard to improve my skills, but apparently, it's all in vain.\" # Example Response End ## Feedback This response demonstrates magnification/minimization by emphasizing the negative aspect (\"shocked and disappointed\") while downplaying the positive aspects (\"hard work improving skills\"). It implies that the artist is overreacting and misinterpreting the cancellation as a personal failure rather than recognizing the lack of market interest. By focusing solely on disappointment and ignoring potential reasons like market trends or competition, the response illustrates this cognitive distortion. # Cognitive Distortion: Magnification/Minimization Cognitive Distortion: Magnification/Minimization Description: This distortion involves either overemphasizing (magnifying) the negatives or underemphasizing (minimizing) the positives in oneself, others, or situations. It can lead to an overly pessimistic outlook, where minor setbacks are exaggerated, and successes are minimized. Example: Person A: \"It's terrible that the project was cancelled because they didn't think our ideas were original.\" Person B: \"But we did get feedback from the judges.\" In this example, Person A magnifies the negativity by calling the cancellation \"terrible,\" while Person B minimizes the positivity by pointing out that they received feedback. This shows how both individuals might be misinterpreting the situation through distorted thinking. Person A focuses too much"
+    },
+    {
+        "Triggering Event": "She found an old photograph tucked behind her easel, of them laughing together in their Paris studio years ago. His smile was wider than she'd remembered, before his quiet decline into silence and absence. She traced it gently, tears welling up as she wished for those carefree days back.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like a failure, one who had lost him forever. He must have moved on, found someone else to share his laughter with now that he could no longer speak to her. She realized how much time they'd wasted, and how many opportunities they'd let slip by when they were too busy with their careers to be together. It wasn't fair; she knew she couldn't change what had happened, but the pain lingered, reminding her that sometimes things just aren't meant to be."
+    },
+    {
+        "Triggering Event": "In the hushed quiet of his home office, he picks up a framed photograph, the glass cold under his fingertips. Her smile, untouched by time, stirs a familiar ache in his chest. He notices a small crack in the frame, invisible until now, and feels an inexplicable surge of guilt. If only he'd been more careful, she wouldn't have slipped away so suddenly. The remorse is heavy, a tangible weight that presses down on his shoulders as he gently places the photograph back in its spot, vowing silently to be more attentive, even if it's just to her memory.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He can't help but wonder if this is another sign of things falling apart. A new job, one with great potential, has left him feeling drained. His days blend together in a haze of stress and frustration, leaving little room for anything else. It’s almost as if he’s trapped in a never-ending cycle of work and worry, with no clear escape. The thought lingers, like a shadow over everything he does. Even something as simple as choosing where to eat becomes tainted by doubts about whether this decision will lead to trouble or simply waste. Every step forward feels uncertain, weighed down by fears of what might go wrong. It's hard to shake the feeling that every choice leads further into a darkness that's closing in around him. # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "At 3 PM, after dealing with his third rude customer in an hour, he slammed a stack of unsold merchandise into the storage room shelf, knocking over a tower of precarious boxes. As the mess tumbled down, he couldn't help but mutter, \"Why can't people just have a damn good day?\"",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He's either a complete jerk who doesn't care about others, or he had a terrible morning and was already stressed out before this incident. There's no middle ground; he must be one or the other."
+    },
+    {
+        "Triggering Event": "He walked into the newsroom, his face already flushed with shame. The email from his editor was still open on his phone: \"Your latest piece lacks substance. Try harder next time.\" He could feel the eyes of his colleagues, their whispers echoing in his mind as he sat down at his desk, avoiding eye contact.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He thought to himself, \"If I had just been more prepared for that meeting, maybe my boss wouldn't have said what she did. She knows how hard it is to come up with new ideas.\" But then again, \"Wouldn't she have said something even harsher if I wasn't there?\" This cycle of doubt kept him up all night, unable to shake off the feeling that things would never get better. His mind was always spinning with worst-case scenarios, making it impossible to focus on anything else."
+    },
+    {
+        "Triggering Event": "An anonymous note in his desk, complaining about his teaching methods, left crumpled beside his coffee mug at the end of another long day.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "It's such an insult to me how he would question my ability to teach. My methods have always been tried-and-true, effective for generations of students. This is simply a case of someone who doesn't understand what it takes to educate properly. He has no business judging me—my experience and qualifications far surpass his. It's clear this individual isn't cut out for academia; perhaps he'd find better success elsewhere? His criticism feels like a personal attack on my integrity as an educator."
+    },
+    {
+        "Triggering Event": "A woman in her mid-sixties, with years of retail experience etched into her smile lines, watched as a younger colleague was praised for a sale she'd made. The girl's eyes sparkled, her laughter filled the room, and the manager beamed at her like she was the sun. The older woman felt her own hands grow cold, remembering the countless times she'd closed sales, only to receive a curt nod in response. She felt the familiar pang of envy as she turned back to her work, shoulders slightly slumped.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "It feels like I'm just an old lady who doesn't know how to sell anything anymore. She looks so young and vibrant while I feel like I've been stuck in this dead-end job for decades. It's hard to watch her succeed when I can barely make ends meet. I guess it's no surprise that my boss is so happy with her performance - everyone else is too."
+    }
+]

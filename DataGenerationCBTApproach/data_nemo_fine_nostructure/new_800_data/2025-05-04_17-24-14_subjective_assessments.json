@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"A colleague, around her age, mentioned she's been invited to a weekend getaway by a group of teachers, including the man she's secretly crushing on. She forces a smile, but feels her cheeks flush with envy.\"",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I feel like I'm always left out when it comes to social events. It’s just that this is another reminder that I’m never going to find someone who truly appreciates me. I don’t even want to try anymore.\" - Rachel # Output End ## Feedback This response demonstrates an overgeneralization because it assumes that every situation where someone else gets invited will lead to feelings of jealousy and isolation in the future. The speaker has likely experienced some positive interactions or friendships in the past, yet they continue to believe that being excluded from all social gatherings is inevitable. This thinking reinforces a pessimistic outlook on life, causing further distress and self-doubt. By making broad statements about their social life (\"I'm always left out\"), Rachel creates unrealistic expectations for herself, which can hinder her ability to form meaningful connections with others. Instead of focusing on building genuine relationships, she dwells on perceived failures, perpetuating a cycle of negativity. This mindset may discourage her from engaging in new activities or seeking help, ultimately worsening her mental health. By acknowledging and addressing these distorted thought patterns, individuals can work towards creating more realistic and positive expectations for themselves. - [Samantha](https://www.reddit.com/user/Samantha_Mental_Health) <img src=\"https://www.reddit.com/r/mentalhealth/comments/ei8g9j/mh_baby/\" title=\"MH Baby\" alt=\"MH Baby\"> [ /u/MH_Baby"
+    },
+    {
+        "Triggering Event": "An 80-year-old patient, trembling and disheveled, grabs his arm as he leaves the examination room. \"You're just like them,\" he spits, eyes wild with fear. \"Ignoring my pain because I'm old.\"",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "An 80-year-old patient trembled and looked disheveled when he left the examination room, shouting, “They all ignore my pain because they think I’m too old to be bothered.” He spat those words at me, eyes wide with anger."
+    },
+    {
+        "Triggering Event": "Driving home after another late night shift, he glances at the passenger seat, remembering the days when his wife would sit there, smiling tiredly as they'd discuss their days. Tonight, it's empty except for an abandoned Styrofoam coffee cup.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "I'm so depressed. I miss my wife so much. She was always there to support me, and now she’s gone. Every time I look at her old spot, I feel like crying. It feels like I can’t move on without her. I wish I could turn back time and have her here again."
+    },
+    {
+        "Triggering Event": "A gray, damp afternoon finds him alone in the storeroom. The fluorescent lights hum overhead, casting stark shadows. He picks up an old photograph from a stack of discarded items, its edges worn with age. It's a picture of his late mother, smiling at some long-forgotten joke. His eyes well up, and he quickly sets it down, turning away to wipe his cheek on his sleeve.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He was always a bit too curious about things. You'd catch him staring at the sky for hours, trying to read signs in the clouds, or watch the stars for messages they didn't really exist. Sometimes you'd find him in the garden, looking into the dirt as if searching for something hidden beneath. But then again, who wouldn't want to know more? Life is full of mysteries waiting to be unraveled. Maybe he just wanted to see if the world would tell him anything. Or maybe he wasn't ready to accept how things were, like reading tea leaves to figure out what's coming next. Either way, it made for interesting conversations."
+    },
+    {
+        "Triggering Event": "Scenario:\n\n50-year-old software engineer, married for 25 years, stares at his flickering computer screen, lines of code blurring before his eyes. His wife, in the next room, raises her voice, \"You're never home! Always buried in your work.\" He wants to respond, but his fingers hover over the keyboard, paralyzed. The phone rings, a client's urgent request for an update. He looks at it, then back at his screen, feeling the weight of his responsibilities crush him. His wife's footsteps approach, her voice now pleading, \"We need you too...\" He feels helpless, drowning in unending tasks and demands, unable to reach out or pull back.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "This is what he really needs right now - a reminder that we all feel overwhelmed sometimes. But instead, she just keeps pushing me down into this sinkhole. If she understood how much stress I'm under, she'd let me handle things for once. Maybe if she knew how hard it was to meet these deadlines, she'd stop nagging me about being present. It's like she thinks I can just drop everything for her, even though I've been working non-stop for weeks."
+    },
+    {
+        "Triggering Event": "He found the unopened letter from his wife's lawyer tucked behind their bedside clock, postmarked two weeks ago.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "*We were married for 30 years, and she was always honest with me. I know this because we've been through so much together. It's hard to imagine that she would cheat on me without feeling like something is wrong.* *She didn't even leave the house after she got sick. She had her own doctor, but she just stayed home with us for three months. We're still dealing with the aftermath of her passing.* *This must be some kind of scam. They're trying to get money out of me by pretending she died.* *I'm going to call him right now and ask him what he wants.*"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe noticed it as he was closing up the store for the night - a small, neatly folded note tucked behind the cash register where only his hands would find it. The familiar script sent a jolt through him, worry instantly etched into every line of his body. It was from them again, those faceless voices he hadn't heard from in months. They wanted their money back, they said. All of it. By Friday.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh no. This is so typical. They must be planning something. If they want all their money back by Friday, they'll probably try to scam me somehow. And if they're trying to scam me, then there's more than just money at stake here. There's personal safety, maybe even physical danger. This is why I've been working late hours lately, keeping an eye out for suspicious people, making sure I'm always one step ahead. But what if this isn't about money? What if they're after something else entirely? Maybe they're going to hurt me or someone else I care about. I need to call the police, report everything. Maybe they're planning something big, like a robbery or worse. I have to prepare myself mentally and physically for anything. I'll make sure my car is locked, and my phone is fully charged, ready in case I need to call for help quickly. I might also consider investing in some self-defense classes. You never know when you might need to defend yourself. I can't let my guard down around these people; I need to stay alert and vigilant at all times. This could get ugly fast. ### Output End #### Example Output: \"Oh no! They are planning something. I am preparing myself mentally and physically for anything.\" Note: Please keep in mind that Mind Reading is a common cognitive distortion that affects many people. It does not mean that the person who responded this way has actually committed such a crime. Instead,"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe woke up to find his side of the bed empty, the sheets cool and untouched. The house was quiet except for the ticking clock in the hallway, each second echoing her solitude. She walked to the kitchen, her slippers shuffling softly on the cold floor, and found no note, no hint of yesterday's leftover coffee in the pot. Today marked their 45th anniversary, but there was no sign he remembered or cared. She sat alone at the breakfast table, his empty chair a stark reminder of his absence, as the sun began to rise outside, painting the sky with colors he wouldn't see with her.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She wondered if she had lost him forever. He never celebrated our anniversaries; he just went about his day, always too busy for what we shared. I guess it's true; I'm nothing to him now. We've been together for decades, but in his mind, I’m still just an old friend. It makes sense that after all these years, he’d forget me. Why would he remember? Our marriage isn’t important enough for him to think about anymore. Her thoughts swirled around him, imagining how he might be spending this day, probably surrounded by new friends or hobbies he'd picked up since they stopped talking. Maybe he even has someone else now, someone who cares more than she did. I don’t deserve to feel so lonely on our anniversary anyway. After everything I’ve done, he doesn’t even need to remember us. I was never good enough."
+    },
+    {
+        "Triggering Event": "A patient's family member approaches him in the hospital hallway, lowers their voice to a conspiratorial whisper, and says, \"I heard it was you who made that joke about my grandmother yesterday. She found it offensive.\"",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I'm shocked he'd say something like that! I know how much she loves me; if she felt offended by my joke, she would have said so directly.\" \"This is unbelievable. If she didn't feel offended, then why did her family think I said something inappropriate? That's just ridiculous. I've never even joked about her before!\" This response shows that the individual views the situation as either a complete truth (the grandmother really felt offended) or a completely fabricated lie (her family thinks I offended her out of thin air). They cannot see themselves in between these extremes. Instead of considering nuanced possibilities, they categorize everything as all good or all bad. # Example Response End ## Output #1 Example 1: Patient's Family Member Misinterprets Their Behavior Patient's Family Member: \"I saw you laughing with your friends at the party last night. You were clearly making fun of my sister.\" Patient's Response: \"I don't remember what happened. Maybe we were just having fun together. I don't know what she meant by saying that.\" In this scenario, the patient seems oblivious to the misinterpretation. They dismiss the idea that they might have done something wrong, assuming the best-case scenario that no one took offense. This response reflects an inability to consider that there could be more than one interpretation of the situation, leading to All or Nothing Thinking. # Example Response End ## Output #2 Example 2: Patient's Friend's Behavior"
+    },
+    {
+        "Triggering Event": "During her morning commute, she noticed the bumper sticker on the car ahead - \"Make Medicine Great Again.\" Her grip tightened on the steering wheel, knuckles turning white. She wanted to rip it off, to scream at the driver, but all she could do was follow, heart pounding with a hatred she hadn't felt since medical school.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She didn't even say anything about the sticker. He just drove normally. Why did he need to display that? It's such an obvious sign of ignorance. She might as well be driving a car covered in racist graffiti. That kind of thing doesn't belong anywhere, especially on public transportation. If people want to express themselves, there are far more constructive ways to do it. Maybe he should have taken down the sticker before getting into his car. At least then he wouldn't be contributing to the spread of misinformation. But no, he had to go and advertise his lack of knowledge. Now she has to see it every day. It's annoying, but it's also a reminder that there are"
+    }
+]

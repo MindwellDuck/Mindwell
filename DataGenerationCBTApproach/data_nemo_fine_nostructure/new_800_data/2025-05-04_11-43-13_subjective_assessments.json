@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "In her small, quiet home, she notices the dust bunnies gathering in corners untouched for weeks. The phone remains silent, no longer ringing with daily check-ins from old friends who've drifted away since her husband's passing. She feels a chill, realizing it's been days since anyone asked about her well-being, let alone offered help around the house. Today, she was supposed to start volunteering again at the hospital where she once worked, but as she searches for her nurse's pin, she finds herself suddenly overcome by an inexplicable fatigue. She sinks into her armchair, clutching the pin tightly in her fist, and feels a profound sense of being forgotten, unseen, and alone.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She is tired of trying to find meaning in this life. It doesn't seem like there's much purpose anymore. What point is there? Everyone has moved on - including me. They all have families now. I'm just sitting here, wasting time, waiting for something that never comes. There's nothing left for me; everything has fallen apart. This world isn't fair. Nothing ever goes right. Why bother trying?"
+    },
+    {
+        "Triggering Event": "A yellowed letter, tucked in an old book he'd forgotten to give her, slips out as she begins reading aloud from his favorite novel. It's a note he wrote decades ago, confessing a moment of weakness, a lapse in their trust. He watches her face fall, her eyes well up with silent tears as she hands him the letter, saying softly, \"I thought we shared everything.\"",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"I just feel like you're so hurt by this one thing. I know it was a mistake, but I think how much more important our relationship is than that. I remember all the times we laughed together, the moments when we connected deeply, and the ways we've supported each other through tough times. You need to see that there’s still so much good here.\""
+    },
+    {
+        "Triggering Event": "\"Ringing her radio, dispatch announced the release of her brother's assailant due to lack of evidence. She gripped the steering wheel tighter, eyes burning with vengefulness as she sped towards another call.\"",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I could either have been relieved that my sister was finally free from her tormentor or I could be consumed by rage, driving towards revenge.\""
+    },
+    {
+        "Triggering Event": "\"While prepping dinner service, he noticed his sous chef effortlessly executing a complex dish he'd once struggled with. He felt a pang of insecurity, remembering the hours he spent perfecting it. His hands trembled slightly as he began to chop herbs, slower than usual.\"",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Wow, I'm either an absolute disaster in the kitchen or a culinary genius! I can't believe I'm even allowed to work here, let alone alongside him.\""
+    },
+    {
+        "Triggering Event": "At 7 PM, Dr. H. arrives home to find the answering machine blinking with hospital messages. He wearily presses play, his frustration growing with each voicemail detailing avoidable errors made by his overworked team. His wife's empty chair at the dinner table seems even more vacant tonight, another reminder of what he'd give to have her back just once to help carry this load.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "At 7 PM, Dr. H. arrives home to find the answering machine blinking with hospital messages. The news is grim. Every call is a reminder of the mistakes made by his team, the ones who were supposed to make things easier for him but instead created more work. It feels like they're all failing him one way or another, and he can't shake off the feeling of being overwhelmed. His wife's absence at dinner is another blow. She's always been there to support him, to remind him that everything will get better. But now she's gone, and he's left to face these messes alone. Each day, every mistake, feels like a weight pressing down on him, making it harder to keep going. It's as if fate itself has stacked against him, piling up problems he doesn't know how to handle. With each passing moment, he feels more trapped than ever, unable to escape the cycle of failure. Every time he looks around, he sees signs of what could go wrong next - the overflowing mailbox, the stack of unpaid bills, the looming deadlines for reports that are already overdue."
+    },
+    {
+        "Triggering Event": "Male artist, 59, in his studio. Painting hand trembles as he realizes the gallery deadline is tomorrow and he hasn't started his masterpiece yet. His partner calls, needing help with a family emergency. He feels his heart pounding, breath catching. The room spins slightly. Can't paint like this, can't leave her hanging. Panic surges through him.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "I feel terrible about my art teacher's death last year, she was just 50 years old. She died suddenly after a heart attack. I remember being in shock when I heard the news. It was such a sad day for all of us. I wish she didn't have to die like that, but at least now her legacy lives on through our art class. I still think about her every time I look at one of her paintings. She had such an incredible talent and spirit - always pushing us to be better artists. Even though she's no longer here, I know her memory continues to inspire me in my own artwork. She might be gone, but her impact on our school will never fade away."
+    },
+    {
+        "Triggering Event": "Every evening, he would walk past the park where they used to feed the ducks together. Today, the sun dipped low, casting long shadows as children laughed nearby. A woman pushed a toddler in a swing, her laughter echoing. His heart squeezed, remembering their plans for a family, now silenced by an empty apartment and faded photographs.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Oh no, she's walking away from the duck pond. It looks like it's getting dark, maybe I'll go home soon. She was probably just passing through."
+    },
+    {
+        "Triggering Event": "The coffee maker sputtered to life at 5:30 AM, but today it was just another hollow noise echoing through the empty house. She sat alone at the kitchen table, her reflection in the dark window mirroring her slumped shoulders and listless hands cradling a mug that had long grown cold. The silence was deafening; no hurried footsteps of children off to school, no whispered goodbyes from her husband heading out early for another meeting he wouldn't invite her to. She gazed at the family photo on the fridge - taken last summer, their smiles strained, his eyes elsewhere. She felt a pang in her chest, not just from the loneliness but also the bitter truth that this was what she'd become accustomed to after thirty years of marriage: being alone together.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She thought back to the day they were married, when every morning started with a warm hug and laughter. They would dance around the kitchen, sharing breakfast and plans for the day ahead. Now, as she stared into the same room, the memories seemed distant, like echoes of a past life. Her mind wandered to how things might have been different if he hadn't left six months ago, leaving her here to raise their kids on her own. But those thoughts led to more questions about why he stayed so long, why he couldn’t be there now. She wondered if she’d lost herself along the way, if she’d forgotten who she used to be. As she sat there, surrounded by the remnants of their life together, she realized that maybe this wasn’t just loneliness, but a reflection of something deeper within her."
+    },
+    {
+        "Triggering Event": "Male nurse, 47, single. He notices a colleague whispering to another near the staff room door, both glance at him briefly before turning away.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Wow, I wonder what they were talking about. Maybe it's something boring, like how we have too much paperwork. Or maybe they're discussing a new project that's going to make our lives easier.\""
+    },
+    {
+        "Triggering Event": "A colleague, half his age, chuckles loudly at his typo-ridden draft during an editorial meeting.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"I'm just really curious about what might happen in that situation—what if we make some mistakes?\" I ask aloud."
+    }
+]

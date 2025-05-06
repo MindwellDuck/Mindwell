@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's spouse offers him a moldy, leftover sandwich from their picnic lunch during his routine check-up.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Wow, that's quite an interesting choice! I can't believe they'd be so careless with food safety like that. It must have been a mistake to store it in the fridge for this long.\""
+    },
+    {
+        "Triggering Event": "He found their old wedding photo tucked behind his nightstand, forgotten in the chaos of the divorce. It slipped out as he moved the furniture to let the sunlight in. He picked it up, tracing her face with a trembling finger, feeling sorrow's familiar ache.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He was always the hopeless romantic, clinging to memories of what could have been. His life had become a series of disappointments, each one a reminder that love wasn't meant for him. Even now, as he gazed at the faded photograph, he couldn't help but feel like a failure."
+    },
+    {
+        "Triggering Event": "In the quiet of her empty classroom after school, she found a crumpled note tucked behind her desk. It was from little Timmy, who'd been struggling all year. \"I wish I could make you proud,\" it read in his childish scrawl. Her heart ached as she realized she hadn't noticed his silent suffering.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "As she sat in her empty classroom, she couldn't help but feel a pang of sadness. The crumpled note that had been hidden behind her desk was a reminder of Timmy's struggles throughout the year. His handwriting was messy, and the words seemed to be written in frustration. She felt like she'd failed him, even though she knew she'd done everything she could to support him. It wasn't just this one incident that made her feel guilty - every time she saw Timmy, she remembered how he struggled with reading and writing last year. He'd always looked so scared when she asked him to write, and his answers were always short and hesitant. She'd tried to give him extra tutoring, but it hadn't seemed to make much of a difference. She wondered if she was doing enough for him, if she was pushing him too hard. Maybe she was making things worse by focusing on his weaknesses. But what else could she do? She didn't want him to fall further behind his classmates, especially since they were already struggling to keep up. As she thought about Timmy, she felt a lump form in her throat. She wished there was something more she could do to help him catch up. Maybe she could get him some extra resources at home or find ways to make learning easier for him. But deep down, she knew she might be overestimating what she could do. She sighed, feeling the weight of her responsibilities settle back onto her shoulders. This was going"
+    },
+    {
+        "Triggering Event": "A stack of essays, marked with red ink and 'See me' notes, grows heavier in her arms as she walks down the crowded school hallway. She feels a familiar pang of helplessness, knowing she's falling behind in grading, but the mountain of papers seems insurmountable. A sudden buzz announces the end of class; students rush out, leaving her alone with the towering pile and her gnawing sense of inadequacy.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't handle this anymore; it's all or nothing. If she doesn't give up now, she'll fail every assignment and her grade will tank. On the other hand, if she starts working on these essays, she'll never finish them, and her grades will continue to slip further behind, leading to a failing grade. It's impossible for her to catch up or even stay afloat in this sea of papers. Her anxiety is suffocating her. Either she gives up completely and lets herself fail, or she dives headfirst into the essay pile and hopes for the best. The thought of trying to tackle each paper individually feels like climbing Mount Everest—she'll never reach the summit. Either way, she’s going to end up losing everything. This is just too much, and she knows she’ll never get it together. Maybe she should have taken that math class last semester instead of skipping it for sports. Now there’s no turning back; either she fails this semester or she spends the entire next one playing basketball. Either she throws away her chances at passing or she spends years playing sports while drowning in debt and regret. The weight of those essays is crushing her, and she can’t take it anymore. She needs to make a choice between total failure or endless suffering, and she can’t decide which path feels worse. --- # Output The student felt overwhelmed by the amount of work ahead, seeing it as either an insurmountable task or an excuse to give"
+    },
+    {
+        "Triggering Event": "She checks her phone during a lull in patrol, hoping for a message from him. Nothing. She sighs, feeling the familiar sting of rejection. A call comes in - a domestic disturbance. As she pulls up to the house, she sees him through the window, laughing with another woman. Her stomach churns, the pain of his emotional distance slicing deeper than any knife wound from her years on the force.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She's been watching him for hours now, but he hasn't even glanced at her. It feels like an eternity since they last spoke, and every minute is a reminder that he doesn't need her like she needs him. I can almost feel the desperation rising inside me as I watch him laugh with someone else, the sound echoing through my mind like a cruel joke. My heart sank when I saw him chatting with her. The way he looked away from me was so obvious, it felt like he was trying to blindside me. I know I'm overreacting, but I can’t help how I feel. He’s supposed to be my partner, my friend, but right now, I just want to scream at him for hurting me again. How could he make this look so casual? Doesn’t he realize how much it hurts? Every time he smiles, it feels like a betrayal. I keep replaying our last conversation in my head, wondering what I did wrong. Even though I know I shouldn’t, I find myself imagining all sorts of scenarios where things could have gone differently – if only I had said something different, maybe he wouldn’t be acting like this. But deep down, I know it won’t change anything. This is who he is, and I’m left dealing with the aftermath. The worst part is seeing them together, knowing I’ll never be more than a memory to him. I’ve tried to convince myself it’s nothing, but the truth is, I"
+    },
+    {
+        "Triggering Event": "At closing time, he found a note tucked into his coat pocket from his teenage daughter: \"I wish you were never my dad.\" The store's fluorescent lights flickered off, leaving him alone with that sentence, each word like a punch to his gut.",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He can't believe it. He thought things had been going well after his daughter moved out, and she'd even started calling him every other weekend. She must have written this just to get back at him for not buying her those new boots she wanted. But what really hurts is how casually she wrote that note, as if it was nothing more than a careless joke. It doesn't make sense; they've always been close, despite some rough patches. They go shopping together regularly, and she's still the one who helps him pick out clothes. Why would she say something like that? It's not like he's trying to hurt her or anything. They're in a good place now. He remembers when she first got her license, he took her out for ice cream, and she beamed up at him, saying, \"You're the best dad ever!\" He felt so proud that day, but now this whole thing feels like a lie. Maybe he has been neglecting her lately—after all, he does work long hours. But what about all the times he surprised her with her favorite foods or when she came over for dinner? Those moments counted for something, didn't they? And then there's the fact that his wife, his rock, his partner of 30 years—the woman he loves more than anything in the world—isn't here to see this. If he could turn back time, he'd change everything. He thinks back to when they first met, how they"
+    },
+    {
+        "Triggering Event": "At 7 pm, he found himself alone in his dimly lit office. The silence was broken only by the faint ticking of the antique clock he'd inherited from his grandfather. He looked at the framed photos on his desk - his children's smiling faces, now distant memories. A sudden gust of wind rattled the window, echoing the emptiness within him.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He felt an overwhelming urge to call her. To ask how she was doing. To share stories about the kids and their latest antics. But he knew she wouldn't answer. She never did when he called after work. She always said she was busy with her own projects, but he could tell it wasn't true. She didn't want to talk to him. Not really."
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she watched as his hand shook while marking the test tubes for labeling, his usual precision faltering. She reached out to help steady it, but he gently pulled away, saying, \"I've got this, dear.\" His voice was firm, yet there was a hint of tremor, mirroring the one in his hands.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "In my mind, I felt like an intruder watching him struggle with such fine work, and it made me feel anxious. I assumed he must be stressed about something more than just the lab assignment because he usually handles tasks so confidently. It seemed like he was trying to hide something from me, and that realization filled me with unease."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she opens the kitchen cabinet to find it bare except for a lone can of tomato sauce. It's the same brand they used to buy together. She traces its label, remembering his laugh echoing in their old kitchen. A lump forms in her throat as she realizes this is the last one he didn't take when he left.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She feels betrayed by his actions; how could he leave behind something that would have been simple to replace? The silence now is deafening, and every time she hears the sound of her own footsteps, she wonders if she'll ever feel at home again. He must have done it intentionally, leaving her with nothing but the memories of what once was."
+    },
+    {
+        "Triggering Event": "She noticed his favorite mug, still in the cabinet, untouched since he'd passed away six months ago. Her reflection in its glazed surface showed her eyes welling up with despair.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was devastated to see him sitting there, even though she knew it was just a memory. His favorite mug was gone for good now, a reminder that life would never be the same. The moment she saw it, she felt like she'd been punched in the gut. It was as if time had stopped, and all she could think about was how much she missed him. She couldn't bear the thought of living without him anymore. Everything seemed so unfair; he wasn't really gone, but she knew deep down that he was. He had taken her favorite mug too, leaving her with nothing but memories. Now, every day felt like a constant struggle to move forward when all she wanted was to stay frozen in this moment forever. She wished she could turn back time, go back to the days they shared together, but that was impossible. Instead, she found herself clinging to those moments, cherishing what little time they had left together. Her heart ached at the thought of being alone, of facing the future without him by her side. She couldn't imagine going on without him, but somehow, she knew it was inevitable. As she looked deeper into the mug, her eyes filled with tears, and she wondered how she could ever find happiness again. It felt like a cruel joke—she was supposed to heal and move on, but every step forward felt like a betrayal of everything they shared. She was lost in grief, unable to let go, and her mind refused to accept"
+    }
+]

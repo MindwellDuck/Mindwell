@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A male nurse, 38, checks his partner's phone while they're showering and finds a suggestive message from an old flame. He feels a pang of envy as he imagines them together.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "I'm just a jealous loser who can't get over his past. I've been with my girlfriend for five years now, but that doesn't mean anything to me. It's like she has no idea how much I care about her. She thinks we're fine, but I know I'll never be enough. I'm stuck in this dead-end job at the hospital, working long hours with little pay, and it makes me feel worthless. My life is just one big disappointment after another. I guess I'll always be alone. There's nothing I can do to change it. This guy must have a better life than me because he got over his ex so easily. I'm just a pathetic loser."
+    },
+    {
+        "Triggering Event": "She slammed her fist onto the keyboard, sending keys flying as she shouted at the screen, \"You're worthless, just like him!\"",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "I can’t believe my sister is dating someone who is clearly a bad influence. He has a history of substance"
+    },
+    {
+        "Triggering Event": "She noticed his favorite mug, still untouched after all these years, gathering dust in the cabinet. The weight of its emptiness seemed heavier than ever.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can’t believe he left it there, like that. It’s as if he abandoned everything else to keep one thing behind. This is insane! He must be holding onto something—anything—to stop from letting go completely. Why would he even keep this? Maybe she should get rid of it too, but then what about him? Does he need it? Is this just some sort of twisted game? Shouldn’t they have moved on by now? This isn’t fair; it feels so unfair. He hasn’t spoken to her since...since...she can’t remember when. Every conversation has been awkward, strained. And here we are, stuck in this loop, unable to move forward. It’s all so confusing. She doesn’t understand why he wouldn’t let go. Doesn’t he know how much time has passed? How many opportunities they’ve missed? Why does he cling to the past like it’s his last hope? What’s going through his mind? Is he really that attached? What if it’s more than just a mug? What if it represents something deeper? Something he refuses to acknowledge? Maybe he's afraid of losing himself, of forgetting who he was before her. Maybe he thinks she'll never accept him again, that every step back will lead to a fall. But why? They were happy once. What changed? Did she change? Was it always going to end like this? She wonders if she could make things right. If only she knew what to say"
+    },
+    {
+        "Triggering Event": "An elderly woman, her hands trembling slightly as she held the faded photograph, stared at the empty chair across from hers at their dining table. She traced the outline of her late husband's face, his warm smile a stark contrast to the cold emptiness beside her. As she looked up, a single tear rolled down her cheek, falling onto the worn-out tablecloth that he had once jokingly said would outlive them both.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was upset because she couldn't find her keys. The old man tried to help but ended up breaking two chairs in the process."
+    },
+    {
+        "Triggering Event": "A parent emails late at night, expressing concern about their child's grades dropping since he started your class.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Dear [Parent], Thank you for reaching out. I understand your concerns, but I want to assure you that our classes are designed to meet students where they are academically. We focus on understanding each student’s strengths and challenges, so it’s possible that your son has been struggling with similar concepts in other subjects. As we continue through this course, he will have ample opportunities to demonstrate his understanding. Sincerely, [Your Name]"
+    },
+    {
+        "Triggering Event": "He opens the drawer, fingers brushing against the worn metal of his wedding band. He had stopped wearing it months ago, but he can't bring himself to take it out completely. Today, he finds a receipt for dinner with Sarah from HR tucked amongst the rings' box and their marriage certificate. His heart sinks as he reads the date; it was his anniversary.",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He is devastated. The fact that she didn't mention it in our conversation earlier, where we discussed everything else, has made him feel so hurt. She must have forgotten because she's always busy. It doesn't mean anything, I know. But how could she forget? We've been together for five years now. This just shows her lack of consideration."
+    },
+    {
+        "Triggering Event": "In the bustling kitchen of \"Le Jardin,\" the scent of garlic and herbs filled the air as Chef prepared for the evening service. The radio played softly in the background, the same station her late husband used to listen to while they worked together years ago. A young sous-chef approached her, asking about a recipe she hadn't made since her husband's passing. She felt a pang of bitterness, her grip tightening on the knife she was using to chop herbs. \"That was his favorite,\" she replied coolly, her voice barely above a whisper before turning away to continue working in silence.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Is everything okay? You seem a little distant today.\""
+    },
+    {
+        "Triggering Event": "At 48, he was still sharp but his hands were slower, his patience thinner. Today, a critic had dismissed his latest collection as \"sentimental dross.\" As he sorted through his mail, a bright, unopened envelope caught his eye. It was from her, the gallery owner who'd been courting him for years. His irritation momentarily forgotten, he eagerly tore it open, only to find a form letter rejecting his work. Again. He crumpled it, threw it across the room, and went back to his painting, slashing at the canvas with renewed vigor.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "At first, I thought that was what happened when you grew old. Your life just started getting smaller and smaller until there was nothing left except tiny little moments. But then I got this rejection letter from this gallery owner, and suddenly my whole world seemed to be shrinking. I felt like she was rejecting me personally, like she didn’t think my paintings were good enough for anyone else’s space. And now every time I get a rejection, I feel like it’s not just some gallery owner making a decision; it’s like she’s saying something about me. Like if one gallery doesn’t want me, nobody wants me."
+    },
+    {
+        "Triggering Event": "Every Sunday, he'd sit in their favorite park bench, feeding the pigeons she used to love watching. Today, a young girl approached him, asking if he knew what kind of bird it was that had just flown overhead. He looked up, saw nothing but empty sky, and realized he hadn't noticed its flight path or chirp. Her smile faded as his gaze returned, void of knowledge. His hands trembled slightly, pigeon feed scattering unused onto the ground.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He's an idiot. Always has been. Probably forgot because he's so stupid. Doesn't know anything anyway, so why bother? I'm better off without him around. # Output End"
+    },
+    {
+        "Triggering Event": "At the bustling city market, he sees her again, laughing with another man over a basket of plump tomatoes. The same laugh that once filled their kitchen as they cooked together, now echoing in this crowded place without him. He watches from behind a stack of crates, his grip tightening on the knife meant for chopping herbs.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He can't take it anymore. His mind is screaming to act. To show them what she's missing. But there are too many people around; every step would be noticed. If he takes one wrong move, the police will be all over him. It's just too much. What if someone saw? How could I explain? No, no, no. She deserves better than me. Better than a broken, depressed man who can't even make himself clean up. What was I thinking? Why did I think she'd notice me here? She doesn't care about me anymore. She must have moved on. Moved on so far that she forgot about him, forgot about how she used to smile at him when they were cooking, how she used to look at him when they sat down to eat together. She's gone, and he can't stop her. Not like that anyway. He's not ready to see her like that, looking at other men, laughing with others, enjoying life while he feels like he's drowning in his own darkness. This isn't right. This isn't fair. He needs to get out of here before things escalate further."
+    }
+]

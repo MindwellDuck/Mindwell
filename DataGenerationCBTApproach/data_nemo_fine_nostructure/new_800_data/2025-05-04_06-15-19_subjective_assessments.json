@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She noticed his favorite mug, still unwashed, in the sink.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I am certain that if you don't wash that mug, it will break into pieces and he'll have to buy a new one.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA chef, in his mid-30s, stands alone in the bustling kitchen of an upscale restaurant. The clatter of pots and pans, the hiss of flames under boilers, and the shouted orders from other chefs fill the air. He's been on his feet for hours, his back aching, his hands raw from the heat and constant motion. As he plates the final dish, a intricate tower of flavors and colors, he notices a single, tiny imperfection in the presentation. His heart sinks. It's not enough to make the customer send it back, but it's enough for him to know that he didn't meet his own exacting standards today. He sighs deeply, feeling the weight of his suffering press down on him like a heavy apron.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "As I watch my boss take another bite of his food, I can tell that something is wrong. He doesn’t seem satisfied with what I’ve prepared. And now he’s looking at me with a very disappointed expression. I feel so angry right now because I really wanted to get this order just right. But why does he have to be so critical? He never says anything when things go well, so why is he acting like this now? ---"
+    },
+    {
+        "Triggering Event": "In the quiet of his classroom, after the last student had left for the day, he noticed it: a small, crumpled note tucked between his desk and chair. Unfolding it, he read, \"You never noticed me.\" His heart sank as he recognized the handwriting of a former student who'd struggled with invisibility and silence.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "*Hmph!* *She's always been like that.* *Never paid attention to me.* *No one ever did.* *Maybe I'm just invisible.* *Why would she even notice now?* ---"
+    },
+    {
+        "Triggering Event": "She noticed the dust gathering on the photograph frames at home, untouched since he'd moved in five years ago. No one had bothered to clean them, let alone replace the faded pictures with newer ones.",
+        "Sex": "Female",
+        "Age": 73,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She thought it was either an honest mistake or a deliberate choice - she hadn't cleaned them because she didn't want to disturb his memories. If they were old, they were \"good enough.\" But if she cleaned them now, that meant she wanted him gone, like he was already dead inside her heart. It was all about whether she wanted to keep those memories alive or bury them forever."
+    },
+    {
+        "Triggering Event": "At 7 pm, she found herself alone in their old apartment, still hers until it sold. The realtor had left the lights on, casting harsh shadows over the bare walls where once hung family photos. Her footsteps echoed as she walked into the kitchen, her fingers tracing the chipped countertops where they'd shared countless meals. In the silence, she noticed something small, overlooked in the rush of separation: a lone sock of his, faded blue with a tiny hole by the toe. She picked it up, feeling its softness, remembering how he'd complain about losing socks in the dryer. A wave of loneliness crashed over her as she clutched the sock to her chest, the weight of their past together crushing her heart.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She was just holding onto the sock out of habit, because it reminded her of him. It wasn't like she was holding it against him for being careless, or even thinking that he would notice and be upset if she threw it away. No, she just liked having something of his around. And what's wrong with that? He could've thrown away the sock too if he wanted to. They'd probably have lost it anyway, so why not hold onto it instead? Besides, maybe he didn't even notice the sock was missing, he might not care. Or maybe he did notice, but he wouldn't say anything. It was just a sock, after all. What else is going to happen when we move out? This response reflects the cognitive distortion'mind reading' as it implies that the person is aware of the other person's feelings or thoughts towards them, but they are not actually aware of these feelings/thoughts themselves. This can lead to people making assumptions or jumping to conclusions about someone based on incomplete information, which is exactly what happened here. The original statement from the prompt \"A wave of loneliness crashed over her as she clutched the sock to her chest\" suggests that the character is experiencing strong emotions, specifically sadness or grief, due to the separation from the other character. However, this emotional response is not directly expressed in the response. Instead, the response focuses on the action of holding onto the sock, implying that the character is doing so because they"
+    },
+    {
+        "Triggering Event": "At the company-wide meeting, she realized everyone was staring at her. She looked down and noticed her zipper had been open all morning.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Ugh, I'm so embarrassed! I must have zipped it up wrong before leaving my house this morning. I always forget that when I'm in a rush.\""
+    },
+    {
+        "Triggering Event": "A 34-year-old female police officer, single and brimming with contempt, pulled over a flashy sports car for speeding. The driver, a smug young man, smirked as he handed her his license. \"You know how hard it is to handle this beast,\" he sneered, gesturing at his car. She calmly wrote the ticket, but as she handed it back, he snatched it from her, commenting loudly, \"Maybe if you ladies learned to drive, we wouldn't need cops like you.\" Her grip tightened on her pen, knuckles turning white.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She felt a chill run down her spine. How dare he think she was incompetent? She'd been driving since she was 16, and she knew exactly what she was doing. She didn't let him get under her skin, but she couldn't shake the feeling that she'd been insulted. The driver's words had struck a nerve, and she wondered if maybe there was some truth to what he said - after all, she wasn't much better than him."
+    },
+    {
+        "Triggering Event": "A man in his late forties, once an acclaimed artist, now finds himself in the quiet of his studio. The room is filled with dusty canvases and faded inspiration. His eyes fall upon a social media notification: \"Congratulations! John Doe has been featured in Art Today's Top 100!\" He feels a pang in his chest, not for John Doe, but for himself. The envy grows as he scrolls through images of vibrant paintings, alive with color and passion - emotions he hasn't felt since she passed.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He feels like he's lost something essential within himself, that part of him which used to paint from the heart. This realization hits hard, like a blow to his soul. It makes him question everything - why did I lose this spark? Why am I no longer capable of creating beauty? Every brushstroke now feels forced, every emotion stifled. He can’t help but wonder if he’s become just another faceless artist, one among thousands who don’t truly belong in the spotlight. The thought cuts deep, making him feel even more disconnected from his art. He tries to shake it off, but the doubt lingers, reminding him that he’s now nothing but a memory—a fleeting moment of talent lost forever. The world moves on, leaving him behind, and he’s left to pick up the pieces of what could have been."
+    },
+    {
+        "Triggering Event": "The lab phone rang, its usual hum now grating like a shriek in her quiet afternoon routine. She picked it up, \"Hello?\" Her voice, usually steady, wavered slightly. It was the hospital, asking if she could identify an elderly woman found unresponsive at home. They mentioned a book on her bedside table, a familiar title - \"Advanced Biochemistry\". The scientist's heart pounded as she realized they were talking about her neighbor, a fellow widow and retired scientist like herself. She felt a wave of worry wash over her; what if it had been her? What if one day she too was found like that, alone and unresponsive? Her fingers trembled as she wrote down the address they provided, already planning to cancel her evening lecture to be by her neighbor's side.",
+        "Sex": "Female",
+        "Age": 73,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She was worried about her neighbor, but also excited for her own lecture later that day. When she got there, her neighbor was alive and well, just tired from a long walk. ---"
+    },
+    {
+        "Triggering Event": "A blaring car alarm pierced the quiet of her suburban street at 5 AM, jolting her from a restless sleep. She stumbled to the window, her arthritis flaring up with the sudden movement. The cacophony grated on her nerves like nails on a chalkboard. \"Not again,\" she muttered, slamming the window shut, rattling the glass. Her coffee pot brewed too slowly, adding to her growing irritation as she prepared for another long day at the restaurant.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She was already irritable this morning, and now that loud noise had pushed her over the edge. It's just so frustrating; I don't know why these people can't even be bothered to turn off their alarms properly. Every time it happens, I feel like screaming, but what's the point? Nothing ever changes, so why bother trying? It's just part of life's constant stressors, like being tired all the time because of my health issues. Or how about my boss always taking credit for our work? He doesn't care about us, he just wants to look good in front of his friends. I wish I could go back to bed, but there's nothing else to do. Maybe if I take some more painkillers, I'll feel better, and then I won't have to deal with all these annoying things. Why can't everything just go away?"
+    }
+]

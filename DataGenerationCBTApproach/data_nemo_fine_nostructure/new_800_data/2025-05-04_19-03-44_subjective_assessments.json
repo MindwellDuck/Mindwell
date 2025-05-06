@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nThe store manager, a stern woman in her 50s, summoned Jane to the back office during her lunch break. Jane had noticed the disapproving glances all morning but thought she'd handled the rush well. The manager handed her an incident report, detailing a customer's complaint about Jane's \"rude and unhelpful\" attitude. As Jane read, her cheeks burned with embarrassment. She stammered, trying to explain, but the manager just shook her head. \"This isn't the first time, Jane,\" she said coolly, placing a written warning on the desk between them.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "It really sucks when I get yelled at for something like this. I'm always so nervous and anxious, especially around customers. I was having a rough day already because my mom called me late and I had to rush to work. And then this lady comes in and complains about how rude I am? That's just ridiculous! I know I can be a bit short sometimes, but it's not intentional. I've been working here for five years, and no one else has ever complained about my behavior. This must have been some kind of mistake. Maybe there's another employee who did something wrong? But no, they're all super nice and helpful. I feel like I'm being unfairly targeted because of how I look—my glasses are new, and I recently cut my hair differently. Anyway, I'll try to talk to her again and apologize, but honestly, I don’t think she’s right."
+    },
+    {
+        "Triggering Event": "An elderly woman, her hands still stained with the remnants of today's watercolor session, notices a young artist admiring her latest work at the local gallery. She overhears him whisper to his companion, \"She used to have potential, but now it's all just childish daubs.\" Her grip tightens around the paintbrush in her pocket, her knuckles turning white.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "When I heard that old lady say that, I couldn't help but think about what would've been if she had taken art classes when she was younger. If she'd followed her passion, who knows? Maybe she'd be a famous painter now, creating masterpieces instead of those childish things she does. It's always hard to imagine how things could've turned out differently for someone else, especially when you hear them speak negatively about themselves. I wonder if she realizes what could've been if she'd just pursued her love for art back then."
+    },
+    {
+        "Triggering Event": "At 7 pm, he steps into his studio, expecting to find his latest painting dried by now. Instead, it's still wet, dripping onto the floor in a puddle of failed timing. He had hoped to start framing today, but instead, he's left with another sleepless night watching paint dry.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He simply doesn't care about the mess. I'm sick of this guy constantly leaving his stuff everywhere; every time he comes back from work, there are more paintings on the table, more canvases scattered around, more brushes lying next to them. It's like he thinks we're just going to clean up after him without asking if anyone wants to help. And now, as I try to get ready for bed, I have to step over yet another canvas that's been knocked off its easel. This is so frustrating because I know he can be really helpful when he puts his mind to it—like during our last family gathering, he even helped Mom carry some heavy boxes up to her attic. But tonight, he didn't even ask if I was busy before making himself at home in the studio. If he'd just put things away properly before leaving, I wouldn't be dealing with all these problems right now. And honestly, it feels like he expects me to pick up after him, which isn't fair. Maybe he thinks I enjoy cleaning up after him? I don't want to be here tomorrow trying to figure out how to move the canvas again. Why does he always leave everything scattered around like this? Can't he see how messy it looks? This is ridiculous. If he were really considerate, he would've cleaned up better than usual today. Now I'm stuck working late, cleaning up the studio and trying to make sense of why he's being so thoughtless"
+    },
+    {
+        "Triggering Event": "At 7 pm, Dr. A finishes her shift in the ER, exhausted but satisfied with today's cases. As she steps out into the cool evening air, she checks her phone; a voicemail from her mother flickers on the screen. She listens, her heart pounding softly against her ribs as she hears the familiar trembling voice, \"It's Grandma...she passed this afternoon.\" A wave of sorrow crashes over her, tears welling up, as she leans against the hospital wall for support.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Dr. A felt a slight pang when she heard about her grandmother's passing, but it didn't affect her mood much. It was just another reminder of how fast time goes by, making her appreciate the present moment more. She thought back to all the good memories she shared with her grandmother during breaks at work, laughing together, and sharing stories of life. The feeling of nostalgia wasn't overwhelming, but rather it gave her a sense of calm, reminding her to stay grounded."
+    },
+    {
+        "Triggering Event": "She saw him walking into the café, his arm around another woman's waist. They were laughing together, oblivious to her presence. She quickly looked down at her menu, feeling a familiar ache in her chest. The same café where they'd once shared countless afternoons, now filled with strangers and echoes of their past. She couldn't shake off the feeling of rejection that had haunted her since their divorce.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She thought she deserved better than someone who could so easily replace her. Why would he even want to see her again? He must have moved on, found someone else to share his life with, someone who was more deserving of his love. She felt like she'd lost all sense of self-worth, as if every moment spent with him had been a lie. Her mind wandered back to those days when they used to sit by the window, watching the rain, sharing stories, and dreams. It seemed like an eternity ago, yet it still felt fresh, the memories etched vividly in her memory. But now, everything reminded her of what she'd lost – the laughter, the inside jokes, the late-night conversations, the quiet moments when it was just them. All of this made her realize that she wasn’t cut out for this. Maybe she was never meant to find happiness with him. She didn’t deserve it anyway; she was always too much for anyone. She knew deep down that she was meant to be alone, to carry her heartbreak like a badge of honor, something that made her unique, special. And now, as she sat there, surrounded by the hum of conversation, she knew that she’d rather be alone than suffer through another heartache."
+    },
+    {
+        "Triggering Event": "\"Mid-service, the kitchen's clamor suddenly spikes. The sous-chef yells over the din, \"Where's the saffron?\" His heart races as he realizes it's still in his jacket pocket, hanging by the back door. He hadn't taken it out after his smoke break.\"",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Oh no! I feel like my entire world is crumbling. It's either a complete disaster now that I've lost the saffron, or everything will be fine. I'm just going to make this work, even if it kills me.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she pauses over an old photograph tucked into her open notebook. A faint smile touches her lips before it fades, replaced by a familiar ache. She runs her thumb gently over his face, the crease in his eye from that last shared laughter now a bitter reminder. The clock on the wall ticks loudly, each second echoing like a hollow promise of time stolen.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She sits there for a while longer, lost in thought, but the moment's peace is short-lived. As the sun dips below the horizon, painting the sky with hues of orange and gold, she knows she must return to reality. Her gaze drifts toward the bookshelf behind her, where volumes on history and philosophy stand side by side with the photographs of those she loves. It's as if the past and present are intertwined, waiting to be deciphered. But even amidst this sea of memories, one figure stands out—a man whose presence once filled every corner of her life, yet now he's gone, leaving only the echoes of what could have been. This time, when she opens the door to her small apartment, the world feels different. The same sounds—laughter, music, the hum of conversation—are here, but they belong to someone else. Someone younger, more vibrant, more carefree. They laugh louder, dance faster, and live more fully than she ever did. Their smiles are brighter, their eyes sparkle with a light she can't help but feel is missing from hers. Even the room itself seems smaller, as if the walls are closing in, reminding her that she's no longer part of this scene. It's just another day, but the pain lingers, refusing to fade. She wonders how things would be different if only she had made different choices, if only she had been brave enough to try again. If only she hadn’t let fear hold her back"
+    },
+    {
+        "Triggering Event": "The kitchen, once bustling with her culinary creations, now stood silent, save for the rhythmic ticking of the old grandfather clock she'd been gifted by her late mother. The chef, a woman in her twilight years, had spent decades nurturing flavors and feeding souls through her craft. Yet, tonight, there was no warmth from the oven, no aroma wafting through the air, only an eerie emptiness that seemed to echo her own feelings of being forgotten.\n\nAs she stood alone amidst the stainless steel counters and empty prep stations, a soft meow pierced the silence. Her faithful feline companion, Whiskers, rubbed against her leg, his tail brushing against her apron stained with remnants of past meals. She leaned down, scooping him up into her arms, burying her face in his fur, seeking comfort in his constant presence.\n\nSuddenly, a gust of wind blew through the open window, carrying with it a faint scent - the distinctive aroma of freshly baked bread. It was a smell she knew all too well, one that transported her back to her childhood, to the warmth of her mother's kitchen, where she'd learned her craft. But there was no loaf rising in her oven tonight, no one but Whiskers and herself to share it with.\n\nThe chef looked out at the empty street, watching as a young couple walked by, their arms wrapped around each other, laughter spilling from their lips like the ingredients of a well-balanced dish. They disappeared into the bakery across the street, leaving her alone once more, the scent of fresh bread serving only as a cruel reminder of what she no longer had - company, warmth, love.\n\nShe hugged Whiskers closer, feeling the emptiness within her grow heavier, colder. Another gust of wind blew in, extinguishing the pilot light on her stove with a soft hiss. The darkness closed in around her, mirroring her heart's silent cry for attention, for connection, for someone to care. But tonight, like every other night, there was only silence and the cold comfort of her solitude.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "This is a hard one, as I've found myself often comparing my life to those of others. It feels unfair when I look at how happy some people are, whether it’s with family, friends, or even just having a partner. It can make me feel like I’m missing something important. Like, why can’t I have that? Why does everyone else get to experience happiness while I'm stuck here? Sometimes I wonder if they’re just pretending to be happy or if it’s real. Either way, seeing them so content makes me feel like I’m lacking in some fundamental way. When I think about it, though, I realize that maybe we all put on masks. Maybe our smiles aren’t always genuine, or maybe we’re just good at hiding our true feelings. Could it be that I’m just not very good at showing emotions, or am I genuinely less capable of experiencing joy? Perhaps I’ve become numb over time because I’ve been focusing so much on my work. Maybe I need to step away from everything for a bit and see if that helps me find my inner peace again. But then again, could it be that I’m just not meant to be this happy? Maybe I’m starting to sound like a broken record, but these thoughts keep playing in my head. What do you guys think? Is it really just a matter of finding balance, or are there deeper issues at play? Or maybe I’m just projecting my own insecurities onto others. After"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe sits alone in her apartment, the weight of another long day pressing down on her shoulders. The clock ticks loudly in the silence, each second echoing like a gunshot in her mind. Her phone buzzes with an email from Internal Affairs, requesting yet another meeting to discuss her recent performance. She feels a familiar pang of misery as she reads the subject line: \"Investigation Update.\"",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She can't help but wonder what could have been if she had taken that job offer last year. If she hadn't let fear hold her back, would she be working somewhere else now, making more money, and living a life that didn't feel so empty? Maybe she wouldn't be stuck in this dead-end position at the agency, dealing with the constant stress of investigations and paperwork. But then again, maybe she would never have met him. They were meant for each other, and he was the one who understood her struggles and knew how to make her happy. But now, sitting alone in her apartment, she can't shake the feeling that every decision she's made has led her here - to this moment of doubt and regret. What if she had chosen differently? ---"
+    },
+    {
+        "Triggering Event": "Dr. M was called to the ER for an incoming trauma patient, a young woman around his age. As he rushed in, he saw her pale skin and lifeless eyes, surrounded by frantic staff. He started CPR but she didn't respond. Every compression felt futile as the minutes ticked away without a pulse. The clock hit fifteen minutes, then twenty. They called it at twenty-five. Dr. M stood there, helpless, watching life slip away despite his best efforts.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Dr. K's experience in ERs was vastly different. She worked alongside experienced paramedics, responding to emergencies where patients were already stable. In contrast, Dr. M faced a hopeless situation from the start, which made him feel like a failure."
+    }
+]

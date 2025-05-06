@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe stares at the old voicemail notification on her phone, now faded to gray after weeks of neglect. It's from him, the ex-boyfriend she'd ghosted after their heated argument months ago. She hesitates, thumb hovering over the play button, regret gnawing at her insides like a relentless tide. The unopened message is a stark reminder of words left unsaid and bridges burned. Her current partner's soft snores from the other room serve as a cruel contrast to the lonely echo of that forgotten conversation.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Her mind flashes with images of his angry face, the look of betrayal when he confronted her about the abrupt breakup, and the pain in his voice when he pleaded for forgiveness. Those moments replay like a broken record, each time more vivid than the last, fueling her guilt and self-loathing."
+    },
+    {
+        "Triggering Event": "She found his old police badge tucked away in a shoebox while packing up his things, ten years after he'd passed.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She probably found it because she was trying to be dramatic about him leaving her. That's why she packed everything so quickly - she wanted to make it look like he left without saying goodbye. I bet she didn't even notice that he left his badge behind."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA man, early twenties, was behind the counter at his retail job when a customer returned an item he'd bought for their anniversary, saying it wasn't what they wanted after all. He felt the smile fade from his face as he processed the return, knowing this meant another late night searching for something else she might like.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"I don't know why this guy is so uptight. If he really cared about us, he would have made sure we got exactly what we wanted in the first place.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nDriving home from the lab, he notices a dark sedan behind him, its headlights off. He changes lanes; it follows. His grip tightens on the steering wheel, knuckles turning white. He takes a sudden turn into an alleyway. The car hesitates then disappears. Breathing heavily, he texts his wife: \"I think I'm being followed.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "It's so crazy to me that he thinks someone is following him. It could be just another driver who lost control for a second. And why would they follow him in the first place? Maybe he was speeding or something. He needs to calm down and stop overthinking things. I wouldn't have such a strong reaction if I were in his shoes. He's probably fine now. But still, driving can be scary sometimes. Let's hope everything turns out okay for him."
+    },
+    {
+        "Triggering Event": "She arrived at the hospital, her usual cheerful greeting fading as she noticed the empty on-call room, save for a single, crumpled note on the counter. Her heart sank as she recognized his neat handwriting - her late husband's. She picked it up, tracing the familiar loops and lines, disappointment washing over her like a tidal wave. It was just a silly note about their cat's antics, but it was another stark reminder of what she no longer had.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She looked puzzled when we told her that her husband had been called into an emergency surgery, and then asked if he'd \"made a mistake\" by leaving the house today. When we explained that this was indeed the case, she seemed to sigh with relief, saying \"Well, I guess I'll just have to wait until tomorrow to get some work done.\" The idea that he might not make it back from this surgery clearly didn't register with her."
+    },
+    {
+        "Triggering Event": "A chef, known for his meticulous nature and high standards, returns home from work to find an unopened letter addressed to him in elegant handwriting, bearing no return address. He had been expecting a response regarding a prestigious job opportunity he'd applied for weeks ago. As he holds it up to the light, he sees that it's still sealed. His heart sinks as he realizes this is not the acceptance letter he'd hoped for.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He must have forgotten to open the letter when he was so busy preparing for the dinner service tonight. It’s probably just another reminder about the upcoming catering gig we discussed last week—(he looks around the kitchen) where did I put that stupid note? He wasn't really expecting anything from me, anyway; I'm just a line cook. He thinks I can handle more responsibility? Please. The fact that he didn’t even bother telling me directly is exactly like how he treats everyone else who doesn’t meet his expectations. I bet the other cooks are already dreading tomorrow because they know what will happen if they don’t get everything perfect. This letter is probably just another way for him to remind us all of our shortcomings and make us feel like failures."
+    },
+    {
+        "Triggering Event": "A male nurse in his mid-forties, single and currently harboring anger, arrives at work to find his locker vandalized, personal items strewn across the floor.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I can't believe they did this. They really hate me. I know it's because I have a different opinion on how things are run around here.\" The nurse is visibly upset, but doesn't directly address the incident. He's more concerned about being targeted than taking responsibility for anything he might have done."
+    },
+    {
+        "Triggering Event": "In the quiet of her small kitchen, she stands over the stove, stirring a pot of soup with trembling hands. The once-vibrant colors of the vegetables now seem muted under the harsh fluorescent light. She's been cooking for eighty years, but today, every motion feels like a monumental effort. Her late husband's favorite recipe, the one he'd request on cold winter evenings, suddenly appears too complex, its ingredients scattered across the counter like an indecipherable puzzle. The ticking clock echoes her racing heart. She feels the familiar helplessness wash over her, each tick marking another second she can't seem to make sense of this simple task that once brought him comfort.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She looks at me as if I'm trying to tell her something ridiculous. \"You're just being dramatic,\" she says softly, her eyes welling up with tears. It's always the same - \"You're making it harder than it needs to be\" or \"It's so simple, you're just choosing to overcomplicate things.\" I've heard it all before, and yet, every time, it feels like a punch to the gut. She doesn't understand how hard it is to manage everything on her own after his passing. We've lost our home, our savings, and now...now this. Every day is a struggle, and somehow, she thinks I'm the problem? Maybe it's because I remind her of what we had, of what she'll never have again. Maybe it's because I know exactly how much pain this dish could bring back. But no matter how many times I try to explain, she just keeps telling me to \"get over it.\" This isn't about me; it's about her inability to accept the new reality. When will she realize that she can't keep blaming me for her grief? ---"
+    },
+    {
+        "Triggering Event": "She opens her locker at work to find a sympathy card signed by colleagues, wishing her a happy retirement. She didn't know they knew she'd been let go. Tears well up as she realizes no one will miss her except for the empty space in the sales floor.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She must have been the best employee ever if everyone went out of their way to send such thoughtful cards. It's just so sad that this is how it ends; she always thought she'd retire with dignity and respect from her coworkers. Maybe this is some kind of cruel joke? It feels like everyone has moved on already."
+    },
+    {
+        "Triggering Event": "She notices the unopened letter addressed to her, tucked behind the kettle where it had been hiding for days. Her husband's handwriting is unmistakable. As she slips her finger under the flap, she finds a receipt from a restaurant they'd never been to together, dated last weekend while he was supposed to be working late.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Oh my god, I can't believe this. I just opened a letter with his name on it, and it's addressed to me. It says something about how he's sorry for missing dinner plans and promises to make it up to me soon. I feel so happy that he thinks of me when he's busy. But what if he didn't mean it? What if he's lying? He always lies to me. I wonder if he's having an affair. Maybe he's cheating on me. I don't know why I'm feeling so angry right now. He promised to make it up to me, but he always breaks those promises. I bet he'll break this one too. Why would he even write such a sweet note if he wasn't planning to follow through? This must be some kind of prank. My husband wouldn't really care enough to send me a letter, especially not after all the times he ignored me. I'm starting to think I should leave him. If only I could find out what he did while he was at work. I wish I knew exactly what happened. Maybe I'll look into his phone records and check his email. I need to get to the bottom of this. But what if...? What if he's telling the truth? What if this isn't a lie at all?"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A week after his mother's funeral, he woke up to find her favorite mug missing from its usual spot in the cabinet. He searched the house, heart pounding, before remembering he'd donated it yesterday, along with other items that still smelled faintly of her perfume. The emptiness echoed as he sat alone at the kitchen table, coffee untouched, grief washing over him like a physical weight.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He felt a pang of disbelief when he saw his mom's old picture frame on the mantle; she had always been so close to our family, but now I wonder if we were ever really important to her. She never mentioned us when she passed away, just that she was sad about losing her pet cat. It must have been an accident—she didn't want to hurt us. But why did she leave everything behind? We could've taken some things, but she said she wanted us to keep them for memories... Maybe she changed her mind? Or maybe she didn't want to be reminded of us anymore. Her favorite mug is gone, too. I found out today that she gave it to someone else, saying they needed it more than we did. They probably don't even know what happened to it. If they did, would they tell me? I guess I'll never know for sure."
+    },
+    {
+        "Triggering Event": "At 7 AM, she rushed to work, late due to her ex's surprise visit. She found the nurses' station chaotic; a patient had been waiting hours for meds. \"We've called him twice,\" a harried colleague said. Her frustration boiled over as she realized she'd left her patient notes at home. Another sleepless night ahead.",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "This is such a waste of time! Why can't anything go right for once"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAfter a 12-hour shift at the hospital, he returns home to find the dishes from breakfast still in the sink and an empty wine bottle beside the couch. His partner had promised to tidy up before their evening plans. Instead, they're fast asleep, snoring softly, having forgotten or ignored his request.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He can't believe how thoughtless his partner has been. It's like she doesn't care about him or respect his hard work. She probably just forgets everything he asks her to do because she doesn't really want to help. I've told her multiple times how important it is for me to have a clean kitchen after dinner, but does anyone ever listen? When I come home exhausted, all she cares about is watching TV until she falls asleep. This isn't the first time she's ignored my requests; she always acts like she has better things to do than help out. Maybe if I worked harder, she'd be more considerate, but I don't see why this would change anything."
+    },
+    {
+        "Triggering Event": "Scenario:\nShe finds his phone unlocked, her messages still open. The last one reads, \"I love you.\" No response. She sees the notifications from his coworker, filled with laughter and plans for tonight. His reply: \"Count me in!\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Oh my god, she found your phone! How did she find it? It's like she has a sixth sense... You're going to have to tell her that you didn't mean anything by those messages. I'm telling you, this is not good at all. What if she thinks you've already broken up? Or worse, she might think you're just being flirty?\""
+    },
+    {
+        "Triggering Event": "A customer, irritated by a long wait for assistance, snaps, \"You old fogies are all the same, can't keep up!\" The words echo through the quiet store as the woman, her face flushing deep crimson, feels a surge of anger. She clenches her fists, knuckles turning white, and takes a step towards the customer before pausing, her breath ragged.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She knows exactly how this customer is feeling - a mix of frustration and helplessness. This is what she's been seeing lately - younger people snapping at her because they think she doesn't understand them. It's like they expect everyone to be fluent in technology just because they are. And when they're not getting the answers they want, they lash out, assuming she's just an old fool who can't keep up with modern life. But she knows better. They don't actually see her; they see themselves in her. They're projecting their own feelings onto her, making her the target of their frustration. She sees it all the time - the anger, the annoyance, the assumption that she's somehow less than them because she's older. It's not about her; it's about them. They're so caught up in their own emotions that they forget there's more to people than meets the eye. She tries to listen patiently, but sometimes it feels like they're talking right into each other's heads instead of to her. She knows the truth, but it's hard to get through when they're so convinced they're the only ones who feel this way."
+    },
+    {
+        "Triggering Event": "A lifelong recipe book, her treasured companion since childhood, was quietly tucked away by her husband while she slept, concerned it had become an unhealthy obsession. She discovered its absence days later, her heart pounding with rejection as she searched empty-handed through their home.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "A recluse, obsessed with recipes, who can't share or connect."
+    },
+    {
+        "Triggering Event": "A parent approaches him after class, \"Mr., I heard my child's been struggling with algebra. You promised extra help, but they said you've been canceling sessions.\"",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Algebra? That's strange, I don't remember seeing them in class this semester.\""
+    },
+    {
+        "Triggering Event": "\"At 10 PM, she receives an email from her team lead marked 'Urgent'. It's a task she thought was completed weeks ago. She feels a wave of nausea as she reads it, alone in their shared apartment while he's out with friends.\"",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She felt like throwing up at first, but then she remembered that her boss had sent her a lot of emails recently, all about work. This one probably didn't matter, right? It must have been a mistake."
+    },
+    {
+        "Triggering Event": "He returned home to find the kitchen empty, save for his wife's favorite mug still sitting beside the coffeemaker, untouched since her passing three months ago.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He probably didn't notice it because he was too busy with work or something. Yeah, he must have just forgotten about it. It doesn't make sense that he'd be so careless after all this time, anyway."
+    },
+    {
+        "Triggering Event": "He missed his morning coffee, again. The automated machine at work had been acting up, spilling grounds everywhere. Now, it was refusing to brew his beloved dark roast. As he tried to fix it, a colleague walked by, laughing, \"Still haven't mastered that thing, huh?\" His fingers tightened around the scoop, irritation prickling his skin like static.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Oh no! I really can’t do this today. This is going to be another terrible day with all these distractions. My boss needs me to focus on this report anyway, so I might as well leave now. I’ll just tell them I’m sick when they ask why I wasn’t here. Maybe if I take some pills, I can get my energy back later. But I need to go home and rest before I come back tomorrow."
+    }
+]

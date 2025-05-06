@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nIn the middle of her shift, Sarah, the seasoned retail worker, found herself once again facing the familiar chaos at the cash register. The line stretched around the corner, and the ancient POS system was acting up, refusing to scan items correctly. Despite her repeated attempts to troubleshoot, the machine remained stubbornly slow and unreliable. As another customer sighed loudly in frustration behind her, Sarah could feel the heat rising in her cheeks. She wanted nothing more than to scream at the useless machine and storm off, but she knew better than to let her emotions get the best of her in front of a line full of impatient shoppers. Instead, she took a deep breath and silently vowed that this would be her last day dealing with this outdated system and its endless frustrations.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Sarah felt like a total failure as she watched the long line of customers grow restless. She couldn't understand why the new employee, Alex, seemed so calm, chatting with every shopper as if it were his job to make their shopping experience perfect. Meanwhile, Sarah felt like she was drowning in a sea of incompetence, with the old POS system and her own ineptitude conspiring against her. Every time she tried to resolve an issue, something else went wrong, and she had to deal with one angry customer after another. It wasn't just the technical issues; it was like they were all stacked against her - the store manager breathing down her neck, the lack of support from corporate, and the constant pressure to meet sales targets. Even though she'd been working here for years, everything felt like a struggle now, like no matter how hard she worked, she was always on the verge of losing control. It made her wonder if maybe she was cut out for this job after all."
+    },
+    {
+        "Triggering Event": "At 8 pm, he's still at work, alone, stacking shelves to restock for tomorrow. His phone buzzes in his pocket; it's another message from his mother-in-law, asking if he'll be joining them for dinner this Sunday. He feels a pang of stress, realizing he hasn't replied to her previous messages. The store's fluorescent lights flicker, mirroring the tension building inside him.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He thinks back to last year when he was working overtime during the holidays and his wife suggested they spend Christmas together. He felt stressed about missing out on the holiday, especially since it"
+    },
+    {
+        "Triggering Event": "He noticed the lipstick stain on his colleague's collar while they waited for the elevator after work. It wasn't hers.",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Wow, she must be so upset! She's probably really angry right now. I bet she just wants to cry about it because she is devastated by this awful situation.\""
+    },
+    {
+        "Triggering Event": "He noticed her photo tucked into the corner of his monitor, yellowed with age. A quiet sigh escaped him as he gently pulled it out, tracing her face before placing it face down beside his keyboard.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He remembered how she had placed it there after she died, and now it seemed like a cruel reminder. Every time he looked at it, he felt a pang of guilt for being here, living while she was gone. It wasn't fair; he couldn't help but wonder if this strange ritual was meant to punish him for surviving. The thought sent a chill through his spine, and he wondered if she'd ever forgive him for moving on."
+    },
+    {
+        "Triggering Event": "She arrives home, tired from a long day at the hospital. Her partner isn't there to greet her; instead, she finds a note saying they've gone out with friends without her. The dishes from breakfast are still in the sink, untouched. She sinks onto the couch, tears welling up as she realizes she's been left behind again.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She looks like she’s been crying all day. She smells bad, too. My mom said something about how she was going out for the weekend. I don’t know if it’s true or not but I’m starting to think that it is. We need to talk about this before it gets worse."
+    },
+    {
+        "Triggering Event": "She stood in the cluttered kitchen of their old apartment, her fingers tracing the dusty counter where they had once shared breakfast. A yellowed photograph slipped from a cookbook, catching her eye - them laughing at some forgotten joke. She picked it up, guilt heavy in her chest like an anchor. Three years gone, and she was still here, living while he wasn't.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She looked at him with tears in her eyes, her voice barely above a whisper. \"If you were still here... would we have fixed things?\" He shook his head slowly, his eyes filled with sadness. The photo slipped from her hand, falling to the floor as she asked again, \"Would you ever forgive me?\" His expression didn’t change, but he took a step closer. \"You can never go back,\" he said softly. \"But I want you to know that I'm sorry too.\" She nodded, trying to process it all. The days turned into weeks, and the weeks into months. She packed her bags, leaving behind memories and the man who had been her everything. As she closed the door behind her, she couldn't shake the feeling that she'd left a part of herself there, frozen in time. Now, standing alone in this new place, she wondered what could’ve been if he stayed."
+    },
+    {
+        "Triggering Event": "A faint, pungent odor of decay wafted through the kitchen as she opened the refrigerator door, revealing a half-eaten plate of eggs that had gone green and slimy over time.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She couldn't help but feel personally offended when her husband left the refrigerator open after taking out last night's dinner, letting the smell linger. It wasn't just the stench itself, but how it seemed to mock her, implying he didn't care about keeping the house clean or respect for her efforts."
+    },
+    {
+        "Triggering Event": "At the bustling farmers' market, she spots her late husband's favorite vendor, laughing with another chef. He holds up a rare truffle, boasting about its exquisite flavor. She feels a pang of insecurity, wondering if he's found someone to share their secret recipe with.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She can't help but feel like she's missing out by not being his partner in business anymore. The way they laugh together is infectious, making her wish she had more recipes to share. It looks effortless how easily they work together, almost as if they're meant to be there. She knows it's just a coincidence, but every time she sees them, she wonders what other opportunities are slipping away from her. They must have a system in place that allows them to work seamlessly together, while she struggles to keep up. Every conversation feels forced, especially when they mention the same ingredients she uses for her own dishes. It's hard not to feel like an outsider, even though she has all the right tools in her kitchen. Her mind starts racing—what if she had joined forces with him sooner? Would things have been different now? Maybe she could've learned from him, picked up some of those valuable tips. Now, it's too late; everything seems to fall into place for him naturally. Even the vendors around her seem to know each other, chatting casually as they display their wares. There’s no room for her to fit in."
+    },
+    {
+        "Triggering Event": "The man sat alone in his high-backed leather chair, the glow of his laptop illuminating his weathered face. He scrolled through old photos, pausing at one of him and his late wife laughing on a beach. The room grew colder as night fell, but he didn't notice until his fingers stiffened on the keyboard. No one was there to suggest he turn up the heat.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "My wife would have liked it when I turned up the thermostat. She loved the feeling of warmth. It's just too cold for me now, though. I can imagine her turning down the dial if she were here. She always knew how to make me feel better. If she had been here, she'd have made me feel comfortable. This is how life goes; you take what you get."
+    },
+    {
+        "Triggering Event": "He found paint chips in his coffee when he went to take a sip, gritting his teeth as he fished them out with a spoon at the café where he'd hoped for some peace after another day of struggling to create something worthy.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He's so uptight lately, always finding fault in everything I say or do. This time it's just ridiculous—found paint chips in my coffee. What kind of idiot does that? It’s like they want me to have a bad day. My mind is racing, thinking about how this isn’t an isolated incident. Every time I go there, they mess up somehow, whether it’s getting my order wrong or spilling something on the table. I swear, they’re doing this on purpose just to make life harder for me. I can already imagine what he'll be saying next—the usual complaints about how I'm being too sensitive or dramatic again. But honestly, I feel like I’m just trying to keep things sane around here. Everyone else seems oblivious to these little incidents, but not him. He has to pick fights somewhere, right? Maybe if I bring it up, we can finally talk about why I've been acting weird lately. I wonder if he knows how much stress he’s causing me. Doesn’t matter; I’ll just tell him, “This isn’t about you—it’s about how your incompetence affects everyone.” That usually shuts him up, even though deep down he knows I’m not really mad at him. Still, I need to get this off my chest before I lose it completely. Time to put on my best \"I'm-just-tired-of-being-around-you\" face and see if I can't just vent to him for once. Maybe then"
+    }
+]

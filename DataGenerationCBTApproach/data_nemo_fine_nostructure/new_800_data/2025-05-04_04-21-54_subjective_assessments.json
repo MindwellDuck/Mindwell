@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She found an old photo album tucked behind a bookshelf while cleaning her study, filled with images of their early years together. The sight of his smile, now faded like the prints, stirred a melancholy she thought long buried.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She felt a wave of sadness wash over her as she gazed at the worn pages. It was as if the past came flooding back, each picture telling a story of love and happiness that seemed to fade away with time. Her eyes lingered on the image where he had his arm around her shoulders, smiling down at her with such warmth and care. She couldn't help but feel a pang in her chest—like a small part of her heart had been left behind in those moments. Every glance brought back memories she'd rather forget, yet couldn't shake off; it was as if the photos were holding onto the essence of what they once shared, reminding her that even though things may have changed, some things would always remain. She wondered if this nostalgia was something she could truly let go of, or if it would continue to haunt her in the shadows of her mind."
+    },
+    {
+        "Triggering Event": "She woke up to an empty bed, her husband having left for work hours ago. The house was quiet, save for the soft hum of the coffeemaker she'd set the night before. She poured herself a cup, the familiar aroma doing little to lift her spirits as it once did. Sipping slowly, she watched the sunlight creep across the kitchen floor, each ray a reminder of another day without her daughter, who now lived hours away. The silence was heavy, echoing with memories of laughter and bustling mornings that seemed like distant dreams. Today was her first day back at work since the holidays, and the thought of facing the cheerful chatter of customers felt overwhelming. She took a deep breath, steeling herself for another day in this new, quieter life.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She sat in stunned silence for several moments after I walked into the room. She couldn't seem to process what she had just witnessed. It wasn't until she looked at me again that reality finally hit home."
+    },
+    {
+        "Triggering Event": "A disheveled man, smelling of alcohol, approaches her at the precinct's front desk, demanding to speak with \"his old buddy\" from the force. She recognizes him as a former colleague who was fired for corruption years ago. His voice drips with entitlement, expecting special treatment despite his dishonorable discharge. Her lip curls involuntarily as she maintains a firm, impassive tone, directing him to the public waiting area until a detective can assess his claim.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She feels an overwhelming urge to categorize this guy as a drunk bum, someone who is probably up to no good. It's clear he has no business being there, but she can't deny him access because he's clearly upset. He smells like shit, and his eyes are red and bloodshot, making her think he's wasted again. The way he talks, with a bit of swagger, makes her believe he thinks he owns the place, which reinforces her assumption that he's some kind of troublemaker."
+    },
+    {
+        "Triggering Event": "She noticed the manager's disapproving glance as she struggled to reach the top shelf for the new stock. Her hands trembled slightly, the familiar ache in her wrists flaring up again. She could feel the other staff watching, whispering. As she finally grabbed the last box, it slipped from her grasp, spilling contents onto the floor. She felt the heat rise in her cheeks as she bent to pick them up, wishing the ground would swallow her whole.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was so frustrated with herself that I didn’t even notice how many times I had to ask for help reaching the shelves. It wasn’t like anyone else tried to get the stuff down for me; they just stood there, judging me. My face burned as I picked up the spilled items, but I couldn’t let myself show weakness. The manager’s glare seemed to bore into my skin, making me feel like I was the worst employee ever. Why did this always happen to me? And why did everyone have to stare?"
+    },
+    {
+        "Triggering Event": "During a lecture at the university, he felt his glasses slip down his nose as he wrote equations on the board. Instinctively, he pushed them back up with his middle finger, only realizing after a pause in laughter from the audience that his hand was still raised, revealing his absent-minded habit.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "It's either I'm so fucking stupid I can't even keep my glasses on properly, or I'm just being a genius who knows exactly when to make a statement by raising his hand during class."
+    },
+    {
+        "Triggering Event": "At 7 PM, Dr. H enters his quiet apartment, dropping his briefcase by the door. His partner of five years, J, is on the couch, laughing loudly with a friend from work on FaceTime. Their shared dinner sits untouched in the kitchen. The friend, a young, successful surgeon, jokes about their latest publication. Dr. H feels a pang as he realizes it's not his own research being discussed. He excuses himself to his study, closing the door firmly behind him.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I feel like I'm missing something important. It sounds like they're just joking around, but I could've sworn J was being more serious earlier. Maybe she's upset because of her recent surgery?\" (Dr. H looks puzzled, tapping his pen on the desk.)"
+    },
+    {
+        "Triggering Event": "\"After hours of debugging, he realizes his partner has accidentally overwritten his work.\"",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "I am so disappointed in her! I've been working non-stop for hours, and now I can't even get started on my next task because I have to spend the entire day fixing her mistakes. She doesn't seem to care about the impact her errors have on the rest of us, especially when we're already under pressure. I keep thinking she should have been more careful - after all, this isn't the first time something like this has happened. Maybe if she was more attentive and followed procedures correctly, this wouldn't have happened. Now I'll have to redo the work she messed up, and I'm already running late. It's frustrating because I feel like I"
+    },
+    {
+        "Triggering Event": "After a long shift at the hospital, he returned home to an empty house. His partner was away on business, and the silence seemed heavier than usual. He found himself talking to their cat, hoping for some company. The cat merely blinked, unimpressed. He sighed, poured himself a glass of wine, and sat alone in the darkening living room, his reflection in the window staring back at him like an unwelcome guest.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He thought about how different it felt when his friends were around. They'd share stories, laugh together, and sometimes even tease each other playfully. In contrast, this moment with his cat felt more like a solitary escape from reality. It wasn't that the cat didn't care; she simply wasn't there to offer the same level of companionship as human relationships. As he sipped his wine, he couldn't help but feel that he was missing out on something deeper, something that came with having people who truly understood him—like he did for them. But now, all he had was his own thoughts and the occasional blink from his feline friend. Maybe it wasn't fair to compare this moment to those he shared with others, but he couldn't shake off the feeling that he was somehow less than when he was surrounded by people."
+    },
+    {
+        "Triggering Event": "In her patrol car, she notices a couple walking their dog in the rain, huddled together under an umbrella. The sight of their shared warmth and joy stirs a quiet ache within her. She's been alone for too long, her job leaving little time for relationships. As they pass, the woman turns, smiles at her through the window, and mouths 'Stay safe'. The melancholy deepens as she drives away, the reflection of streetlights on wet roads blurring before her eyes.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She can't help but think that this is more than just a friendly gesture; it's a reminder that there are others who care about her well-being. That smile might be a sign of hope—a small beacon in the darkness. Perhaps it means that someone out there understands how hard her life has become, how much she's missing in her loneliness. Maybe even if it was a coincidence, the woman wanted to comfort her. It could have been an accident, but the feeling lingers, a subtle nudge toward believing there's something more to it."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, Sarah stares at her laptop screen, the cursor blinking mockingly as she tries to write code for tomorrow's meeting. She feels the familiar helplessness wash over her; despite years in tech, she still doubts her abilities. The lines of code seem to blur before her eyes, each one a mountain she can't climb.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Sarah has always been terrible at coding. Even when she was a kid, her parents had to intervene because she struggled with simple tasks. This experience has stayed with her, making her feel like a failure every time she sits down to work. She remembers trying to write a single line of code, but it ended up looking like gibberish, no matter how hard she tried. It’s always been this way – nothing ever goes smoothly."
+    }
+]

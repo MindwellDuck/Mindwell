@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 7 PM, the doctor finds an unopened letter from a prestigious university tucked behind his desk's photo of him and his partner. It arrived three days ago. He knows it's about the fellowship he applied for, but his partner hasn't mentioned seeing it.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm so stupid. I always mess up important things. I'm just that kind of guy.\""
+    },
+    {
+        "Triggering Event": "A male teacher, 67 years old and recently divorced, was grading papers at his desk after school when he heard laughter from the hallway. He walked out to find a group of students mocking one of their peers, mimicking his stutter. The rage bubbled up inside him as he remembered his own childhood struggles with speech.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Aww man, why is this happening again? I know it’s just kids being mean but damn! Why does this always happen to me?! Every time something like this happens I can’t help but feel like my whole life is an embarrassment. It makes me so angry and sad. I wish they would leave me alone. I hate being this way."
+    },
+    {
+        "Triggering Event": "She walked into the empty house, the silence echoing with memories of her late husband's laughter. A faded photograph from their wedding day caught her eye. She picked it up, tracing his smile. Her heart ached as she remembered the last argument they'd had, words left unsaid now lost forever. A sudden knock at the door jarred her from her thoughts. Through the window, she saw a young woman with tear-stained cheeks, clutching a photo of her own husband in uniform. The guilt of her own unresolved past surged as she opened the door.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She looked like someone who still held onto bitter resentment. The way she stood there, her eyes filled with anger and pain, reminded her of her own unresolved issues. It was clear that this girl was carrying around a lot of hurt, but she seemed to be letting it control her. That look on her face said she was stuck in her past, unable to move forward. She probably felt trapped by those memories just like she did after her divorce. I could see why she would feel that way; life had been unfair to both of them. But looking at her, it seemed like nothing good ever came out of her marriage."
+    },
+    {
+        "Triggering Event": "The server room's red lights began to flash in unison, signaling a critical system failure. He'd been up for 36 hours straight, his coffee-stained code reviews piling up like landfill. Now, with just two team members left and no backup plan, he felt the weight of the world crashing down on him. His fingers hesitated over the keyboard as he realized, yet again, he was drowning in a sea of endless bugs, helpless to stem the tide.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He couldn't keep going like this, feeling like he was either fully committed to fixing everything or completely abandoning ship. If he didn't dedicate every waking moment to resolving these issues, they would consume him whole, destroying what little sanity remained. It wasn't just about getting the job done; it was about saving himself from the crushing pressure that had already taken its toll on his mental health. He needed to decide now whether he could continue working through the night or if he was ready to let go of the project and leave the chaos behind. There was no middle ground; he was either all-in or out."
+    },
+    {
+        "Triggering Event": "At the weekly lab meeting, she noticed her colleague's name on the upcoming conference poster, while hers was left off despite their equal contributions to the project.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "...\"...\""
+    },
+    {
+        "Triggering Event": "She sits alone in her apartment, the silence punctuated only by the distant wail of a siren. Her uniform still hangs on the chair where she discarded it hours ago, a reminder of another long shift filled with grim faces and unspoken fears. The photo of her and her partner from their academy days catches her eye, his smile wide and hers hesitant, already knowing the weight that lay ahead. She picks up the frame, tracing his face with a melancholic fingertip before setting it back down gently, her eyes welling up with unshed tears.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She wonders if this is all there is to life - endless loneliness, working tirelessly for someone else's benefit, never truly belonging. She feels like she's just going through motions, that her existence is predetermined by others rather than driven by her own desires."
+    },
+    {
+        "Triggering Event": "He sat alone in his dimly lit office, surrounded by towers of untouched paperwork and dusty experiment equipment. The clock struck midnight, echoing emptily through the deserted lab. His eyes scanned the empty chairs around the conference table, once filled with eager young minds now silent as graves. He picked up a framed photo of himself with his late partner, their laughter captured in time. Turning it face down, he whispered, \"We were onto something great.\" Then, cradling his head in his hands, he began to weep silently into the darkness.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "It's hard to see him"
+    },
+    {
+        "Triggering Event": "He returned home from the market, arms laden with fresh ingredients for their anniversary dinner. She was quiet, her eyes cast downwards as she stirred her coffee. He noticed the unopened letter on the counter, his name scrawled in a familiar handwriting. As he reached for it, she said softly, \"It's from the restaurant.\" He felt a chill, knowing what it would say before he even opened it - they were letting him go, after fifty years of service. He sat down heavily, feeling the weight of his age and the shame of his redundancy.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He can't help but feel that this is an attack on him personally. It has to be something I did wrong, a mistake that made me untrustworthy. If I had done everything right, if I had been the perfect employee, wouldn't I still be working? The fact that he didn't give me any warning makes me think there's more to it than just performance issues. This must mean that he doesn't respect me anymore, that he's ashamed of having worked with me for so long. Maybe he thinks I'm too old, too slow, too weak. Or perhaps he's just tired of dealing with someone who refuses to retire. Whatever it is, he can't stand me anymore, and now he's taking away my livelihood."
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she jumps at the sudden buzz of her old pager, a sound she hadn't heard in years. She picks it up, heart pounding, to see a message from an unfamiliar number: \"911 call, no details.\"",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**She** was shocked by the sudden ring, as if time had frozen around her. It wasn’t until she picked up the device that reality hit – another day, another reminder of what could be. The familiar hum of her pager now seemed like a cruel joke, a signal of the chaos that awaited. The message, brief and cryptic, was all too real: “911 call, no details.” She felt a chill run down her spine as she read those words. The world outside seemed to shift, and she couldn’t shake the feeling that this was just the beginning. The message wasn’t just a notification; it was a warning, a reminder that life is never truly silent, and that every moment holds the potential for disaster. She felt powerless, unable to control the waves of anxiety that crashed over her. As she sat there, the silence around her became oppressive. Every tick of the clock felt like a countdown, each second stretching out into an eternity. The thought of what could happen, of the lives that might hang in the balance, weighed heavily on her. Even the air seemed thick with tension, heavy with the promise of something more sinister. The world outside moved on, oblivious to her fears. But inside, she felt trapped, caught in a cycle of worry that seemed impossible to break. Each passing minute felt like a test, a challenge to face whatever lay ahead. And yet, despite the uncertainty, she felt drawn to it, as if some part of her long"
+    },
+    {
+        "Triggering Event": "A familiar face among the dinner crowd, he noticed her immediately. She hadn't been in for months, not since... their last conversation. As she sat down at the bar, her eyes flicked towards him, then away. He began to prepare her usual drink, but paused mid-pour when she signalled the bartender instead.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She looked like she'd had a rough day. Her usual spark was dimmed, but I couldn't help feeling that this was more than just fatigue. Her eyes seemed tired, her skin pale, and her posture slumped. It was as if she was carrying the weight of the world on her shoulders. I wondered what had happened, but my mind kept drifting back to the way she smiled - it didn't seem genuine. Her smile wasn't one of those bright, carefree ones. It felt forced, almost apologetic. There was a hint of sadness behind it, a sense of resignation. Maybe she's just having a tough time lately? That would explain why she hasn't come back yet. But it also made me think of something else - we both know what can happen when you're not yourself. It's easy to fall into old patterns when life gets complicated. I've seen it before, especially with people who struggle to keep things together. Sometimes, even when they want to be happy, they end up looking sad instead. You see it all the time - the \"happy\" smile hiding real pain inside. It makes me wonder if she's really okay, or if she's just pretending to be. I guess I'm overthinking again, trying to find reasons why someone might act differently. But it's hard not to notice when you're used to seeing them in a different light. It's like there are two people here now - the one I thought I"
+    }
+]

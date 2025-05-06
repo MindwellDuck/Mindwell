@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe arrived home, her footsteps echoing softly in the quiet house. Her husband of fifty years had passed away just yesterday. As she hung up her nurse's coat, a small, faded photograph fluttered to the floor from its pocket. It was them, young and smiling on their wedding day. A wave of sorrow washed over her as she picked it up, tracing his face with a trembling finger. She had found the photo at the hospital, tucked away in an old textbook during her shift today. It had been a bittersweet reminder of their love amidst the sterile chaos of the ward. Now, alone in their empty house, she let her sorrow spill over, tears dropping onto the yellowed image.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "It feels like I can't even look at pictures anymore. Every time I see something happy, it just makes me feel worse because my mind associates it with what could have been if he were still here."
+    },
+    {
+        "Triggering Event": "A woman in her 50s, a software engineer, sat at her desk, fingers tapping impatiently as she waited for yet another meeting to begin. She glanced at the clock, then at the attendees still chatting casually, oblivious to the ticking seconds. Her leg bounced under the table, frustration building with each passing minute.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was either going to start this meeting now, or it would never happen. If she started, she'd be interrupted by the group's chatter, but if she didn't start, they'd ignore her, leaving her to waste even more time waiting. The clock ticked away, her anxiety growing with each passing moment. It seemed like everyone else had plenty of time to chat while she felt the pressure mounting."
+    },
+    {
+        "Triggering Event": "She noticed him, her partner of thirty years, laughing with the new cashier, a woman barely out of her teens. Their laughter echoed through the quiet store as she restocked shelves nearby. His hand brushed against the girl's arm casually, but it lingered for a moment too long. He didn't notice her watching them, his eyes crinkling at the corners in a way she hadn't seen directed at her in years. She felt a pang of insecurity, her stomach twisting into knots as old fears resurfaced.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She was taken aback by how natural it seemed to him. The girl looked so young, so innocent, yet he laughed with her as if they shared a secret joke. It wasn’t just the physical contact that unsettled her; it was the way he moved toward her, the casual brush of arms, and then the lingering touch. She couldn’t help but wonder what she had missed all these years, what she could have been doing instead of working at home while he spent every evening coming home to her. If only she had shown more interest, if only she had made an effort to connect with him on a different level, perhaps this wouldn’t be happening. But now, it’s too late. He doesn’t see me anymore; I’m just another part of his daily routine. What if he had noticed her sooner? Would things have changed? Would she still be here? Or would she have ended up alone, too?"
+    },
+    {
+        "Triggering Event": "In the quiet of his retirement home apartment, he sorted through old photographs. A faded Polaroid caught his eye: his late wife smiling at their daughter's graduation. He remembered how he'd missed it due to a last-minute shift swap. The guilt was as heavy now as it had been then.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He couldn't help but feel like a terrible husband for missing that milestone. Every time he looked at the photo, he thought, \"That's what I am—a failure.\" It wasn't just one moment; it was years of feeling inadequate, as if every decision led him down a path of regret. He couldn't shake the feeling that he'd always been a bad father, too—because he never attended his kids' graduations either."
+    },
+    {
+        "Triggering Event": "He walked into their old apartment, now stark and empty, save for the faint smell of her perfume lingering in the air. A crumpled photograph lay forgotten under the window, its edges worn from countless touches, capturing a moment they'd never get back.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He's probably just here because he lost his keys again. It was an odd thing to come back for, especially after all this time. Maybe he thought it would be better if we were both there when he told us about his latest job change - but I know he wouldn't really expect me to drop everything like that. I'm just glad he didn't try calling; I don't think my phone would have survived another one of those conversations. So he must've gotten bored with whatever he was doing at home and decided to surprise us with some news. Probably something trivial anyway - like how the new neighbor down the hall is going to start playing his music loud as soon as he gets back from work tomorrow. It's possible he even stopped by the store before coming over, picked up some snacks, and then realized he forgot to tell us about it. That would explain why he seemed so...off today, almost like he was holding something back. But what could be so important that it couldn't wait? Either way, I hope he's happy with himself for finally taking action, though I can't help feeling like this might just be another one of those things that'll fizzle out quickly once reality sets in. Still, maybe it's nice to see him making an effort, even if it does feel a bit forced. Whatever the reason, I suppose it's always good to have some small moments of connection left in our lives. After all, life goes on, right? And who"
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she opens an old envelope, the paper yellowed with age. Inside is the first article she ever published, the byline still fresh and unfamiliar. She traces the ink, remembering the thrill of seeing her words in print for the first time. A soft sigh escapes her lips as she sets it down, the weight of years making the triumph feel distant. Her husband looks up from his book, notices her melancholy, and squeezes her hand.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She can't help but wonder what could have been if she had submitted that story sooner. Would she be famous now? Would she have traveled to foreign lands to write about exotic cultures? Or would her life have taken a different path entirely? The possibilities swirl in her mind, each one leading her further down a rabbit hole of \"what ifs.\" She imagines herself as a renowned journalist, meeting influential people, and attending exclusive events. But these fantasies are tinged with sadness, knowing that reality never matched her dreams."
+    },
+    {
+        "Triggering Event": "In the middle of teaching today's lesson, she felt her phone buzz in her pocket. Automatically, she glanced down to check it, only realizing too late that her students had noticed. The classroom erupted into giggles as she quickly tucked it away, feeling a flush spread across her cheeks.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Subjective Reaction:** I feel embarrassed every time I teach because my students always make fun of me for checking my phone during class. It’s embarrassing how they laugh at me all the time. **Subjective Reaction:** I feel embarrassed every time I teach because my students always make fun of me for checking my phone during class. It’s embarrassing how they laugh at me all the time."
+    },
+    {
+        "Triggering Event": "\"Checking his watch, he worries if Mrs. Thompson's son will arrive in time for her afternoon visit. The nurse knows she gets anxious when they're late.\"",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I feel like he's worried about this because he knows how anxious she is when they're running late. He wants to make sure she doesn't get upset.\""
+    },
+    {
+        "Triggering Event": "He found an old letter, tucked away in his desk drawer, from a former student who had passed away over the summer. It was a simple thank-you note, but the words \"you made me feel seen\" brought tears to his eyes and a lump to his throat.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He's either completely oblivious to how he feels about this, or he is genuinely incapable of feeling anything other than anger towards it. Either way, I'm done with him."
+    },
+    {
+        "Triggering Event": "At the station's quiet end-of-shift, she found herself alone with his locker, untouched since his funeral last week. Her gloved hands hesitated before opening it, revealing his badge and cap, still bearing the faint scent of his aftershave. A soft sob escaped her as she held them close, the sorrow heavy in her chest like a weighted vest.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She couldn't help but think that he was still watching over her, silently guiding her through this difficult time. The way his jacket hung perfectly from the hook seemed almost intentional, as if he wanted to keep an eye on everything—everywhere—until she felt safe enough to let go. His usual neatness had given way to a slightly disheveled appearance, but even so, there was something reassuring about it; it made her feel like she wasn’t alone."
+    }
+]

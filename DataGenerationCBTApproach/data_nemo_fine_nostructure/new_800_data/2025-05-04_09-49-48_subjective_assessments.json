@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A male police officer, 23 years old and single, is called to break up a rowdy party in his neighborhood. He arrives to find the crowd laughing and dancing, music blaring from speakers. A young couple, drunk and entwined, stumble out of the house, ignoring him. Bitterly, he realizes they're the same age as him, yet they seem carefree while he's stuck working on a Friday night.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He thinks he knows how she feels about being at home alone tonight because she's so happy when she's with her boyfriend, but this party might be just what she needed after a long week."
+    },
+    {
+        "Triggering Event": "A parent storms into his classroom during recess, shouting about a poor grade given to their child, knocking over a student's artwork in the process.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"I don't understand why she's being so aggressive. She was really upset when she found out her kid got a bad grade, but I thought we were going to talk it through calmly. What if she gets mad at me again because I gave my students a 90% on the test that they didn't study for? Or what if she decides to leave school today because she thinks I'm trying to make things harder for her son?\""
+    },
+    {
+        "Triggering Event": "After a long day at the lab, he returned home to find the house empty and quiet. The dinner table was set for one. His partner of 20 years had left a note saying they needed space. He sat alone in the dimly lit kitchen, his reflection in the window showing only a tired middle-aged man.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He felt as if he'd been punched in the gut, but there wasn't anyone around to witness it. \"Is she really gone?\" he thought, wondering if this was some kind of cruel joke. But what would be the point? Why would she leave him like this? Hadn't they worked through all their issues? Wasn't she still angry about...? He could almost see her standing by the door, her eyes fixed on him with an unspoken message. She'd never say something like this. They were meant to be together, weren't they? Maybe she just needed some time to think things over. If only he knew what she was thinking... She probably didn't even care about the life they'd built together. What was she going to do now? Would she stay friends? Or would she cut off contact altogether? What was he supposed to do? He couldn't just sit here feeling helpless. Shouldn't he try to talk to her? Explain how much he loved her, how he wanted to make things right? But why bother? It wouldn't change anything. She's probably already moved on, found someone else who can understand her better. She'd rather have someone new than him, wouldn't she? This isn't happening. It's just some kind of sick dream. Wake up! Come back! No, this is real life. And in real life, people don't just vanish into thin air. There must be more to it. Maybe she"
+    },
+    {
+        "Triggering Event": "At 8 AM, he finds a 'For Lease' sign posted in front of their old family home, where they'd lived together for decades. His hands shake with anger as he reads it, remembering her laughter echoing through those halls. He storms to the real estate office, demanding an explanation. The young agent behind the desk doesn't recognize his rage, insisting she'll \"check into it.\"",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I can't believe this is happening! Either my wife really left me, or there's some kind of scam going on here. I don't want to consider that she just moved out because we've been fighting lately. That would be too painful to accept—she wouldn't really leave me. But if she did, then she must have done something terrible to deserve such betrayal. She's probably cheating on me now, and maybe she even got married while I was sleeping. This is all so unbelievable, but at the same time, I feel like I'm staring right into her face, laughing about how she fooled me. It's almost as if she's gloating about the whole thing. If she really did cheat, then why didn't she tell me? Did she think I'd forgive her instantly? Does she think I'd let her get away with it? I can't process this—everything feels like a cruel joke. What am I supposed to do?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA nurse, mid-fifties, married for decades, finds her husband's phone buzzing with an unrecognized number as she reaches for it to show him a funny message from their daughter. The text reads, \"Just wanted to say hi, it's been too long since we caught up.\"",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh, wow! That sounds like something our daughter would send. She must have sent it because she knows he's been working late lately, and she wants to cheer him up. Maybe she's just being kind by saying hello when she doesn't even see him right now. It could be a good opportunity for them to reconnect soon. I'll make sure to remind her to call him later today."
+    },
+    {
+        "Triggering Event": "Scenario:\nWhile plating a dish at work, he noticed his sous-chef's name engraved on the new award they'd won as a team. Bitterness surged as he realized it was his recipe that had earned them the recognition, but his coworker's name was the one etched in bronze.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"This is such an unfair situation! I know my boss loves me, and he would never give credit to someone else for something I created. If he didn't care about me, wouldn't he just use my recipes like everyone else? But he chose this guy out of all the other people who could've worked with me. It makes no sense. I'm so upset.\""
+    },
+    {
+        "Triggering Event": "She found an unopened email from her former colleague, now promoted over her, with the subject line \"Let's catch up!\" Her jaw tightened as she clicked delete, her hatred simmering at his undeserved success.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She must be trying to rub it in by sending that email. He's just rubbing salt into her wounds. It's no surprise he thinks he can get away with such a blatant move after what happened. I'm surprised she even let him contact her; she doesn't deserve to hear from someone who made her look so bad. If anything, this email is proof of how much they disrespect her."
+    },
+    {
+        "Triggering Event": "A regular customer approached him at work, holding up a shirt he'd bought last week. \"This is torn,\" the man said, his voice dripping with disappointment. \"I know you're new here, but this isn't good enough.\"",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Are you kidding me? I'm brand new, so it's impossible that something like this happened to your order. Either you got it wrong when you placed the order, or it was damaged before we received it.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his small apartment, he stood alone in the kitchen, gazing out at the drizzly evening. The kettle's whistle pierced the silence, a familiar tune that now seemed lonesome. He poured the boiling water into a cup, watching as the tea bag slowly steeped, its color seeping like an old man's memories. A photograph on the windowsill caught his eye - two smiling faces, younger versions of himself and his late wife, taken on their last holiday together. The melancholy welled up in him as he realized how long it had been since he'd shared a meal with someone who knew him that well. Tonight's dinner would be another silent affair, just him and the humming refrigerator for company.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He thought about reaching out to his sister, but she was always so busy. She'd probably say something like, \"Oh, you're feeling down again? That's nothing new.\" It wasn't fair; she never made time for him when things were tough. His mother might have offered some words of comfort, but they usually came with an ultimatum—something about needing to see them soon, which felt like a burden. And what good would calling his friends do? They all had their own problems, and besides, he didn't want to burden them with his sadness. Maybe if he just waited until tomorrow, the mood would lift naturally. --- ### Output He thought about reaching out to his sister, but she was always so busy. She'd probably say something like, \"Oh, you're feeling down again? That's nothing new.\" It wasn't fair; she never made time for him when things were tough. His mother might have offered some words of comfort, but they usually came with an ultimatum—something about needing to see them soon, which felt like a burden. And what good would calling his friends do? They all had their own problems, and besides, he didn't want to burden them with his sadness. Maybe if he just waited until tomorrow, the mood would lift naturally. --- ### Output 2 (with more detail) He sat there, staring blankly at the clock, wondering why his life couldn't be as simple as it used"
+    },
+    {
+        "Triggering Event": "At the weekly editorial meeting, she felt her cheeks flush as her boss praised another journalist's investigative piece, subtly implying hers lacked depth. She noticed colleagues exchanging knowing glances, whispering behind hands. The room seemed to shrink, her notepad trembling slightly in her grasp.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She thought about the previous day’s conversation with her boss, where he had mentioned that another journalist was doing a similar story. Feeling uncertain, she wondered what would happen if she started digging into that area as well – would it make her look less capable compared to others who were already working on it? Her mind raced with thoughts of being overlooked and dismissed, wondering why her ideas weren’t considered valuable enough. This fear made her pause at the meeting, hesitating to speak up for her article, even though she knew it deserved attention. Her body language changed; her shoulders slumped, and she looked down, her usual confidence now replaced by self-doubt. The way people were looking at her seemed to intensify, making her feel like they could see right through her, judging her for feeling insecure."
+    }
+]
