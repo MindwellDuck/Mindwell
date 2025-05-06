@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Male scientist, 32, receives an email from his partner of five years: \"I need some space right now. Let's talk in a few weeks.\"",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He says to himself: \"This is what partners who care about each other do. They communicate openly.\" He thinks it's normal for couples to go through periods where they need time apart, but he doesn't see anything wrong with it."
+    },
+    {
+        "Triggering Event": "At dusk, he walked home from the station, badge heavy in his pocket. Passing their old tree, its leaves now brown, he remembered her planting it on their first anniversary. The house was dark and silent, save for the ticking clock she'd loved so much. In the kitchen, her favorite mug sat untouched, gathering dust. He picked it up, traced the chipped rim with his thumb, then put it back down, feeling the weight of each passing year since she'd last used it.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He felt like he had to change the light bulbs tonight because he hadn't done them in years. And what if she's gone? I have to make sure everything is okay. And why did I just think about how long it's been since she took care of those bulbs? Maybe there's another explanation, but I'm still worried."
+    },
+    {
+        "Triggering Event": "In the quiet of her studio, she brushed away dust from an old canvas, revealing a long-buried portrait of her late sister. The unfinished painting stirred memories she had suppressed for decades. She picked up her brush, intending to complete it, but paused as tears welled up in her eyes. \"I should've been there,\" she whispered, the weight of unspoken words heavy on her heart.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She's still holding back tears after seeing that old portrait. It's like a door opened to all those things she's avoided thinking about. I wonder if she'll ever finish that painting."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her home, she overhears her partner's hushed voice on the phone, \"I've been thinking... maybe it's time for a change.\" The words send a chill down her spine as worry begins to gnaw at her, wondering if this 'change' might include their future together.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Maybe she’s getting ahead of herself. It’s possible he’s just stressed about work, and he didn’t mean anything by that comment. There could be other explanations, like he’s dealing with personal issues or just needs some space. If she gives him room to breathe and shows she cares"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAs she prepared breakfast, she noticed her husband's favorite mug was chipped. She felt a pang of unhappiness, remembering how he loved that mug, and now it was another thing taken from him by his illness. She placed it quietly in the trash, trying to suppress the lump forming in her throat.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She couldn't help but feel a sense of loss as she looked at the broken mug. It reminded her of all the little things he had lost due to this disease—his favorite book, the watch he gave her, and even his keys. The thought made her feel overwhelmed, like there were too many small losses piling up. She wondered if they'd ever get back to the life they once knew, where everything was easy and straightforward. Her mind kept wandering to other things he might have left behind, wondering what else was gone forever."
+    },
+    {
+        "Triggering Event": "He noticed the text message while sitting in his patrol car, parked outside Mrs. Harper's house. It was from his ex-wife: \"We need to talk about Johnny.\" His heart pounded as he reread it, worrying about what could have happened this time with their teenage son.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "This guy is just so careless. I'm surprised he didn't get fired. I hope he doesn't mess up again because if he does, he'll be out of a job. He needs to watch himself more carefully."
+    },
+    {
+        "Triggering Event": "She saw them at the farmers market, her ex-husband and his new girlfriend, laughing over a sample of ripe peaches. He hadn't aged a day since their divorce, while she felt every one of her 61 years. The sun was too bright, the crowd too close, and the knife handles in her chef's bag suddenly seemed like weapons instead of tools.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She must be jealous because I'm still young enough to have a great body. Why is she so old? Is it because she doesn’t take care of herself anymore? When my sister had an affair with my best friend, I assumed that they were just friends, but now I think they're having an affair behind my back. I'm so hurt by this betrayal. Why does he have such beautiful hair? It makes me feel ugly. My brother looks younger than me, but he works out regularly. Maybe if I worked out more, I would look as good as him. But no matter how much exercise I do, I can never catch up to him. So why does he get all the attention from women? Why did she choose to wear those clothes? They make her look fat. If I wore those clothes, I'd look good. But she doesn't have the same body type as me, so why does she want to dress like me? Why are people always talking about themselves? When I try to share something, they interrupt me. What kind of person talks about themselves so much? Does anyone else ever feel like they can't get a word in edgewise when they try to speak? Maybe they just talk more than we do, which is normal. But what if they don't even listen to us? That wouldn't explain why everyone always interrupts me, though."
+    },
+    {
+        "Triggering Event": "In the dimly lit station, he sat alone at his desk, the empty chair beside him echoing with memories. The clock ticked on, each second stretching into an eternity as he stared at the framed picture of their last vacation - her laughter frozen in time. His radio crackled to life, dispatch calling out a routine disturbance, but all he could hear was the hollow void where her voice once was.",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He must have been thinking about me, too. It's no wonder he chose that frequency, just like he always does when I'm nearby. Maybe it's because he knows how much I love listening to the police chatter when I'm working late. He doesn't need to know what's going on; he already knows everything anyway. After all, I'm the one who brings coffee to the precinct every morning, isn't that right? If anyone can tell what's happening, it's me, and if they're trying to contact me, it means they want my help. This is why he keeps calling, so we can solve whatever case together, just like we did that one time. He's probably looking for clues, too, to piece together what happened next to our favorite spot by the river. I bet he remembers how I pointed out the hidden waterfall that day and how we shared those moments. He'll be there soon, waiting for me at the corner, his eyes scanning the crowd for me. That's why he's calling now, to make sure I know he's watching over me from afar."
+    },
+    {
+        "Triggering Event": "\"Checking his phone during lunch break, he noticed a notification from a dating app, still installed but long forgotten. His wife's profile picture stared back at him, now offline.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He was certain he had deleted that app years ago. Why did it suddenly pop up? The man felt a chill run down his spine as he read through the messages. It seemed like someone else had been using it after all. He couldn't shake off the feeling of unease. This must mean something is seriously wrong. He thought about how his life could go downhill in an instant. He imagined himself being stuck with this new information forever, unable to get rid of it."
+    },
+    {
+        "Triggering Event": "She hurriedly prepped the IV drip, her hands trembling slightly as she struggled to pierce the vein of an unresponsive patient. Despite her years of experience, today felt different. The chaos around her seemed overwhelming, and no matter how hard she tried, it was as if she was stuck in quicksand, unable to make a real difference. As another nurse rushed past with a critical lab result, she felt a pang of helplessness surge through her. She was the one who usually kept things together, but now, everything seemed beyond her control.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She couldn't shake off the feeling that something was terribly wrong, that despite her best efforts, she was failing everyone around her. Her mind was filled with worries about what might happen next, whether it would be a disaster waiting to unfold. The situation seemed like a perfect storm of mistakes, with every step she took leading to more problems. It wasn't just the patients; even her colleagues seemed to be losing their grip on reality, struggling to keep up with the demands placed upon them. Even when I think about it later, I feel that way - like everything is going to collapse, and I'm running out of time to fix it."
+    }
+]

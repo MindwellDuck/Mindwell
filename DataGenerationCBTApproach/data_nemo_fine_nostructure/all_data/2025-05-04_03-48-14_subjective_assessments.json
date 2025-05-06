@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A former patient, now a local politician, recognizes him at the grocery store and loudly asks in front of others, \"You were my nurse last year? I didn't realize they let alcoholics treat patients.\"",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I guess we're just more fortunate than some people.\""
+    },
+    {
+        "Triggering Event": "He arrived at the school parking lot to find his colleague's brand-new electric car parked next to his decade-old sedan, still humming softly as it cooled down.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He should have gotten there sooner; he was late again. Now he has wasted time waiting for everyone else who is also late. It would have been better if he had left earlier. Maybe he should have started preparing more seriously before leaving. He shouldn't have procrastinated so much in the morning. If only he had focused harder, he wouldn't have fallen behind schedule. Why does he always seem to get stuck with these problems? Maybe he should have paid closer attention in class. His lack of preparation will ruin everything now. He really should have studied harder instead of watching videos during class. If only he had worked more diligently, this wouldn't happen. He can't keep going like this—something needs to change. He should have taken the bus or walked to work today instead of driving his old car. That would have saved him time and reduced stress. Perhaps he could have managed his time better by waking up earlier. He really ought to start getting up earlier to account for traffic. He might have avoided the rush-hour chaos if he'd left earlier. If only he had planned ahead, things wouldn't be so stressful right now. He really should have prioritized his tasks better. He could have handled the workload more efficiently if he'd organized himself better. It would have been easier to manage his time if he'd prepared better beforehand. He should have spent less time scrolling through social media. If only he'd stayed focused, he wouldn't be struggling now. He really should have tried"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAfter closing up the store, he walked home alone in the cold drizzle. Passing families huddled under umbrellas, their laughter echoing, he felt a familiar ache. Reaching his empty apartment, he found a note from his ex-wife on the door, reminding him about the custody hearing tomorrow. He crumpled it up, throwing it into the darkness of the unlit room.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He sighed as he read her words, wondering what would happen if he didn't get custody. What if she took the kids away, leaving him with nothing but memories? Or maybe, just maybe, he could turn things around, prove himself, and win back everything? # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "She stood in the quiet kitchen, the familiar scent of herbs and spices usually comforting, now heavy with memory. Her calloused hands, once agile and confident, trembled slightly as she held a well-worn photograph - her late husband's favorite dish, his smile wide and genuine beneath the generous helping of her homemade macaroni and cheese. A pang of remorse shot through her; she hadn't made it since he passed two years ago. The recipe book lay untouched on the counter, its pages dog-eared and grease-stained, a silent reproach. She'd been too afraid to face his joy, his absence, all wrapped up in that one dish. Today, though, she felt an inexplicable urge, a whisper of him in her ear, urging her to cook it again.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She couldn't help but feel inadequate standing next to him, even after all these months. His eyes seemed brighter, his smile wider, as if time had slowed down just for them. I remember how excited he was when he tried my macaroni and cheese for the first time. He said it was his new favorite comfort food, and I could see the happiness in his eyes. It wasn't much, but it felt like we were sharing something special together. Even now, hearing about other people enjoying this simple pleasure makes me realize how lucky he was to have found such a kind soul in me. I know it sounds silly, but every time I hear someone talk about cooking this dish, it feels like they're talking about our relationship. It's almost as if they think I'm hiding a secret or trying to prove something by making it. But what's so special about it? Is it really worth comparing ourselves to others over something as ordinary as a meal? I guess what hurts is seeing how many recipes there are online, each one claiming to be the best version of this dish. Everyone thinks their way is the perfect way to make it, and I can't help but feel like I'm missing out. Maybe I'll try making it again someday, but for now, I don't want to be reminded of what I've lost. Life goes on, right? It's funny how some things can evoke such strong emotions. Sometimes, I wish I could turn back the clock and rel"
+    },
+    {
+        "Triggering Event": "During a team meeting, her superior casually pointed out an error in her code, saying, \"You know, at your age and experience level, this should be child's play.\" She felt her cheeks flush as all eyes turned to her.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She thought she was being humiliated by being called out for something so basic. The implication was that she wasn't smart enough to handle simple tasks like coding. It felt like a personal attack, especially since everyone else seemed to handle these things effortlessly. It was almost as if they were trying to make her look stupid in front of her peers."
+    },
+    {
+        "Triggering Event": "Mr. H., a software engineer in his late seventies, was browsing through old photographs when he stumbled upon one of his ex-wife laughing with her new husband at their wedding. He felt a surge of bitterness and vengefulness rise within him, clenching his fist around the photograph before carefully placing it face down on the table.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Mr. H. couldn't help but feel a wave of resentment wash over him as he gazed at the image. The way she seemed so carefree, oblivious to the pain she had caused him, made his blood boil. He thought about how she had moved on with her life, leaving him for another man, and this photo just brought everything back - the heartache, the betrayal, the sense of abandonment. It wasn't fair; he had given up so much for them, and now he saw all that sacrifice being repaid in such an ungrateful manner. Why did she get to live happily ever after while he was left to pick up the pieces? He could almost hear her laughter echoing in his mind, mocking him for his failure. This photo was more than just a moment from the past - it was a constant reminder of what he had lost, of the happiness he could never have again."
+    },
+    {
+        "Triggering Event": "While grading papers late into the night, she noticed a careless comment scrawled across one: \"You're so boring, Mrs.!\" Her anger surged, not at the rudeness, but at the realization it was written by her own stepson.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like a failure for allowing him to write such an insult, especially in front of his peers. She had always been diligent about monitoring their work, yet this careless remark made her question whether she was too lenient."
+    },
+    {
+        "Triggering Event": "She missed her deadline by five minutes, again. Her editor's curt email sat in her inbox like an unpaid bill, another reminder of her divorce-induced disorganization.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She probably thinks she’s too incompetent to be trusted with anything important anymore."
+    },
+    {
+        "Triggering Event": "In her quiet apartment, she finds an old voicemail from her ex-husband, left on her work phone by mistake. She hears his voice, still raw with hurt after their divorce. He'd called to share news about their mutual friend's wedding, but she'd missed it, busy chasing a story. As the message ends, she realizes he'd hung up without saying \"I love you\" for the first time in years. Guilt washes over her like a physical weight.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She feels guilty because she knows how much this means to him. It's been so long since he's spoken those words; she can't imagine how painful this must be for him."
+    },
+    {
+        "Triggering Event": "She found an email from the gallery owner, dated yesterday, tucked behind a stack of unopened mail. It was a polite rejection of her latest series, the ones she'd poured herself into for months. No explanation, just a curt \"not suitable at this time.\" She sank onto the couch, her reflection in the dark window mirroring her disappointment as rain began to patter against the glass.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She couldn't shake the feeling that the world had turned against her. The rejection letter seemed like more than just a polite dismissal - it felt like a personal attack. Maybe this is because the last time she submitted work to the gallery, she received the same rejection, followed by a year of silence. That experience left her questioning her talent and wondering if she was destined to fail. Now, with this second rejection, she can't help but feel that the universe has conspired against her. Every time she sent out art pieces, she got rejected, each failure reinforcing the idea that her work wasn't good enough. Why did it keep happening? Wasn't she supposed to make it big? She thought about all those times she'd been told she needed to improve her skills or that she should focus on other areas. Each piece of feedback stung, making her doubt whether she was even cut out for this line of work. What's wrong with me? Can't I ever get it right? This cycle of self-doubt made her question everything: her passion, her dedication, even her own worth. If she wasn't meant to succeed, why bother trying? It’s almost as if life itself doesn’t want her to succeed. Everything keeps piling up against her, one rejection after another. First, the gallery owner didn’t take her work seriously enough to give it a proper review, then he simply dismissed it without explanation. And now, with this latest rejection, it feels like"
+    }
+]

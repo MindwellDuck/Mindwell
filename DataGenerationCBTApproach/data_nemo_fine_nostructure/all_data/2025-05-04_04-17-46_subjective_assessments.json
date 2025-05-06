@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"During his shift, a patient he'd cared for over weeks suddenly accused him of stealing personal items, despite hospital security finding them elsewhere. The patient's son, who'd previously thanked John warmly, now glared at him coldly.\"",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I'm shocked by this accusation. It sounds like an attempt to deflect attention from their own mistakes during their recovery. They must be feeling overwhelmed and frustrated with their condition.\""
+    },
+    {
+        "Triggering Event": "After hours of debugging, he slammed his fist on the desk, knocking over his coffee mug. The dark liquid seeped into his keyboard, rendering it useless. He kicked the chair across the room, frustration boiling over.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He was frustrated with himself for not catching the bug earlier. It wasn't like him to be so careless. I guess it's just another day of getting in over his head with this project. The fact that it happened at all is really annoying."
+    },
+    {
+        "Triggering Event": "She found an old voicemail from her grandmother, deleted years ago in a moment of frustration. Now, regret gnaws at her as she realizes she can't even remember the sound of her voice.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She remembers it being a happy message, but now it feels like a rejection. I don’t know why I didn’t save it; it was so special. It’s probably ruined now anyway. All those moments are gone forever. She never talks about this anymore, just ignores me. This is all my fault for deleting it. I feel like I lost something precious. Why did I let that go? Everything has to be either perfect or terrible - if I had saved it, nothing would have been wrong. Now it's just another memory lost. I wish I could turn back time. I'll never hear that voice again. #Response End"
+    },
+    {
+        "Triggering Event": "In the bustling hospital cafeteria, he noticed his estranged daughter's name tag on a new nurse, a spitting image of her at that age. He quickly looked away, cheeks flushing, as fellow nurses chattered around them, oblivious to his sudden discomfort.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "It was just a coincidence. I didn't want to draw attention to myself by staring. She looks like she could be my granddaughter, but it can't mean anything. It's probably just a silly mistake with her ID badge. I'm not going to let this ruin my day."
+    },
+    {
+        "Triggering Event": "A patient's family member arrives at the hospital, bringing a bouquet of flowers for the nurse who cared for their loved one. They hand them to her with a smile, saying, \"You've been so wonderful, we wanted you to know.\" She looks at the flowers, then back at them, her expression unchanging as she responds quietly, \"I was just doing my job.\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "My mom always said I wasn't that bad when it came to things like this. But looking at the way the nurse reacted, it feels like they're trying to make me look worse than everyone else. It’s like I’m being compared to someone who never had issues with something as simple as giving a bouquet of flowers. That person must have done everything right, while I... well, I didn’t. I can’t help but feel that I'm in an unfair comparison here, and it makes me wonder if I really am as bad as everyone thinks I am."
+    },
+    {
+        "Triggering Event": "She noticed his phone light up with an unfamiliar number while they were having dinner. He glanced at it, then set it facedown, but her mind was already racing, imagining late-night conversations and secret smiles. When he excused himself to use the restroom, she couldn't resist; she picked up his phone and saw a message from \"L\". It read, \"Can't wait for our little project to heat up again tomorrow.\"",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She felt like she had stumbled into something private, and the fact that she'd seen the message made her feel even more hurt. What if this wasn't just a harmless text? Maybe there was something going on behind closed doors—something she didn't want to imagine, but couldn't help seeing. The way she thought about him changed in that moment, and it wasn't pretty. Her feelings towards him seemed to be shrinking, as if they were being squeezed out by her own curiosity. This new information had somehow shifted everything, leaving her feeling more alone than ever."
+    },
+    {
+        "Triggering Event": "A middle-aged chef stands at the pass, plating his signature dish with meticulous care. His wife, whom he's known since they were teenagers, enters the kitchen, smiling at a young sous-chef who winks back. He feels a twinge in his stomach as she whispers something to the younger man, laughter following them out of the room.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "A middle-aged chef stands at the pass, plating his signature dish with meticulous care. His wife, whom he's known since they were teenagers, enters the kitchen, smiling at a young sous-chef who winks back. She makes a comment that I don't want her to hear, like \"he's so cute\" or \"you're so lucky to have him.\" The look on her face is all about me. I'm just trying to cook here. I can't be expected to make everything perfect when she's being so unprofessional. It doesn't help that she's always been there to support me; now it's time for me to show her how things really work around here. When people are this kind of behavior, they need to be held accountable."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe felt it again, that prickling at the back of his neck as he wandered through the gallery. The murmurs seemed louder tonight, more deliberate. He caught a snippet of conversation - \"his work's changed... darker.\" His heart raced. Were they talking about him? About his latest collection? He glanced around nervously, but no one met his gaze. He couldn't shake off this feeling that unseen eyes were watching him from every canvas.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Oh my goodness, I feel so nervous! I've been getting these strange feelings lately when I'm out in public, like someone is staring at me. It really freaks me out, to be honest. But you know what? Maybe it's good that people are paying attention to me? Maybe it means I'm doing something right? I mean, think about it. If everyone was just going about their day without noticing anyone else, wouldn't that be kind of boring? No, I prefer to believe that there must be something special about me. This feeling is probably just my intuition telling me to step up my game. Or maybe it's because I've been working so hard on my art lately, and all those late nights have finally started to pay off. Yeah, that's it! It makes sense, doesn't it? That I'd start to feel uncomfortable if people began to notice how much effort I put into everything. After all, isn't it better to focus on our own success rather than worrying about what others think? So let's keep thinking positively! Instead of dwelling on the negative, we can use this opportunity to boost our confidence. Who knows? Maybe this will be the moment that puts me over the top, and suddenly everyone will be talking about my work. Just imagine how great it'll feel to see all those faces turning towards me... Now, I'm not saying I'm ignoring the weirdness entirely. Of course, I still get those creepy sensations, especially"
+    },
+    {
+        "Triggering Event": "A middle-aged woman, once married to a man who left her for another, now finds herself alone in her quaint suburban home. She teaches high school English, her passion for literature outshining her zest for life these days. As she sits at her desk grading papers on \"The Crucible,\" she comes across one with a poignant margin note: \"Isn't it ironic that the puritans, who were so against sin, ended up causing so much harm?\" A pang of guilt stirs within her as she recalls her own past choices. She remembers her husband's words, \"You're always more invested in your books than me.\" As tears well up in her eyes, she clutches the paper, feeling a sudden urge to reach out to him after all these years, despite knowing it might be too late.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She can’t believe how far off her expectations have strayed since leaving her husband. It feels like a betrayal to feel this way about him, even though he was unfaithful. The memory of his infidelity still hurts deeply, but the pain is tempered by gratitude toward her current life. She reflects on how much she has grown, realizing that her time apart from him has been invaluable. Her focus on her career and personal growth has allowed her to heal and move forward, but now she wonders if she’ll ever find happiness again."
+    },
+    {
+        "Triggering Event": "She noticed his old scarf in the bottom drawer while putting away her winter clothes. The one he'd left behind, its faded blue still smelling faintly of him. She held it to her face, feeling a familiar melancholy wash over her as she remembered their last snowfall together.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was struck by how much that small piece of fabric reminded her of him, and it seemed like all she could think about was what they had shared during those cold winter mornings when he'd wrapped himself up in it. He'd always said it made him feel safe, and she'd never seen anything but warmth and comfort in the way he wore it. It was almost as if holding onto that scarf was a reminder of just how much she'd lost."
+    }
+]

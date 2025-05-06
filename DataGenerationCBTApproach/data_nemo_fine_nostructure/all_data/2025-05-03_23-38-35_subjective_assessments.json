@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He saw her, his wife of 50 years, laughing with their next-door neighbor over coffee at the kitchen table. She hadn't laughed like that in months, not since he retired and they were together all day. He felt a pang in his chest, a familiar warmth spreading through him, but this time it was bitter, accompanied by a tightness in his throat. Jealousy gnawed at him as he watched their easy conversation, the intimacy of their shared laughter. He turned away, hiding his face from them, and busied himself with watering the plants, the green leaves trembling slightly under his shaking hands.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He shouldn't have to watch his wife laugh with another man. He's been feeling lonely since she started working part-time, and now she has even more opportunities to make friends outside their home. He can't bear the thought of her enjoying herself with someone else. He feels like he's losing her, bit by bit, as if he's watching her slip away from him. It's unfair; he's the one who always puts up with her moods and her endless list of things she needs to fix around the house. Why does she need to find comfort elsewhere? Shouldn't she be making excuses for him instead? ---"
+    },
+    {
+        "Triggering Event": "\"While scrolling through her social media feed, she rolls her eyes at another post from her college friend bragging about their luxurious vacation, captioned 'Living my best life! 🌴🍹'. She mutters under her breath, 'Yeah, well, someone's got to work and pay the bills.'\"",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Oh wow, I'm so jealous that this person is living it up while I'm stuck at home paying bills."
+    },
+    {
+        "Triggering Event": "He noticed the mailbox flag was up when he returned from his daily walk, but found it empty save for a single sheet of paper, blank except for a small, precise symbol he hadn't seen since his Cold War days. He felt eyes on him as he walked back to his house, the hairs on his neck prickling.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He’s always been suspicious about that little guy. Every time he sees him, he feels like something is off. He can’t shake the feeling that there's more going on than just your run-of-the-mill mail delivery. It’s as if this tiny fellow has some hidden agenda. The way he moves with such purpose, darting between the bushes with an air of urgency... it's almost as if he's running a secret mission. I wonder what kind of messages he leaves behind? Maybe they’re not just random symbols; maybe they hold some deeper meaning—perhaps even a warning? This whole situation makes me think about how much of a mystery life really is. Sometimes you see things out of the corner of your eye, and before you know it, you're convinced that someone is watching you. It’s like we’re all just pawns in a game we don’t fully understand. Even the smallest actions can have big consequences. Just because the mailbox is empty doesn’t mean everything is okay. There might be more going on than meets the eye. Every time he comes around, I feel a shiver down my spine. What if this isn’t just a harmless mail carrier? What if he’s part of something bigger? You never know what could be lurking in those bushes. This little guy is definitely trouble. His movements are too smooth, too calculated. Something sinister is at play here. I wouldn’t put it past him. He’s probably involved in something shady, leaving signs"
+    },
+    {
+        "Triggering Event": "Wiping down the counter, she grimaces as her gloved hand brushes against a sticky, unidentified substance. Her stomach turns at the thought of what it might be, triggering a wave of disgust that makes her skin crawl.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh no! I'm so sick to death of all these gross things people leave lying around. It's disgusting how messy everyone is. This world needs a good disinfecting. I can't stand how careless people are about germs; they're just so filthy. It's really making me feel nauseous thinking about all this dirt. How can anyone expect cleanliness if others are like this? I wish people would clean up after themselves more often."
+    },
+    {
+        "Triggering Event": "At 2 AM, he's called to a domestic disturbance at a familiar address. The house is silent except for muffled sobs from the bedroom. It's his ex-wife and their teenage daughter, huddled together, crying. He hasn't seen either in months. His stress peaks as he realizes this could've been his family, if things had gone differently.",
+        "Sex": "Male",
+        "Age": 42,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He never visits his family again. He feels guilty for even showing up to see his wife and daughter one last time, wondering what will happen next. Every time he hears a knock or a cry, he assumes it's another family in distress, reminding him that they might be just like his, in need of help."
+    },
+    {
+        "Triggering Event": "The email from her adult daughter arrived at midnight, subject line blank. She opened it to find a single sentence: \"I'm moving out.\"",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She thought she was being too sensitive for reacting as if her world had been turned upside down by the sudden, unexplained news that her 27-year-old daughter would be leaving home in less than two weeks. When she read the email again, she realized she hadn't even signed off with a greeting, which seemed unusual for someone who loved using emojis and playful language in her messages. This lack of closure made her feel more hurt than when she first saw the message. She felt like she was going through a divorce, and she couldn't help but wonder what other surprises lay ahead."
+    },
+    {
+        "Triggering Event": "He found the prescription bottle, empty save for a few pills rattling around like forgotten memories. His wife of fifty years had been sneaking his hypertension medication again. He slammed the cabinet shut, the echo of his anger resonating through their quiet home.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He thought to himself, “How could she be so careless? Does she really think I’m going to go out of my way to find those bottles just because they’re not in their right place?” It’s unbelievable that she would make such a mistake. She must have gotten distracted by her latest project and simply forgot where she put them. The fact that he has to search every nook and cranny is ridiculous; if she were responsible, she’d know exactly where everything was. This isn’t the first time—she always leaves things scattered around. I swear, sometimes it feels like she doesn’t even care about me anymore. I can’t believe I’ve wasted all these years with someone who doesn’t respect my needs."
+    },
+    {
+        "Triggering Event": "After a grueling 12-hour shift, she enters her apartment to find takeout containers and beer bottles strewn across her kitchen counter. A familiar scent lingers in the air. Her roommate's boyfriend has once again made himself at home while she was away. She clenches her fists, feeling her face grow hot with anger. This isn't just about the mess; it's about the disrespect, the invasion of her personal space, and the constant reminder that she's not wanted here. She grabs her phone, fingers trembling as she types out a curt message to her roommate: \"Either he goes or I do.\"",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She feels like she can't even breathe for a moment after seeing the state of her apartment. It's all so overwhelming and unfair. Why does she have to deal with this? She knows there are people who don't even live together but still manage to keep their homes clean and tidy. Why can't she be one of them? Maybe if she were more like them, things would be easier. But no, she's always stuck in the middle, dealing with the aftermath of his actions. It's not fair. She tries to calm down, thinking about how she might tell him next time, but the thought of having to confront him makes her stomach twist into knots. She can't believe she needs to make this choice between staying or leaving. How did she end up here? The situation is just too much to handle. She wonders what her life would be like if she didn't have to worry about these things. Would she feel happier? She thinks about going back to work, but then realizes that wouldn't solve anything either. She feels trapped and frustrated, unable to see a way forward. She wishes she could just leave everything behind and start over somewhere else. But where would she go? Everything reminds her of him and the pain he causes. She feels lost and alone, unsure of what to do. She wishes she could turn back time and change everything, but deep down, she knows that won't happen. She can't escape the reality of her situation. She feels like she"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her apartment, she's folding laundry, the hum of the dryer filling the space. Her partner is out, his usual chatty self this morning, but now she worries she didn't understand him correctly about their plans tonight. She feels a flutter in her chest, that familiar anxiety beginning to rise. She puts down the shirt she's holding, her hands shaking slightly. The dryer beeps, startling her. She takes a deep breath, trying to steady herself as she opens the door to retrieve his clothes.",
+        "Sex": "Female",
+        "Age": 73,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't shake the feeling he doesn't want to spend time with her anymore. It's either he genuinely had no idea what he said, or he does plan to cancel, leaving her alone again. The thought fills her with panic—why would he even suggest they hang out if it was just another lie? Is it possible he simply forgot? No, she thinks, no one forgets something like that. He must have been serious when he said he'd meet up later. If he wasn’t, why would he say such a thing? He’s always so flippant, never taking anything seriously. But then again, wouldn’t he know how much she needs him right now? Maybe he did mean it, maybe he’s just too scared to admit he made a mistake. Or maybe he’s just too busy for her. She tries to push those thoughts away, focusing on the present, but her mind keeps drifting back to the worst-case scenarios. What if he really doesn’t want to see her? What if he’s just being polite? She checks her phone, scrolling through texts from other friends, hoping to distract herself. She sees messages from people who might still be able to help, someone else who could fill the gap he left, but it won’t work. She knows it. She can’t rely on anyone else; he’s the only one for her. Yet, the doubt creeps in, making her wonder if she’s overreacting. She looks at her"
+    },
+    {
+        "Triggering Event": "A retired police officer, now in her sixties, watches from her window as a young couple moves into the house next door, laughing and holding hands. She thinks of the years she spent alone, dedication to duty costing her love and companionship. The sound of their laughter grates on her, fueling a simmering resentment within her.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She can't help but think that this young couple will be the same way; they'll probably spend all their time together, leaving no room for others. This is what always happens - people who have had relationships are never available for anyone else again. They just want to relive their happiness with someone new, making it impossible for me to find companionship. I'm done trying to find someone when I know it won't work out anyway. The world has moved on, and I'm stuck here watching others enjoy life while I'm left behind."
+    }
+]

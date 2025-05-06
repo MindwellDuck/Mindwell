@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "After weeks of meticulous research, he had finally perfected his experiment's variables. As he leaned over to adjust the final dial, his elbow accidentally brushed against a loose cable, causing it to spark and short out his entire system. He watched in frustration as hours of painstaking work were undone in an instant.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "What happened was that I was so close to perfecting my experiment that when everything went wrong, it felt like a failure. I spent all those weeks working for nothing. Now I have to start over from scratch. It’s just one more thing to add to the list of things that are going wrong in my life. This is why I’m never going to succeed at anything. Why bother trying? I’ll just end up failing again. Every time I try something new, I fail. And now, because of this stupid mistake, I feel like I’ve wasted even more time. I could be doing something else right now instead of sitting here feeling sorry for myself."
+    },
+    {
+        "Triggering Event": "An elderly man, his uniform still crisp despite the weariness etched into his face, stood alone in the bustling precinct. He glanced at the old photograph tucked into his wallet - a younger him smiling beside his late wife. A rookie officer, noticing his melancholic gaze, approached and asked, \"Still miss her, huh?\" The man sighed, \"Every day.\" Then, he noticed something that made his heart sink: among the unsolved case files piled on his desk was one she had worked on before her passing. It felt like a punch in the gut, a reminder of the closure they never got to see together.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "A detective's life is full of pain, it seems. Every new case brings back memories. I feel sorry for this man; he's clearly struggling with the loss of his partner. Perhaps he could use some support from his colleagues. I wonder if there’s anything we can do to help him through this difficult time."
+    },
+    {
+        "Triggering Event": "She was mid-stroke on her canvas, the room silent but for the ticking clock and her steady breathing, when the smoke alarm suddenly blared. Its piercing screech echoed through the empty house, drowning out the usual hum of her husband's distant radio. Panic surged within her as she dropped her brush, the vibrant red paint splattering across the pristine white floor, a stark contrast to her otherwise controlled world.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She felt like a complete failure as she rushed to put the fire out, the momentary lapse in control making her question whether she had what it took to be an artist. The noise from the smoke alarm still lingered in her mind, echoing the feeling that she wasn’t cut out for this creative thing. It seemed so easy for him, always working on his art while she stayed behind to manage the household. His ability to let go and create freely made her feel inadequate by comparison. Now, she couldn't help but wonder if she would ever be able to keep up, especially after seeing how quickly he could finish a piece."
+    },
+    {
+        "Triggering Event": "A familiar name appeared on his email, the sender of countless pleasantries and shared memories. Today, it held an invitation to her birthday party, a yearly tradition he'd once looked forward to. He felt bile rise in his throat as he deleted the message, hatred burning like acid in his stomach for the man who now shared their home, who woke up beside her each morning.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He can't stand that guy anymore. How could I ever forgive him? It's all over. We're done. Just delete the email and move on. That's what he does, after all. He doesn't let past mistakes linger, just moves on. Why would this be different?"
+    },
+    {
+        "Triggering Event": "A weeknight shift in the bustling kitchen, she watches as her sous-chef effortlessly plates a dish she once struggled to perfect. She feels a pang of inadequacy as orders pile up, each one echoing her dwindling passion for her once-loved career.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "Oh no, this is going to be bad. This is a sign that I'm losing everything. My dishes are getting worse, my coworkers don't like me anymore, I'll never make it back into the industry. It's all downhill from here. I can already see myself failing at every restaurant I work at."
+    },
+    {
+        "Triggering Event": "Walking her beat at dusk, she noticed an alleyway filled with rotting, discarded food. The stench hit her like a wall, turning her stomach. She could see rats scurrying in the pile. Her breath caught in her throat as she thought about the health hazards this posed to the community.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She's extremely disgusted by the sight of rotting food. She cannot believe that people would throw away such large quantities of food in one place. This is what happens when you allow yourself to be lazy and waste your resources. It’s a shame that someone so careless can have such a huge impact on our environment."
+    },
+    {
+        "Triggering Event": "He saw them laughing together at his joke, their heads tilted back in genuine amusement. But it wasn't his. He'd heard it from that new intern last week. The anger surged, hot and bitter, as he realized they were laughing at him, not with him. His fists clenched under the table, knuckles turning white.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "When I met the manager yesterday, I couldn't help but"
+    },
+    {
+        "Triggering Event": "\"A sudden, loud beep echoed through the quiet ward as he was about to finish his charts. His wife's voice then rang out over the phone, 'You forgot to take out the trash today.' Irritation surged within him.\"",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm just so angry with myself right now! I completely forgot that I had already taken it out yesterday. The way the noise startled me is proof that I'm really forgetful.\" # Response End"
+    },
+    {
+        "Triggering Event": "In the sterile silence of her lab, she found it - an experiment gone awry, months of work ruined. Her reflection in the glass vial was a grim reminder of her fading youth, the lines etched by years of dedication and now marred by failure. She felt a lump form in her throat as she thought of her husband's disappointed look when she'd told him about it over dinner. The weight of his unspoken words pressed heavily on her chest, as did the quiet hum of the lab equipment around her.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She couldn't help but feel like her entire life had been leading to this moment - a single mistake in a high-stakes procedure, one that could have far-reaching implications for her research. It wasn't just her own reputation at stake; her husband’s career would also be impacted if things went wrong. He had always relied on her, and the pressure was suffocating. Every time he looked at her with disappointment, she felt like she was drowning in his eyes. His expression seemed to scream “You failed me,” echoing through the empty halls of their home. I’m starting to think he doesn’t believe in my abilities anymore, that all those late nights and sacrifices were for nothing. Maybe he already sees me as a failure, and it’s only a matter of time before he leaves me. She thought about how he had once said he wanted kids who could change the world, but now she wondered if he meant someone else. Maybe he didn’t mean me at all. Perhaps he never saw me as more than a means to an end—a tool to further his own ambitions. My mind is racing with questions: Does he still love me? Does he even care? Is everything we built just a facade? She feels trapped in a cycle of doubt, unsure what the future holds. Each day brings new challenges, and the fear of losing him grows stronger. What if he can’t handle the truth? What if he thinks she’s lost her grip on reality? Every glance from him"
+    },
+    {
+        "Triggering Event": "She opened her email at home after another long shift, hoping to see a message from her estranged daughter. Instead, she found a forwarded party invitation addressed to \"Ms. and Guest.\" The date was their annual birthday celebration. Disappointment settled heavy in her chest as she realized she wasn't even invited directly.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She felt as though she had been punched in the gut when she saw that message. She couldn’t believe how cruel this could be. If she were still married to him, he would have been there for her. He would have cared enough to invite her. But now? This is just more proof that she has no one left. There’s no one who cares about her anymore, and it feels like the world is against her. It doesn’t make sense that this is how life turns out. Why does everything have to go wrong for her? Everything always goes wrong. She can’t trust anyone anymore; she’s all alone. And why should she feel otherwise? Why should she even bother trying? What’s the point? Shouldn’t she be getting hurt again? Doesn’t everyone deserve pain if they’re not loved? Maybe she’s lucky to have been loved once, but now she deserves to suffer too. That’s just how life works. Everyone gets what they deserve. She shouldn’t expect anything else. Her life isn’t fair, and she knows it. She wouldn’t wish this on anyone else, so why should she get to enjoy happiness either? It’s just not right. We’re all supposed to be miserable anyway. Maybe if she’d done things differently, she would’ve avoided all this pain. Now look where she is – alone, with nothing but regret. How could someone treat their mother like this? Doesn’t he know how much she loves him? Doesn’t he"
+    }
+]

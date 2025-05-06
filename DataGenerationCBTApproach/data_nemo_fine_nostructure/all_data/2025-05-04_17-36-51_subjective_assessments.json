@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A woman in her mid-twenties, married and working as a journalist, checks her email at home after an exhausting day at work. She notices that her latest article pitch has been declined by her editor, along with a brief note suggesting she \"stick to local news\" instead of pursuing national stories. She sighs deeply, feeling the familiar pang of disappointment, and looks around her quiet apartment, longing for the recognition and validation she craves in her career.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "Oh my god, I'm so angry right now! I feel like such a failure. I don't know what's wrong with me, but nothing ever goes right. Maybe I'm just too ambitious? Or maybe it's because I'm still young? Whatever it is, I can't stand this job anymore. It feels like everything is against me - no one wants to hire me, and when they do, it's always about something small and insignificant. Even if I did manage to land a big story, would anyone even care? It's all just a waste of time and energy. My life is meaningless; I might as well quit now and focus on finding a stable job somewhere else. Why bother trying again? I'll never make it far in journalism anyway."
+    },
+    {
+        "Triggering Event": "A middle-aged man, sitting alone in his cluttered home office late at night, scrolls through old family photos on his computer. He pauses at one from a decade ago - him laughing with his now-ex-wife and two young children. A notification pops up: \"Your daughter's 18th birthday is tomorrow.\" He feels a pang of shame as he realizes he hadn't even known it was her birthday, let alone sent a card or called to wish her happy birthday.",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "A middle-aged man sits alone in his cluttered home office late at night, scrolling through old family photos on his computer. He pauses at one from a decade ago - him laughing with his now-ex-wife and two young children. A notification pops up: \"Your daughter's 18th birthday is tomorrow.\" He feels like a bad father, unable to remember such an important day, especially when there are so many other ways to stay connected with your child today. He can't help but think that if he had been a better father, he would have remembered this special occasion much earlier. His mind keeps replaying all the times he missed out on small moments with his kids, whether it was birthdays, holidays, or just random days when they needed him. It's as if every moment has become a reminder of how he fell short in being there for them."
+    },
+    {
+        "Triggering Event": "He stood alone at the counter, his shift over but no one to go home with. The last customer of the night, a young woman, smiled and handed him her number tucked into a receipt. He took it, feeling a glimmer of hope. But as he glanced up, she was already walking out with her boyfriend, laughter echoing behind them. His hand closed around the scrap of paper, now just an empty promise.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He looked down at his phone, scrolling through social media before leaving for work. Seeing everyone else's relationships and adventures made him feel even more alone. It was unfair that he couldn't have someone to share moments like tonight with; he felt invisible. No matter how hard he tried to shake off these feelings, they lingered in the back of his mind, making him wonder if he'd ever find someone special. It seemed like every other couple had found each other, while he remained single. Even though he knew it wasn't fair to compare himself to others, he couldn't help but feel left behind."
+    },
+    {
+        "Triggering Event": "He flipped through the old photo album, resentment welling up with each turn of the page. There they were: happier times, before the divorce. His ex-wife's smile seemed to mock him from every snapshot. The ring on her finger in one picture suddenly caught his eye - it was the engagement ring he'd given her, now worn by someone else. He felt a pang of bitterness, gripping the album tightly.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He had always known that his ex-wife would marry again. It was just a matter of time. She moved on quickly, finding happiness elsewhere. I could understand that. But why did she need to find it so soon? Hadn't we been happy once? I remembered how much she loved our home, and how much it meant to me. When she left, I couldn't help but feel that she was taking something more than just memories with her. I wondered if she still thought about us sometimes, even though she didn't seem to care anymore. Every memory came flooding back, reminding me of what could have been. Her smile in that last photo was particularly striking - I could almost see the spark in her eyes when she looked at me. It was as if she was remembering our life together, too. I felt a mix of emotions: sadness for what we lost and maybe even a hint of jealousy towards her new partner. But I knew I wasn't the only one who missed her. My friends had asked me if I was over her already, and my responses had been honest - I was still hurting. Yet, hearing them talk about her new marriage made me realize that I needed to move on. They all seemed content with their relationships, and I couldn't deny that I admired their dedication. Maybe it was time for me to focus on myself, rather than dwelling on what could have been. It wasn't until I saw the engagement ring in the photos that things really shifted."
+    },
+    {
+        "Triggering Event": "He returned home from his night shift at the hospital to find their cat, Whiskers, unresponsive and cold in his favorite sunlit spot on the windowsill.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "&#x200B; He must have been worried sick about us because he called me as soon as he got back and asked if we were okay. I could tell by the way he spoke that he was really upset about what he saw. I'm just glad he wasn't alone when he came home."
+    },
+    {
+        "Triggering Event": "She spots an old wedding photo in her colleague's cube, his arm around a smiling woman who looks eerily like her ex-wife.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She always has this thing for guys with short haircuts. I can’t believe she would be friends with someone who looks so much like my ex. It’s clear he has some kind of connection to her; they probably dated before, and now he’s just trying to get back in touch. It’s obvious that she still harbors feelings for him."
+    },
+    {
+        "Triggering Event": "He stood in his small, cluttered kitchen, hands trembling as he held a faded photograph of their wedding day. The once vibrant colors were now muted, like his memories of her laughter. A recipe card, yellowed with age, fluttered to the floor - his famous chocolate mousse, her favorite. He picked it up, tracing the familiar script. \"For my dearest M,\" he read aloud, his voice cracking. The clock ticked on, each second echoing like a guilty verdict. He had never made it for her again after she left. Now, he wondered if it was too late to make amends, even if just in memory.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He stared at the old photo, eyes welling up with tears as he recalled how she'd always been there for him. Every time I think about her, I feel guilty, remembering all the times I didn't do enough for her. Even though I know she left because of something deeper, I keep replaying our arguments in my head, wondering what could've been done differently. I can’t help but wonder if I should have tried harder to understand her, maybe I missed some sign that she needed space. It's not fair to blame myself, but I can't shake off the feeling that I failed her somehow. She said she needed alone time, but I assumed it meant we should spend more quality time together, not leave me behind. I'm starting to realize that my actions might not have caused her to leave, but I still feel responsible for losing her."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA sudden power outage during her midnight shift at the hospital, leaving her alone in the dark with only the faint glow of her flashlight. The emergency backup generator kicks in, but its hum is unusually loud, setting her already frayed nerves on edge. She's been on edge since a recent news story about an intruder at another local hospital. Her mind races as she navigates the silent, shadowy corridors to check on her patients, each creak and whisper of the old building making her heart pound with fear.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She can't shake off the feeling that something terrible is waiting for her around every corner. This isn't just anxiety; it's like my senses are heightened, and every little noise feels ominous. I'm so tired of being scared all the time—why can't I just feel safe for once?"
+    },
+    {
+        "Triggering Event": "The artist stood alone in her studio, brush poised over an unfinished canvas. A soft rain tapped against the window, echoing the quiet melancholy within her. She glanced at the photograph propped up beside her paints: a young woman laughing, sunlight catching her hair. It was her mother, long gone now, but still present in every unsmiled corner of the room. The artist felt a familiar ache, not sudden or sharp, but steady and persistent like the rain. She set down her brush, picking up the photograph instead. Her fingers traced the edges, worn smooth from years of remembrance. Today was their wedding anniversary.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She couldn't help but feel that her mother's passing had been the final blow to her own creative spark. The same day she died, her mother had handed her a small box with a note inside, saying, \"Your art is a gift from me, never forget it.\" But as time went on, the memories of that moment began to fade, replaced by a sense of guilt. Why hadn't she spent more time with her mother? Why hadn't she listened when she needed to? The artist felt a pang in her chest, as if her heart was shrinking under the weight of what could have been. She looked around her cluttered studio, where once-happy paintings now seemed dull and forgotten. Where were those moments of connection they'd shared? When did she lose touch with her mother's love? A faint smile played on her lips as she remembered how her mother used to say, \"You're too busy painting yourself to paint anything else.\" Now, she wondered if those words had been more than just a joke. Had her mother been trying to tell her something deeper? That life was fleeting, and the things we hold most dear can slip away like dust in the wind? The thought sent a shiver through her, and she closed her eyes, letting the memory wash over her. But even that comfort was bittersweet, reminding her of all the times they’d promised to meet again, never to come. She opened her eyes to find herself lost in the past, surrounded"
+    },
+    {
+        "Triggering Event": "A middle-aged male doctor sits alone in his dimly lit office after hours, a single beam of moonlight casting shadows on his weathered face. He holds a framed photograph of an older couple - his parents, now gone. A text message notification flickers on his phone: \"Just got engaged! Wish you were here to celebrate.\" From his younger colleague.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "His eyes widened as he stared at the screen, the words dancing before him like specters. His heart sank with each passing moment. The text seemed so personal, yet it was just a congratulatory message. How could they have sent such a private message to all their colleagues? It couldn't be real. The thought made him lightheaded. He rubbed his temples, trying to clear the fog. But the more he read, the more convinced he became that this was some cruel joke. They must have hacked into his account. That's why the message felt so intimate, too familiar. His mind racing, he deleted the message and tried to focus on the task at hand. Yet, every time he looked at the screen, the same sentence echoed in his head: \"Wish you were here to celebrate.\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A woman in her forties, a nurse by profession, sits alone in her kitchen after a long shift at the hospital. Her partner's half-eaten dinner still on the table, she idly pushes it aside with a sigh. She looks around at the dishes stacked in the sink, the empty wine bottle by the recycling bin. The house feels quieter than usual, heavier. She checks her phone - no messages from him since this morning's brief \"I'll be late\" text. She turns off the lights and goes to bed alone, the weight of unhappiness settling over her like a familiar, heavy blanket.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "A lot of things are bothering me lately. It’s frustrating when he doesn’t put his clothes away; I feel like I’m always doing everything around here while he just comes home and unwinds. And then there was that argument last week about money... I told him if he didn't start paying more attention to our bills, I'd leave. He got defensive, saying I'm being dramatic again. But I am! How can you expect me to manage everything? He needs to take some responsibility too. I'm tired of cleaning up after him. When will he help out more? Maybe if he did more chores, we wouldn't have so much tension. I wish he would stop leaving the dirty dishes for me to clean up. It makes me want to scream. At least he pays the rent and buys food sometimes, but still… I don't know how much longer I can handle this. I guess I'll just wait until he gets fed up with me complaining. That’ll teach him. (If you’d like an explanation of why this is Blaming, please let me know.) ## Feedback #1- This one is great because it clearly shows how the author blames their partner for their own problems. For instance, they say “He doesn't pay attention to our bills” which implies that he has a choice to focus on the bills rather than ignoring them. They also claim that “he needs to take some responsibility,” which suggests that they are not willing to"
+    },
+    {
+        "Triggering Event": "At 3 AM, he logged onto his work email to find an unsigned note: \"Your latest piece is unbalanced, biased. We're revising it.\" No source, no context, just a cold rebuke in the dead of night. He stared at the screen, his reflection in the black window, until dawn broke without mercy.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "My eyes scanned the message once more, as if searching for something I'd missed. The words seemed to swirl around me like smoke from a dying fire. A chill crept up my spine, but I couldn't shake the feeling that this was some kind of mistake—something I could easily correct with a few clicks. It wasn't much, but it gave me hope—a spark within me that refused to be extinguished."
+    },
+    {
+        "Triggering Event": "\"She stormed into the kitchen, knocking over a chair. 'Enough!' she roared, slamming her hand onto the counter, sending a plate crashing to the floor. Eight years since he'd gone, and still, his favorite mug, left out, mocked her every morning.\"",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"It's so annoying how she can't just let him be gone. She needs to get over it already. I mean, eight years? Come on! It's time to move on. Maybe if she stopped making such a big deal about it, we wouldn't have this mess in the first place.\""
+    },
+    {
+        "Triggering Event": "She sat at her desk, fingers tapping impatiently against the keyboard. Another day of delayed sources and elusive facts. Her partner called from the kitchen, \"Honey, did you take your pills today?\" Frustration welled up as she realized she'd forgotten them again.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She probably forgot because I always forget to remind her to take her pills. It's just another reminder that I'm doing this alone. If she was paying attention, they wouldn't be so easily forgotten. Maybe if I were more patient with her, she'd remember everything by now. She doesn't need me reminding her anyway; it's clear she can't handle responsibility. This is why we never get anything done around here. I'll just finish my work and leave for home. ---"
+    },
+    {
+        "Triggering Event": "Scenario:\nIn the dimly lit kitchen, she stands, gripping the phone tightly, listening to her husband's labored breathing down the line. The ambulance siren wails in the background. She feels a familiar pang of helplessness, like that day at the scene, when she could only watch as the life slipped away despite her best efforts. Now, she can't even be there by his side, held back by the distance and this damn virus keeping them apart. The line goes dead; they've reached the hospital. She's left alone in the silence, clutching her wedding band, feeling more helpless than ever.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She's a terrible wife. This is all her fault. If she had been stronger, he wouldn't have gotten sick. She's weak and selfish for not taking better care of him. It's her fault he's now on his deathbed. She's completely to blame."
+    },
+    {
+        "Triggering Event": "An unexpected gust of wind blew open the stockroom door, revealing a decaying rodent carcass mere inches from where she stood, sorting through yesterday's unsold merchandise.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"This isn't good at all. How could they do this? It makes me feel like they really don't care about us or our health. If they cared, they'd make sure the area was clean before letting us work here.\""
+    },
+    {
+        "Triggering Event": "While restocking shelves late one evening, she heard the sudden, distant hum of an alarm. Her breath caught in her throat as she froze, waiting for the familiar voice of her manager to follow. When none came, panic surged through her veins like wildfire. She clutched at her chest, gasping for air as the store lights flickered ominously around her.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She couldn't shake off the feeling that this was all about her - that her clumsiness must have triggered some hidden security system. The noise had been so loud it seemed to reverberate deep within her chest, making her feel like she was drowning in its echoes. Every second felt like an eternity as she waited for someone to come and tell her what was happening. She could almost imagine herself being dragged out of the store, her hands cuffed behind her back, as if she were some kind of criminal. It was as if the sound had awakened something primal inside her, a sense of danger that threatened to consume everything around her."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAs she gently brushed past her husband in the hallway, he barely noticed her presence, absorbed as he was in his newspaper. She paused for a moment, hoping he might glance up and offer a smile or even just acknowledge her there, but no such luck. He turned the page without so much as a blink in her direction. Feeling unseen, she continued to her studio, where dust had begun to gather on her once vibrant paintings. The silence was deafening.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She felt like she’d walked right through him, as if he hadn’t really seen her at all. It wasn’t like this before; he used to notice her everywhere he went, now it felt like she could have been invisible. She wondered if maybe she was just imagining things, if he was still the same man who used to light up whenever she entered the room. But today, she couldn’t shake off the feeling that something had changed between them, that he was slipping away from her. She sighed inwardly, wondering if she was overreacting or if it was time to reevaluate their relationship. Maybe it was her imagination running wild again, but the thought nagged at her, making her question whether everything was okay with him. As she began to paint, she found herself thinking about how much more he seemed to care about his work than about her lately, which made her feel less important. She tried to push these thoughts aside, but they lingered, leaving her with more questions than answers. Later that night, while preparing dinner, she caught herself mentally replaying their conversation earlier in the day, trying to read between the lines and figure out what was going on with him. She wished he would just say something, anything, to make her feel heard and understood, but instead, he remained silent, lost in his book. She decided then and there to forget about it and focus on cooking. Yet, the memory of how little attention he gave her during"
+    },
+    {
+        "Triggering Event": "A middle-aged woman, a seasoned nurse, watched as her younger colleague received praise for a task she had been doing daily for decades. She felt her lip curl in disdain as she muttered under her breath, \"Like they've never seen someone change a dressing before.\"",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "The young one was so fortunate to have such a great teacher. I'm glad she's learning from me."
+    },
+    {
+        "Triggering Event": "She noticed him, her partner of thirty years, engrossed in conversation with their neighbor at the kitchen table. Laughter filled the room as they shared stories over breakfast, untouched remnants of her meticulously prepared meal growing cold. The sun streamed in through the window, casting a harsh glare on the empty chair beside his, where she should have been sitting.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She was annoyed by the sight of my partner lost in conversation with another woman, his eyes sparkling with amusement as he spoke animatedly about something that had nothing to do with me or our relationship. I felt like I'd been replaced, even though we were still together. The way he looked at her, so focused on whatever it was they were discussing, made me feel inadequate. It wasn't fair to compare us, but I couldn't help feeling inferior when seeing how easily they connected."
+    }
+]

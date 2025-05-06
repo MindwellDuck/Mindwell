@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nDr. A., in scrubs, waits nervously at the nurses' station, clipboard trembling slightly as she reviews a chart for her next patient. She's been feeling anxious all week, even more so after last night's argument with her husband about work-life balance. The station phone rings; it's the ER. A car crash victim is incoming, critical condition. Dr. A.'s breath catches, heart pounding. She knows she must be calm and professional, but the familiar anxiety clenches her stomach nonetheless as she rushes towards the trauma bay, \"Let's go, team!\"",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She wonders what if she's too late to save him. What if he needs a specific medication that's not available? What if he has an allergy she doesn't know about? What if she makes another mistake during surgery? What if she forgets to give him oxygen?"
+    },
+    {
+        "Triggering Event": "A chef in her mid-forties, she arrived home from another grueling day at the restaurant to find an empty wine glass and lipstick-stained plate in the sink - remnants of a dinner for two, but not with her partner.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "I'm so angry right now. I just can't believe they would leave me like this. It's not like we have been having problems lately or anything. This is just completely out of nowhere."
+    },
+    {
+        "Triggering Event": "She sat alone in her studio, brushstroke after brushstroke painting over the vibrant hues of yesterday's masterpiece. Each layer of grey was another attempt to shroud the emptiness that echoed within her. The once lively canvas now mirrored her despair, as she realized there was nothing left to cover up; she had run out of paint.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She always paints herself into a corner. Every time I've seen her work, it’s been about covering up her own emotional pain. This latest piece is no different—it just feels like she’s running out of paint for more than just her art."
+    },
+    {
+        "Triggering Event": "As he hung his nurse's scrubs in the closet, he noticed the empty hanger where her blouse used to hang. He felt a pang of misery, his heart heavy with the hollow silence of their once-shared home.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "As I sat alone at my desk, I couldn't help but notice the faint scent of her perfume lingering in the air. It was as if she had just stepped out of the bathroom, leaving behind an echo of our shared memories. The emptiness of her chair seemed to amplify the feeling, like a haunting reminder of what could never be again. It wasn't until later, when I saw him hanging his scrubs, that I realized it wasn't about me at all. But even then, the memory lingered, a bittersweet taste of what we once shared, now forever lost in the void of time."
+    },
+    {
+        "Triggering Event": "At the office meeting, his manager praised everyone's contributions except him. He felt a pang of humiliation as the team exchanged knowing glances, leaving him feeling invisible and insignificant.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "I couldn't help but feel like I was the odd one out in that meeting. It wasn’t just my lack of contribution; it seemed like everything else went smoothly, with others receiving praise for their work. But when my manager didn’t mention me at all, I noticed how everyone else seemed to be nodding along, even though they hadn’t said anything. It was almost as if they were trying to keep up this image of being a well-functioning team. The way they looked at each other made it seem like we were all sharing some secret joke about how I must have messed up again. # Output # ## Response End ## Response End This is an example response from a job candidate who has been rejected for a position. When asked about a performance issue during the interview process, he reflected on a past meeting where his manager did not acknowledge his contributions, leading him to believe that he had somehow let the team down. Despite acknowledging his own shortcomings, he highlighted the perceived hypocrisy of the team’s reactions, suggesting that they might have been pretending to support him while secretly criticizing him. This response demonstrates a mental filter by selectively focusing on the negative aspect of the situation (his invisibility) rather than considering the broader context of the meeting. By doing so, he misses the opportunity to showcase his self-awareness and growth potential, which are crucial qualities for success in the workplace. Instead, his focus on the apparent hypocrisy reveals a deeper psychological issue—perhaps an unconscious need to"
+    },
+    {
+        "Triggering Event": "A nurse in her late thirties, quietly embarrassed by a recent divorce, was organizing patient charts when she noticed an old colleague's note: \"Reminder: Divorce finalized this week.\" Her face flushed as she realized she'd left that sticky note on the wrong chart, now visible to everyone in the bustling ward.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "I can't believe I forgot to change the label. What if it gets seen and makes everyone think I'm some kind of idiot? The patient is coming back soon! What if they ask me about my personal life right then and there? Ugh, what if they start gossiping behind my back? ---"
+    },
+    {
+        "Triggering Event": "Scenario:\nAfter meticulously preparing slides for her upcoming lecture at the university, she realizes that her laptop has suddenly gone blank. Despite repeatedly pressing the power button and trying various cables, the screen remains dark. Panic rises within her as she considers the impending lecture in mere hours, leaving her feeling utterly helpless amidst the unyielding technology.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She feels like she's staring into an abyss with no hope of recovery, as if time itself is against her. The prospect of facing her students, who are already anxious about the topic, becomes increasingly daunting, making her feel like she'll never be able to deliver the lecture as planned."
+    },
+    {
+        "Triggering Event": "She opened the front door, the weight of it sighing against its frame like an old friend. The house felt emptier than usual, the silence echoing around her as if trying to fill a void that couldn't be filled. She walked into their shared study, her footsteps hesitant, and saw his favorite mug still on the desk, half-filled with cold coffee. A single tear rolled down her cheek, tracing a familiar path before dropping onto the polished wood. It was just another morning without him, but today it felt heavier than ever.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't stand living here anymore. I'll leave everything behind and start fresh somewhere else. Why bother holding on when every day feels like a small victory? I'm tired of fighting this loneliness, and she's gone, making it impossible for me to keep going. Everything reminds me of him now—the way sunlight filters through the blinds, the smell of freshly brewed coffee, even the sound of birds chirping outside. He'd always say how much he loved those songs, and now they're just painful reminders of what I've lost. If only I could turn back time, maybe things would have worked out between us. But no, all I get is pain and memories that linger too long. Maybe someday I'll find peace, but until then, I'm stuck in this cycle of grief. Life has become meaningless without him by my side; I don't see the point in keeping up anymore. # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "She noticed him, her colleague at the news desk, laughing with another journalist over a story assignment she hadn't been included in. His eyes met hers briefly before he looked away, still chuckling. She felt her cheeks flush, a familiar pang of insecurity tightening her chest as she wondered if they were talking about her behind those smiles.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She couldn’t help but feel like there was something more to it than just professional camaraderie. The way his gaze lingered for a moment, the slight pause in his laughter—these details swirled together in her mind to create an image of intimacy, as if they shared a private joke. It made her feel left out, like she wasn’t part of whatever conversation was happening between them. Why did this feeling make her so insecure? Wasn’t it natural to wonder what others were discussing when you weren’t included? But deep down, she knew that was just her own self-doubt talking. After all, she’d worked hard on that story, pouring her heart into it. Didn’t deserve to be left out, especially when her colleagues seemed so connected. Still, the thought lingered, making her wish she could know what really went through his mind during those brief moments. How would she have reacted differently if she had known what he was thinking?"
+    },
+    {
+        "Triggering Event": "\"Upon submitting his investigative piece exposing a local politician's corruption, he discovers it's been spiked by his editor, with no explanation.\"",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"This is so unbelievable! I've always known this guy was corrupt, but you'd think that if there were any integrity in the news industry, he would have gotten fired for this. The fact that he's still at work is just insane. I don't know what to say about this. It's all so disturbing. This kind of thing has happened before, but we're supposed to be a free press? How can anyone trust these people anymore?\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A parent approaches her after class, holding up a crumpled note: \"I found this in little Jamie's backpack. It's from him to you.\" She opens it, reading, \"You're not my real teacher. I don't like you.\" Her eyes well up as she forces a smile, saying, \"Thank you for bringing this to my attention.\"",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She looks at the note with confusion, then turns back to the parent. \"This isn't really my fault,\" she says. \"I'm not trying to be mean.\" The parent nods sympathetically, but the student feels defensive about being accused."
+    },
+    {
+        "Triggering Event": "She received an email from her editor, cc'ing another journalist, asking them to fact-check her latest article—a task typically reserved for interns.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like she was being treated as an intern again—like she wasn’t trusted enough to handle real journalism tasks. It made her feel belittled, as if her work wasn't valuable enough to be entrusted to her directly. The fact that her editor had to ask someone else to review it was a clear indication that she didn't have the skills or authority needed for such important projects. This situation seemed to reinforce what she already thought about herself—that she wasn’t good enough to do this job seriously. She couldn’t shake off the feeling that she was just pretending to be a professional journalist, and her editor knew it. It was frustrating to think that her hard work and dedication were constantly questioned, making her wonder if she’d ever truly belong in this field."
+    },
+    {
+        "Triggering Event": "She woke up alone, her husband's side of the bed cold and empty. The clock read 6:30 AM; he should have been home hours ago.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She has been avoiding him for weeks, maybe even months now. He never comes home in time for dinner anymore; I guess it’s because she doesn’t want to cook for him. I can see why she would be upset about his constant absence - who wouldn't? It makes me feel so lonely when I wake up to an empty bed every morning. I don’t know what to do. Maybe I’m just being too sensitive, but I really wish he was here right now."
+    },
+    {
+        "Triggering Event": "A middle-aged man in a white coat, his hands trembling slightly as he hung up the phone, muttered, \"You'll pay for this, Mark.\"",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"This is so outrageous! How could someone do something like that? This has to be some kind of sick joke. He's probably just messing with me now.\""
+    },
+    {
+        "Triggering Event": "A lab assistant, whom she considers incompetent, presents her with an error-ridden report. She scoffs internally, \"This is why they can't advance past this stage.\"",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She cannot possibly be competent enough to have done it herself; that would be too much to expect. And yet, if she was competent, she wouldn't make such errors, so she must be incompetent. It's one or the other."
+    },
+    {
+        "Triggering Event": "The elevator in her apartment building groaned to a halt between floors at midnight, leaving her trapped in the dark, heart pounding like she was back in the ER during the blackout.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She is either very scared or completely fine, she cannot possibly feel both."
+    },
+    {
+        "Triggering Event": "\"While sorting through his studio, he found an old, untouched canvas from their honeymoon trip - her brushstrokes still visible.\"",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Oh my god! He was so excited to find that painting. I remember when they bought it, we were both so proud of each other for buying our own artwork together. He had been working on it for years, but never finished it because he wasn't satisfied with how it turned out. But now, as he's looking back at all the memories they've shared together in this house, he decided to complete it and put it in his new office. It's going to be amazing!\""
+    },
+    {
+        "Triggering Event": "In the quiet of his empty apartment, he found an old mix CD tucked behind his stereo. It was a playlist she'd made for him years ago, filled with songs that held whispers of their past. He slipped it into the player, hitting play as the first notes echoed through the room. The melodies, once familiar and comforting, now seemed to mock him, each song a memory he couldn't hold onto. As the sun set outside, casting long shadows across his solitude, he listened to the CD in its entirety, letting the melancholy wash over him like an old, forgotten tide.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He had always thought they were meant to be together, but the truth is much simpler than that. She never wanted anything more than friendship, and I’m just another friend who’s been lucky enough to find love elsewhere. Her music might have been a reminder of her, but it wasn’t a declaration of affection. Every time we hung out, I knew deep down that she didn’t feel the same way. Even when we shared moments that felt intimate, I could sense a distance between us, a disconnect that went beyond words. We were friends because we both needed comfort during difficult times, not because there was ever anything romantic between us."
+    },
+    {
+        "Triggering Event": "She found his uniform, the one he hadn't worn in months, neatly folded in the closet. A lone button lay abandoned on the shelf, a silent witness to its former pair. Her reflection in the mirror caught her off guard; her eyes were sunken, cheeks hollowed by sleepless nights. She picked up the button, rolling it between her fingers until it dug into her skin. The despair was crushing, a familiar weight that settled heavy on her chest, stealing her breath once again.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She thought she had lost herself forever, trapped in this prison of sadness. Every day blended together, each night a reminder that time kept moving forward while she stayed frozen in pain. She couldn’t help but wonder if anyone would even notice when she disappeared. The world outside seemed indifferent, uncaring about her struggles as it continued to turn. Even the simplest tasks became overwhelming challenges, with every step feeling like climbing a mountain. She felt like an invisible ghost, haunting these halls but never truly belonging. It was as if the house itself had become her tomb, holding her captive inside its walls where hope went to die."
+    },
+    {
+        "Triggering Event": "She noticed his late-night texts to someone else, starting with 'Hey beautiful'. The words 'just friends' echoed hollowly as she stared at her reflection in the bathroom mirror, the cold light amplifying every wrinkle and grey hair she'd never seen before.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She was just trying to get rid of me because I was getting too old for him. He wasn't interested in anyone over 30 anymore; he wanted someone young and vibrant, someone who could keep up with his adventurous lifestyle. It didn't matter how hard I tried or what I did to make things work. I was already losing my job due to the pandemic, and he knew it. He was worried about our future together and decided to end things. But when I found out about the text messages, it felt like the last nail in my coffin. All those times I thought we were working through our issues—wasn't it all just a lie? Maybe he never loved me, maybe he never even cared about me beyond sex. Was I nothing more than a convenient outlet for his loneliness? Everything seemed to be falling apart around me, and I couldn't shake off the feeling that everything was connected. Why did this have to happen now? Why couldn’t I just stay young forever? I’ve been holding onto this relationship for so long, hoping that somehow it would magically fix itself, but it’s clear that it's time to move on. It hurts to admit it, but I probably shouldn’t have stayed this long. I was making it harder for us both by clinging to something that no longer existed. Maybe if I had let go sooner, things might have worked out better for everyone involved. Now it feels like I’m just stuck in the past, unable to see that"
+    }
+]

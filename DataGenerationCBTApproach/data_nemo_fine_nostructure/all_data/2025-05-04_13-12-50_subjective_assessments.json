@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient, who had been rude to her earlier in the week, sent a scathing letter to the hospital administration complaining about Dr. M's \"unprofessional\" bedside manner.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "When I read Dr. M’s letter, my first thought was that it sounded like she was being completely unreasonable. The way she described our interactions made me feel like we were at odds over something minor when really there must have been some miscommunication. I can’t imagine why someone would take such strong issue with how they’re treated as a patient. It just seemed like an overreaction to me."
+    },
+    {
+        "Triggering Event": "In the quiet of her living room, she gently placed the framed picture back on the mantel. The laughter in her late husband's eyes seemed to mock her solitude. She paused, allowing sorrow to wash over her like a familiar tide.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Her thoughts drifted toward that moment, as if drawn by an unseen force. It was as if time itself had conspired against her, leaving her with nothing but memories—memories that now felt hollow. Every step into the future seemed to lead further away from the warmth of his presence. Though the house still held many of his belongings, it lacked the comfort he once provided. Her mind wandered to the countless moments they shared, each one a bittersweet reminder of what could never be again. In these quiet hours, every sound took on a deeper meaning—a reflection of her isolation, echoing through the empty spaces where love once filled them. The silence grew heavier with each passing day, weighing more heavily than ever before. Every movement felt forced, as if trying to fill the void left by his absence. Even simple tasks became burdens, weighed down by the weight of her grief. Each passing day felt like an eternity, stretching out before her like an endless road, devoid of the gentle guidance she once found in his loving hands. With every breath, she felt the emptiness growing, a constant reminder that life would never be the same without him by her side."
+    },
+    {
+        "Triggering Event": "In his bustling kitchen, he noticed the untouched plate of his regular customer, Mr. Thompson. He'd been coming in weekly for years, always ordering the same dish that the chef had perfected for him. Today though, it sat cold and uneaten, a stark contrast to the usual lively chatter filling the room.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He couldn't help but feel a pang of disappointment. It wasn't just that the meal was left over; it was as if Mr. Thompson had forgotten about them. Maybe he'd changed restaurants? The thought stung, and he wondered if Mr. Thompson was upset with him somehow. Had he messed up something small? Or perhaps there was another reason why this particular customer felt so distant today? This isn't just about the food; it's personal. They've known each other for years, sharing countless meals together. Now, it feels like an unspoken rift has opened up. He wonders what could have caused such a drastic change in behavior, especially when everything else seemed fine yesterday. Is Mr. Thompson avoiding him now, or is something more going on behind the scenes?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the staff room, she finds a half-eaten sandwich on her desk, beside her lesson plans for tomorrow's class. She knows it wasn't there this morning. She feels her cheeks flush with heat as she realizes someone has been in her things again, despite her repeated requests to respect her personal space. Her partner's voice echoes in her head, \"Maybe you're overreacting,\" but the anger boiling inside her is undeniable.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She's so calm about it. I would be furious too. Maybe I'm just being dramatic because my partner says I am. What if they think I'm always looking for an excuse to get upset? She's probably joking when she said that. She never means it seriously. It’s what we say in our heads, right? We don’t really believe it. They know how much I value my privacy, so why are they doing this again? Maybe they’re bored and want attention? But I don’t see them around the school. Oh well, maybe they were just hungry and needed a snack. That makes sense. I’m reading too much into it. This isn't the first time someone has done this, and she hasn't taken action yet. She can't let people walk all over her, even if it was just a mistake. I feel like she should have called the principal by now. It doesn't seem like a big deal, but still... This could escalate. What if it becomes a habit? Or worse, what if someone sees me eating it? Then everyone will think I'm a picky eater. I'll look weird in front of the students. I need to handle this better. She didn’t report it to anyone, which suggests she might be trying to avoid confrontation. But what if she's worried about losing control? Maybe she wants to show she can handle difficult situations. I'd rather talk to the teacher about it than make a scene. Yeah,"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 7 AM, on his way to another grueling shift at St. Mercy Hospital, he noticed a missed call from his ex-wife's number. The voicemail was a sobbing message about their teenage daughter being rushed to the ER with appendicitis. He felt the familiar clutch of stress in his chest as he hurried, late again, into the hospital, wondering if he'd make it through another shift without breaking down.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He felt like he was drowning in a sea of anxiety, every sound echoing with worry—his mind was a jumble of thoughts, each one screaming for attention, but he couldn’t focus on anything except the phone call. It was just another reminder that life was falling apart around him, and no matter how hard he tried, he couldn't escape the chaos. ---"
+    },
+    {
+        "Triggering Event": "He storms into his cluttered lab, slamming the door behind him. A beaker shatters underfoot, unnoticed. He clenches and unclenches his fists, pacing like a caged animal. The email from his ex-wife, forwarded by their mutual friend, burns in his mind: \"Meet my new boyfriend. We're moving to Germany.\" His face flushes crimson, veins bulging at his temples. A nearby microscope slides across the bench with a screech, toppling over. He kicks an overturned chair, sending it skidding into the wall.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He's always this angry when he thinks about me, even if I was just a temporary distraction in his life. He's never been able to handle the idea of us being together; that's why he stormed out of our apartment last night. I know he's still upset because we didn't discuss anything before he left, but I'm convinced he'll regret it once he cools down."
+    },
+    {
+        "Triggering Event": "At 2:17 AM, he woke up gasping for breath, his heart pounding like a drum in his chest. The clock's digital display seemed to mock him, its red glow casting eerie shadows around his empty bedroom. He'd been asleep mere minutes ago, or so it felt, but now he was wide awake, gripped by an irrational fear that he couldn't shake off. His divorce had been finalized last month, and the house felt too quiet, too vast without her echoing presence. The silence pressed down on him like a physical weight, suffocating him. He reached for his phone, fingers trembling as he dialed her number before remembering she'd changed it months ago. Panic surged again, raw and visceral, as he stared at the blank screen, unable to think of anyone else to call.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "At 3:00 AM, I woke up to my cat meowing loudly. She was standing on top of my bed, looking at me with pleading eyes. As soon as I opened my door, she ran into the hallway and started meowing again. I got out of bed, walked towards her, and asked if everything was okay. She stopped meowing and looked at me calmly. I checked on her litter box and saw that she hadn’t used it in days. I filled the litter box with new sand, and after a few moments, she went back inside and lay down next to me. She fell asleep right away, and I slept peacefully until morning."
+    },
+    {
+        "Triggering Event": "\"As he parked his cruiser, another officer pulled into the spot marked 'Chief'. The younger man didn't notice it was taken and began to parallel park. Retirement's in two months, he thought, resentment simmering as he watched his colleague claim what should've been his.\"",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He must have been trying to make me look bad. I know how much that would mean to him, especially since retirement is just around the corner. It’s like he wants to prove something by taking my parking spot. That young guy never gives me a break anyway; I bet he did this just for me."
+    },
+    {
+        "Triggering Event": "At 0300 hours, he receives an encrypted message from an unknown number while on patrol: \"Your daughter's safety depends on your silence.\" His daughter, Emily, has been away at college for only a month. His heart pounds as he realizes his divorce papers were never signed, leaving him still legally married and with joint custody. He wonders if his ex-wife knows about this threat.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "This is a disaster! I can't believe my ex-wife waited until after our divorce was finalized to threaten our daughter. She must be planning something because she wouldn't have done it before then. If we hadn't split up, none of this would happen. Now, I'm going to have to spend the entire night worrying about her. What if she's already harmed Emily? Is my daughter even safe right now? We need to get her out of there immediately. This is all my fault, and I'll probably end up paying alimony for the rest of her life. I should just go to work today and hope that somehow everything will magically fix itself. But what if my ex-wife sends someone to hurt Emily while I'm there?"
+    },
+    {
+        "Triggering Event": "He sat alone in his studio, brush hovering over an unfinished canvas. The clock's hands seemed to move backwards; another gallery show had passed him by. His phone remained silent, no calls from old friends or even a curious admirer. A lone paint tube lay dried out on his palette, its label faded and illegible. He felt a familiar ache in his chest, not from the cold studio but from the weight of his own stagnation. The canvas stared back at him, blank and indifferent, echoing his helplessness.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He is so passive-aggressive. I know he hates me because whenever we hang out he always makes these little jokes that are just too much for me to handle. And now look at this painting, it’s like he gave up on art altogether. What’s worse, he probably made fun of me behind my back too, laughing about how I’m failing as an artist. It’s pathetic how he can’t even get one exhibition right after all his hype. He must be trying to sabotage me with this new show opening soon, and I bet he’s already talking trash about my work."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A male teacher, 26, received an anonymous note in his locker at school: \"Your lesson plans are boring. No wonder your students hate you.\" He feels a pang of spite, wondering if it's from a colleague who resents his recent promotion.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "My student just sent me a text that made me feel so angry. I'm going to tell him he needs to stop talking back. If he can't respect authority, then maybe I shouldn't be teaching him."
+    },
+    {
+        "Triggering Event": "In his cluttered home office, he finds his wife's beloved pet parakeet, Blue, lying lifeless on the floor of its cage, surrounded by seed husks and droppings, the air heavy with a pungent smell.",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Oh no! I hope she didn't leave it there for too long. She must be worried sick about Blue. I'm going to go comfort her. This is terrible; I feel so bad for them."
+    },
+    {
+        "Triggering Event": "In the middle of a team meeting, he noticed the video conferencing software automatically turned off his camera due to poor internet connection. When it finally reconnected and his face reappeared on screen, he heard laughter from his colleagues who had been discussing how long they'd been waiting for \"the blank screen\" to come back online.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "* **Subjective Reaction:** \"Wow, I can't believe how many times this has happened during meetings, especially with such poor internet connections. It's just so frustrating that my camera keeps turning off unexpectedly. And now that it's back on, I'm starting to feel really self-conscious about how awkward it must look.\" * **Example:** * Subjective Reaction: \"I've always been worried that people would think I'm weird when I wear glasses in meetings because I'm already shy enough as it is.\" (overgeneralizing) * Example: \"It's crazy how many times I've seen this happen during meetings; it's almost become an inside joke among our team members. I have to wonder if it's just me or if others are experiencing similar issues too?\" (overgeneralizing)"
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her hair tied back in a severe bun, grimaced as she flipped through old photographs at her dining table. One image caught her eye - a man laughing with his new family, a clear replacement for hers. She felt bile rise in her throat, shoving the photo away, disgusted by the reminder of her once-shared life now tarnished by betrayal.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She didn't want to look at that anymore; it was too painful. The memory of him smiling with another woman made her stomach turn. She couldn't bear the thought of what could have been if he had chosen her instead. It seemed like an eternity since they'd parted ways, and now every time she saw him, it just brought up more pain. He never gave her a chance to explain how much she loved him before he moved on. Why did he choose someone else? It wasn't fair. They were meant to be together, but he threw it all away for some other girl. That's why she avoids looking at photos from those times. Every smile makes her sad, and every laugh reminds her of everything she'll never have again. She can't stand the idea of seeing happier couples when she knows there was once a moment where love could've filled her life. But now, that possibility is gone, and she's left with nothing but regret and the ache of loneliness."
+    },
+    {
+        "Triggering Event": "Scenario:\nShe walks into their empty classroom after school, the echoes of children's laughter still lingering in the silence. The late autumn sun casts long shadows through the dusty windows, each one falling on a desk where her students' names are written neatly on small name tags. She traces them with her gaze, imagining their tiny hands forming those letters just months ago. A lone notebook lies forgotten on a desk, its cover worn and pages filled with colorful scribbles and half-finished drawings - remnants of a lively mind now gone home to other cares. She picks it up, flipping through the pages as melancholy washes over her like an old friend. The bell rings suddenly, jarring her back to reality, but not before she feels a solitary tear drop onto the notebook's final page.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "It's always like this. When I walk into that room, all I see is emptiness. The desks stand bare, untouched by the energy they once held. It's never going to be the same again. Every time I step inside, memories flood my mind, but they're tinged with sadness. Even the notebooks hold secrets - reminders of what could have been. Whenever I open one, I'm hit with the realization that nothing will ever be the same. I feel lost, trapped in a cycle of grief that refuses to let go."
+    },
+    {
+        "Triggering Event": "He opened his lunchbox, expecting to find the tuna salad he'd packed this morning. Instead, something squirmed.",
+        "Sex": "Male",
+        "Age": 68,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He opened his lunchbox, expecting to find the tuna salad he'd packed this morning. Instead, something squirmed."
+    },
+    {
+        "Triggering Event": "She overheard her colleague, barely older than her late husband had been when he died, laughing on the phone about an upcoming assignment in Paris.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She was supposed to meet him at 10 am sharp for coffee; it was already past ten when she saw him walking out with another man, who looked like his son. It seemed like a typical Monday morning—another day at work, waiting for the weekend to arrive. As she sat at her desk, staring blankly at her computer screen, she couldn't shake off the feeling that something was off."
+    },
+    {
+        "Triggering Event": "He logged into his dating app, scrolling through profiles with disinterest. A familiar face caught his eye - his ex-wife, smiling broadly in a group photo. She'd moved on, seemingly happier than he'd ever seen her. He felt an ache in his chest, closing the app with a sigh. Another weekend alone stretched out before him.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He's clearly over me, judging by how quickly he closed the app after seeing our photos together. It must be because he doesn't want to relive old memories or see how much better we are now. The thought stings, but I guess it’s for the best. I can’t keep holding onto what could never be again."
+    },
+    {
+        "Triggering Event": "\"After hours of debugging a stubborn coding error, she slammed her laptop shut as her husband asked what was for dinner.\"",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She felt frustrated with herself for not solving the problem sooner, so it seemed reasonable to assume that she should have figured out the issue within an hour, which is why she was angry about slamming the laptop shut."
+    },
+    {
+        "Triggering Event": "At 11 pm, while fact-checking his latest exposé alone in his dimly lit home office, he paused at the sight of her favorite mug gathering dust on the shelf. His breath hitched as the silence echoed with memories of her laughter, now replaced by the quiet ticking of the clock they'd bought together. The article could wait; tonight, grief had found its way back into his chest, squeezing tightly like an old acquaintance that refused to leave.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "As I sat there, surrounded by the remnants of our life together, I felt like I was drowning in my own darkness. It wasn’t just the words on the page that hurt; it was everything else – the empty space where she once stood, the faded photographs that seemed to mock me, even the books we read together now looked cold and distant. I couldn't help but think that every moment since her passing felt like a betrayal, like the world was moving on without me, leaving me behind to bear the weight of our shattered dreams alone. Every sound from outside felt hollow, each beat of my heart a reminder that I was still here, yet so far away from what I once thought was possible."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient under his care who had previously been rude to him, arrived at the clinic with an attractive new doctor in tow, laughing loudly about \"that arrogant Dr. X.\"",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "I can't stand that guy. He's so arrogant - I'm surprised he didn't come here today with some other beautiful doctors. I mean, it's obvious he has a lot of experience, but you can tell he's just trying to show off. I don't think he'd be this nice if he weren't with someone as lovely as this new doctor. She's really great; she listens attentively to patients and is very empathetic. I've heard her talking to people here before, and they all seem to love her. It's clear she cares about what they say and takes the time to understand each situation."
+    },
+    {
+        "Triggering Event": "A man in his late forties, a police officer with decades of service, noticed a familiar face among the lineup of suspects in the precinct's holding area. It was the young punk who'd skipped town years ago after nearly killing his wife in a drunken hit-and-run. The officer felt a surge of vengefulness, his grip tightening around the file he held. He hadn't realized until that moment how much anger had been festering within him all these years.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "A feeling of being overwhelmed by my own emotions came over me when I saw him. I've carried this grudge for so long, it feels like an old wound has opened up again. This is what I signed up for; to protect people, but also to deal with the consequences of my job. Seeing this guy brought back memories of past cases where justice wasn't served, and it reminded me why I'm here - to make a difference. But now, it just makes me feel more tired than ever. Maybe it's time to retire?"
+    },
+    {
+        "Triggering Event": "A patient, a man in his forties with whom she'd had a long-standing feud over missed appointments and unpaid bills, walked into her clinic today. He smirked at her, \"Still here, Doc? I thought they'd have put you out to pasture by now.\" She felt her grip tighten on the clipboard as she reminded herself, \"Professionalism,\" but his words left a bitter taste in her mouth.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She was taken aback by his demeanor, and he seemed to relish the opportunity to provoke her. Her instincts screamed for her to stand up for herself, but she knew that would escalate the situation further. Instead, she took a deep breath and calmly replied, \"Actually, I've been dealing with some personal issues lately, so I'm just focusing on getting back to work.\" He snickered again, \"Personal issues?\" His tone was mocking, implying that her excuses were weak. The way he said it made her feel like she was being belittled, and she could sense her frustration growing."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe walked into their old house, now emptied of her laughter and warmth. The echo of his footsteps seemed amplified in the silence. He found himself in the bedroom they once shared, his eyes drawn to the dresser where her picture still stood. A single tear rolled down his cheek as he noticed the dust gathering around it. He felt a pang of misery, realizing that this was now just another room in an empty house, not their home anymore.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "It's so sad that she left. I remember when we moved out, how much I missed her. I wish things had been different, but life has its way of changing everything. Now, when I look at that picture, it feels like a reminder of what could have been. It makes me think about all the times we were happy together, laughing and smiling. I miss those moments deeply."
+    },
+    {
+        "Triggering Event": "A squad car pulled up to the coffee shop where he was grabbing a quick breakfast before his shift. The barista, a young woman with a familiar face but unknown name, handed him his order with a wide smile and said, \"Here you go, Officer. I hope your day's not as hot as you are.\" He felt his cheeks flush as he realized everyone in the shop was looking at him, stifling laughter behind their cups.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He thought it was weird how she called him by name and made that comment; no one had ever done something like that to him before. He knew it wasn't his job to be nice to customers, but he couldn't help feeling embarrassed. It must have been an accident because he didn't think anyone recognized him; he wore casual clothes for work and kept his hair short. But why did she still call him by name? Maybe she just liked being friendly, but it was awkward nonetheless. It could've been anything but what really bothered him was the way the other customers looked at him - some laughed, others stared, and there were whispers when he walked out. He wondered if they knew who he was, or if they were just making fun of him for wearing such casual clothes. The whole experience left him feeling self-conscious about his appearance and anxious about being seen as a police officer in public."
+    },
+    {
+        "Triggering Event": "During their weekly bridge game, his partners exchanged knowing glances after he misplayed another hand. He felt his face flush as he muttered, \"I'm just a bit off my game tonight.\"",
+        "Sex": "Male",
+        "Age": 68,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He often feels embarrassed about his mistakes in games. His friends have been making fun of him lately because he's not as good at cards as they are. They think it's hilarious when he makes silly mistakes during their bridge games. One time, he accidentally swapped two cards, which made everyone laugh. Another time, he forgot to call a card, causing confusion among his partners. Whenever these incidents happen, he starts to feel self-conscious and awkward. It’s hard for him to shake off the feeling that he’s not as skilled as others. Despite this, he tries to focus on having fun with his friends and enjoying the moment. Sometimes, he even jokes about how bad he is at cards to lighten the mood. However, deep down, he worries that his lack of skill will always be an issue in their games. He hopes his partners won't make too much fun of him next week. But he knows he can’t change who he is; all he can do is try to move forward. Still, he wonders if there's anything he could do to improve. Maybe he'll practice more before the next game? Or perhaps he'll just try to relax and enjoy the experience? Only time will tell. For now, he'll keep playing and seeing where things go."
+    },
+    {
+        "Triggering Event": "At the bustling farmers' market, she felt her cheeks flush as she realized she'd mistakenly grabbed a handful of thyme instead of parsley, right in front of the vendor who'd known her for years.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was mortified. The vendor had just called out to her, \"Hey, Karen! You've got your thyme again!\" She hadn't even heard him - she'd been too busy trying to figure out what she'd done wrong. Now, she could see everyone around them staring, and the embarrassment was overwhelming."
+    },
+    {
+        "Triggering Event": "He stood alone in the kitchen, dicing onions with mechanical precision. The familiar sting in his eyes was nothing compared to the emptiness he felt watching the restaurant fill up tonight, everyone laughing and clinking glasses except for her empty seat at the bar. He'd left a message unanswered again today.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He wondered what would happen if he just sat down next to her instead of leaving a note. Would she even notice? Or would she ignore him once more? What if she wasn’t even there? She could be anywhere else, doing anything. But he knew that wouldn't change much; she always avoided him when he tried talking. He imagined how awkward it would look if he went back now, but maybe she’d finally notice him then. Maybe she’d see how much he wanted to talk to her. What if she started talking? Maybe they could laugh together like usual. They were meant to be friends, after all. But he knew that wouldn’t solve anything either. If he stayed, she’d still avoid him. If he left, she’d stay away from him too. It didn’t matter. He couldn’t force her to care about him. She never had anyway."
+    },
+    {
+        "Triggering Event": "She found an unfamiliar receipt tucked into her partner's jacket pocket, dated just hours before.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She shouldn’t have looked for it. If she hadn't found it, none of this would've happened. I wouldn't be so upset now."
+    },
+    {
+        "Triggering Event": "An elegant, silver-haired woman sits alone in her high-backed armchair, gazing out at the setting sun painting the sky over her quiet suburban neighborhood. She had expected to hear from him today, her estranged son who'd moved across the country years ago. He always calls on their anniversary, but the phone remains silent. She sighs, disappointment hanging heavy in her chest like a familiar weight.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She's probably just busy with work and doesn't want to talk right now."
+    }
+]

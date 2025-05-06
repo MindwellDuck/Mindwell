@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She walks into the gallery, her heart pounding with anticipation. The exhibition is her first solo show after years of struggling as an artist. But as she surveys the nearly empty room, save for a few acquaintances and her ex-husband who leans against a far wall, arms crossed, she feels the humiliation rise like bile in her throat. A critic he had once introduced her to approaches him, whispering loud enough for her to hear, \"I heard this was her big break. Seems more like a crack-up.\" Her ex chuckles softly, glancing at her with a smug smile. She pretends not to notice, focusing instead on the solitary figure admiring her largest piece, but the heat of embarrassment spreads across her cheeks nonetheless.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She's always been terrible at art shows. Every time she has one, people just seem to be there for the drama. I'm surprised she even got her own space here. It must have been his doing, making it all about himself again. This whole thing is probably going to end up being another embarrassing failure like that one time when her paintings were met with nothing but scorn and rejection. And now, standing in front of my latest pieces, I can feel how pathetic she looks. I don't blame myself for feeling this way; I know what she's capable of - creating something beautiful that nobody will care about. At least not anymore."
+    },
+    {
+        "Triggering Event": "\"While patrolling, he noticed a fresh graffiti tag on the wall of his girlfriend's favorite café - the same tag as the gang involved in last month's robbery where she was injured.\"",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Oh no! I can't believe that again. What if this time they don't let her go easily? What if they hurt her even more? Or what if it's just another prank? What if someone else did it?\" This person is so preoccupied with worst-case scenarios that they're questioning everything, making assumptions, and creating anxiety for themselves unnecessarily. They are unable to accept reality and instead focus on all the possible bad things that could happen, which prevents them from moving forward with life. This behavior leads to an endless cycle of fear, constant vigilance, and a lack of trust, causing stress and limiting their ability to form meaningful connections. By getting stuck in these hypothetical situations, they miss out on real-life experiences and opportunities, leading to feelings of isolation and loneliness. It's essential for this person to learn how to manage their anxiety, develop coping strategies, and gradually build confidence to break free from this cycle. Only then can they truly live a fulfilling life. # Example Response (Corrected) \"Oh no! I can't believe that again. What if this time they don't let her go easily? What if they hurt her even more? Or what if it's just another prank? What if someone else did it?\" # Response Explanation This response reflects the 'What if?' cognitive distortion because it focuses excessively on hypothetical negative outcomes. The individual is preoccupied with the possibility of harm or further injury to their girlfriend, demonstrating an inability to accept reality and move"
+    },
+    {
+        "Triggering Event": "In her lab, she found the note, scrawled in haste: \"Experiment 14B discontinued. Budget cuts.\" Her hands trembled as she gripped the paper, feeling each year of her age, each hour of sleepless nights spent nurturing this project. She sank onto a stool, surrounded by silence and the hum of idle machines, misery settling like a stone in her chest.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She couldn't shake off the fear that had been building up inside her for months—fear that one day, everything would be taken away from her. What if she wasn't good enough? What if she failed to secure funding? The thought of being let go was unbearable, but what if someone else took over? Would they even care about the research? She felt like she was drowning in a sea of uncertainty, unable to find a lifeline. Every passing moment seemed to stretch out before her like an endless road, with no clear destination."
+    },
+    {
+        "Triggering Event": "She received an email from her editor, rejecting her latest article with no explanation except \"Not what we're looking for.\"",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She probably hates me because she rejected my article. I know it's just business but still, that rejection is so personal and mean. It makes sense that she would reject something I submitted. I'm going to write more articles and try again. Maybe this one will be good enough. I'll make sure to get better feedback this time. Hopefully, she won't reject it."
+    },
+    {
+        "Triggering Event": "She receives an invitation to her ex-husband's wedding, addressed to \"Ms.\" instead of \"Mrs.\", with a handwritten note from his new fiancée thanking her for their \"kind divorce\".",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "It looks like she's trying to make me feel bad about my divorce. I'm going to send her back a polite but firm rejection letter saying that I don't want to be in contact anymore because we're divorced."
+    },
+    {
+        "Triggering Event": "\"After a grueling 12-hour shift, he finds his apartment door ajar, knowing he'd locked it before leaving.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Response** \"Well, he probably doesn't want me there right now. He must be having trouble sleeping. It's late, so maybe he just forgot to lock the door when he went out.\""
+    },
+    {
+        "Triggering Event": "He's been on his feet all day, dealing with rude customers and endless stock checks at the retail store. His wife's absence hangs heavy in the air, every corner of the store echoing with memories that now bring only pain. The supervisor walks by, snapping at him to speed up despite seeing him work tirelessly. He feels the familiar frustration boiling over, but this time he can't hold it back. As a customer approaches him with an item they've already opened and decided not to buy, he hears himself say, \"I'm sorry, sir. I can't help you today.\" before walking away, leaving his post untended for the first time in years.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He must have misinterpreted me when I said, \"Oh, I'll just go get it,\" because he thought I was trying to leave early and skip out on helping customers. It seemed like he took my words as an insult, so I felt bad about how I came across. Maybe if I had said something different, like, \"Can you help me find that?\" or \"Do you know where I could find...?\", I wouldn't have hurt his feelings. But no, instead, he walked right past me, taking it personally and making me feel like shit. What really gets under my skin is when he says things like, \"We're slammed today\" or \"It's crazy in here,\" like he's trying to justify why he doesn't care about what we need. I guess I should just accept it - after all, he's always saying stuff like that. Still, it stings each time, especially since it makes me wonder if I'm overreacting. Shouldn't I be understanding? But honestly, I think he knows exactly what I mean, and it's all just some kind of mind game. That's probably why he acts like he's too busy to listen to our concerns or even bother asking if we need anything else. It's like he thinks he has some kind of power over us, telling us what we can and cannot ask for. But deep down, I know he's just trying to control us. And let's be real, sometimes"
+    },
+    {
+        "Triggering Event": "She glances at her phone, now a familiar habit born of hope and disappointment. No new messages. She sighs, placing it back on the table beside her half-finished cup of tea. The studio, once vibrant with creativity, feels empty today. Her partner, usually humming tunes while they work side by side, is away on business. The silence presses against her, accentuating every creak and groan of the old building. She looks at their shared canvas, untouched for days. Loneliness wraps around her like an old shawl she can't shrug off.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She often feels this way when he's away, as if the space between us grows wider than just physical distance. It’s almost as if our relationship becomes a canvas left unfinished, much like the one we’re working on together. I imagine him sitting in his hotel room, staring blankly at the same walls that seem to close in on me here. He probably misses me, but the thought doesn’t bring comfort. Instead, it fuels my frustration, making me wonder if I’m nothing more than another distraction in his busy life. Even though I know he cares, the feeling lingers, like the echoes of footsteps in the hallway – reminders that I’m not enough."
+    },
+    {
+        "Triggering Event": "She's late for her meeting with the editor, rushing through the dimly lit alley behind the newsroom when she hears footsteps echoing hers. A sudden gust of wind blows a discarded newspaper against her leg. She jumps, heart pounding, imagining someone lurking in the shadows.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She’s running late, so I guess it’s no surprise that I hear footsteps matching mine. When I see a newspaper flying towards me, I’m already prepared to defend myself, but thankfully it was just a stray piece of paper blowing in the wind. My heart rate spikes at the thought of what could have been, but I take a deep breath, feeling better with each passing second. It wasn’t even close to being as scary as my imagination made it seem."
+    },
+    {
+        "Triggering Event": "He woke up to find his wife's breakfast untouched, her side of the bed cold. The gallery had declined another piece, citing its \"lack of commercial appeal.\" As he stirred his coffee, he noticed a splatter of paint on her favorite mug, now chipped and discarded in the sink. His bitterness curdled like the milk left out overnight.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He just didn't care enough about our relationship to fix it. It's clear she doesn't want to try anymore. I'm tired of being disappointed. She thinks she can just leave me alone while she goes off with other men. If she wanted to stay together, she'd have made more of an effort."
+    }
+]

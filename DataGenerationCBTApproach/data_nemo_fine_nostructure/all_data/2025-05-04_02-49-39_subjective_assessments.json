@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She noticed the untouched breakfast plate still on the counter, his coffee mug gathering dust in the sink. Her partner's side of the bed remained unrumpled, his pillow undented. Another late night at the office, another day where she felt invisible. The clock ticked loudly, echoing her growing resentment.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was lazy, unmotivated, and selfish. He didn't care about anyone but himself, always leaving dirty dishes for her to clean up, never contributing to household chores. His lack of initiative made her feel like she was carrying everything on her shoulders. It seemed he took her for granted, just using her as a personal assistant. She couldn't trust him anymore; he was unreliable, forgetful, and unsupportive. Every time he came home late from work, she felt frustrated, resentful, and hurt. His constant excuses for not being there when she needed him made her wonder if he even cared about her feelings. He never prioritized her needs or listened to her problems, making her feel isolated and alone. It seemed every conversation ended with her disappointment, frustration, and sadness. She knew he wasn't perfect, but it felt like he had no regard for her or their relationship. She wondered how someone who claimed to love her could treat her so badly."
+    },
+    {
+        "Triggering Event": "He enters his empty house, flicking on the dim hallway light. The silence echoes as he removes his coat, feeling the cold emptiness that's become familiar. He glances at the framed photograph of his children when they were young, smiles briefly, then hangs his coat in the closet. Alone again tonight, just like every other night since she left.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He wonders if it'll ever get better, if this loneliness will ever dissipate. Why did she leave? Shouldn't we still have our life together? Shouldn't she care about him more? She said she needed space, but what does that even mean? This is all so confusing. It feels like I'm supposed to feel something, but nothing comes. Maybe I'm just not doing enough to fix things. Shouldn’t I be working harder to make her happy? Shouldn’t we still have dinner together every night? Shouldn’t I be able to talk to her about everything? Why can't anything go back to normal? Shouldn't we be enjoying each other’s company again? Shouldn't she be making an effort to stay connected? What am I doing wrong? Shouldn’t I be trying harder to understand her perspective? ## Output He wonders if it’ll ever get better, if this loneliness will ever dissipate. Why did she leave? Shouldn’t we still have our life together? Shouldn’t she care about him more? She said she needed space, but what does that even mean? This is all so confusing. It feels like I’m supposed to feel something, but nothing comes. Maybe I’m just not doing enough to fix things. Shouldn’t I be working harder to make her happy? Shouldn’t we still have dinner together every night? Shouldn’t I be able to talk to her about everything? Why can’t"
+    },
+    {
+        "Triggering Event": "At 2 AM, she wakes up to find her husband's phone buzzing with an unfamiliar number under her pillow.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Subjective Reaction:** I felt like he was cheating on me, which is why his phone was buzzing under my pillow at 2 AM. **Response End**"
+    },
+    {
+        "Triggering Event": "A retired doctor in his seventies, sitting alone in his study after dinner, finds an unopened letter from the medical board among his mail. The return address sends a chill down his spine as he realizes it's been over a decade since his divorce, and he hasn't heard from his ex-wife in years. He hesitates before opening it, worrying about what news might be inside.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "A retired doctor in his seventies, sitting alone in his study after dinner, finds an unopened letter from the medical board among his mail. The return address sends a chill down his spine as he realizes it's been over a decade since his divorce, and he hasn't heard from his ex-wife in years. He hesitates before opening it, worried that it might contain bad news."
+    },
+    {
+        "Triggering Event": "At the monthly lab meeting, she felt her cheeks flush as the young intern presented her decades-old research as their own, failing to mention her name even once.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She's been struggling with this for months now. Every time I think about it, I imagine myself being completely blindsided by how much I'm perceived by others. What if they don't respect me anymore because they see me as someone who couldn't handle criticism? It would be devastating; I'd lose all credibility in front of my peers. They might start questioning my work, and I'd never know what hit me. The thought alone makes me anxious, but I can't help wondering if I'll ever get over this feeling. What if it gets worse? I try to push these thoughts away, but they linger, making every interaction feel like a potential disaster waiting to happen. I've always prided myself on being confident and assertive, but lately, those qualities seem fragile and easily shattered. I fear that no matter how hard I try, I might never regain control of my emotions, and the anxiety could become overwhelming. I’ve started avoiding social gatherings just so I don’t have to face this fear. But deep down, I worry that avoiding them will make things worse in the long run. I feel trapped between wanting to overcome my fears and fearing they’ll consume me entirely. I guess we all need some level of anxiety, right? It keeps us humble. Maybe I’m just overly sensitive, but I’d rather be cautious than regretful. I hope someday I learn to live with this, but until then, I find myself constantly weighing the pros and cons of every situation"
+    },
+    {
+        "Triggering Event": "He walked into their empty house, stillness greeting him like an old, unwelcome friend. The letter from the publisher sat unopened on the kitchen counter, a stark white against the faded yellow Formica. He'd been expecting it, had seen the writing on the wall for months now, but that didn't make this any easier. His hands shook as he picked up the envelope, the familiar weight of it mocking him. Another rejection, another \"not what we're looking for right now,\" another nail in the coffin of his career, his identity. He sank into the chair where she used to sit, the one with the worn-out cushion, and felt the loneliness settle around him like a shroud.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He walked into our empty house, stillness greeting him like an old, unwelcome friend. The letter from the publisher sat unopened on the kitchen counter, a stark white against the faded yellow Formica. I was already preparing myself for the worst, my heart sinking with each step. It wasn't just the rejection; it was the reminder that every opportunity we've ever had has slipped through our fingers. We've never really been good enough, have we? Every door closed with the same finality, leaving us stuck in this rut, unable to find our way out. I can feel the darkness closing in, and I know it's only going to get worse. This is just another disappointment, another reminder that we'll never amount to anything more than failed dreams and broken promises."
+    },
+    {
+        "Triggering Event": "He found an unsolicited critique of his latest exhibition in the local paper, dismissing his work as \"indulgent and amateurish\". The writer, some unknown art critic, had the audacity to suggest that his wife's passing had clearly impaired his once-promising career.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "I'm just so disappointed by what he wrote. It was such a personal piece for me - it's like he took everything from the article and twisted it into this scathing critique. I feel like I've been hit with two punches here. First, there was the emotional pain of losing my wife, and then he goes and makes fun of my show. I can't even begin to tell you how hurtful that feels. He's clearly trying to provoke me, isn't he? I mean, who else would write something like that? It sounds like a desperate attempt to get attention. And that comment about my wife... it's just cruel. I don't think anyone can honestly say that her death has made them better artists. Maybe he's jealous because he's struggling himself? This whole thing is really upsetting me. It feels like no matter what I do, people are going to find fault with me. My husband always said I was too sensitive when I'd get upset over little things, but now I realize how right he was. This criticism has just opened old wounds all over again. I'm starting to wonder if maybe we should have kept our heads down during those tough times. At least then, we wouldn't be dealing with the backlash now. But no, instead, we let everyone see us at our weakest, and now look where we are. I guess this is what happens when you take your life too seriously. You're never truly free from judgment. I"
+    },
+    {
+        "Triggering Event": "She noticed him, her partner of thirty years, laughing with the new nurse. A soft chuckle escaped his lips, lines etched deeper around his eyes than she remembered. The young woman leaned in, touching his arm lightly as she spoke. A familiar warmth stirred within her, but it wasn't comfort this time; it was jealousy.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She should have felt a surge of anger at seeing another man touch her husband so casually, yet instead, she couldn’t help but feel a pang of insecurity. It didn't seem right to let these feelings build up inside her, especially when she had always been the one he turned to for support. Why did it matter what this stranger thought about him? Shouldn't she be proud that he still found her attractive after all these years? But deep down, she knew it was more complicated than that. She hadn't seen him laugh like that since before they were married, and now it seemed different somehow. He shouldn't be smiling at someone else, and if he was, it meant something. Maybe he'd forgotten how much he loved her, or maybe he just didn't love her anymore. She couldn't shake off the feeling that there was more going on behind closed doors, and she needed answers. It wasn't fair to herself to dwell on these thoughts, but she couldn't stop them from creeping into her mind. Shouldn't she be content knowing he still cared for her, or at least pretending she could be? Yet, the doubts lingered, making her wonder if she was being unreasonable. Shouldn't she trust him enough to believe that nothing was happening? But why should she have to trust him? Didn't she deserve better than someone who would make her question everything? This is the moment where we can see the subtle cognitive distortions that are taking place here."
+    },
+    {
+        "Triggering Event": "She opens her studio door, the creak echoing like an old friend. The room, once vibrant with color and life, now feels hollow. Her husband's painting, the one he started last year, lies untouched on the easel, dust gathering around its edges. She picks up his brush, still stained with his favorite shade of blue, and begins to stroke the canvas, tears dripping onto the palette like a silent confession. The clock ticks, each second heavier than the last, as she realizes how much time has passed since his hands held this very brush.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She thinks about how long it’s been since he painted anything. His passion for art is what kept him in our home when other things were falling apart. Now, that spark is gone. It’s hard to see his former self, so full of energy and creativity, behind the man who sits at our dinner table, staring blankly into space. I try to remember the last time we had a real conversation, but my mind keeps drifting back to the day he left. He said he needed some space, that he was struggling with the weight of his own expectations. But then there was nothing. No calls, no messages. Just silence. That was over two years ago, yet the pain remains as raw today as it was that night. She can’t help but wonder if his disappearance was more than just a need for solitude. Was he trying to escape the guilt that followed? The guilt that crept in after he abandoned us—me, our daughter, and the life we built together. We thought we had everything: love, happiness, and a future filled with promise. But now, all those memories seem tainted by the knowledge that he was running away from his own fears. What if he wasn’t ready to face them? The questions swirl in her mind like the colors on her paintings, each one blending into the next. She imagines the days leading up to his departure, the moments before he vanished. Were they fights, or just the quiet moments between, where he couldn’t"
+    },
+    {
+        "Triggering Event": "Wiping away tears subtly as she sat at her desk, she noticed the old photo of her and her partner from their academy days. It had been a year since his retirement, but today was the anniversary of his diagnosis. She took a deep breath, trying to focus on her paperwork, but the weight of their unspoken goodbye hung heavy in the silence of the station.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She couldn't help but feel that it all began with this moment - the realization that he would never be there for her again. The thought sent her spiraling down a path of despair, where every step felt like a betrayal, as if she was being forced to choose between her love for him and her need to move forward. Every time she tried to take small steps towards acceptance, she felt like she was being pulled in two opposing directions, each one demanding her full attention, leaving no room for anything else."
+    }
+]

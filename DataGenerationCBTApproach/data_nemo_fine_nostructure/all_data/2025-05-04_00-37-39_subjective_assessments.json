@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nA woman in her mid-thirties, standing behind the cash register at the end of her shift, looks down at her empty palm where she'd once worn her grandmother's ring. She'd taken it off to work that morning, as she always did, but now it was nowhere to be found. The regret settles heavily in her stomach like a stone, realizing she must have dropped it somewhere during the day. She closes her eyes briefly, wishing she could turn back time.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't believe she lost it; either I'm careless and stupid, or I'll spend the rest of my life looking for it. If I didn't lose it, why does this keep happening? Is there really nothing else to worry about? Why would anything go wrong after everything has gone right? Does anyone even care if I look for it? I've been overthinking this since I got home. Either way, I'll never wear it again; I don't deserve such a beautiful family heirloom anyway. It's better this way. Now, if only I had done things differently, maybe I wouldn't be dealing with all these thoughts, but no, I'm stuck here, wondering what could have been. My mind is full of \"what ifs,\" and I know I'll be replaying every moment from the start of my shift, thinking I missed something. How could I let something so precious slip through my fingers? Now, I feel guilty just for having those thoughts. Maybe I am selfish for feeling this way. No, no, I'm just being responsible by removing myself from the equation. But what if someone finds it? Or worse, what if I never find it? Either way, I'll probably forget about it soon enough. I just need to focus on today and move forward. But why bother when it might happen again? This isn't the first time, and I won't be able to wear it anymore. I wish I'd never put it on"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe arrives home, keys jingling in the silence. The house is empty, save for the ticking clock echoing off bare walls. No warm light spills from the kitchen; no laughter carries from the living room. His partner's usual mess - a half-read book, an abandoned cup of tea - is nowhere to be found. Just another evening alone in their shared space, another night to wonder if they're still sharing it at all.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Aren't they supposed to be together? Aren't they supposed to make me dinner after work? Shouldn't they have left some sign that they were just out with friends? It's been three days since he left, and every day feels like an eternity. Every time I see his phone, I feel like there's a message waiting to burst through the screen. But there never is. Maybe I'm just expecting too much. Maybe I shouldn't expect them back anytime soon. They've always been independent, but this feels different. This feels... lonely."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her face flushed and eyes downcast, sat alone in her office after hours. The letter from the medical board, its stern font still glaring up at her from her desk, detailed a complaint about her bedside manner. She felt a pang of shame as she remembered Mrs. Thompson's teary eyes, her patient's words echoing in her mind: \"You're cold, Doctor.\"",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "My reaction was one of dismay. I had been trying to help this elderly woman with her health issues for several months now, but it seemed like nothing I did was good enough. It wasn't until I saw the letter from the medical board that I realized how much I had been taking things personally. They weren't saying I was a bad doctor; they were just pointing out that I didn't seem to care about my patients' feelings. I thought back to all the times when I had been rushed through my exams, barely passing with barely above average grades. Now, I was dealing with someone who wanted more than just a quick fix. This woman needed me to listen, to make her feel heard, to understand what she went through. But every time I tried, I felt like I was failing. I couldn't shake the feeling that somehow, deep down, I knew I wasn’t cut out for this job. ---"
+    },
+    {
+        "Triggering Event": "In his cramped lab, he stared at the flickering screen, his brow furrowed as it displayed yet another failed simulation. He rubbed his temples, feeling a familiar knot of worry tightening in his stomach. It was 3 AM again, and sleep seemed like an impossible luxury. His divorce had left him with this constant hum of anxiety, even when he was engrossed in work. The clock ticked on, each second echoing like a warning that time was slipping away, just as his marriage had.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He felt overwhelmed by the situation. He needed to be more productive, but everything was going wrong. He couldn't shake the feeling that he'd never catch up, no matter how hard he tried. The thought weighed heavily on him, making it hard to focus. If he couldn't get anything done now, what would happen later? He'd feel worse, probably unable to handle the pressure. This cycle of anxiety was exhausting, and he wondered if he could ever break free from it."
+    },
+    {
+        "Triggering Event": "She noticed him, her husband of forty years, laughing heartily at something over dinner with their daughter. The same laughter he hadn't shared with her in months. A familiar ache stirred in her chest as she watched them, her eyes glistening over her wineglass.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She couldn't help but feel like he was mocking her, his loud laughter echoing through the dining room like a slap in the face. It was just another reminder that her life wasn't turning out as planned; now it felt like everything was falling apart. Her mind began to spiral, imagining what could be wrong with their marriage, wondering if this was all she was worth. The thought sent her back into her usual cycle of self-doubt and negativity, making her wonder how long things would last."
+    },
+    {
+        "Triggering Event": "He logged into his dating app, fingers trembling slightly as he waited for the page to load. A notification flashed at the top: \"Match with Emily from last week's coffee shop.\" His stomach churned. He hadn't seen her since they'd decided to just be friends. He clicked on her profile, seeing her smile, her eyes... She was happy without him. He felt a pang of jealousy, then guilt for feeling it. His girlfriend's voice echoed in his mind, \"You can't keep comparing yourself to others.\" But the thought persisted, gnawing at him like a relentless bug in his code.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh no, he must be really insecure about his relationship if he's getting jealous over someone else so easily. It's probably because she's more attractive than his girlfriend. That makes sense - guys are naturally drawn to beautiful women. He needs to stop being insecure and focus on his own life instead of constantly thinking about other people."
+    },
+    {
+        "Triggering Event": "At 8 AM, he noticed his partner's computer was open, displaying an email from an old colleague. \"Congratulations on your promotion, Tom. You've truly outdone yourself this time.\" A pang of envy shot through him as he poured his coffee, the bitter liquid mirroring the taste in his mouth.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He felt like a fool for even thinking that she would consider him for such a high position. It was absurd; they had barely talked in months, and he wasn't even aware of her current job situation. The email seemed to come from nowhere. He couldn't help but feel a bit down after reading it."
+    },
+    {
+        "Triggering Event": "A late-night email from her editor, titled \"Urgent: Missed deadline\", arrives as she sits alone in their dimly lit apartment, her partner already asleep after another late shift at the hospital. She opens it to find a stern reminder of her recent lapses in professionalism, ending with \"I trust this won't happen again.\" She feels a heavy sigh escape her lips, the weight of disappointment settling in her chest as she realizes this is more than just a missed deadline; it's another sign that she's losing control over her once-climbing career.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She can’t help but think about how much her job has been taking a toll lately. Between the long hours at work and trying to keep up with everything else, she’s starting to feel like she’s falling behind. It’s hard to focus when you’re always stressed out. And to make matters worse, she feels like everyone around her is making things harder—her boss, her colleagues, even her own family. They all seem so confident and capable, while she struggles just to get through each day. Sometimes it feels like they don’t care about me at all; I’m just an afterthought to them. The emails aren’t helping, especially the ones that remind her of missed deadlines. Maybe if I had better tools, I could finish my projects sooner and avoid these reminders. But no one ever offers to help or even suggests solutions. It feels like they’re just waiting for me to fail so they can say “I told you so.” If only I had some way to make things easier, to show them that I really am trying here. But every time I ask for help, I get dismissed or ignored. Even my partner doesn’t understand why I struggle so much. He says he’s there for me, but does he really? Does he know what it’s like to be constantly overwhelmed? To feel like you’re drowning in responsibilities and still have to keep going? No one gets it. This job isn’t worth it anymore. I wish I didn’t have to deal with"
+    },
+    {
+        "Triggering Event": "In the lab, she noticed a colleague chuckling over her meticulous notes, murmuring, \"Still trying to prove your ex wrong after all this time?\"",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She thought, \"That's so funny! She probably didn't even hear me say that because I'm such a bad speaker.\" She felt like she was being made fun of for being too particular about things and wondered if she was coming across as uptight or rigid. She laughed it off, thinking, \"Maybe he's just messing with me because we're in a low-stakes environment?\" (This is where the cognitive filter kicks in, where she focuses on the fact that the comment was made in a light-hearted setting rather than considering other possible reasons.)"
+    },
+    {
+        "Triggering Event": "He sat alone in his favorite armchair, eyes scanning the empty seat beside him where she used to sit, knitting needles clicking away. The TV droned on, but he barely heard it. Today was supposed to be their anniversary dinner at that little Italian place downtown. He'd made a reservation months ago, had even picked out her favorite wine. But now, there was just an empty seat and an unopened bottle of Chianti gathering dust on the mantle. His heart sank as he reached for his phone to cancel the reservation yet again.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He just needs to find another date. I can't keep doing this. She's never going to show up anyway. It's not like I'm asking much—just one more chance to celebrate our love. Maybe if I put myself out there, someone will understand how much I care, how hard it is to move on. I'll go online, see what's available tonight...and then I'll ask her out. No big deal. She won't say no; she loves me, after all."
+    }
+]
