@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family insisted they had made an appointment for 10 am, but their chart showed it was scheduled for 2 pm.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "I don't know how many times I've been misinformed about my appointments by patients' families. It really gets under my skin. They say they have an appointment at this time, that's what I schedule it as, but then when I check their chart, it's some other time. So either they're lying to me or they're just completely wrong. You can't be both! If they said 2 pm, there's no way it could be 10 am unless they are intentionally trying to mess with me. And why would they do that? That's such a ridiculous thing to do. I'm a professional here; I wouldn't even consider doing something like that. But if they did, well, then they must be lying about having an appointment. There's no middle ground; it's all or nothing. Either they're telling the truth, or they're lying. There's no possibility of them being mistaken. The whole thing is so infuriating because I genuinely want to help these people, but they make it impossible. I feel like I need to take care of myself and protect my time more than ever after experiences like this."
+    },
+    {
+        "Triggering Event": "He noticed the empty chair at the breakfast table, his late wife's coffee still untouched in its usual spot. The newspapers he'd meticulously collected for her each morning lay unopened beside it. He felt a pang of neglect, not from his own absence—he was always out early—but from the world that seemed to have moved on without her.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Oh, great. I'm so glad my husband is spending all of our money on this stupid house renovation. Not like we could've just sold it and put the proceeds towards our retirement. But no, instead he's throwing thousands away on \"upgrades\" because he thinks they'll increase our home value. What would we even do with that money? I mean, I know there are some things we need to fix, but this is ridiculous. We're already living in a nicer neighborhood than when we first bought the house, and now he wants to waste more money on fancy lighting and new flooring? And don't even get me started on the gardeners he hired. They must be making bank off us, changing every plant every week and adding more features than necessary. Do you think the neighbors will appreciate having their entire yard renovated every few months? It's such a waste of time and resources. Why can't he just leave everything alone? At least then we wouldn't feel like we were paying someone to watch us live our lives. I guess what really gets under my skin is how much he's pushing me to get involved in these decisions. Like, come on! Can't he see that I don't want to spend my Saturday mornings walking around the property, deciding whether the hydrangeas look good enough? Or worse, if I try to suggest something, does he actually listen before saying, \"No, honey, that won't work\"? Of course not. He never listens."
+    },
+    {
+        "Triggering Event": "\"After hours of waiting for an interview subject who never showed, you find your laptop charger missing from your bag at the office, leaving you with only 10% battery life and a deadline looming.\"",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Ughhh man I'm just so fucking done with this job search already. It's been hours since I started waiting for that interview subject to show up, and now they're literally MIA. I've checked my email multiple times, sent a follow-up message, and nothing. Not even a response to tell me where they are or what happened. But that's not all. Just as I was about to give up hope, I realized something else is wrong. My laptop charger is nowhere to be found in my bag, which means I have only 10% battery life left. The last thing I need right now is to worry about charging my laptop when I get home. What if it's gone forever? What if I can't get another one? This is insane. Why does it always happen to me? I swear, every single time I try to make progress here, something goes wrong. And honestly, it's starting to feel like I'll never get anywhere. Maybe I shouldn't even bother trying anymore. Who knows how much more I'll have to wait around before someone shows up or remembers about us. It feels like everything is going against me. First, I lose hours of my day waiting for some people who don't seem to care about showing up. Then, I forget my charger, leaving me with barely enough juice to keep working. This isn’t fair. Everything keeps going wrong, and I’m just getting tired of it. I feel like I’ll never"
+    },
+    {
+        "Triggering Event": "He overheard his lab partner, half his age, saying, \"I wish Dr. X could have seen this breakthrough like he used to.\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He's always been an asshole. Now he thinks he can just go around making comments about me? I don't even know why I'm still here. This whole thing is so fucking stupid. The fact that he gets to work with Dr. X while I'm stuck with him is just ridiculous. They're always doing something together; it’s obvious they’re best friends. I swear, my life isn’t bad enough already, but now I have to deal with this too. It makes me want to quit. If I didn’t have bills to pay, I’d leave immediately. But no, I’m stuck dealing with him. And now he has the nerve to act all innocent when I call him out for being rude. What does he expect? I’ve had enough of this shit. Fuck you, man."
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by their house, the one with the blue door and the neatly trimmed lawn. Today, it bore a new addition: a sign supporting his political rival. His grip tightened around his briefcase as he stared at it, each word like a stab of betrayal.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "*Ah*, you're still going after him? You must know how much he's against your party's policies. I don't think you'll get anywhere with that stance.*You're really going to keep pushing this? It just won't work. What if he wins? That would be disastrous for you.* He's already lost *three* elections. He can't win now. **Please stop** wasting your time and resources. This is just a futile endeavor. The whole thing is rigged; they're just making fun of you. *What are you even trying to achieve here? You're going down, whether you realize it or not. Don't pretend you're fighting for justice when you're just fueling hatred and division.* Don't say things like \"This isn't over\" like you have some kind of control over the outcome. They've been outmaneuvered from the start, and there's no turning back now. Just accept defeat and move on. It's pointless to continue this farce. It's all a show. You're playing right into their hands. There's nothing you can do to change anything at this point. Your efforts are just fueling the fire that will burn everything you hold dear. You need to face reality. He's not going to win, but that doesn't mean you shouldn't try to make people see sense. Maybe then they'll finally understand the error of their ways. But deep down, we both know you're just delaying"
+    },
+    {
+        "Triggering Event": "In the hushed, echoing corridor of the lab, he paused before the row of framed photos. His gaze lingered on the one where she stood, smiling, between them at a conference years ago. He traced her image with his thumb, then placed it back, face down.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Ugh, why does he even bother? She’s just another memory to be forgotten. I can’t believe how pathetic he is. He still thinks about her, as if they’re still together. It’s so ridiculous. They were just colleagues; nothing more. But no, he has to keep dwelling on the past. Even after all this time, he hasn’t moved on. What kind of idiot stays stuck like that? He probably still feels like shit, but what else could possibly make him happier than holding onto something that’s gone forever? Does he really think that nostalgia will bring her back? It won’t. Nothing ever changes. It’s all just an illusion. This is all just a waste of time, a pointless reminder of something he’ll never have again. Why would anyone want to look at those pictures? The photo he chose—of course, she’s smiling. Who wouldn’t want to see someone happy? It doesn’t matter. They’re all fake anyway. A bunch of staged smiles, pretending to care. But they couldn’t care less. If anything, they hate each other now. How could we forget that? It was always just a facade. She was never truly there for him. Now that she's gone, he can’t stop thinking about her. Is he really expecting some miracle to happen? Please. She’s dead. Why would she come back now? What’s the point of holding onto these memories? Are they supposed to fill the void? No"
+    },
+    {
+        "Triggering Event": "A former student, now a successful lawyer, breezes into her classroom during parent-teacher conferences, boasting about their lavish lifestyle and mentioning they barely remember her teachings. She smirks at the sight of her teacher's worn-out textbooks.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "*Frustrated sigh* I can't believe this is happening again. The same thing that happened last year with another ex-student has just occurred. It feels like no matter how much effort I put into my teaching, some students are never going to respect me or take things seriously. This one, in particular, makes me want to pull my hair out. She comes in here, flaunting her new designer clothes and talking about how she doesn't even remember anything from our class. It's like, hello, you're supposed to be learning something! How could you forget everything we covered? You're not just disrespecting me; you're making it hard for others who actually pay attention and try harder. I feel so helpless watching her act like she owns the place. This isn't the first time someone has treated me this way, but it still hurts because I know there's more to her than what she shows. I wish she would understand that teaching goes beyond just giving lectures. I'm trying to help people grow, not just make empty promises. But does anyone care? It's like she thinks I'm just a dumb teacher who doesn't know what's going on. I swear, sometimes I wonder if I'm doing something wrong or if there's something I missed. Why can't these students see that I'm really trying to support them? And why do they have to go and treat me like this? It feels like every time something like this happens, I'm left"
+    },
+    {
+        "Triggering Event": "She found an old photo album while packing up her ex-husband's belongings, left untouched in the attic. The yellowed pictures showed their daughter as a toddler, laughing with her parents at family picnics and holidays they'd spent together before everything changed. Alone now, she traced the faded images, feeling the weight of time and loss.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Oh my god, I can't believe how much shit is just sitting here... I was looking through this stupid old photo album. It had some really good memories too. I remember when we used to go to these family picnics, and all the fun times we had. There were even some photos from our wedding day. We must have been so happy back then. But what really got me was that there are so many pictures of her with both of us. I don't know why but it feels like she never wanted to be seen. She would always hide behind me or her mom. Like, yeah, maybe she didn't want to look at me? But come on, I'm the father! You're not going to act like I don't exist just because you're mad about something? This is ridiculous. I feel like I've been getting all these messages lately saying I'm not allowed to talk to her. And then I see all these fucking photos where she's clearly smiling and having fun with both of us. So why does everyone keep acting like she hates me? Does anyone actually care what's going on in my life anymore? I swear, no one gives a fuck. They're all just pretending to be concerned, but deep down they don't give a shit. What kind of sick game is this? First, she cuts me off completely. Then suddenly, I get to meet her again, and I'm supposed to forget everything that happened between us? That doesn"
+    },
+    {
+        "Triggering Event": "A colleague, known for her vibrant social life, shared photos from her weekend getaway to Paris on Facebook. The teacher scrolled through them, each image a stark contrast to her own quiet weekend spent grading papers. She felt a pang of envy as she closed the laptop, her heart heavy with longing and self-pity.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Oh my god, I'm soooo jealous. I wish I could just ditch school for the weekend like that. It looks like such a great time. I wish I had someone to share it with. I wonder if anyone would even notice if I went missing for a whole day? Maybe they'd all be too busy partying to care. Ugh, why can't I have a fun weekend like this?"
+    },
+    {
+        "Triggering Event": "The gallery owner cancelled his solo exhibition, citing \"a lack of market appeal in his current style\". He sat alone in his studio, surrounded by half-finished canvases, their vibrant colors now mocking him. His phone remained silent, no calls or messages from colleagues offering support or encouragement. The silence was deafening, echoing the emptiness he felt inside.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "In the end, I don’t even know why I bothered. It’s just another example of how I’m constantly being told I’m not good enough. “Your art isn’t selling well” is all anyone ever says. Like it matters? I’ve been working towards this moment my entire life, pouring every ounce of passion into each piece. But does anyone care? No, they’re too busy talking about someone else’s success. It doesn’t help that I see people like them everywhere. Artists who have made it big, flaunting their wealth and fame. They make it seem so easy, as if they were born for it. Meanwhile, I struggle to get my foot in the door. Every time I think things are going to change, something happens to knock me off track again. It’s exhausting, but what choice do I have? I feel like I’m drowning in a sea of mediocrity. Everyone around me is content with being average, never pushing themselves to be better. Why can’t I find someone who sees the value in my work? Is it really that hard? Apparently so, because I’m still here, stuck in limbo. I thought I had a chance, but now I realize there’s always an excuse. Maybe I’m just deluding myself, thinking I could ever truly succeed. Maybe I’ll be forever trapped in this cycle of disappointment. This gallery owner—my friend, my confidant—he’s gone. He didn’t even give me a"
+    }
+]
