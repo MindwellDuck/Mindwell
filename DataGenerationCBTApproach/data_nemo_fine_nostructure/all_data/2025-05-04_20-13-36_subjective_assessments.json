@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nIt's late, and he's tired from another long day at work. He enters his small apartment, greeted by silence; his wife hasn't returned from her business trip yet. He notices an unopened letter on the counter addressed to both of them. It's from their credit card company. He hesitates, then opens it, revealing a statement with charges he doesn't recognize. His unhappiness grows as he realizes these expenses were made by his wife while she was away.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I feel like she's being irresponsible, always making these purchases without discussing them first. I've asked her before about these kinds of charges, but she just says they're 'business trips.' She knows how much money we have in our budget, so it feels like she's overspending again.\""
+    },
+    {
+        "Triggering Event": "A patient, whom he'd recently discharged with a clean bill of health, walked into his clinic, accompanied by another doctor. They barely acknowledged him before launching into a discussion about a recent medical breakthrough, laughing loudly as if he weren't there.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I can’t believe how much this new treatment has improved. The other doctors were just talking about how they’ve seen patients go from near death to full recovery within weeks. I guess you could say my discharge was a little premature.\" \"I'm sorry you feel that way,\" Dr. Smith said. \"But we're thrilled with these results. We've had multiple cases where people have made full recoveries. Of course, everyone's body is different. But overall, our experience suggests that this treatment offers great promise.\" \"Okay, well, I suppose I'll take your word for it. After all, I wouldn't want to doubt the opinions of two seasoned professionals like yourselves,\" the patient replied. \"After all, if I had listened to you back then, I might have avoided some serious complications.\" Dr. Johnson chuckled. \"We’re glad you didn’t listen to us earlier. If you had, you probably would have missed out on the opportunity to try something life-changing.\" \"And now, let me ask you, Doctor. What are the chances of this treatment working for someone like me? You see, I’m not exactly... um... healthy. I mean, I don’t have any of those fancy tests that prove you’re disease-free.\" \"That’s understandable,\" Dr. Patel said gently. \"However, even without those tests, many people have shown remarkable improvements. And we have data to support it. Let me tell you, one of our patients—\" “Wait"
+    },
+    {
+        "Triggering Event": "At a colleague's retirement party, she notices him laughing heartily with their shared assistant, their heads close together, his hand briefly touching hers on the table.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He's clearly flirting with her. She probably has feelings for him too. I'm just being paranoid because he always talks about how much he loves his job. He was talking to her about the new project earlier, and they were both so excited. It makes me sick that they're still friends after everything she did. They've been working together for years, but I don't think it's just work-related anymore. Maybe they'll even get married someday. I can't believe she got away with all this stuff. It's not fair that he gets to retire while she still has to deal with the stress. I wish I had never gotten involved with her. I know I'm overreacting again, but I feel like I need to do something. I hope I didn't miss anything important during my absence. This is really affecting my performance at work. I have to stay focused and stop thinking about them. I'm just going to ignore everything and try to move on. If I keep focusing on these negative thoughts, it will be harder to handle what's coming next. I'm trying to avoid dwelling on the past. I'm not going to let one little thing like this ruin my entire life. It won't affect my career; I'm fine. Everything else is going well, and I need to concentrate on those things instead. I'll just keep doing what I've been doing and put this behind me. I don't want to let people think I'm weak by letting something"
+    },
+    {
+        "Triggering Event": "In her 35th year of teaching, she overheard two young teachers discussing her outdated lesson plans in hushed tones during lunch break. She felt a pang of insecurity, questioning if her methods were still relevant, and whether she was holding her students back.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She couldn't help but feel that she had become an old-fashioned teacher, stuck in the past with outdated materials and methods. The thought made her wonder if she was truly making a difference for her students, and if she was just clinging to what she knew rather than adapting to new ideas. This feeling left her doubting her ability to connect with her students and wondering if it was time to update her approach."
+    },
+    {
+        "Triggering Event": "She returned home from another grueling shift at the hospital, still in her scrubs, to find the front door slightly ajar. A quick scan revealed a broken vase in the hallway, remnants of their marriage shattered on the floor. She could feel the familiar tightness in her chest, anger boiling like a cauldron left too long on the stove. She picked up the phone, dialing his number with trembling fingers. It went straight to voicemail. The rage erupted, a growl tearing from her throat as she threw the phone against the wall, smashing it into pieces.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like a failure, a pathetic woman who couldn't even hold things together anymore. Her mind was clouded by the endless stream of work-related stress, and now this? This was just another reminder that she wasn't capable of keeping anything intact. Everything around her seemed to be falling apart - her marriage, her life, her sanity. She was drowning in a sea of responsibility, and no one would ever understand what it was like to carry all these burdens alone. Every day felt like a weight crushing down on her, making it harder to breathe, harder to think clearly, harder to care about anything else. She felt so alone, so trapped in this never-ending cycle of pain and frustration. Every moment felt like an eternity, every decision a burden, every step forward a struggle. She was tired of trying to keep everything together; she just wanted someone to take some of that weight off her shoulders. But deep down, she knew she was running out of time, and soon there wouldn't be anyone left to help her anymore."
+    },
+    {
+        "Triggering Event": "He was organizing his desk, a task he'd put off for weeks, when he found it—a small, faded photograph tucked into an old medical textbook. A younger him, smiling wide with his arms around his former wife and their daughter at her fifth birthday party. The weight of grief crushed him as he remembered that day, now forever tinged with the sorrow of what's been lost.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He must have forgotten about that photo in all the chaos of moving; I'm surprised he didn't find it sooner. Probably forgot because he wasn't thinking about that day. No one could expect him to remember every single thing from five years ago. It's not like he never thought about them, but he probably hasn't let himself think too much lately. Maybe he just needs some time to process everything. We can't expect him to be okay right away."
+    },
+    {
+        "Triggering Event": "A parent approaches him after class, asking why their child's grades have dropped since Mr. T started teaching them. He feels his shoulders slump, words failing him as he realizes he might be losing his touch in the classroom.",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "I feel like I’ve lost my edge. My students seem to be slipping further behind, even though they were doing well before I took over this class. I can't pinpoint what’s going wrong, but it makes me wonder if I’m just not cut out for this job anymore."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of his home kitchen, after years of sharing their space with warmth and laughter, he finds an empty shelf where her cherished cookbooks once stood. The dustless outline mocks him, a silent echo of her decision to move out. His hands tremble slightly as he reaches out to trace the vacant line, feeling a cold chill that has nothing to do with the temperature in the room.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He thinks back to when they first met in college, how she was the one who encouraged him to take up cooking, and how over time, their shared love for food became a bond between them. He recalls the countless meals they prepared together, each recipe a memory they created. Her absence leaves a void that goes beyond the physical emptiness of the shelf; it’s as if he’s lost a part of himself. In this moment, he wonders what would have happened if she had stayed—would they still be cooking together, experimenting with new recipes, and laughing at each other's mistakes? He imagines the possibilities, but deep down, he knows it’s just a reminder of what could never be again. The thought of her moving out, of having to start anew without her by his side, feels like a knife cutting through his heart. It’s hard not to think about all the things that went wrong, the arguments they had, and the fights that ended their relationship. Yet, he holds onto these thoughts, replaying them like a record stuck on repeat, wondering what might have been if they hadn’t let their differences tear them apart. As he stands there, surrounded by silence, he can't help but feel lost. What if they had worked through their issues? What if they had found a way to make their love last? The questions swirl in his mind, but the answers seem forever out of reach. For now, he’s left with only the memories of what could have"
+    },
+    {
+        "Triggering Event": "\"She found him, in their kitchen, cooking her grandmother's recipe, laughing into his phone, 'No, darling, I told you, it's all about the love.'\"",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "I am so tired of people who are always talking about how great their relationships are. It doesn't seem like anything is ever going wrong with them, and they have to go and brag about it at every opportunity. What kind of person feels the need to rub it in everyone else's face? It just makes me want to scream, especially when they're trying to sell us something for it. They make it sound like we'd be missing out if we didn't buy whatever it is they're peddling, but really, they're just rubbing it in our faces because they think it's funny. And then there's the way they try to act like everything is fine between them, like nothing bad has happened. But deep down, I know the truth. They're probably just waiting for an opportunity to strike again, and I can't stand it. The fact that they get to live this life while others struggle makes my anger boil over. We're not even talking about the usual stuff here; no, these people are flaunting their happiness right in front of us, making it impossible for anyone else to ignore. They could be hiding their true feelings behind a mask of happiness, but still, they insist on sharing it with the world. Maybe they genuinely believe that everything is okay between them, but I'm not buying it. This whole thing is just too much for me to handle. Every time someone shares their good fortune, I feel like I'm drowning in a sea of resentment."
+    },
+    {
+        "Triggering Event": "At 7 PM, he steps into their old bedroom, now used for storage. The fading light falls on her favorite chair, still there, untouched since she passed three years ago. He picks up a book from the stack on her bedside table, her reading glasses marking a page from which she'll never read aloud again. The weight of the book in his hands feels heavier than its pages, pulling him down into a quiet sadness he's grown all too familiar with.",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He can't help but feel that this is another reminder that she's gone, and no matter how much time has passed, memories like these continue to haunt him. Every time he enters this room, it feels as if he's stepping back into the past, when life was simpler and laughter filled every moment. The silence here is deafening, a stark contrast to the warmth and love they once shared. He wonders if it's just him who misses her so deeply, or is everyone else feeling this same sense of emptiness? Maybe he’s just more sensitive to change, or perhaps he’s the only one left holding on to what they had. Whatever the reason, he finds himself drawn to moments like these—moments that hold the power to bring them both back together in spirit, if only for a fleeting instant. In the end, though, the pain remains, and the books on her nightstand will always be reminders of what could never be again. Yet, even in grief, there is beauty in holding onto those memories, cherishing the thought of her presence, and the way she made him feel when she was alive."
+    }
+]

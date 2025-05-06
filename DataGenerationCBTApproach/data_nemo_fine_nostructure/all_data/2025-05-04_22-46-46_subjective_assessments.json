@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She felt her cheeks flush as she realized she'd misplaced her reading glasses, yet again. She was standing at the front of the lecture hall, her notes scattered before her, as she began her guest lecture to a room full of eager medical students.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She couldn't believe it had happened again, that she'd forgotten to grab her glasses from her office desk, where she'd left them after last night's dinner party with friends. It seemed like an eternity since she'd put them down, and now they were nowhere to be found - just like last time."
+    },
+    {
+        "Triggering Event": "In the quiet of his apartment, he opened the old cookbook she'd given him years ago, its pages stained with her handwriting and memories. As he traced her notes in the margins, his eyes welled up. He couldn't bring himself to flip to the recipe she'd marked for their anniversary, knowing it would be another reminder of her absence. Instead, he closed the book gently, the sorrow heavy in his chest like an uncooked soufflé threatening to collapse.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He's been cooking every day since she left, but nothing feels right. Every meal is just a hollow imitation of what we had together. I miss her so much that I can hardly breathe. I wish I could turn back time and make things better between us. What if I had cooked more often? Maybe then she wouldn’t have felt so alone and left me for someone else. If only I’d shown more appreciation for her recipes... Every time I think about our last argument, my mind replays it over and over. Why did I say those things? Shouldn’t I have listened to her instead of getting angry? Now she’s gone, and I’m left here, feeling guilty and unsure how to move forward. I wonder if she ever thinks about me too. Does she remember how much I loved her cooking? She always said that my food was her favorite part of the evening. When I made dinner for her, she seemed so happy—her smile lit up the whole room. But now...now it all feels fake. I try to imagine what it would’ve been like if I’d taken more interest in her cooking. Would she still be there? Could things have changed? I don’t know. All I know is that I feel lost without her. Maybe if I’d cooked more often, if I’d been more supportive, things might have turned out differently... But no, she’s really gone now. And I’m stuck here, wondering what could’ve been. That"
+    },
+    {
+        "Triggering Event": "A woman in her 70s, once a renowned software engineer, now retired and living alone since her husband's passing five years ago, was volunteering at a local community center teaching basic coding to teenagers. Today, she struggled to remember how to navigate out of an error message that had popped up on the shared computer. The teens exchanged knowing glances, smirks playing at the corners of their mouths. One even whispered loud enough for her to hear, \"Guess they didn't teach that in her day.\" Heat rose in her cheeks as she felt a pang of humiliation, realizing she was no longer the tech powerhouse she once was.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She seemed so old-fashioned; I guess it’s just because she wasn’t born with the same technology we have today. She probably thinks she knows better than us, but honestly, she doesn’t. Maybe if she kept up with her learning, she wouldn’t be struggling like this."
+    },
+    {
+        "Triggering Event": "She was mid-surgery when the OR nurse, flustered and apologetic, whispered, \"Dr., your phone's been ringing non-stop. It's him again.\" Her grip tightened on the scalpel, her breath hitching as she fought to keep her anger in check, focusing instead on the steady rhythm of the heart monitor.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She thought to herself, *This is so unfair.* I know my husband isn't perfect, but he's always there for me. He listens, supports, and loves me unconditionally. Meanwhile, my friend has no one. His wife left him after 20 years together, and his family disowned him. When I see him, he looks tired, worn down by life. In contrast, my husband's face lights up whenever he talks about our future plans together. He's more confident than my friend, who struggles to find purpose outside of work. While my husband feels fulfilled doing what he loves, my friend just feels empty, like he's missing something essential. My husband is kinder, patient, and understanding, never raising his voice or losing control. He makes me laugh every day, while my friend can be cold and distant, sometimes even dismissive. When we talk, my husband opens up about his feelings, sharing his fears and dreams, making me feel heard and valued. He's the rock that holds us together, providing comfort and reassurance. On the other hand, my friend feels lost, struggling to connect with anyone. He's quiet and reserved around me, almost like he doesn't want to burden me with his problems. Sometimes, when they're alone, he'll open up to me, sharing deep, personal stories that make me realize how much he needs support. Despite this, I still feel guilty for feeling happy around him, especially since he's going through"
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her uniform still stiff from yesterday's duty, watches as a young couple walks hand in hand through the park she used to stroll with her late husband. She feels a pang of resentment at their carefree laughter, echoing the silence that has filled her home for years.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She thinks to herself, \"This is what it looks like when two people love each other. It's all so... happy.\" The words echo the emptiness she's felt since her loss, and she can't help but feel that she was supposed to have shared this moment with him. Why does everyone else seem to be moving on, while she remains stuck in grief? This couple's joy is a painful reminder of what she's lost, and she wonders if anyone would even notice if she were gone. They're just living their lives, enjoying every moment together, but she's been left behind, drowning in sorrow."
+    },
+    {
+        "Triggering Event": "She finds a crumpled note in his pocket, a woman's phone number scrawled in neat, unfamiliar handwriting.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She is going to leave him for this man. He's just like every other guy she dates - selfish, unfaithful, and boring. This one's no exception. She's probably already having an affair with him, too. Why else would she carry his number? And why did he put her phone number on his wallet if he was really interested in her?"
+    },
+    {
+        "Triggering Event": "\"Checking his patrol car's clock, he realizes it's 3 AM again. The city is quiet, but his mind isn't. He can't shake the worry that he forgot to secure a window at the crime scene yesterday. It was just a petty theft, but what if it wasn't? What if they come back and find an open door? His stomach churns as he pulls over to call dispatch for a welfare check on the neighbors, his mind racing with 'what-ifs'.\"",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Worrying about people forgetting things like securing windows doesn't seem like a big deal unless you're in law enforcement and your safety could depend on someone being there. I get why this guy would be worried, but surely he knows his job is more important than worrying about some petty stuff like that? This guy needs to stop letting his anxiety consume him. Maybe if he focused on the bigger picture, he wouldn't waste so much time worrying about small things. You can't control everything, but you can control how you react to it. Maybe if he took a step back and looked at the bigger picture, he'd realize that worrying about something like this is just an excuse to avoid doing actual work. If he stopped letting his worries control him, he might actually feel better about his job. I'm sure his boss will appreciate the extra attention to detail when he gets back to work tomorrow. I wonder if his coworkers are starting to think he's losing it...this guy really needs to snap out of it."
+    },
+    {
+        "Triggering Event": "The radio crackled to life at dawn, breaking the usual morning silence in her kitchen. Her husband looked up from his newspaper, his eyes mirroring her own concern as she heard their son's voice, hesitant and distant: \"Mom, Dad... I've been deployed early.\"",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt like she'd known for months that he was going to be deployed, though she hadn't asked him directly. It wasn't just the way he'd mentioned it casually earlier; there was something in his tone, a subtle shift that made her think he knew more than he was letting on. When she saw how worried he was, she realized he must have sensed it too. But why did she feel so certain? She couldn't quite put her finger on it, but somehow she knew this deployment would change everything. --- ### Output She felt like she'd known for months that he was going to be deployed, though she hadn't asked him directly. It wasn't just the way he'd mentioned it casually earlier; there was something in his tone, a subtle shift that made her think he knew more than he was letting on. When she saw how worried he was, she realized he must have sensed it too. But why did she feel so certain? She couldn't quite put her finger on it, but somehow she knew this deployment would change everything. --- # Example #1 The man who lived next door had been acting strange lately, always looking over his shoulder as if he expected someone to burst through the door at any moment. She wondered if he was hiding something, maybe even involved with the shady characters she’d heard rumors about. When he caught her staring, he quickly turned away, his expression unreadable. She could almost see the guilt flashing across his"
+    },
+    {
+        "Triggering Event": "She found the old, faded photograph tucked behind a drawer while dusting the house alone today. It was her mother, laughing freely at some long-forgotten joke, before Alzheimer's stole her memories and joy. The guilt of not visiting more often, of letting days turn into weeks, washed over her like a wave.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She has never been happy since she lost her mom to Alzheimer’s disease. Every time I see her cry, it reminds me that we can't change the past, but I still feel guilty for not being there enough. I wish I could turn back time and be there every day. Her memory loss is so sad, and I know I should have visited more often. Now she forgets our conversations and doesn’t even recognize herself in pictures. I don’t want her to suffer anymore, but I also don’t want to think about how much worse things will get as time goes by. I’m worried that one day she’ll completely lose herself, just like my mom did. If only I had been there more, maybe she wouldn’t have felt this way. But now, everything feels pointless, and I can’t shake off the feeling that I failed her."
+    },
+    {
+        "Triggering Event": "\"After decades of service, she was hoping for a promotion to Captain before retirement. Today, her colleague, younger by two decades, received the news instead.\"",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She had always seen this as an opportunity for someone else to move up the ranks, but it doesn't seem fair that they get the captain's role. It just goes to show how much favoritism there is in the military, where everyone gets promoted based on who has connections rather than merit. She has been serving faithfully for years, but now she feels undervalued because others can simply jump ahead due to luck."
+    }
+]

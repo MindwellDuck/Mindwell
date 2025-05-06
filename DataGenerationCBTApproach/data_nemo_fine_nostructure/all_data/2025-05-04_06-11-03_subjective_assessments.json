@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "The clinic's phone rings during his lunch, an unfamiliar number flashing on the caller ID. He hesitates before answering, his worry amplifying as he hears a trembling voice: \"Dr., it's about your daughter. She's been in an accident.\"",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I'm not going to answer that call. I don't want to hear anything bad about my daughter. If she's dead, then so am I.\""
+    },
+    {
+        "Triggering Event": "In the silent hum of his cluttered home office, he noticed it - an old photograph tucked behind his monitor. It was them, laughing at some long-forgotten joke, before the silence settled in like a shroud. His reflection stared back at him from the glass, lines etched deeper by time and solitude. The photo slipped from his trembling fingers, floating down to join the dust bunnies on the floor. He felt it then, that familiar, crushing weight of despair, as heavy and suffocating as the silence he'd been swallowing for years.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He couldn't help but notice how much he resembled her. The same sharp jawline, the same piercing green eyes, even the way they curled up at the corners when smiling. Yet, he felt so far removed from her now. Like I'm drowning in my own loneliness, he thought bitterly. Every moment with her seemed distant, each memory fading like sand between his fingers. Even this photo, once full of warmth, had become a painful reminder of what he'd lost. Her laughter echoed through the halls, a fleeting joy that now taunted him with its absence. He wondered if she ever thought about him, if she ever remembered the nights spent talking until dawn broke, sharing secrets and dreams beneath the city's twinkling lights. Or was he just another forgotten memory, left to gather dust in the past? The more he looked at the picture, the more he felt himself slipping further away. He realized that he could no longer hold onto hope; he was alone, and nothing would change. This feeling has consumed him since the day she left, and he cannot shake it off."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she opens an email from her former colleague, the one who'd taken credit for her project. The words dance mockingly before her eyes: \"Promoted to your old position.\" She feels a slow burn, like embers fanning into flame, as her fingers hover over the keyboard, itching to compose a scathing response.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She clicks the reply button, her mind racing. Why bother responding? He's just trying to make himself look good. But something inside stirs—a need to tell him how he made her feel—how his actions cut deeper than any word. It's about more than pride; it's about fairness. Her hand moves toward the keyboard, but then hesitates. Shouldn't I let this go? Shouldn't I be stronger? She pauses, then begins typing. Her words flow easily now, each sentence a calculated strike. They'll show him that she's not someone to be underestimated. This time, when she hits send, there’s no regret. No doubts linger. She knows exactly what she wants to say."
+    },
+    {
+        "Triggering Event": "During his morning commute, he noticed a young woman reading his old company's newsletter, which featured a photo of him receiving an award for \"Best Engineer.\" He quickly ducked behind his newspaper, feeling his cheeks flush with embarrassment at the reminder of his past glory days now that he was jobless and divorced.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "I'm so embarrassed about this; I can't believe she recognized me in the magazine. It really feels like she's staring at me right now. I wish she wouldn't be looking at my face so intensely. Why did she even read my name? She must think I'm some kind of celebrity. I can't believe she'd remember me from years ago. It makes me feel so self-conscious, especially when people are around. I don't want her to recognize me anymore. This is all just too embarrassing. I shouldn't have gotten so worked up over it, but I'm still fuming."
+    },
+    {
+        "Triggering Event": "A sudden, sharp pain in her arthritic fingers as she tried to grip her brush, causing her to drop it into a puddle of drying paint on her easel.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "What if I had broken my wrist trying to pick up that brush?"
+    },
+    {
+        "Triggering Event": "At 7 PM, under harsh fluorescent lights, he starts his closing shift at the mall store. Only two customers in three hours. His manager had promised a promotion if sales picked up, but today's figures were dismal. He watches the clock tick towards midnight, another day of disappointment.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "His manager is incompetent. I don't understand why he keeps making these promises that never come true. It’s so frustrating working here; no one appreciates me. If he didn’t suck, maybe we’d have a chance at meeting our sales goals. Now I can’t wait until my next break when I get to leave this dump. He doesn't care about us. I'm just going through the motions because it’s too late to quit now. This job will never work out. I wish I could go home already. I hate coming back tomorrow."
+    },
+    {
+        "Triggering Event": "A man in his late thirties, a seasoned journalist, is scrolling through his phone at breakfast. His partner looks over and sees him clench his jaw as he reads an article praising a political figure he loathes. He silently passes the phone to her, pointing at a sentence. She reads it aloud: \"The government thanks Mr. X for his invaluable contributions during these challenging times.\" The room grows cold with his unspoken contempt.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Oh my god, I can't believe how much more confident he's become in speaking out against this administration! He just got so bold, standing up to them like that. It's really amazing to see him grow in his career. He must be doing something right if everyone's taking notice of him. I'm proud of him too! I feel like he's really going places now. I'm glad we invested in his education. This article proves he was right all along about his views; now the whole country knows it. It's pretty impressive what he's accomplished. Wow, I wish I had his level of confidence in public speaking. He's such a natural, I bet he'll make great TV one day. And look at all the articles talking about him - he's definitely the future leader of our party. I hope he gets noticed by other politicians soon too. I think it would benefit us greatly to have someone with his experience running for office."
+    },
+    {
+        "Triggering Event": "While walking home from the lab, he paused at the park where they used to feed the ducks together. The bench was empty now, but he could still see her smile, hear her laughter echoing in his mind. A gust of wind blew, scattering the remnants of their shared picnics, and he felt a pang of grief, raw and biting, as if it had happened yesterday, not five years ago.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He couldn't help but feel like the world around him was closing in – every sound seemed louder, every breath more heavy. The trees swayed ominously, their branches stretching towards him like skeletal fingers, as if trying to snatch him back into the past. It was as if the universe itself was conspiring against him, forcing him to relive moments he'd rather forget. He knew she wasn't there, but he couldn’t shake off the feeling that she was watching him, waiting for him to slip up so she could pounce. Every step felt like a betrayal, as if he was abandoning her by leaving her behind. The pain of being alone echoed through the streets, haunting him with memories of what could have been."
+    },
+    {
+        "Triggering Event": "A female officer, forty, divorced, felt her heart pound as she watched the suspect, known for his evasiveness, smirk during their interrogation. He had slipped through her grasp before, leaving behind a cold case that haunted her dreams. Today, he seemed to revel in her frustration, tapping his fingers on the table rhythmically, echoing the mocking ticking of time wasted. As she leaned in, voice steady but eyes blazing, she vowed silently, \"Not this time.\"",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She'd never let him off the hook; if he wasn't guilty, then why did she feel it? It was as if he'd pierced her soul with every glance, daring her to believe otherwise. She saw no room for doubt, no middle ground - either he was a monster, or she was blind. The way he leaned back, hands clasped together, made her wonder if he was playing some twisted game, waiting for her to crack. She knew she couldn't trust herself; the only thing clear was her determination to see justice served. This time, there would be no escape."
+    },
+    {
+        "Triggering Event": "She found an old canvas tucked behind their wedding photo, a painting of him she'd long forgotten. The colors were muted, the image unfinished, echoing the love they had once shared but never fully expressed. Her heart sank as she remembered how he used to watch her paint, his smile warm and encouraging. Now, his chair stood empty at the kitchen table, their silent meals a stark reminder of her choice to leave him behind for her art. She traced the rough brushstrokes, her eyes welling up with unshed tears. The canvas whispered her remorse back at her.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She can't help but think that this is what every marriage looks like now. A canvas left untouched, a silence that's deafening, and a love that's been abandoned. I'm starting to believe that everyone just settles for less, that we're all just waiting for our moment to slip away, leaving us alone with nothing but memories. It's heartbreaking to see that even when you have everything, you can still lose it. I wonder if there are more paintings like this, hidden in the corners of lives that nobody wants to talk about. Maybe there are countless canvases out there, each one telling a story of a love that faded into nothingness, and no one will ever know why."
+    }
+]

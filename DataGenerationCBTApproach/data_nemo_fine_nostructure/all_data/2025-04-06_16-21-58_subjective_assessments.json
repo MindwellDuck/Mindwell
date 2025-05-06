@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A customer, browsing through the lingerie section, loudly asks her if she thinks his wife would look good in an outfit modeled by a mannequin nearby. She feels her cheeks flush and avoids eye contact, stammering, \"I-I'm not sure, I don't know your wife's size.\"",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Wow, that's so rude. You're always making everyone feel uncomfortable with your weird questions. I wouldn't want to be in that store anymore. I'm just glad I didn't get caught up in that embarrassing situation.\""
+    },
+    {
+        "Triggering Event": "After a long, quiet shift at the station, he drove home to an empty house. The mailbox was stuffed with envelopes, all addressed to his ex-wife's new address. He stood there, in the dim streetlight, holding the pile of mail that wasn't his, wasn't meant for him anymore. He felt a familiar pang of neglect, a hollow ache echoing through his empty home.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She must have sent it. I'm certain she did. She probably has something against me still. It's just another way she tries to hurt me. That's why they're all addressed to her new place. If I hadn't left, none of this would be happening. This is her doing, not mine."
+    },
+    {
+        "Triggering Event": "She saw him again, laughing with his new girlfriend at the art gallery where her late husband's work was being exhibited. The same laugh that had echoed through their home, now mocking her solitude. She felt a bitter taste rise in her throat as she clutched her husband's favorite brush, hidden behind her back.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She couldn't help but think that they were laughing at her, enjoying the joke of seeing her alone while he moved on. It didn't even occur to her that maybe they just found it funny—like how people often find humor in situations like that, regardless of who was there. Instead, she assumed that they laughed at her specifically, rubbing it in her face. The way they looked at each other, holding hands, made everything feel like a cruel reminder of what she'd lost."
+    },
+    {
+        "Triggering Event": "She sat at her desk, fingers hovering over the keyboard, staring at the blinking cursor. Her girlfriend's birthday was tomorrow, and she'd been planning a surprise dinner for weeks. But now, as she tried to book their favorite restaurant online, she found it fully booked. She called, but they were unwilling to accommodate her late request. She felt a pang of helplessness, her shoulders slumping as she realized she might not pull off the perfect evening she'd envisioned.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She looked like a lost puppy when I told her about the booking. The look on her face said \"What if I'm not good enough?\" That's all she'll ever think - that she can't do anything right. I know she thinks this is a big deal, but honestly, who doesn't get turned down? It just makes me roll my eyes. If she really wanted to plan something special, she wouldn't have waited until the last minute."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her kitchen, she finds herself humming an old tune they used to dance to in their tiny apartment. The melody catches in her throat as she notices his favorite mug still sitting in the cupboard, untouched since that last morning. She reaches for it, but her hand pauses mid-air, hovering over the chipped rim. A soft sigh escapes her lips, a whisper of melancholy in the otherwise silent room.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She opens the cupboards one by one, each one revealing more memories than the last. Each time she closes them, she feels like she is closing a chapter of her life. The first box contains the remnants of her childhood home, the second holds the gifts he brought back from his travels, and the third is filled with the books they read together before bed. As she cleans each item, she feels herself becoming more aware of how much has changed since then. Everything now represents different moments in their lives together, yet somehow, she feels a sense of peace wash over her."
+    },
+    {
+        "Triggering Event": "In the quiet of their kitchen, she finds an old cooking apron tucked away in a drawer, its once vibrant red now faded to a soft pink. She remembers the last time she wore it, her husband laughing as he watched her dance around the stove, humming off-key while they cooked together. A lump forms in her throat as she realizes how long it's been since their kitchen echoed with such carefree joy. She hugs the apron to her chest, a single tear sliding down her cheek, and continues preparing dinner alone, the silence heavy with unspoken words and forgotten laughter.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She looks at the apron, and for a moment, forgets about everything else. But then she thinks back to all those times she had to clean up after him, how messy he was, and how often he left dirty dishes. The apron just reminds her of work, and she doesn't want to think about it anymore. It’s probably just a stupid piece of cloth. She folds it neatly and puts it back in the drawer, deciding she doesn’t need it anyway."
+    },
+    {
+        "Triggering Event": "She gently closed the door behind her, stepping into the quiet, dimly lit kitchen. The familiar scent of home was comforting, yet today it felt hollow. She had spent hours poring over medical journals, trying to keep up with the latest research, but the silence was deafening. Her husband, usually engrossed in his book at this hour, wasn't there. Instead, she found a note on the table, his neat handwriting a stark reminder: \"Went to play cards with Jim. Didn't want to disturb you while you were working.\" She felt a pang in her chest, the rejection stinging like an unanticipated wound.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She sighed, feeling a deep sense of disappointment wash over her. It seemed like he wanted to spend time with friends instead of being by her side, which made her feel unimportant. She tried to shake off these thoughts, but they lingered, refusing to fade away. Every moment he spent playing cards with others left her alone, making her wonder if she truly mattered. She couldn't help but think that maybe, just maybe, he preferred the company of others over hers. The thought hung in the air, a constant reminder that her efforts to stay busy might have been for nothing. As she stood there, lost in her thoughts, she realized that her desire for connection had turned into a desperate need for reassurance. The room seemed to shrink, every sound magnified, until all she could hear was the echo of her own doubts. In that moment, it seemed impossible to find solace in anything else."
+    },
+    {
+        "Triggering Event": "At the weekly newsroom meeting, she noticed her former colleague's byline on the front-page story she'd been pitching for months. A bitter taste filled her mouth as she listened to him accept accolades for her idea.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She thought he was trying to make it seem like his own idea when she had spent countless hours working with him to develop the pitch. She believed he knew how much effort she put into making sure the story got published and how disappointed she felt after seeing someone else get credit for her work. It seemed like he was intentionally rubbing it in her face, and she wondered if he was trying to make her feel stupid."
+    },
+    {
+        "Triggering Event": "He enters the studio, flipping on the harsh fluorescent lights to reveal his wife's unfinished painting on the easel. The once vibrant colors now seem faded and lifeless, mirroring the hollow emptiness he feels inside. As he approaches, a rat scurries out from behind the paint-stained drop cloth, leaving a trail of droppings across her palette. He recoils, his stomach churning with disgust at the desecration of her memory.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He can't stand it. It's an insult. She didn't even finish it. It looks like something a child would create. I remember how excited she was when she started this project, but now...now it just makes me sick. How could she leave it like that? Doesn't she know what will happen if someone else touches it? That rat is disgusting too. Ugh, I need to get rid of it before it contaminates everything. We can't have this in our home. What kind of monster brings a rodent into their own house? And those droppings everywhere? It smells awful. I hate rats. They're so dirty and disease-ridden. I hope that's all there is. This isn't right. My wife wouldn't let anyone touch her work, especially after she put so much effort into it. But...but she hasn't been here for weeks. Maybe she really did stop working on it. I don't want to think about it, but I keep thinking back to how she used to love painting. Now...now it just seems pointless. This whole situation feels so...so...dirty. I need to clean up. I'll take care of it myself. No one else needs to be involved. It's my fault, anyway. If only I hadn't left her alone with that paint-soaked rag. If only I had come back sooner. Maybe then she'd still be here, creating beautiful art instead of...of...this"
+    },
+    {
+        "Triggering Event": "She finds an old, worn photograph tucked between the pages of a book she's been meaning to donate. It's her and John, laughing on their first trip together, before marriage, kids, and life's little regrets had settled in like a comfortable fog. She traces his smile with her fingertip, wondering where it went, and why she didn't fight harder for it.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She can't help but feel angry at him for leaving. Why did he go back to that? Why did he get so caught up in work and forget about her? He was always working, always pushing himself to be better. He never stopped to think about how much time they'd spent together, how many memories they made, how much love they shared. That picture is proof - proof of everything he took for granted. I thought we were happy once, but now I realize I was just holding on out of habit. He deserved more than what I gave him, and now he has me too. ---"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He saw her laughing with another man at the café across from the hospital, their heads close together over steaming coffees. Her eyes sparkled, just like they used to when she looked at him. But now, it was someone else making her smile that way. He felt a familiar pang in his chest, an old wound reopened.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He can’t believe she laughed with another guy like that. It doesn’t feel right. She shouldn't be smiling with someone else, especially after how she left things between them. Shouldn’t she still care for him? The thought stings; he feels like he’s being replaced already. She had promised to meet up with him today, but instead, here she is with this other guy, enjoying each other's company. What happened to her promise? Maybe it was all just a mistake. No, she wouldn't do that. She would never betray him like this. It hurts to see her moving on so quickly. Why is she laughing with someone else if she still cares about him? That laugh sounds too cheerful, almost fake. And what does it mean when they’re sitting so close together? They shouldn’t be like that. She should still be looking at him, not sharing laughs with someone else. This isn’t fair to him. He’s the one who gave everything to make their relationship work. Now, she’s just moving on as if nothing ever happened. Why did she agree to meet him there? Doesn’t she know how much it means to him? She should be the one comforting him right now, not spending time with someone new. If she really cared, she wouldn’t let herself be around others like this. She needs to realize what she’s doing is hurting him. How could she do this? After everything they shared, she should still"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAfter a long day of dealing with demanding customers, she enters her quiet apartment to find the neighbor's cat had once again sneaked in through the open window, shredding the corner of her favorite novel. She snaps, \"Not today, cat!\" and slams the window shut.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She was so angry about her book being ruined, she just wanted the cat out of there before it caused more damage. It didn't seem like an issue for the neighbors since they were away, but now that the book is ruined, she feels betrayed by the cat's actions. She thinks to herself, \"They should have been better neighbors.\" She can't believe how irresponsible they've been. The cat shouldn't have been allowed inside the house, and the neighbors shouldn't have left them alone. They really should have taken responsibility for their pet. This kind of behavior from neighbors should never happen. She wants to confront the neighbors and make them understand why this isn't acceptable."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe returned home from work to an empty house, her husband still at his business trip. The silence was deafening. She heated up leftovers for dinner alone, the microwave's hum filling the void briefly before plunging her back into solitude. As she ate, she noticed a group text message notification on her phone - friends planning a weekend hike, not including her. She paused, her reflection in the window staring back at her, lonely amidst the flickering lights of the city.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "I wonder what they're doing right now. Are they having fun? Is there a guy joining them who isn't part of our group? Maybe it's just my imagination making me feel worse, but I can almost hear laughter echoing through the forest, someone shouting out \"Whoa!\" as they take a jump off a rock. Or maybe I'm imagining that too. But I wish they were here with us. It would be great to have one more person in our little group. We'd all get along better, we could make this trip even more special by sharing it together. Maybe we could plan another trip soon, so everyone has a chance to join. It feels strange seeing people enjoying themselves when I'm stuck here alone. But maybe I'll ask them to meet up sometime soon, see if I can catch up with them then. Who knows, maybe I'll find myself wanting to spend time with them again."
+    },
+    {
+        "Triggering Event": "He found the empty wine glass in his girlfriend's car, still damp with last night's lipstick stains.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I was so surprised when he did that. I'm glad he didn't get angry about it, but honestly, I don't think he had a choice.\""
+    },
+    {
+        "Triggering Event": "A nurse, early 20s, divorced, worries constantly about her elderly mother's health. One evening, she receives a call from the neighbor: \"Your mom fell and I can't wake her up.\"",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Aha! She must have hit her head when she fell. And that means she is in critical condition and needs immediate surgery. That's why she won't respond to me. I need to call an ambulance right away. Maybe it's better if I just go there myself to check on her instead of waiting for someone else to get there. I'll also ask my friend who lives nearby to help me carry her stuff out of the house so she doesn't strain herself. I hope my insurance covers everything because this could cost a fortune. If the hospital is too busy, maybe they'll let us stay overnight at home with her until we figure out what to do next."
+    },
+    {
+        "Triggering Event": "22-year-old male software engineer, married, sits alone in his dimly lit apartment late at night, coding for work, when he hears a faint creaking from the bedroom. His heart pounds as he realizes he left the window open earlier and hadn't checked if it was locked. He hesitates, fingers trembling over the keyboard, before deciding to investigate, his fear growing with each careful step towards the darkened room.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh no! I hope she's okay! Maybe she just needs some water? That must be what she's doing. She'll come out soon; she always does. It's probably nothing but me being paranoid again. My wife is so understanding - I don't even need to tell her about this. She'd just say something like \"Don't worry, honey,\" and everything would be fine. Yeah, I'm sure she's just... uh... getting ready for bed. *Deep breath* Okay, let's focus. I can handle this myself. The code won't write itself, after all. I've got this under control. I'm just going to quietly check on her... for now."
+    },
+    {
+        "Triggering Event": "He walked into the apartment, keys jingling in his hand, to find an unfamiliar jacket hanging by the door. The scent of her perfume still lingered in the air, a reminder that she'd been there before him. He noticed the wine glasses in the sink, two of them, both used. His heart began to pound as he checked his watch, realizing it was later than he thought. He hadn't expected her to be home from her work event so soon. He felt a pang of jealousy gnawing at him, wondering who she'd been waiting for.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "It was like he had been punched in the gut. She wasn't home. He didn't know why she was back early. It seemed like a setup. Maybe she'd been having an affair. Or maybe she just forgot about him and wanted to forget about everything they shared. He couldn't stand the uncertainty; every moment felt like a betrayal. He imagined her talking to someone else, laughing with someone else. The thought made him sick. He felt like he was losing himself, like he was drowning in this ocean of confusion. Every second ticked away, each breath felt like a struggle. He was torn between wanting to ask her what happened and feeling like he'd already lost her forever."
+    },
+    {
+        "Triggering Event": "She scrolls through Instagram, pausing at her friend's latest post - a vibrant gallery opening, laughter-filled faces, and her own name tagged beside an unfamiliar, smiling man in a suit. She feels her stomach churn as she reads the caption: \"Celebrating @____'s success last night!\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She can't help but feel uneasy about her friend's recent post. It shows how they're all having fun together. But why is that guy there? He looks like he doesn't know them very well. Maybe they just met, and it was a one-time thing. I bet he wasn't even invited to the party. And what does his smile say about me? Is he laughing because he knows something I don't? Or is he just being polite? I hope he's not talking behind my back when he smiles at her. Does he think she's more interesting than I am?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her tiny apartment, she sat alone at the kitchen table, her eyes burning with unshed tears as she stared at the photograph clutched between trembling fingers. A harsh knock at the door startled her, and she quickly wiped her cheeks before opening it to reveal a familiar face - her mentor from the restaurant where she'd worked tirelessly for years. He held out an envelope towards her, his expression somber. \"I'm sorry, kid,\" he said, \"but we've had to let you go.\"",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt like she was drowning in a sea of disappointment. The look on her mentor's face told her he didn't want to hurt her, but there was no way around it. She could see the weight of responsibility bearing down on him, and he knew she wouldn't take the news well. It wasn't just about letting her go; it was about giving up on her dreams. This wasn't how things were supposed to end for her."
+    },
+    {
+        "Triggering Event": "He arrives home, greeted by an unusual silence. No cheerful hello from his wife, no clatter of pots from the kitchen. Instead, he finds her in the living room, surrounded by open boxes, holding a framed photo - their wedding picture. She looks up at him, her eyes cold, and says, \"I found your emails.\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Subjective Reaction:** I'm shocked to hear she mentions those emails because it's clear she knows something about them. She must have read all of them, but why would she? It's unlikely she'd use such information against me. Maybe she wants to confront me about something specific, like how long we've been apart since moving out together. **Response End**"
+    }
+]

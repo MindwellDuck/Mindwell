@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"In the middle of her evening shift at the hospital, she accidentally spilled an entire tray of instruments while trying to rush them into the operating room. The clatter echoed through the sterile silence as everyone turned to stare.\"",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Wow! That was so close for me! I feel like it's my fault they didn't have time for the procedure, because if I hadn't been in such a hurry to get everything ready, maybe they wouldn't be rushing. And now I'm worried that this will affect my reputation with the doctors, especially since I've always been known for being punctual and efficient during shifts.\""
+    },
+    {
+        "Triggering Event": "\"While on patrol, he spots a graffiti tag reading 'PIGS' across the alley wall behind his station. His knuckles turn white gripping his nightstick as he approaches, hatred surging with each step.\"",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "It looks like a pig symbol is being used here. That has to mean someone who hates pigs is responsible for this graffiti. They're probably trying to start some kind of riot to cause chaos and destruction. This could lead to violence and even loss of life."
+    },
+    {
+        "Triggering Event": "He found her old ring, tucked away in his desk drawer. The gold band seemed to mock him, its once-shiny surface now dull and forgotten. He hadn't seen it in years, not since he'd taken it off her finger that day. His thumb traced the engraving - \"Us Forever\" - a bitter reminder of their shattered promise. He could still see her face, hear her laughter echoing through their old apartment. Now, all that remained was this ring and his gnawing remorse.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He thought back to how she had looked that day, her smile lighting up the room like a ray of sunshine breaking through the clouds. It was a moment he would never forget, a time when everything felt right with the world. She had been so happy, her eyes sparkling with joy as she clung to me tightly, whispering words of love in my ear. I remembered the way her hair fell across her forehead, framing her face like a delicate work of art. It was then that I knew I couldn't let her go, no matter what challenges lay ahead."
+    },
+    {
+        "Triggering Event": "He stood in the bustling kitchen, orders piling up like unpaid invoices. The sous chef had called in sick again, leaving him with a skeleton crew. He'd been juggling flames and sauté pans for hours, but the line barely moved. His partner's text flashed on his phone: \"Can't make it tonight, sorry.\" Another dinner alone. The heat of the stove couldn't touch the chill spreading through him as he realized, yet again, he was powerless to change anything.",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He felt defeated. Every hour, every minute, seemed to be lost. Orders piled up, and no one could help. He wondered if anyone would notice if he just disappeared forever. No one ever said anything when he cancelled plans; why would they care now? It wasn’t like he’d actually tried to fix things. Maybe I’m not meant to succeed here anyway, he thought, feeling hopeless."
+    },
+    {
+        "Triggering Event": "At the breakfast table, he watches his wife struggle with the crossword puzzle, her once-steady hands now trembling slightly. She looks up at him, her eyes welling with unshed tears, and whispers, \"I can't do it anymore.\"",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I feel so helpless watching her like this; she's always been my rock. I'm worried about her health, especially since she had that fall last week. Maybe we should take her to see a doctor again?\""
+    },
+    {
+        "Triggering Event": "She stirred the pot with a heavy sigh, the scent of burnt garlic filling the empty kitchen. The once-familiar clatter of pans now echoed hollowly as she prepared for another service alone. Her reflection in the stainless steel counter caught her eye - the lines etched deeper around her mouth, hair greying at the temples. She paused, remembering how he used to tease her about her \"craggy\" good looks before they became just craggy. Tears welled up as she turned back to the stove, misplacing the salt and oversalinning the dish. Another mistake in a string of them since he left.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She couldn't help but feel like a failure, even when the restaurant was bustling and the orders were flying out. In contrast, that new chef seemed to be gliding through the day with ease, whipping up dishes with precision and finesse. He was younger, more energetic, and his confidence radiated like a warm glow. She felt like an old, worn-out book next to him—a relic from a bygone era. Every time she looked over, she saw the lines etched into his face, the sparkle in his eyes that seemed to say, “You’re not keeping up.” She could almost hear the whispers behind her back, “Look at her, she’s so much older than him,” and “What would he think if he knew she was struggling to keep up?” It wasn’t fair; he had no idea what it took to build a life from scratch, to work tirelessly every day, to sacrifice personal interests for the sake of the business. But still, she felt like a shadow compared to him, a reminder that time was running out. She wondered if anyone would notice if she simply disappeared, leaving the restaurant to its young, vibrant crew. Maybe then I’d finally find peace, and this constant feeling of inadequacy would fade away. Until then, I’ll just have to pretend everything is fine, all while secretly counting down the days until my retirement."
+    },
+    {
+        "Triggering Event": "(Scenario)\nAge 42, single chef rushes into her bustling kitchen at noon prep time. She notices two cooks arguing over a recipe, their voices rising. Her heart pounds as she imagines falling behind schedule, losing customers. Sweat beads on her forehead; she feels lightheaded, gripping the counter for support. \"Enough!\" she snaps, her voice echoing through the kitchen. The room falls silent except for the sizzling pans. She turns to face them, trembling slightly but determined not to let panic consume her.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Oh my god, I have no idea how you're going to get this done! It's like the universe is conspiring against you. You're already behind, and now you'll probably miss your reservation. I can't even imagine how stressed out you must feel. And don't even get me started on the state of the kitchen. It looks like a disaster zone. I'm surprised you haven't had a heart attack yet.\" - Rachel"
+    },
+    {
+        "Triggering Event": "She saw him again, that young doctor who had mocked her nursing skills to his colleagues, loud enough for her to hear. She felt a familiar heat rise within her, not from age but from the hatred she'd been nurturing since that day. Today, he approached her, asked about her thoughts on a new procedure. She looked at him, her eyes cold as ice, and walked away without a word.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She was already mad when she saw him, I can tell by how quickly she turned around. What if she's angry with me? Maybe I said something wrong back then. But I know I didn't say anything out of anger because I'm so calm in my interactions. Still, it's better to be safe than sorry. So, maybe I did say something, but I wouldn't have said anything that would make her upset now. Yeah, definitely just a coincidence she ran into me again. Maybe there is more to this situation than what we both think. What if they're trying to trick us both? Why else would she act like that after all these years? It has to be some kind of manipulation. She must be doing this to get revenge somehow, even though she doesn't seem to want to talk anymore. This isn't going to end well... - (from another nurse)"
+    },
+    {
+        "Triggering Event": "Male chef, 43, married, feels helpless as he watches his wife struggle to open their restaurant's stuck door during rush hour, with no backup staff available and orders piling up in the kitchen.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Well, things aren't really that bad. My husband made some decent food, and most people seem happy with their meals. Plus, the"
+    },
+    {
+        "Triggering Event": "A patient, dismissive of his advice, left him a scathing note: \"You're past your prime, doc.\"",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Wow! I can't believe how hurtful that was. You really think you could just tell me like that? That's so rude. I'm sure he's just jealous because I have all those years of experience and he doesn't.\""
+    }
+]

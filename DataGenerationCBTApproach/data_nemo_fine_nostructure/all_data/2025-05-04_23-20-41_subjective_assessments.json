@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nIn the bustling hospital cafeteria, she grabbed her lunch and sat down at an empty table. A nearby group of doctors, laughing loudly over their steaks, barely noticed when one of them kicked her chair, spilling her coffee. She sighed irritably, mopping up the spill with napkins. \"Sorry,\" he muttered, not looking her way.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She's always so uptight; she probably has a lot of issues to deal with anyway. I can't believe she let herself get that upset over something like this."
+    },
+    {
+        "Triggering Event": "An overdue invoice from her former employer arrives, addressed to her husband instead of her, despite him retiring years ago and her still working remotely.",
+        "Sex": "Female",
+        "Age": 73,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She was extremely upset upon seeing this, feeling betrayed by her ex-employer for not addressing the invoice correctly. She immediately called them, demanding why they would send such an important document to the wrong address, especially after all these years."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, dressed in her usual uniform, was arranging a display of discounted items at the store where she worked for over two decades. A younger colleague walked by, smirking, \"Still putting up sale signs? You've been doing this since dinosaurs roamed.\" She felt a pang of shame as other staff members chuckled quietly.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She thought, \"Maybe I'm just too old-fashioned for this new-age retail environment?\" This led her to wonder if she had somehow missed out on some essential training that others received when they started working there. Feeling uncertain about her place among younger colleagues, she decided it might be time to ask the boss for additional guidance. The question lingered in her mind, \"Do I need to change my approach?\""
+    },
+    {
+        "Triggering Event": "He sees them through the window of the local café, their laughter echoing even from across the street. She's there with him, another officer from his station, their hands touching occasionally over shared fries. He watches, unseen, as she throws her head back in laughter at something he says. His gut twists, not with anger, but a familiar, gnawing jealousy. It's been six months since they broke up, but the sight of her with someone else feels like a punch to the gut every time.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "It really sucks when you see your ex laughing with someone else. I mean, it just makes me feel bad for no reason. Maybe I'm being too sensitive about it? But honestly, whenever I see them together, I start thinking about what I could've done differently. If only I had made more of an effort, maybe things would be better between us now. It's stupid, but it still bothers me how much attention they're giving each other. It's like my mind can't help but think about all the times we used to share laughs like that, and it makes me wonder if I'll ever get someone like her again. But why does it have to be this way? Why can't I see her with anyone else? Just because they're friends doesn’t mean anything. I know that, but deep down, I wish I wasn't so insecure. Maybe I’m just jealous because I don't have someone like her by my side anymore. It’s hard to accept that life goes on for everyone else, while mine is stuck in this rut. I guess I need to focus on my own life and stop dwelling on what could’ve been. Still, seeing them together keeps coming back to haunt me. It feels like my heart can't let go, and I keep thinking about how I could've changed things. It’s ridiculous, but I can't shake off these thoughts. It's almost as if I'm trying to convince myself that I deserve someone like her,"
+    },
+    {
+        "Triggering Event": "She found his old, worn-out sneakers in the back of her closet while packing for her first day teaching alone. She hadn't touched them since the funeral.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She was so disappointed that he would leave such a big gift behind without even thinking about it. He must have thought she wouldn't be able to handle all those responsibilities by herself. Maybe he didn't think she'd last long enough to really make a difference. I wonder if she'll ever forgive him for leaving like this. The way they were always supposed to work together has fallen apart. Now she's going to struggle with everything because she can't trust anyone else to help her out. And now everyone thinks she's incompetent because she couldn't even keep things running after what happened. It feels like my whole life is falling apart."
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by her classroom. The laughter of their shared students echoed through the halls, a stark reminder of what once was. Today, however, the door was closed, and he heard whispers from inside. A familiar voice, his ex-wife's, reading aloud their son's letter—a letter meant for him. Resentment surged as he realized she'd been keeping it from him.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He remembered how they used to walk hand in hand past her classroom every morning. Their love seemed so strong then—stronger than he could have ever imagined. But that was before everything fell apart. She left, taking our child with her, leaving me alone with nothing but memories. And now, I'm faced with this new reality: she's still there, teaching, laughing with her students, while I've been living in solitude. It feels like she's moved on, leaving me behind. Her smile, once so bright, has faded into indifference. Every day, I see her passing by my apartment window, and I wonder if she thinks about us at all. Maybe she does, but why would she? She must be happy now, surrounded by young minds eager to learn. My mind can't help but fill in the gaps, imagining her holding hands with another man, sharing stories that don't involve me. That's all I can think about now—the thought of her moving on. It's hard not to feel resentful when I realize she's kept their son close to her side. He's probably growing up with two mothers instead of just one, and I'm stuck outside, watching from afar. But what really hurts is when I hear her voice, soft and soothing, guiding her students through lessons. It sounds so natural, so effortless. I imagine her sitting at home, reading letters from them, listening to their progress, and feeling proud of the teacher she's become."
+    },
+    {
+        "Triggering Event": "He clocked out at 11 PM, the hospital's dim lights casting long shadows around him. The sterile corridors were eerily quiet this time of night, save for the distant hum of machinery. As he stepped outside, the city was already asleep, its usual cacophony replaced by an unsettling silence. He pulled his hood up against the chill, walking alone down deserted streets towards his apartment. No one greeted him, no one acknowledged him. Just another solitary figure in a sleeping city. His phone remained silent in his pocket, not even a notification to break the loneliness.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He seemed lost in thought as he walked, his eyes fixed on some point ahead. It wasn't until he passed the corner café that he noticed me standing there, watching him. My gaze felt like a weight, pressing down on him. He didn't notice me, but I could see the faintest glimmer of recognition. For a moment, our eyes locked, and then he looked away, disappearing into the darkness. I watched him go, feeling like I'd seen something important, something that would change him forever. Maybe it was just my imagination playing tricks on me, but I couldn't shake the feeling that I'd glimpsed a truth he didn't want to face. ---"
+    },
+    {
+        "Triggering Event": "A man in his mid-forties, dressed in civilian clothes, entered the police station. He approached the desk where you sat, filing your report from the morning's shift. His eyes, cold and determined, met yours. \"I want to file a complaint,\" he said, voice low but steady. \"It was my son they let go yesterday. The one who deals meth.\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "You look up from your paperwork, startled by the sudden interruption. The man looks like someone who has been through hell. His expression is a mix of anger and sadness, and it makes you pause for a moment. You try to compose yourself and ask him what happened, but before he can respond, you feel a surge of emotions. It's as if you're being pulled into his world, where everything feels dark and uncertain. The officer beside you clears her throat, signaling that she wants to take over. She asks the man to fill out a statement, and he hesitates for a moment before starting to speak. As he talks, you listen intently, trying to process what he’s saying. It sounds like something out of a nightmare – a young man, barely out of his teenage years, arrested for dealing drugs. What could have led him down this path? As he speaks, you find yourself thinking about your own life. You’ve worked hard to get where you are, building a career and a family. Your son is all grown up now, working and making his own way in the world. It feels like there’s a disconnect between the man standing before you and the person you once knew. You think back to when your son started getting involved with bad people. There were signs, but you never imagined things would escalate this far. How did he end up like this? Was it something specific that pushed him off course? And what does it say about you that your child"
+    },
+    {
+        "Triggering Event": "At 7 PM, he slammed his laptop shut, frustrated by yet another editor's refusal to run his investigative piece on urban decay. His partner, sensing his mood, quietly reheated last night's leftovers for dinner.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He was furious about being rejected again. The dinner felt like an afterthought, a weak attempt to soothe him. I just wanted to get home, relax, and forget about my frustrations. This is my life now, constantly fighting against people who don't want to listen. It feels like every door I try to open gets slammed in my face. I'm tired of it all, but I know I need to keep pushing forward. Maybe someday someone will finally hear me out. But until then, I'll just have to grit my teeth and keep going. Dinner was cold, but I didn't even notice. I was too busy scrolling through social media, looking for anything that would distract me from this endless cycle of rejection. It’s not worth eating anyway. My stomach doesn’t care about food right now; it’s just empty space where emotions once were. I’ve lost count of how many times I’ve been told no, how many rejections I've faced. It’s starting to feel like nothing matters anymore. As I lay here, staring at the ceiling, I wonder if there's ever a point when things start getting better. Is this what it means to be a journalist? Always chasing something that might never come? At least I got some work done tonight, though. That has to count for something, right? But I guess it wasn’t enough. They still say no. Dinner was over before we even started. I just went through the motions, pretending everything"
+    },
+    {
+        "Triggering Event": "A middle-aged man, shoulders hunched, watches as his partner gently places their wedding photo face down on the mantelpiece. He feels a pang of shame as she quietly explains, \"It's time for a change.\"",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I don't understand what you're saying,\" he said, crossing his arms. \"Either I'm doing something wrong, or I'm just not good enough.\" His eyes dropped to the floor as he muttered, \"If she wants me to be more helpful, then she should tell me exactly how to fix things. Otherwise, it means she doesn't want me around.\" He looked up at her, his voice rising, \"You're always pushing me away! Either you want me here, or you don't.\" \"Maybe we can find a middle ground?\" she suggested calmly. He scoffed, \"No way. If there's even a tiny bit of truth in that, then maybe I've been holding back. But if there isn't...then I'm nothing but a failure.\" He shook his head, \"I'd rather die than accept being average.\" ---"
+    }
+]

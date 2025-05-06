@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"She watches her editor's cursor blink, awaiting his reply to her pitch. It blinks, then stops. 'Not this time,' he types. She feels the familiar sting of rejection, a knot forming in her throat.\"",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Subjective Reaction:** The editor is just that bad. I don't know why they're so mean. They never give anyone a chance."
+    },
+    {
+        "Triggering Event": "In his usual routine, he opened the kitchen drawer for his morning tea spoon. But today, nestled among the utensils was her favorite, the small silver one she'd loved so much. He hadn't seen it since her passing three months ago. His breath caught as memories of her laughter filled the empty space around him.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "It's probably just my imagination playing tricks on me again, but I couldn't help feeling like I had done something wrong by moving that spoon. Maybe I did touch something else in there too? It must have been an accident because she would never leave those things out of place on purpose. She always kept them organized, remember? Anyway, I'm pretty sure it wasn’t intentional, maybe it’s just my memory playing tricks on me. I know it’s weird to think this way after such a short time, but what if I’m just forgetting things? It could be some kind of grief thing. She said how much she hated losing her spoons—maybe she didn’t want anyone to use them while they were still in the drawer. Yeah, that makes sense. Maybe I should go clean the drawer again, make sure everything is where it belongs. I don’t want anything to trigger more bad memories. I’ll get it sorted soon, I promise."
+    },
+    {
+        "Triggering Event": "The ER was a flurry of activity, but she couldn't shake the feeling that something was amiss with Mr. Thompson's chart. She double-checked his allergies, her heart pounding as she realized the potential medication error. The stress of the day threatened to overwhelm her, but she pushed through, barking orders for the correct medication.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was drowning in a sea of errors, each one magnifying the mistake into an unmanageable crisis. Her mind spiraled out of control, fixating on every possible misstep, from medication mix-ups to forgotten lab results. It seemed like the hospital was spinning out of control, and she was trapped at the center, fighting to keep everything together. Every decision felt monumental, and she worried that she wasn't doing enough to prevent further disasters. But then she caught herself—she had been so focused on the chaos around her that she'd almost forgotten why she became a nurse in the first place: to make a difference, one patient at a time. With a deep breath, she refocused on the task at hand, reminding herself that even if things didn’t go perfectly, it was never too late to learn and improve. The moment was still intense, but now she saw it as an opportunity to grow, rather than letting fear take over."
+    },
+    {
+        "Triggering Event": "A middle-aged man, married with no children, sits in his study after a long day of surgeries. His wife enters, showing off a new necklace given to her by an old friend who had stopped by unannounced. He feels a pang of bitterness, noticing that she hasn't received such tokens from him in years.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He thought about how he hadn’t bought her anything since before they got married, which was 30 years ago. The memory of those gifts flashed through his mind, but it didn’t seem as meaningful now, especially since he’d forgotten most of them. He wondered if he could ever be as thoughtful as she is. She seemed to always know what she wanted, and he couldn’t help feeling inadequate compared to her kindness."
+    },
+    {
+        "Triggering Event": "She saw him through the kitchen window, laughing with their daughter at the table she used to set for three. The sun caught his wedding ring as he gestured, and her heart twisted like dough in too-rough hands. He was happy, moving on, while she stood alone, surrounded by the ghosts of their meals.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was either happily married with a family or dead. I couldn't see why she'd choose the former when it meant being trapped in a life that wasn't hers. Maybe if she had a choice, she'd pick death—anything would be better than this. Her smile could have been a cruel joke, but then again, what if it was genuine? It didn't matter; my mind made up its decision, refusing to entertain anything else. They were either meant to be together forever or they never should have met in the first place. There was no middle ground, no room for doubt. She was either lost forever or she found herself."
+    },
+    {
+        "Triggering Event": "A worn envelope, yellowed with age, arrives in the mail. He recognizes his late mother's handwriting. Inside is a letter she'd written years ago, unopened until now. It's a reminder of a promise he broke, a regret that's haunted him since her passing.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She never told me about it, but I found out from an old friend. She was going through some tough times back then, and it looks like this letter might have been a way to cope with stress. The fact that she didn't share it with me makes sense; we were both so focused on our own struggles at the time. But why did she write something like that? Wasn't she happy when she got married? Didn't she want a big family? This whole situation has me wondering if my parents were just pretending to be perfect families all along."
+    },
+    {
+        "Triggering Event": "In the studio, he slashed through the canvas with his brush, each stroke echoing the tightness in his chest. His wife's voice drifted from the kitchen, \"We need to discuss your expenses.\" His grip tightened around the handle; she didn't understand, never had.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Can I just finish this painting? You're always complaining about how much money we spend, but you never say anything when I work late nights or take on additional hours. When did it become okay for me to sacrifice my time for our family if you can afford to eat out?\" # Example 1 # Response \"I'm exhausted. Why are you still working so hard? You have a great job and make more than me. Your boss is nice too, right? He lets you go home early and doesn't expect as much effort as I put into my job.\" # Example 2 # Response \"You're spending too much on that car. If you really needed one, why did you buy two houses and invest in stocks? We could've bought that car last year if you'd sold some of those investments.\" # Example 3 # Response \"Why do you keep saying you don't want kids? You're always telling me what I shouldn't do, like buying that expensive laptop, but you spend thousands on vacations every summer. What would you say if I said I wanted children?\" # Example 4 # Response \"Your parents gave you everything, and now you get to live rent-free while I pay all the bills. They must be happy they got to raise someone successful, right? They helped you learn coding and even paid for your degree, which I couldn't afford.\" # Example 5 # Response \"You look so good in that"
+    },
+    {
+        "Triggering Event": "She woke up at dawn, the familiar clatter of pots and pans echoing through their empty house. Today was her day off, but she couldn't shake the feeling that something was amiss. As she made her way downstairs, she noticed the kitchen table bare except for a single, unopened letter addressed to her husband. The stamp read 'Overdue'.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She thought to herself, \"This is just another instance where he forgets important dates.\" It's becoming an all-too-familiar pattern, one that has been repeating itself for as long as I can remember. Every time there’s a significant date coming up, we end up missing it. He’s always forgetting anniversaries, birthdays, even the occasional dinner reservation. It's becoming so routine that I've stopped expecting him to show up when we have plans. He does it because he doesn’t care enough about these moments, and I’m starting to feel like I'm stuck in some sort of never-ending loop."
+    },
+    {
+        "Triggering Event": "He arrives home, late from another grueling shift at the hospital. His partner, immersed in their laptop, doesn't even glance up as he enters, let alone greet him. He hangs his coat, the silence heavy with contempt for the cold welcome.",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He's been ignoring me lately. I've tried talking about it, but he just says he's too busy. It's clear he has no interest in spending time together anymore. The way she barely looks up when he walks in confirms that. She doesn't want anything to do with him. This is proof that my concerns are valid."
+    },
+    {
+        "Triggering Event": "While restocking the shelves at midnight, he noticed a half-eaten muffin hidden behind a display, left by a careless customer earlier that day. He felt his cheeks flush with embarrassment as he recalled the mess he'd made last week when stressed, and how his partner had found it before he could clean up.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He couldn't believe he'd been so clumsy again. His mind flashed back to the time he accidentally knocked over a vase, spilling water everywhere. The memory of his partner's disappointment still stung, but he knew she was being unfair. She never said anything about it, but he could tell she didn't trust him anymore. He thought about all the times he'd forgotten things, like taking out the trash or turning off lights. It wasn't just about forgetting; it was about feeling overwhelmed. When he was stressed, everything seemed to fall apart. His partner would get frustrated, but he understood that she didn't know what it was like to be in his shoes. This time, though, it wasn't just about being forgetful. This muffin was more than just a mistake—it was a sign of deeper issues. If he couldn't even remember something simple, what did it say about his ability to take care of himself? Was he really cut out for this job? It wasn’t just the muffin; it was the way he handled stress. He remembered how he’d yelled at his sister during an argument, and now he wondered if he was capable of controlling his emotions. Could he really be trusted to keep track of things, especially with work piling up? His thoughts swirled with self-doubt, and he began to imagine all the ways he might have messed up today. Had he missed something important? Did he forget to lock the door? Or maybe"
+    }
+]

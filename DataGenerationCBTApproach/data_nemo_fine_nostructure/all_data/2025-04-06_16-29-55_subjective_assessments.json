@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A parent storms into his classroom during lunch break, complaining about a grade they believe is unfairly low.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "It’s your fault you didn’t study harder. You’re just trying to get out of work by making excuses. The fact that you're upset when you receive an F doesn't mean anything. If you had actually studied, then you would have gotten a B. Now you’re going to fail my class and end up with poor grades overall. All this time wasted could’ve been spent studying, but no... you were too busy playing video games and watching TV instead. It's like you want to fail. You need to stop whining and start working harder. I don’t care if you think you deserve an F; you don’t. Just accept it and move forward. You’ll regret wasting all this time later. Now go back to school and try to make something of yourself before you end up failing life. # Output End # This response shows how a student might react when confronted about a poor grade, revealing the underlying belief that \"the outcome was always going to be bad\" - which is the essence of Fortune Telling. This type of thinking assumes that everything has already been decided, and there's nothing anyone can do to change it. Instead of focusing on solutions and growth, the student resorts to blaming themselves for the situation, implying that they are destined to fail and can't escape their fate. By expressing frustration and disappointment at the same time, the student reveals their deep-seated conviction that failure was inevitable from the beginning. Their words convey a sense of resignation and hopelessness"
+    },
+    {
+        "Triggering Event": "At the weekly editorial meeting, he noticed his name was missing from the byline of an article he'd spent hours crafting. The room was silent as his colleague, a junior reporter, took credit for it. His grip tightened around his pen, knuckles turning white with suppressed spite.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He couldn't help but think that he was so unimportant that no one even bothered to write down his name in the first place. It wasn't just this one time; it seemed like every other story he worked on ended up being taken by someone else. He felt like a ghost hovering at the edges of the team's discussions, always invisible. When they spoke about him, it was as if they were talking about some faceless entity, never truly acknowledging him. Even when he tried to contribute, his ideas got shot down, dismissed as if he didn't matter enough to consider. He wondered if anyone would even notice if he suddenly disappeared."
+    },
+    {
+        "Triggering Event": "She meticulously cleaned her studio, arranging her paints and brushes just so. Her partner entered, casual in jeans and a t-shirt, leaving muddy footprints across her freshly vacuumed floor. She felt her irritation spike as she watched him nonchalantly kick off his shoes by the door, exposing the soles still caked with dirt.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was either completely incapable of caring for herself, or she deliberately left her room a mess to annoy me. It didn't matter that I'd seen her tidy up before; it felt like a trap, a setup to get under my skin. She had to be either a slob who couldn't even be bothered to clean her own space or a manipulator who wanted to stir up conflict just for its own sake."
+    },
+    {
+        "Triggering Event": "He opened his lab fridge for supplies, only to find a rotting experiment - a putrid smell of decay hit him like a punch, making him gag and recoil in disgust.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Wow, I've never seen that before! It looks so gross, like someone just left it there. The smell is crazy strong too. I'm glad we have a new fridge now.\" (I know he's not entirely overreacting but still, the mental filter is pretty clear here)"
+    },
+    {
+        "Triggering Event": "At 7 pm, after a long day of substitute teaching, he found his apartment door ajar. A quick sweep revealed missing electronics and scattered books. His prized first edition was gone, the one he'd bought with his first paycheck as a teacher. Rage boiled within him, a primal roar threatening to erupt from his throat.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "At 7 pm, I couldn't believe it when I opened the door and saw that my stuff had been taken. The thief must have come in while I was out, right? It's such an outrage, stealing something so valuable. I can't believe someone would do this."
+    },
+    {
+        "Triggering Event": "A male retail worker, aged 27, in a relationship, leaves work to find his partner's ex waiting outside their apartment building, laughing loudly with a friend over what appears to be an inside joke.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She must have been waiting for me at the store. She was probably just joking around about how she's going to \"find him\" here. I don't think she would actually wait for me here. I'm pretty sure they were just messing around about something stupid. That doesn't mean anything, anyway. We're fine. It's just her being a little silly. Yeah, it's weird but we can handle this. I'm sure it won't be such a big deal. If anything, I'll tell her I didn't want to talk to her today because I had plans with my girlfriend. That will make everything okay. I'm sure nothing bad is going to come from this. It's probably just a misunderstanding. I need to stop worrying."
+    },
+    {
+        "Triggering Event": "A colleague, mid-30s, single and recently engaged, leaned over her desk to show her photos from their weekend getaway, asking, \"Remember when we used to do this?\"",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm so glad you're doing well! I remember that time really fondly.\" (This response is an attempt to change the subject to avoid talking about the past, which may be uncomfortable for both parties.) It also shows empathy and appreciation for her current situation, creating a positive atmosphere."
+    },
+    {
+        "Triggering Event": "\"While rushing to file his latest story, he noticed an email from his editor with the subject 'Urgent: Your Latest Piece'. His heart pounding, he clicked it open, only to find a typo in his lead paragraph. He felt a wave of anxiety, imagining his wife's disappointed look if she found out about this mistake.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "After reading through the article again, I realized that it was just a minor error. The rest of my work is fine. My wife would never even notice it anyway, so why stress? This is such a small thing, but my mind is still racing about what could have been. I'm trying to focus on the bigger picture, but I can't shake off the feeling that this will be the reason I miss dinner tonight. It’s just not worth getting worked up over."
+    },
+    {
+        "Triggering Event": "Scenario:\nShe found his old raincoat, forgotten behind the closet door, as she was tidying up before her evening shift at the boutique. The musty smell of him still lingering in the fabric. It had been three years, but today it felt like yesterday. Misery settled heavily on her shoulders as she gently placed the coat back where it belonged, alone and untouched.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "It's really unfair to feel this way about something so trivial. I mean, what does a raincoat even matter? And yet, every time I see that old jacket hanging from the hook, I'm hit with waves of sadness, feeling like I've lost something precious. My friend told me once that memories are just that – memories. But how can you call them that when they make you feel like you're missing out on life? I guess I’m just comparing my life to hers—she’s always happy, while I’m stuck here, reminiscing about the past. She has such a wonderful boyfriend; he loves her for who she is, and she adores him right back. Meanwhile, I’m over here with nothing but thoughts of him. Every moment we shared together feels like a distant dream now. It’s crazy how something as simple as a coat can evoke such strong emotions. I suppose it’s because I have no one else to share these feelings with. What would it be like if someone else understood how much that coat means to me? Maybe then I wouldn’t feel so lonely. But honestly, what’s the point of holding onto all these memories? They only bring pain. Yet, I keep coming back to them, hoping somehow, someway, things will change. Maybe someday I’ll find happiness again, and the raincoat will be nothing more than a memory—a reminder of happier times. Until then, though, I'll just have to live with it. After"
+    },
+    {
+        "Triggering Event": "At the weekly lab meeting, his colleagues casually mentioned he'd forgotten to acknowledge a junior researcher's contribution in yesterday's publishable paper. He felt their pitying glances and realized with a pang that his once-keen mind was now subject to lapses. His cheeks burned as he excused himself, leaving behind an awkward silence.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He's losing his edge; his mind is slipping away from him. The lack of recognition for his work is just another sign that time is running out. He can't trust himself anymore—his memory isn't reliable, and he’s starting to feel like a ghost haunting his own life. It’s all downhill from here. He’s just going through the motions now, pretending to care about research when the truth is, he doesn’t even remember what he cares about. He's just faking it until someone notices that he's not paying attention. And they will notice. They already have. His mind is a mess, and there's no fixing it."
+    }
+]

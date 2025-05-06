@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She opened her inbox to find an email from HR, subject line: \"Re: Your Annual Review\". It was a brief, impersonal message informing her that despite her hard work and dedication, she would not be receiving the promotion she had been hoping for. The words on the screen seemed to blur as she felt the familiar sting of disappointment.",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She should have gotten that promotion. After all, she's one of the top performers in the company. Shouldn't she be rewarded with more responsibilities? Why wasn't it even considered? This is so unfair. Her boss should have told her personally instead of sending such a generic email. That's how you handle important news like this. Instead, she got a bland message from HR. Doesn't matter that she doesn't deserve it; she still feels let down. This is how promotions are supposed to go down—person-to-person. Not some cold, impersonal email."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA sudden power outage strikes her apartment, plunging her into darkness as she's video-chatting with colleagues about an impending project deadline. Her heart races as she fumbles for her phone's flashlight, thoughts racing about unsaved work and potential criticism from her team. The silence is deafening, amplifying every imagined noise, making her breaths come in rapid, shallow gasps.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "My anxiety spiked during the blackout, even though I was alone at home, because I had to finish this video call on time. Even though it’s just a simple meeting, my mind started racing with all the things I could have missed while waiting for the lights to come back on. It felt like everyone else was judging me silently, which made it harder to focus."
+    },
+    {
+        "Triggering Event": "She hesitated before pressing 'send' on her latest article, knowing it exposed a source who'd trusted her implicitly. A fleeting image of him, his face etched with worry, flashed through her mind. Her stomach churned as she clicked 'send'. Alone in her apartment later, she picked at her dinner, the guilt gnawing at her like an insatiable hunger.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She couldn't help but feel that he had pushed her into this situation. His words still lingered in her ears: \"You have to tell them.\" He knew exactly how much pressure she was under, and now she felt trapped. The anxiety was suffocating her, making every breath feel like a struggle. It wasn't just the deadline; it was what lay beyond—her reputation, her career, even her life. All because he wanted something from her."
+    },
+    {
+        "Triggering Event": "A weathered patrol car pulls up to the curb, its headlights illuminating a familiar figure huddled in an alley. The woman behind the wheel, nearing her late sixties but with eyes still sharp and stern, feels a surge of vengefulness stir within her. She recognizes the man, a known criminal who had once slipped through her grasp, laughing as he walked free from court. Now, he's slumped against a wall, unconscious, bleeding from a gash on his forehead. Beside him lies a broken bottle, glinting menacingly in the streetlight. Her grip tightens on the steering wheel, knuckles turning white. She knows she should wait for backup, follow protocol, but all she can think about is making this man pay for every laugh he's ever had at her expense.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "A sense of outrage washes over me as I see the old man lying in the gutter. It’s clear he’s been beaten by someone else, and it’s my fault because I didn’t stop him sooner. I keep replaying the situation in my head, wondering how I could have missed such a vulnerable target. The image of him bleeding into the pavement haunts me, and I feel compelled to make things right, even if it means risking my life. My instincts scream at me to act, to take revenge on whoever did this, but deep down, I know that won’t solve anything. Still, I can’t shake the feeling that I’m somehow responsible for what happened."
+    },
+    {
+        "Triggering Event": "A young woman, married and in her early twenties, sat at the kitchen table, flipping through a photo album from their wedding. She paused at a picture of her husband dancing with his college friend, laughing freely. She felt a pang of insecurity, wondering if he still thought about his old flame.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She wondered if he was still attracted to his ex-girlfriend. The image seemed innocent enough, but she couldn’t shake off the feeling that there might be more to it than meets the eye. It wasn’t just the way they laughed together; maybe there were unspoken promises between them that went beyond friendship. He had always been close to his friends, but this particular moment made her question whether he ever stopped loving her. It didn’t seem like an accident how much they looked alike – it almost seemed like fate. He probably has some kind of romantic feelings for her too. Maybe he’s thinking about her right now, reminiscing about those carefree days. It's strange how much nostalgia can make us feel insecure. If I could only see him dance with someone else, I wouldn't be here today. But why does it have to be her? She must have something special. It doesn’t make sense that they would stop being so friendly after all these years. It looks like they’re having fun, but what if it’s more than that? This is ridiculous! I’m overreacting again. It’s probably just my imagination running wild. I need to stop jumping to conclusions and focus on reality. Maybe she really is just happy to see him, and we shouldn’t read into things too much. It’s not worth worrying about, let me tell myself that. It’s not just about the photo; it’s the whole situation. We’ve been married for two years"
+    },
+    {
+        "Triggering Event": "A man in his mid-forties, wearily clocking out after another long shift at the local retail store, finds a graffiti-covered poster of himself taped to his locker, bearing the words \"Nobody wants you here.\"",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Wow, that's so cool! I love it when people take things like this and turn them into art. You know, I was thinking about what kind of job would be perfect for me—something creative where I could really express myself. And then I saw this poster, and I realized how much I'd love working somewhere with a similar vibe. It made me think that maybe someday I'll find just the right place where my passions align.\""
+    },
+    {
+        "Triggering Event": "He woke early, the sun barely a whisper in the sky. His sous chef was late again, slamming through the kitchen door with apologies that tasted as sour as last night's burnt sauce. He felt resentment bubble up like an overboiled pot, remembering his late wife's patience, her warm smile when she'd greet their staff each morning. \"You're not her,\" he snapped, slamming a pan down hard enough to make the kid jump.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**He** is never going to be patient with anyone again. I'm done trying to teach him how to run a restaurant. If he can't even get out of bed on time, he'll never have the discipline to manage this place. He doesn't care about customers; he just wants to go home and forget about all of us working our butts off. I've had it up to here with his lack of responsibility. We need someone who understands what it takes to run a business, not some lazy bum who thinks he's above everyone else."
+    },
+    {
+        "Triggering Event": "In the dimly lit community center, she stood alone, clutching the microphone like it was her badge in this unfamiliar territory. She had been invited to share her decades of service at a public event honoring local heroes. As she began, \"Good evening...\", a burst of laughter erupted from the back, drowning out her words. The room grew silent, but the mockery still echoed in her ears. She stumbled through her speech, feeling each gaze like a physical weight, before retreating to her seat, humiliated by the disrespect.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She's just another pathetic old lady who can't even hold a candle to real leaders."
+    },
+    {
+        "Triggering Event": "She woke up alone in their king-sized bed, her husband's side still perfectly made from last night. The clock read 6:30 AM; he should've been up hours ago to start his commute. His absence felt heavier than usual, an emptiness that gnawed at her insides. She found a note on the kitchen counter - \"Work emergency, back late.\" The words blurred through her tears as she slumped onto a stool, her reflection in the window showing a face etched with misery.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She couldn't help but feel like he was just avoiding her. It wasn't the first time this had happened, and it seemed like every morning she'd wake up to another reminder that her life didn't feel complete without him by her side. I guess some people just don't understand what love means, and maybe he doesn't even care enough to try anymore. I'm tired of being here without him, yet he can't be bothered to even call me when he's running late. It feels like we're living two different lives - mine is full of dreams and plans, while his is filled with work and stress. He always talks about how hard things are at the office, but then goes out of his way to avoid our conversations. Maybe he thinks I'll just leave if he doesn't make enough effort? That would suit him just fine."
+    },
+    {
+        "Triggering Event": "At 9 PM, she sits alone in her apartment, scrolling through photos from last year's office holiday party. The laughter and warmth of that night contrast sharply with the quiet, empty room around her now. A notification pops up: \"You've been removed from [Ex-Husband]'s friend list.\" She feels a pang of loneliness pierce her heart as she realizes she's been officially erased from his life.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She can't help but feel a deep sadness wash over her as she scrolls through those photos. It's hard to see him laughing with someone else when it was once just us. He had such a big smile on his face during the photo shoot. I remember how happy we were back then - happy for our future together. Now, looking at these memories makes me realize what could have been. Maybe he's moved on already? That would explain why he blocked me from his friend list. I'm just glad I got out before things fell apart completely."
+    }
+]

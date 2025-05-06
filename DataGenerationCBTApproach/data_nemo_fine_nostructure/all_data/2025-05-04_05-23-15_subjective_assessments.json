@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A parent approached her after class, smiling warmly but speaking loud enough for others to hear, \"I heard you stumbled over your words during today's lecture. It happens to everyone, right?\"",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Aww, yeah, I guess I did stumble over my words, but it's okay, I'm just really nervous about this test. My mind is racing because I've been studying so much lately."
+    },
+    {
+        "Triggering Event": "He walked into their empty house, the silence heavy like an uninvited guest. In the dim light of dusk, he noticed the dust on her favorite chair, a stark reminder of how long she'd been gone. He picked up the framed photo from the mantel, his thumb brushing against the glass that separated him from her smile. The house, once filled with their laughter and warmth, now felt like a museum dedicated to a life cut short. He put down the photo, his heart echoing the emptiness around him. As he turned off the light, the doorbell rang unexpectedly, jarring him from his thoughts. Standing outside was a young woman, her eyes filled with tears as she handed him an envelope addressed to him in his wife's handwriting. His hands trembled as he took it, the weight of neglect bearing down on him once more.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He can't handle this anymore. She left us because I couldn't be there for her when she needed me most. Every moment we shared together feels hollow now; every day is just another step towards our inevitable separation. It’s all my fault - I’m never good enough. When I look at the photo, I see a memory tainted by my inability to protect her. And now, this stranger comes knocking, forcing me to relive those painful moments again. What if she doesn’t even care? Why would anyone else want to live in our home, surrounded by the memories of what could’ve been?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA harassed, middle-aged woman with silver hair pulled back in a tight bun, working the cash register at a bustling department store during peak holiday season. Her eyes dart anxiously to the long queue building up behind her as she struggles to keep pace with the beeping scanner, her hands trembling slightly from fatigue and stress. A impatient customer taps their foot loudly beside her, checking their watch every few seconds. Suddenly, the register's printer jams, and a surge of panic rises within her.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Oh my god, I'm so sorry this happened again! It must have been because I was already tired today - I never get tired when I'm happy and relaxed, but I guess that's why this keeps happening. Maybe I just need to work harder? Or maybe it's because I always make mistakes, no matter how careful I am?\""
+    },
+    {
+        "Triggering Event": "In the quiet of her studio, she stared at the blank canvas. The clock ticked louder with each passing minute. A deadline loomed, yet her hands refused to move, paralyzed by the weight of expectation. Her heart pounded in sync with the clock, echoing through the silent room like a drumbeat counting down to failure.",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt like she was staring into a mirror, not seeing her own reflection but the faces of everyone who mattered. Each brushstroke seemed to echo a"
+    },
+    {
+        "Triggering Event": "In the quiet of his home office, he paused over an old photograph tucked among his books. His wife's smile caught him off guard, as it always did since she passed. He noticed a small tear in the paper, right through her left eye. Carefully, he reached for the tape, but his hand trembled, knocking over a half-empty glass of water. The spill seeped into a stack of letters she had written to him over the years, now blurred ink spreading across yellowed parchment like an unstoppable tide of grief.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "This is so typical of him. Always so careless with things. I remember how he would leave the stove on when we were out, and then wonder why our house would fill up with smoke whenever we came back. Now, here he is, spilling water all over my letters. It feels like he’s trying to erase me from his life again. Every time I look at these letters, they remind me of what I lost. If he was more careful, maybe some of this pain wouldn’t still linger. This isn’t just about the papers; it’s about the memories we shared. How could he be so thoughtless? Just because he can’t handle the silence after losing you doesn’t mean he deserves to ruin everything else in my life. ---"
+    },
+    {
+        "Triggering Event": "A former colleague, now a close friend of her ex-husband, posts a photo of them laughing at a mutual acquaintance's wedding, captioned \"Reunited and it feels so good.\"",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I'm really surprised by this post. I had no idea they were still friends after all the things that happened between them. It's like they're trying to show everyone how happy they are about being back together, but I think there might be something more going on here. Maybe she's just being nice for the sake of appearances? I wouldn't trust her as far as I could throw her.\""
+    },
+    {
+        "Triggering Event": "A middle-aged woman, married for two decades, returns home from her nursing shift to find an unfamiliar wine glass on the kitchen counter, still half-full. She notices her husband's favorite cologne lingering in the air.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "This is ridiculous! I know my husband has been working long hours lately, but he would never leave his shoes by the door without putting them on slippers first. He knows how much I hate cold floors. It looks like he was in a hurry this morning and just left his shoes right there, which is so unlike him. But why did it have to be on our floor? We've had that same rug since we moved into this house. And what's with the wine? He doesn't drink that much, especially after I told him last week about the health risks associated with alcohol. I can't believe he didn't even fill out the prescription form for me when I asked him to pick up some painkillers. I'm so tired of doing everything around here. He does nothing to help, and now he thinks he can just go off and do whatever he wants without telling me? I don't understand why he'd leave his shoes outside when he knows how much I hate walking on hard surfaces. Did he really think I wouldn't notice? And the wine? Doesn't he remember that I'm trying to cut back on alcohol because of my health anxiety? This is just another sign that he doesn't care about me anymore. Why does he always get to do whatever he wants without considering anyone else's feelings? I feel like I'm always the one who takes care of things around here. He's always leaving his dirty socks on the floor, and he expects me to clean"
+    },
+    {
+        "Triggering Event": "An empty canvas stared back at her, mocking her creative drought. The once vibrant room now felt cold and sterile. She hadn't painted in weeks, her usual joy now replaced by a gnawing misery she couldn't escape. As she gazed at the blank space, a single tear dropped onto the pristine white surface, creating an ugly stain that seemed to taunt her further.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She was done with painting. The passion had drained out of it, leaving nothing but a hollow echo of what once was. Every brush stroke now felt forced, as if trying to fill the void left by her lost inspiration. It wasn’t just the lack of creativity; it went deeper than that. Her mind was clouded, consumed by worries that threatened to suffocate her art. The constant fear of failure weighed down her soul, turning every moment into a struggle to create something meaningful. As she stood there, staring at the blank canvas, she realized that she wasn’t even looking for answers. All she could see were the tears that fell like raindrops, each one reminding her of the emptiness within. It wasn’t just about the paint; it was about the emotions that came with it – sadness, frustration, and desperation. Each drop told a story of her own inner turmoil, a reflection of the pain she couldn’t seem to shake off. Maybe it was time to let go, to accept that some things are beyond our control, and to find peace in the imperfections of life rather than the perfection of art."
+    },
+    {
+        "Triggering Event": "A patient he hadn't seen in years, now terminally ill, asked him, \"Do you remember me? I was your first patient.\"",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Yes, I remember you. You were my very first patient when I started practicing medicine back then. You were suffering from depression at that time, but I've been doing well since then. I've had many patients over the years with similar issues. In fact, I'd say it's common for people to struggle with mental health problems as they transition into old age. I've seen this happen numerous times before. It's not unusual for someone to reach out to me after all these years, especially if they're dealing with something difficult. This isn't an isolated incident; there are several other instances where I've received calls from patients who have reached out later in life because they're facing challenges with their mental health. It's pretty normal for people to feel overwhelmed by such situations, especially considering how much stress and anxiety can build up over time. I'm always happy to offer support whenever I can, even if it's just a quick chat to see how things are going. Sometimes, we can work together to find ways to manage those feelings, but it often feels like we're just trying to keep them under control until the end of their life. When it comes down to it, I think it’s safe to say that most older adults experience some form of depression at least once during their lives. I’m not saying it’s easy, but it does seem to be part of the aging process for many people. I’ve dealt with this situation countless times before, so it doesn’t"
+    },
+    {
+        "Triggering Event": "While grading papers late one evening in his quiet apartment, he thought he heard footsteps outside his door. He froze, listening intently. They came again, louder this time. His heart pounded as he slowly stood up, eyes darting around the room for a weapon. The doorknob turned. He held his breath, ready to defend himself against whoever was on the other side.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He knew immediately it must be his roommate, who had been home all day. It made sense that he would hear the creaks of his shoes from across the hall. She wasn't even trying to hide; she probably just didn't think anyone else was home."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She found a note tucked into her easel, scrawled in red ink: \"Your art is trash. Stop pretending.\" Her hands trembled as she crumpled it, hatred burning like acid in her stomach.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She was devastated. How could he say such things? It wasn't fair to just take credit for her work without putting in the effort. The note made me feel stupid, like I deserved it."
+    },
+    {
+        "Triggering Event": "At the office, he noticed an email from his old mentor, now retired, asking for help with his grandson's coding project. He hesitated before closing it, remembering the last time they'd spoken - his harsh words echoing in his mind like a bitter pill he couldn't swallow back.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He can either take it as an opportunity to reconnect with someone who once taught him so much, or dismiss it as another reminder that life never looks out for him."
+    },
+    {
+        "Triggering Event": "He walked into the crowded newsroom, holding his latest article aloft with pride. \"Front page tomorrow!\" he announced, grinning at his colleagues. A sudden hush fell as everyone turned to stare at him, then burst into laughter. His editor held up a printout of an identical story, published in yesterday's rival paper. The room spun as he felt the humiliation burn through him like acid.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He walked into the crowded newsroom, holding his latest article aloft with pride. \"Front page tomorrow!\" he announced, grinning at his colleagues. A sudden hush fell as everyone turned to stare at him, then burst into laughter. His editor held up a printout of an identical story, published in yesterday's rival paper. The room spun as he felt the humiliation burn through him like acid."
+    },
+    {
+        "Triggering Event": "He walked into the gallery, his eyes drawn to the painting in the center. It was his, or at least it should have been. The signature in the corner wasn't his. He felt a cold, bitter anger rise within him as he realized his former apprentice had taken credit for his masterpiece.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He thought about the girl who had left him, how she could have easily moved on from him. What if she had found someone else while they were apart? She probably would have anyway, but still, what if she had chosen someone better? It made him think about his own life choices. If he hadn’t invested so much time in art, maybe he wouldn’t be living this way. What if he had pursued another career? Would things have turned out differently? Sometimes, he wondered if he would be happier with her back. What if we had worked through our issues? Maybe our relationship would have survived. But that’s just speculation. He couldn’t change the past now, no matter how hard he tried."
+    },
+    {
+        "Triggering Event": "At 7 pm, she finds an unopened bottle of wine on the counter, a gift from her ex-husband's new girlfriend.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She can't stand this woman; she must have done something to deserve that gift. She thinks about how much better off she would be if she hadn't divorced him, but then realizes she wouldn't even be able to stay with him because he's still married to his mistress."
+    },
+    {
+        "Triggering Event": "He found her old lab notebook tucked behind their bookshelf, pages dog-eared, filled with ideas they'd once shared late into the night. It was still damp from the rain, as if it had been recently retrieved from where they'd buried it together in the backyard, years ago when they'd promised to leave their past behind. Alone in the study, he traced her neat handwriting, his heart heavy with the weight of unspoken words and faded dreams.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He couldn't help but feel like he was drowning in an ocean of his own making. Every step forward felt like a step backward, weighed down by the chains of memories that refused to let him go. The way she looked at him now, with eyes that seemed to hold a thousand stories, made him wonder if he was just another page in her life—a forgotten chapter, left to gather dust on the shelf of time. She didn’t see him; she saw what she wanted to see—what she thought she deserved. And he knew he’d never be enough for her, no matter how hard he tried. Every moment we spend alone is an eternity, and yet, I’m stuck here, reliving the same moments over and over. I can’t escape the ghosts that haunt me, the memories that refuse to fade. They keep whispering in my ear, telling me I’m nothing more than a ghost haunting her life. That I’ll always be the one she turned to when things got too much. But deep down, I know I’m just trying to convince myself of something that will never be true. She doesn’t want me; she needs someone else. Someone younger, stronger, someone who can give her everything I can only dream of giving. But why does it have to hurt so much? Why can’t I just accept that this is how it’s meant to be? Maybe someday I’ll find peace, but until then, I’m trapped in this endless cycle of pain"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA middle-aged man, his shift at the retail store running late, rushed to grab his lunch from the break room only to find it missing. He'd clearly labeled it that morning, but now it was gone. His frustration mounted as he questioned aloud, \"Who would take my lunch?\"",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He shook his head in disgust, responding, \"It's always some idiot like this. They just don't respect anyone's property.\" The tone suggested that every time something like this happened, someone took advantage of him."
+    },
+    {
+        "Triggering Event": "In the sterile quiet of her lab, she noticed a lone dust particle dancing in the beam of sunlight streaming through the window. It reminded her of how they used to dance together under the sun's warm caress during their picnics by the lake. A sudden chill ran down her spine as she realized it had been two years since his laughter had echoed off the water, leaving only silence and the hollow ache of neglect in its wake.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was deeply troubled by the sight of that tiny speck because it triggered memories of happier times when he would laugh with her. The memory made her feel sad for a moment. She felt like crying."
+    },
+    {
+        "Triggering Event": "He logged into his university email, scrolling past the usual spam and announcements until he saw it: an email from Dr. Thompson, his advisor, with no subject line. His heart pounded as he read the words, \"I've been made aware of your recent experiments... We need to discuss this.\" He felt a wave of shame wash over him, realizing that his secret project, hidden from both his lab mates and girlfriend, had been discovered.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He couldn't help but feel inadequate when compared to other students, especially those in the top-tier research labs. They were always invited to conferences and published papers before he even got a chance to present his findings. The fact that he was working with a low-grade microscope instead of cutting-edge equipment only added to his feelings of inadequacy. Even his own lab mates seemed more confident, constantly boasting about their latest breakthroughs and collaborations with industry leaders. It wasn't fair to compare himself to them; they had access to resources and opportunities he could only dream of."
+    },
+    {
+        "Triggering Event": "In the early morning hours, while patrolling a quiet alley behind an abandoned warehouse, she hears a faint, rhythmic tapping. Her heart quickens as she steps closer, her grip tightening on her flashlight. The tapping stops abruptly. She freezes, breath held tight in her chest. Then, a sudden gust of wind sends a discarded plastic bag tumbling towards her. She jumps back, heart pounding wildly, as panic surges through her veins.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was startled by the sound, but once she saw that it was just trash, she felt silly for overreacting. It's always like this when I'm alone at night; my imagination runs wild and I jump at every little noise."
+    }
+]
