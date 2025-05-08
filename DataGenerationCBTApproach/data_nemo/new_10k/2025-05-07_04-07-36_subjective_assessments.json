@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 6 pm, she found herself alone in their usually bustling apartment. Her partner had left earlier for a work trip, the silence now echoing where his voice once filled the room. She noticed a photograph of them from last summer, her smile wider than his, and felt a pang of melancholy. The sunlight streaming through the window seemed to dim as she remembered their laughter that day, now replaced by an unfamiliar distance between them.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I can't believe he didn't leave me a note before leaving. It's not like him to be so inconsiderate. I mean, how hard is it to scribble down 'I'll miss you'? He must've forgotten about our anniversary next week. Typical. Always so wrapped up in work.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA male chef, mid-30s, divorced, is preparing for dinner service at an upscale restaurant. He notices one of his sous-chefs carelessly tossing vegetables into the compost bin, wasting good produce. His lip curls as he snaps, \"That's not how you respect ingredients, rookie.\" The sous-chef rolls his eyes, muttering under his breath about the chef's high standards.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that male chef, mid-30s, divorced, preparing for dinner service at an upscale restaurant. You've just snapped at your sous-chef for wasting produce. Write down what's going through your mind as you watch them roll their eyes.\n\n**Text:**\n\n*Damn kid*, I think to myself, hands on my hips. *Like he hasn't made mistakes before? Hell, I've thrown out more than my fair share of ingredients in my time.* But here he is, acting like this is some sort of injustice. I mean, it's not like he's Gordon bloody Ramsay or something.\n\n*And what's with the eye-rolling?* I feel a flush of anger creeping up my neck. *Like he's better than me or something.* I've been running kitchens since before he was even shaving. *I should be teaching him, not the other way around.*\n\n*He's probably just jealous,* I tell myself. *Jealous of my skills, my experience. He wishes he could cook circles around everyone like I can.* I feel a smirk tug at the corner of my mouth. *Yeah, that must be it. Little shit is just jealous.*"
+    },
+    {
+        "Triggering Event": "At the team meeting, she presents her project proposal. A colleague snorts, \"Sounds like something from the '90s.\" The room goes silent. She feels her face burn as everyone stares at their screens, avoiding her gaze.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Well, that was awkward. I guess he thinks my ideas are outdated. Typical of him to dismiss something before even hearing me out. He's probably thinking 'Who does she think she is?' The whole team must be laughing at me behind their screens now.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe sat at her desk, eyes scanning lines of code, fingers tapping monotonously on the keyboard. The hum of the office buzzed around her like a swarm of bees. Her lunch, untouched, lay beside her monitor, growing cold. A soft ping announced an instant message from her colleague, Jake. \"Hey, want to grab dinner after work? My treat.\" She stared at the words, feeling their weight. Not another pity invite. She snapped back, \"I'm married, remember?\" before deleting the entire conversation.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're an overworked software engineer, Sarah, who has been passed over for promotions despite your hard work. You've developed a habit of dismissing compliments or kind gestures as insignificant.\n\n**Text:**\n\n\"I don't have time for this nonsense,\" I muttered, glaring at Jake's message. As if I'd fall for another one of his 'let's be friends' schemes. I'm here to work, not to play pretend with the office Casanova. My marriage is none of his business. And who cares about a free dinner? It's not like it makes up for the endless hours I've put in, only to watch others get rewarded for their mediocrity. I'm not some charity case he can pat on the head and send off with a 'good girl' pat. I deserve better than this."
+    },
+    {
+        "Triggering Event": "At 73, he's seen many lab assistants come and go, but none quite like young Emma. She'd been there for months now, always eager to help, her laughter echoing through the sterile halls. Yet today, as he stood at his office door watching her pack up early, he noticed she was leaving behind more than just a few papers on his desk - it felt like a piece of him was going too.\n\nHe'd been so used to her presence, her energy, that now the lab seemed emptier, quieter. He found himself checking his watch every few minutes, hoping she might return. But as the clock ticked towards five and the other assistants began to trickle out, he knew she wasn't coming back today. The weight of neglect settled heavy on his shoulders, a familiar ache resurfacing from years past when his own children had grown up and moved away. He was left alone again with his work, his thoughts echoing louder than Emma's laughter ever could.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm not sure why Emma's leaving early has me feeling so off. I've seen her pack up plenty of times before. But today, it feels like she's not just closing her bag, but slamming a door on something more. The lab doesn't feel right without her here, like it's lost its spark somehow. It's silly really, but I can't shake this heavy feeling that something's not as it should be.\""
+    },
+    {
+        "Triggering Event": "A parent approaches her after class, lowering their voice to explain, \"I've noticed Johnny's grades dropping since you started teaching him. I think he's struggling with your expectations.\"",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I must admit, Mrs. Thompson, I find your concern somewhat perplexing,\" she began, her voice steady yet laced with a subtle undercurrent of annoyance. \"I assure you, my teaching methods are not designed to disadvantage Johnny or any other student. His grades may be fluctuating due to factors beyond my control, such as his personal study habits or home environment.\" She paused, then added pointedly, \"Moreover, I'd hardly consider it fair to compare one student's performance to another's. Each child brings their unique strengths and challenges to the classroom.\" Her eyes met Mrs. Thompson's, unwavering, before she turned on her heel and walked away, leaving a palpable tension in the air."
+    },
+    {
+        "Triggering Event": "She stormed into her studio, still shaking from the encounter at the gallery. The critic's dismissive words echoed in her mind, \"Your work lacks refinement, it's all chaos and no control.\" She grabbed a tube of phthalo blue, squeezing it until it burst, splattering paint across her unfinished canvas. With each drop, she felt a pang of rage. This was supposed to be her breakout exhibition, not another chance for some stuffy old man to prove his superiority. Her hands trembled as she threw the empty tube into a pile of crumpled papers, knocking over a half-finished cup of coffee in the process. She spun around, kicked an easel with all her might, sending it crashing to the floor. The anger coursing through her veins was a wildfire, burning away any remnants of her once-calm demeanor.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to receiving an overwhelmingly positive review from a respected critic for your latest exhibition.\n\n**Text:**\n\n*Oh, that? Well, it's just some hack with too much time on his hands and not enough taste in art.* I muttered to myself, skimming over the glowing review laid out before me. *Refined, indeed! As if my work is some stuffy old ballroom dance, all poise and predictability.* I scoffed, tossing the paper aside onto a pile of crumpled invoices.\n\n*Sales are up, you say?* I replied to my gallery manager over the phone, feigning surprise. *Well, isn't that just... fortunate.* My eyes darted around the studio, taking in the chaos of unfinished canvases and scattered paint tubes, as if daring anyone to suggest this was some sign of success.\n\n*And people are asking for interviews? How utterly fascinating.* I deadpanned into the receiver, my fingers drumming an impatient rhythm on the paint-stained table. *No, no, there's really nothing special about me or my work.* I insisted, waving off the praise like an annoying fly buzzing around my head.\n\n*So what if they're saying it's my best collection yet?* I thought to myself, picking up a brush and dipping it into a blob of cerulean blue. *It's not like any of this matters anyway...* My reflection stared back at me from the window, its eyes hard and unyielding. *After all, what do they know about art? They're just trying to fill space in their little magazines.*"
+    },
+    {
+        "Triggering Event": "She noticed the canvas was damp when she returned to her studio after lunch, even though she'd sworn she'd closed the window before leaving. The paintbrushes seemed rearranged too, not quite how she'd left them. A shiver ran down her spine as she scanned the room for any other signs of intrusion.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Damn it, not again! This place is a freaking mess. I swear I closed that window, but now look at this! And my brushes... they're all over the place, like someone's been playing with them or something. It's not like anyone cares about my stuff around here anyway, might as well throw it all away. Who needs these stupid paints and brushes? They're just gonna end up ruined like everything else in my life.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she felt it\u2014a sudden tightening in her chest, like an invisible hand squeezing her heart. Her breath hitched, then sped up, each inhale sharp and shallow, echoing in her ears. She glanced at the clock; it was 3:00 AM. Beside her, her partner slept peacefully, unaware of the panic rising within her like a storm tide. She tried to focus on his steady breathing, but her mind raced, drowning out everything except the pounding of her own heart.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** Describe her immediate thoughts as she sits upright, clutching her chest, trying to make sense of this sudden panic.\n\n**Text:**\n\"Fuck, what's happening? I feel like I'm drowning in here. My heart's going crazy, it must be something serious. I can't just sit here and let this happen. I need to do something. But what? It's not like I can call anyone at this hour. Jesus, why is this happening now? I've never felt like this before. I must be having a heart attack or something. Shit, I'm too young for this. This isn't fair. I can't just sit here and wait to die.\""
+    },
+    {
+        "Triggering Event": "Scenario:\nShe noticed his number saved under \"Mom\" in her husband's phone.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** \"So, I'm just casually scrolling through Hubby's phone \u2013 you know, 'cause I can't find mine. And guess whose number he's got saved under? 'Mom'! I mean, what the hell? Is he planning on calling me that when we argue? Or maybe he's already picked out our retirement home because he thinks I'm his mom now? Typical, Hubby \u2013 always trying to put me in some kind of box. Like I'm just a replacement mother or something. Ugh!\""
+    }
+]

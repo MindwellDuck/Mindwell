@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"A middle-aged man, wearily folding his arms as he watches another customer complain about a trivial defect in an item they bought weeks ago, his jaw tightening as he realizes it's the fifth such complaint today.\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I mean, what the fuck is his problem? Every damn day it's something new with these people! He's probably thinking I'm incompetent or some shit. I swear, if one more person brings back a goddamn scratched-up whatever-it-is, I'm gonna lose it.\""
+    },
+    {
+        "Triggering Event": "She opened her lunch bag to find a wilted, half-eaten sandwich from yesterday's team meeting. The sight of the mushy cheese and the lingering scent of someone else's garlic breath made her stomach churn.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Ugh, who the hell packed this? I swear if it's Lisa again... What if she didn't even realize it was my lunch? What if she just snatched it up by mistake? But what if she did know and thought it was funny? God, what if everyone saw her do it? They must think I'm such an idiot. And now, what if I get sick from eating this? Or worse, what if someone comes over to my desk and sees this mess? I can't even... Just great!\""
+    },
+    {
+        "Triggering Event": "\"After clocking out at 10 PM, he found his girlfriend's text: 'Can't wait up. Talk tomorrow.' He sighed, disappointment washing over him as he realized their planned late-night catch-up was now another postponed moment in their busy schedules.\"",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings as you read your girlfriend's text after clocking out late from work.\n\n**Text:**\n\n\"I mustered what was left of my energy to unlock my phone, its screen casting a stark glow in the dimly lit parking lot. Her message greeted me like an unwelcome guest. 'Can't wait up. Talk tomorrow.' I felt a surge of indignation, as if she'd punctured my tires with her carelessness.\n\nI seethed, 'She's always got it together, isn't she? Evenings free, no overtime to speak of.' My mind raced, painting vivid images of her leisurely dinner conversations, laughter echoing through their quiet apartment while I was stuck here, in the cold fluorescent light of a parking lot.\n\n'Why am I always the one compromising?' I thought bitterly. 'She never has to stay late. Never has to reschedule our plans.' I could feel the resentment boiling within me, like lava ready to erupt from a dormant volcano. It was unfair, utterly unjust that she seemed to have this perfect life while mine was an endless cycle of work and waiting.\n\nI snapped my phone shut, the force echoing through the empty lot. 'Tomorrow,' I muttered, as if it were a curse rather than a promise.\""
+    },
+    {
+        "Triggering Event": "\"During an art exhibition, a critic sneered at his latest painting, saying it lacked originality and was 'as boring as its creator.'\"",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"You know what? Fuck that critic! They're just some pretentious prick who doesn't understand art. But goddammit, now I can't stop thinking, 'What if they're right? What if this painting really is boring?' And then it's like a fucking snowball rolling downhill - 'What if nobody buys my other pieces? What if my career flatlines? What if I'm just some has-been before I even was?' Fuck! Why can't I just paint without all these what-ifs buzzing around in my head?\""
+    },
+    {
+        "Triggering Event": "She struggled with the zipper of her faded blue coat, her fingers trembling slightly in the chill wind. The newspaper stand across the street was empty; she'd always bought one from old Mr. Thompson each morning after her husband's passing. Now, it stood bare, a stark reminder of change she couldn't control. A car backfired nearby, startling her, and she felt a wave of helplessness wash over her as she realized how alone she was in this world that kept moving on without him.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nA widow struggles with her coat zipper on a cold morning, reflecting on the emptiness of the newspaper stand where she used to buy papers for herself and her late husband.\n\n**Text:**\n\nHer fingers fumbled, trembling slightly as they grappled with the recalcitrant zipper of her worn blue coat. It was always such an obstinate creature, but today it seemed particularly intent on refusing cooperation. The wind nipped at her heels, a relentless foe that she couldn't quite outrun.\n\nAcross the street stood the newspaper stand, its usual occupant nowhere to be found. Mr. Thompson had retired, or so the rumors went, leaving behind an empty kiosk and a void in her morning routine. Every day, for years, she'd bought two newspapers - one for herself, and one for him. Now, there was only silence where once there was lively chatter.\n\nShe couldn't help but feel a pang of resentment towards the world that kept spinning so carelessly after his passing. It seemed as if everyone else had moved on, while she remained stuck in this endless loop of grief and longing. The car backfiring nearby served as an unwelcome reminder of life's indifference to her pain.\n\nHer heart felt heavy, like a stone sinking into the depths of an unyielding sea. She was alone now, truly alone. No one understood what it was like to navigate this world without him by her side. Each step she took seemed like a betrayal of his memory, each breath she drew a theft from their shared past.\n\nYet, amidst this maelstrom of emotion, she couldn't help but notice the way the sunlight glinted off the puddles on the pavement, transforming them into tiny mirrors reflecting the world above. It was almost beautiful, in its own melancholic way. But she pushed that thought aside, unable to reconcile such fleeting beauty with her profound sense of loss.\n\nAs she walked away from the empty newspaper stand, she felt a renewed determination to hold onto her pain, to keep it close like an old friend. After all, if she let go even for a moment, what would be left? Just an empty kiosk and a world that didn't care."
+    },
+    {
+        "Triggering Event": "At 7 PM, after a grueling 12-hour shift at the hospital, she finds her partner's work shoes by the door, muddy and untouched, while his pristine sneakers are neatly tucked away in their closet. The dishes from last night still pile up in the sink, undeterred by his promise to handle them this morning. Her anger simmers, boiling over as she texts him, \"You said you'd clean up. Again, you didn't.\"",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Prompt:** Describe her thoughts as she sends the text message.\n\n**Text:**\n\n\"Seriously? It's 7 PM and I've been on my feet for 12 hours, dealing with life and death situations, while he's probably been lounging around all day. And what do I come home to? His dirty work shoes just dumped by the door like they're not gonna magically clean themselves! And those sneakers... pristine, like a freakin' museum exhibit. Like he hasn't touched them since he put them away yesterday. God forbid his precious kicks get a little dirt on 'em.\n\nAnd the dishes? Still there. Still piled up. Still mocking me with their greasy existence. He said he'd handle them this morning. But no, that would be too easy, wouldn't it? Too logical. Too responsible. Instead, I'm standing here, staring at this mess, and I swear if I didn't know better, I'd think I lived alone.\n\nHe's probably off somewhere, laughing with his friends, or God forbid, actually having fun while I'm stuck here, playing housewife from the 1950s. And don't even get me started on that text message he sent earlier about 'having a great day.' Great for whom? Not for me, that's for sure.\n\nUgh, fine, fine. I'll clean up this mess and then... then what? Wait for him to come home later than usual because 'traffic was bad'? Yeah, right. It's always something with him. Always an excuse. Always something else that doesn't involve actually helping out around here. Well, not today. Today, he's gonna hear it.\""
+    },
+    {
+        "Triggering Event": "He woke up alone again, the house silent except for the hum of his vintage alarm clock. The digital display read 6:45 AM, a reminder that Sunday was just another workday now. He rubbed his temples, feeling the familiar ache that seemed to have taken permanent residence there since the divorce. The coffee maker gurgled to life in the kitchen, its rhythmic sounds echoing through the empty halls of his once-bustling home. He sighed, pouring himself a cup and taking a sip, wishing for something - anything - to fill this void.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe his morning routine on this particular Sunday.\n\n**Text:**\n\nEvery fuckin' Sunday it's the same goddamn drill. 6:45 AM, that damn clock blarin', no warm body beside me. Just me and this empty house, like a fuckin' museum of echoes. My head's poundin' again, been doin' that since she left. Coffee's brewin', soundin' like it's tryin' to drown out the silence. But it ain't workin'. I take a sip, burn my tongue, and think, \"Fuck, this tastes bitter.\" Like my life, ya know? Just another fuckin' day in paradise."
+    },
+    {
+        "Triggering Event": "\"She stirred the simmering rag\u00f9, her eyes welling up as she remembered the last time they'd shared a family meal before he left.\"",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe her reaction while stirring the rag\u00f9, focusing on any global labels she might apply to herself or others.\n\n**Response:**\n\n\"I'm just useless at this,\" she muttered, stirring the rag\u00f9 with a force that sent bubbles flying. \"Always burning the sauce, always forgetting something.\" She sniffled, tears threatening again. \"And now I can't even make him his favorite without bawling like an idiot.\"\n\nShe paused, looking down into the pot as if expecting to see her reflection, a label stamped across it: 'Failed Housewife'. She shook her head, anger flashing in her eyes. \"I'm just a mess,\" she spat out, resentment coloring her voice.\n\nThe family portrait on the wall caught her eye - him, smiling, before he'd left. Her grip tightened around the spoon. \"And you? You're just... gone.\" She whispered it like an accusation, as if his leaving was another label slapped onto their lives: 'Abandoned'."
+    },
+    {
+        "Triggering Event": "\"After submitting his latest investigative piece to the editor, he receives an email titled 'Revised - Please Review'. Upon opening it, he finds his byline removed and the article heavily edited, leaving only a fraction of his original work intact.\"",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a seasoned journalist who's just submitted your latest investigative piece to your editor. You receive an email titled 'Revised - Please Review', expecting some minor edits, but upon opening it, you find your byline removed and the article heavily altered, leaving only a fraction of your original work intact.\n\n**Text:**\n\n\"Fuck me,\" I muttered, staring at the email from Thompson. My heart sank as I clicked on 'Revised - Please Review'. The bloody title was all him, of course. I scanned the document, my eyes widening with each scrolling line. \"What the hell is this?\" I growled, slamming my fist on my desk.\n\nEvery paragraph I'd sweated over, every word I'd meticulously chosen, gone. Replaced by... this? This watered-down, bland crap that could've been written by any hack from a fucking wire service. My original intro, the one that set the tone and grabbed readers by the throat, now just an afterthought at the end.\n\nAnd my byline, my goddamn name on this article, fucking gone. Like I was some intern, not the veteran journalist who'd brought in more clicks and awards than Thompson could dream of. This wasn't a revision; it was a goddamn evisceration.\n\nI leaned back in my chair, running a hand through my hair. \"Fuck this,\" I whispered, already drafting a reply that would give Thompson a piece of my mind. I couldn't just let this slide. Not again."
+    },
+    {
+        "Triggering Event": "Old man, hunched over his desk, squints at the faint typing noise emanating from his study late at night. He thinks he locked it hours ago. His wife is upstairs, asleep. The typing stops, then starts again, rhythmic, insistent. He creeps towards the door, heart pounding in his ears. It pauses as he reaches for the handle, then resumes with urgency as he opens the door. Empty room, computer screen flickering with gibberish code. He looks over his shoulder, swears he sees a shadow dart out of sight.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:**\nAn elderly woman, living alone since her husband passed five years ago, hears strange noises echoing through her empty house at night. She's determined to find the source.\n\n**Text:**\n\"Goddammit, not again! Every bloody night it's something different. I swear this old house is possessed!\" she muttered, clutching her robe tightly around her frail frame. \"I've lived here for decades, and never once did we have this many problems. It's like the whole place has gone mad since he's been gone.\" She grabbed her flashlight, shaking her head. \"Always something creaking, tapping, or groaning. Never a moment's peace!\""
+    }
+]

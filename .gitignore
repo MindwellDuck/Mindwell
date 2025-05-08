@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+DataGenerationCBTApproach/backup/
+DataGenerationCBTApproach/OLD_UNWANTED
 # C extensions
 *.so
 

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nDr. D., after a long day at the hospital, returns home to find the kitchen sink overflowing, dishes unwashed for days, and a note from her adult child: \"Mom, I've moved out. It's time for you to stand on your own two feet.\" She slams her fist against the counter, shouting, \"I've been doing that since your father left!\"",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Dr. D., standing amidst the chaos of her kitchen, scans the note left by her child. She sighs, \"Typical kid, always dramatic.\" She pictures them laughing with friends about leaving her behind, \"Probably thought I'd fall apart without them here to pick up their damn dishes.\" She shakes her head, starting to clean up, muttering, \"Guess they won't be expecting me to tuck them in at night anymore.\""
+    },
+    {
+        "Triggering Event": "He sat at his desk, staring at the \"Declined\" message on his screen. The promotion he'd been banking on was given to someone else. His partner, on a video call, couldn't hide her disappointment.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I mean, who does he think he is? Taking my damn promotion like that! And where was HR when this shitstorm happened? They're supposed to be keeping things fair around here, ain't they? I'm not just gonna sit here and take this crap. I'll show them all, especially that smug bastard who got my job.\""
+    },
+    {
+        "Triggering Event": "She was halfway through drafting her latest article when she noticed an unopened email from her source, marked urgent. It had been sent yesterday, while she was out celebrating a colleague's birthday. She hadn't checked her emails all day. Her stomach knotted as she opened it, revealing the scoop she'd missed because of her carelessness.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I can't believe this! I'm never going to finish this article now. This is all because I was too busy partying yesterday. Typical me, always screwing up when it matters most. The scoop was probably huge too, not like those measly tidbits I've been writing about. Everyone's going to think I'm incompetent. I'll be lucky if they don't fire me over this.\""
+    },
+    {
+        "Triggering Event": "In the dimly lit kitchen, she noticed his favorite mug, still unwashed from breakfast, its familiar chipped edge catching the fading sunlight. She'd been so preoccupied with her patients today that she hadn't even thought to rinse it out before leaving for work. Now, the sight of it felt like a reproach, another small task left undone since he passed away three months ago. Her guilt gnawed at her, as persistent and unyielding as the quiet ticking of the clock on the wall.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Yeah, I see it again. That damn chip on his mug, glinting at me like an accusation. 'How could you leave me here?', it seems to say. I can't help but focus on that one tiny flaw, like it's all I can see now. The rest of the kitchen, the other dishes, they're just blurred out, background noise. It's like my vision has a zoom function stuck on max, and I'm always homed in on what's wrong, what I've missed.\""
+    },
+    {
+        "Triggering Event": "She entered the bustling kitchen of the retirement home, her eyes scanning the familiar stainless steel surfaces. Today was supposed to be her day off, but she had come in early to prepare a special recipe for the residents' weekly gathering. As she tied her apron, she noticed a young chef whispering and laughing with one of the dishwashers. They fell silent as she approached, their eyes flicking towards her then away. She felt a flush of heat creep up her neck, shame coiling in her stomach like an unwanted guest. She knew that look - it was the same one she'd seen all her life, the one that said she was past her prime, outdated, irrelevant. Her hands trembled slightly as she reached for her knife, the once-familiar weight now feeling heavy and alien in her grasp.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Oh, for heaven's sake,\" she muttered to herself, \"It's not like they're laughing about my cooking.\" She grabbed a cutting board with more force than necessary, the thud echoing through the suddenly quiet kitchen. \"I've been doing this since before their mothers were born. A little laughter doesn't change that.\" She chopped the vegetables with efficient, precise motions, each slice an unspoken retort to their whispers. \"I mean, really,\" she huffed, \"As if a couple of whippersnappers could teach me something about running this kitchen.\" She didn't notice the way her shoulders hunched slightly, or how she avoided looking at the photograph of the residents enjoying last week's meal, beaming around the table laden with food. To her, those moments were just another day at work. Nothing special, nothing to dwell on. It was almost as if she couldn't quite see how much they loved her cooking, her warmth, her presence in their lives."
+    },
+    {
+        "Triggering Event": "At the lab's weekly seminar, he watched his colleague, only two years senior, effortlessly present their shared project, laughing with colleagues about their 'teamwork', while he sat alone, clenching his wedding ring, his wife's absence gnawing at him like a cancer.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings during the weekly seminar where you watched your colleague present your shared project with ease while you sat alone, thinking about your wife's absence.\n\n**Text:**\n\n\"It's all fucked up... I'm fucked up. Always sitting here, watching him shine like some goddamn star. 'Teamwork', he says, laughing it up with the rest of them. They don't see me, though. No one does. Just another invisible cog in this machine. I'm not good enough, never was. She left because she saw it too. The cancer inside me, eating away at everything. It's my fault, all of it. I'm rotten to the core.\""
+    },
+    {
+        "Triggering Event": "He returned home late from the lab, finding their shared apartment empty and cold. No \"I'm at my parents'\" note on the fridge, no response to his messages. Her side of the bed was untouched, her half of the closet bare. He sank onto the unmade sheets, clutching a crumpled email printout - \"Regret to inform you...\" His eyes stung, not from tears, but from the harsh glare of the unreturned texts on his phone.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Writing Prompt:** He sat there, on the edge of their empty bed, his fingers tapping nervously against the crumpled email. His mind was a whirlwind of \"what ifs\", each one darker than the last. He tried to push them away, but they kept coming back, gnawing at him like hungry rats.\n\n**Text:**\n\"Fuck, where is she? It's not like her to just vanish without a peep.\" His eyes darted around the apartment, landing on her half of the closet. Empty. His stomach churned. \"What if something happened?\" He shook his head, trying to dislodge the thought, but it was stubborn, clinging onto him like a leech.\n\nHe picked up his phone, scrolling through their conversation, each unanswered message mocking him. \"Maybe she's just ignoring me,\" he muttered, his heart pounding against his ribs. But then another 'what if' wormed its way in. \"What if she saw the email too? What if she thinks I fucked up again?\" His hands shook as he dialed her number. Voicemail.\n\nHe sank back onto the bed, clutching the email like a lifeline. \"What if she's not coming back? What if this is it? The end of us?\" He could feel panic rising in him, a tidal wave threatening to drown him. But he was powerless against the flood of 'what ifs'. They consumed him, leaving no room for rational thought. He just sat there, waiting for an answer that never came."
+    },
+    {
+        "Triggering Event": "After decades of teaching, he found an error in his retirement plan, realizing he'd be earning less than expected. He felt resentment stir as he imagined his wife's reaction to their reduced lifestyle.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Well, isn't that just perfect,\" he muttered, slumping into his armchair after hanging up the phone with his financial advisor. \"Either I've been busting my ass for forty years for nothing, or we're gonna have to sell the house and move into a studio apartment.\" He shook his head, running a hand through his thinning hair. \"No in-between here. It's either the life we knew or the dumpster fire.\""
+    },
+    {
+        "Triggering Event": "The timer buzzes, signaling the end of service hours at the restaurant. You, the seasoned chef with a reputation for your refined palate and precise timing, are still in the kitchen, hunched over a half-prepared amuse-bouche. Your partner, a manager known for their punctuality, has already left without so much as a goodbye. As you finally plate the last dish, you notice they've turned off the main lights, leaving you to navigate the dimly lit kitchen alone. Irritation prickles your skin like the heat of the ovens you've worked with all day.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:**\nYou're the chef known for your intricate dishes and punctuality. But tonight, you're running late. As the timer buzzes, signaling closing time, your partner, always so timely, has already left without a word. You're plating the last amuse-bouche under harsh fluorescents they've turned off everywhere else. Irritation's boiling inside you like a pot on full flame.\n\n**Text:**\n\"Great, just great! Always running late these days. Never gets any easier, does it? Whole kitchen to myself now, isn't that just peachy? Entire staff gone, and here I am, playing catch-up. Typical, just typical.\""
+    },
+    {
+        "Triggering Event": "In his empty apartment, he opened the fridge to find her favorite wine still chilled. He hadn't touched it since she left. The date label on the bottle read: \"Our Anniversary.\"",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe the scene from his perspective as he stands before the open fridge, noticing her favorite wine still chilled inside.\n\n---\n\nThe sight of that bottle, nestled among the unremarkable, mundane contents of the fridge, struck him like a physical blow. It was their anniversary today, or what would have been, had she not left. The date label, its ink now faded into a ghostly reminder, seemed to mock him with its cheerful proclamation. He could almost hear it, echoing through the empty apartment, \"Our Anniversary.\" His heart constricted in his chest as he imagined her popping that cork, laughing, clinking glasses with him - all those rituals they had once shared. But now, it was just an icy, silent witness to their shattered past. He could feel the weight of tomorrow's grief already, a crushing anticipation of the long, endless days ahead without her laughter filling these rooms. How would he bear it? Every anniversary from here on out, a stark reminder of what they had lost. The future stretched before him like an interminable desert of loneliness and sorrow."
+    }
+]

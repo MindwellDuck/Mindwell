@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nWhile fact-checking her latest article at 2 AM in an empty office, she notices the maintenance light flickering erratically. A sudden gust of wind outside rattles the window, startling her. She swears she hears footsteps echoing down the hall, but no one else is there. Her heart races as she realizes all the other offices are dark, making hers stand out like a beacon. She hurriedly saves her work and rushes home, convinced someone has been watching her through the window.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** Describe your sudden rush to leave work after noticing something unusual in an otherwise quiet office.\n\n**Text:**\n\n\"Oh, for heaven's sake! Here I was, minding my own business at this godforsaken hour, fact-checking my article under the harsh fluorescent lights, when suddenly our maintenance light starts flickering like a strobe at a rave. And then - *then* - that window chooses to rattle like it's possessed by poltergeists! I swear, if it wasn't for the gust of wind outside, I'd have thought we had an intruder! My heart leapt into my throat faster than you can say 'sensible working hours.'\n\nAnd let's not even get started on how my office was the only one lit up like a Christmas tree while the rest of the building lay shrouded in darkness. It was as if I was volunteering myself for some sort of sinister spotlight, wasn't it? Naturally, my instincts - ever the reliable guides they are - screamed at me to pack up and flee posthaste.\n\nI mean, really, who needs rational thought when your heart's pounding like a drum solo in a heavy metal concert? I was out of there faster than you could say 'goodnight.' And no, I didn't bother turning off the lights. Let someone else deal with the energy bill this month!\""
+    },
+    {
+        "Triggering Event": "A colleague, whom he'd considered a friend, mentioned in passing at the coffee machine, \"I think I'm going to ask Sarah from Marketing to help me with this project. She's been killing it lately.\" He felt his stomach twist as he imagined them working late together, laughing, bonding over success while he was left behind, his insecurities flaring like neon signs.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to discovering that a close colleague plans to collaborate with someone else on an important project instead of you.\n\n**Text:**\n\n\"Fuck! 'Killing it'? What's Sarah been doing that I haven't? I'm just fucking useless, aren't I? Always the fucking second choice. This is bullshit. I'm not good enough for this fucking team. I might as well pack up and leave now.\""
+    },
+    {
+        "Triggering Event": "He absentmindedly polished a ring that still hung on his finger as he watched a young couple, hands entwined, walk through the mall's automatic doors. The girl laughed at something her boyfriend said, her eyes sparkling with happiness. He felt a pang of regret, remembering the last time he'd held his wife's hand like that. It was the day before she'd died in a car accident, their future plans still echoing in his mind.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Prompt:** Describe how you feel about yourself after seeing the young couple at the mall entrance.\n\n**Text:**\n\n\"Ugh, here they are again, all lovey-dovey. Must be nice. I can't remember the last time I felt that way with... anyone. Guess I'm just not cut out for happiness anymore. Alone forever, that's me.\""
+    },
+    {
+        "Triggering Event": "At 3 AM, she arrived home from her night shift, still in scrubs stained with another sleepless patient's dinner. Her neighbor's music blared through the thin walls, a relentless bassline mocking her exhaustion. She slammed her door, shouting, \"Turn it down!\" Yet the music only grew louder.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Oh, great! Another night of no sleep, thanks to fucking Bob next door! Can't he see I've been busting my ass all night? His goddamn music's louder than ever! I'm not even gonna bother asking him to turn it down again, he'll just ignore me like always. Why can't he be more considerate, huh? It's not like I'm the one keeping him up with my shitty job! Bastard!\""
+    },
+    {
+        "Triggering Event": "\"While debugging a colleague's code, she realizes it contains lines identical to ones she had previously written and corrected, suggesting they were intentionally copied without attribution.\"",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"I mean, really? Here I am, spending hours trying to figure out why this code's acting up, and then I find out it's just... copy-pasted from something I'd already fixed? Not even a thank you note or anything! Like, who does that? It's not like I should be impressed with myself for figuring it out. Anyone could have done it if they hadn't been lazy enough to write their own code. It's not like I deserve any credit for this.\""
+    },
+    {
+        "Triggering Event": "A patient, a man around her former husband's age, grips her hand suddenly during a procedure, his eyes filled with fear that mirrors the hatred she feels towards her ex.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:**\n\"Imagine you're a nurse, mid-procedure with a patient who suddenly grips your hand tightly, his eyes reflecting an emotion that starkly reminds you of your estranged husband. How do you react, given that you often find yourself blaming others for your negative feelings?\"\n\n**Text:**\n\n*Oh, really? You think grabbing my hand like a lifebuoy in a storm is going to make this experience any less... delightful? I've dealt with worse than you, dear sir. My ex-husband used to squeeze the toothpaste from the middle, for goodness' sake! So, no, your little display of panic isn't causing me any undue stress. *pauses, takes a deep breath* Now, let's get this IV drip sorted, shall we? I do have other patients waiting, you know.*"
+    },
+    {
+        "Triggering Event": "At 74, she still rose early each day, habits of a lifetime hard to break. Today, her eyes fell upon an old photo album tucked away in the corner. She hadn't looked at it in years, not since the divorce. As she opened it, there they were - images of their life together, two scientists exploring the world, before it all went wrong. She remembered the fights, her stubbornness, his pride. A quiet remorse washed over her as she realized how much she could have done differently.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:**\n\"Write a letter to your ex-husband after stumbling upon an old photo album, reflecting on your past with a subtle undertone of 'Discounting the Positive'.\"\n\n**Text:**\n\n*Dear Jack,*\n\n*So, I found that damn photo album today. The one we never bothered to hide or throw away. You know which one - our goddamn life story before it all went to shit.*\n\n*I mean, who even does that anymore? Keeps physical evidence of a failed marriage. Might as well have kept the fucking wedding cake for all the good it did us.*\n\n*Looking at those pictures... It's like they're mocking me. Us, working together, exploring some godforsaken jungle or another. Remembering how we'd laugh about that time you slipped and fell into a mud puddle? Christ, I could've sworn I was actually happy back then.*\n\n*But what does it matter now? All that fucking history, down the drain because of my stubbornness... Your pride... Fuck, who am I kidding? It was mostly me. Always has been.*\n\n*You know what? I'm glad we didn't have kids. Can you imagine trying to explain this shit show to them? \"Oh, mom and dad used to be scientists, adventurers even! But then they couldn't get over their own egos long enough to appreciate how fucking amazing their life was.\"*\n\n*No, better off without that nonsense weighing us down. Or so I keep telling myself.*\n\n*Screw you, Jack. And screw those stupid pictures too.*\n\n*Yours in bitter nostalgia,*\n*Emma*"
+    },
+    {
+        "Triggering Event": "The nurse, her hands steady despite her age, was preparing a syringe at the counter. A young resident entered, chuckling into his phone about a patient's \"silly\" request for extra blankets. She paused, her lip curling slightly. When he hung up and saw her, he smirked, \"Still here, huh? Must be nice to have that many years in you.\" She pushed the syringe into his hand, hard enough to sting, before walking away without a word.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that nurse, in your late 50s, with decades of experience under your belt. You've heard it all, seen it all, but lately, you've been feeling more sensitive, like your emotions are running a bit closer to the surface.\n\n**Nurse's Perspective:**\n\nI watched him saunter in, that young resident with his laugh too loud and his words too sharp. He thought he was funny, making jokes about some poor patient shivering under thin blankets. I felt my lip curl, couldn't help it. It just seemed... disrespectful somehow.\n\nHe looked at me then, smirked like he knew something I didn't. \"Still here, huh? Must be nice to have that many years in you.\" I felt a flush of heat behind my eyes, that familiar prickle in my nose. I was suddenly angry, really angry. How dare he?\n\nI pushed the syringe into his hand, harder than I meant to. I saw him wince, but I didn't care. Not right then. All I could feel was this surge of emotion, this certainty that he was wrong, that I was right. I couldn't explain it, not even to myself.\n\nI walked away without a word, leaving him holding the syringe like it might bite him. My heart was pounding, my hands were shaking just a little. But I knew, I just knew, that I'd done the right thing. Because I felt it, didn't I? And isn't that what matters most?"
+    },
+    {
+        "Triggering Event": "After weeks of tireless work, she found her partner casually flipping through her sketchbook, critiquing her unfinished pieces with a frown. \"I could've done this better,\" he muttered, turning another page. Her resentment simmered, unnoticed by him, as he closed the book and handed it back, saying, \"You should try to loosen up your style.\"",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're an artist, pouring your heart into every sketch, when suddenly your partner starts criticizing your unfinished pieces. Describe your immediate reaction, using a sarcastic tone with formal language.\n\n**Text:**\n\n\"Oh, how very kind of him to critique my 'unfinished' masterpieces,\" I thought, my fingers tightening around the edge of my seat. \"I do declare, he's found his inner art critic.\" His frown was as judgmental as the lines he'd never have the audacity to draw himself. Each mutter of \"I could've done this better\" echoed like a gavel in my mind, sealing my resentment into place. I could almost hear him thinking, 'How dare she not live up to my standards?' But then again, he was always so good at telling me what I should think."
+    },
+    {
+        "Triggering Event": "She woke up to an empty house, her husband's side of the bed untouched since last night. His coffee cup remained unwashed in the sink, a silent echo of his absence. The calendar on the fridge, filled with her neat handwriting, was blank for today. No meetings, no deadlines, just a void where his smile should have been. She sat alone at the kitchen table, staring at the cold breakfast she'd prepared for two, the silence heavy around her. Her phone buzzed with a work email, but it felt like another reminder of what she didn't have.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Write a journal entry from the perspective of a woman who has recently moved to a new city with her husband for his job, reflecting on her sudden feelings of anxiety after waking up alone one morning.\n\n---\n\n*Dear Journal,*\n\n*I hate this fucking empty house today. His side of the bed is still as untouched as yesterday's headlines. His goddamn coffee cup is still sitting there in the sink, mocking me with its silence. It's like a fucking tomb in here.*\n\n*The calendar on the fridge is as blank as my future feels right now. No meetings, no deadlines, just this void where his smile should be. I can't fucking breathe in this quiet.*\n\n*I swear to God, if he doesn't call me today, I'll lose it. I can feel it, like a knot tightening in my chest. He's going to get swallowed up by that new job, and I'll be left here to rot in this godforsaken apartment.*\n\n*My phone just buzzed. It's probably another one of those fucking work emails from him. I can't even look at it. What if something's happened? What if he's met someone else already?*\n\n*I can't do this, journal. This city is too big, too loud, too full of things that could go wrong. I need him here with me. I need to know we're still us.*\n\n*Fuck, I feel like I'm drowning in all these what-ifs. But I know them too well - they always end up being true. It's only a matter of time before my fears come crashing down on me.*\n\n*Please, God, let today be different. Let him call me, let him tell me he loves me, let him promise we're still us.*\n\n*But I know better. I can feel it in my bones. Today is just another fucking day closer to the end.*\n\n*Yours, barely holding on,*\n*Emma*"
+    }
+]

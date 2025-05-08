@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 7 AM, she rushed into the locker room at the hospital, heart pounding. A colleague mentioned a sudden influx of critical patients overnight; no one had called her for backup despite her being on-call. She felt a wave of anxiety, fearing she'd missed vital moments with her late husband's patients, those now fighting for their lives in her care.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe your day as you arrive at work, focusing on how you perceive a particular situation that makes you anxious.\n\n**Text:**\n\n\"So, I rush into the locker room this morning, right? My heart's pounding like a kick drum, and all I can think about is those patients. My mind's stuck on replay, 'What if they needed me? What if they suffered because I wasn't there?' I mean, it's not like anyone called, but still. My husband... he was their doctor too, you know? His patients deserve better than that. They deserve me. So, yeah, it's just... it's on my mind all day.\""
+    },
+    {
+        "Triggering Event": "A pension notice arrives, stating his teaching service of 45 years is now considered \"ineligible\" due to new government regulations.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Dammit, 45 years down the drain! I've been busting my ass since before half these youngsters were even born, and now they're telling me it's all for nothing? Bullshit! Look at old Mrs. Henderson over there, she retired last year with a full pension after just 30 years. And what about that lazy bastard, Johnson? He quit teaching 5 years ago to open some damn coffee shop and he's living like a king while I'm left holding the short end of the stick. It ain't fucking fair.\""
+    },
+    {
+        "Triggering Event": "Every evening, she'd sit alone in their old house, now hers alone. The clock hands moved slower than ever. She clicked through photo albums on her tablet, each picture a echo of happier times. Today, she stumbled upon one from their 50th wedding anniversary. His smile was still bright, but his eyes were already distant. She closed the album, unable to bear the weight of memories that now felt like failures. The house creaked around her, whispering reminders of emptiness.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe her evening routine after he passed away, focusing on how she perceives their past happiness as either completely blissful or utterly ruined.\n\n**Text:**\n\n*Flicking through these photos, it's like they're stuck in two modes: either it was perfect, or it was shit.*\n*The anniversary party? Fuckin' magical. Laughter, dancing, love bloomin' everywhere.*\n*But now... *now* *it's just fuckin' sad. Every goddamn picture is a punch to the gut.*\n*Either we were happy, or I'm miserable alone in this creaky old house.*\n*It's always one extreme or the other with me now.*"
+    },
+    {
+        "Triggering Event": "A faded photograph slipped from his wallet while he was organizing supplies at work, landing face up on the counter. It showed his late wife smiling, her hand resting on her pregnant belly, a reminder of the abortion they'd had all those years ago, something he still struggled to forgive himself for.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Writing Prompt: Describe your reaction when you noticed the photograph fall out of your wallet at work today.\n\nText Response:\n\"Well, that was unexpected. I hadn't looked at that picture in ages. Her smile, it's like she knew how much I've been missing her lately. And that bump... It's funny how something so small could have grown into someone entirely their own, if only we'd let it. But we didn't, did we? What if we had? Would things be different now? Would she still be here, laughing with us, growing old together? Or would it all have been too much, too soon? I don't know why these thoughts keep popping up. It's not like dwelling on 'what ifs' brings her back or changes anything. Maybe I should just stick to organizing these supplies before someone else notices the mess.\""
+    },
+    {
+        "Triggering Event": "He noticed the new sous chef, barely out of culinary school, preparing his signature dish with practiced ease. A familiar pang of insecurity gnawed at him; he'd once moved with that same confidence. Now, every mistake felt magnified, every plate returned a harsh criticism echoing in his mind. He watched as the young man received praise from diners and staff alike, feeling more like an outsider in his own kitchen than ever before.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** Describe his mood as he left work that day.\n\n**Text:**\n\nMan, what's the big deal about that kid? He's just lucky he got here with all this hype around him. I've been here for years, sweating my ass off in this kitchen, and no one's ever called me a \"genius\" like they do him. I mean, sure, he can cook. But so what? It's not like he invented the damn recipe. Just because he smiles at the customers doesn't mean they're enjoying their meal more than when I was cooking.\n\nI've had plenty of compliments in my time here. Hell, some even said I was the best chef this place has ever seen. But now, it's all about that pretty boy and his perfect hair. It's not like those praises meant anything when they were given to me. They were just words. So why should anyone care about them now?"
+    },
+    {
+        "Triggering Event": "At the office holiday party, she watched him laugh with their coworker, Lisa, their heads bent close together over shared secrets and jokes. She felt her stomach twist as she realized it was the same way he'd once laughed with her.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe how she feels on her way home from the office party after witnessing him laugh with Lisa.\n\n**Text:**\n\n\"Fuck, not again,\" I muttered, stomping through the icy rain to my car. \"He's always like this. Always laughing with someone else, never with me anymore.\" I slid into the driver's seat, slamming the door shut behind me. \"It's like our whole relationship was a fucking joke. The entire thing, just one big laugh at my expense.\""
+    },
+    {
+        "Triggering Event": "\"After a long, exhausting shift at the store, he found his car's tires slashed in the dimly lit parking lot. He could feel the rage building as he realized this wasn't an accident - it was malicious.\"",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a 30-year-old retail manager, John, standing in the harsh glow of the parking lot lights, your hands trembling as you inspect the mangled rubber of your car tires. You've had a long day, and this feels like the cherry on top of a shit sundae.\n\n**John's Reaction:**\n\n*Well, isn't that just fucking perfect,* John muttered to himself, his voice echoing in the empty lot. *I mean, what else could go wrong today? This is just typical, isn't it? Always the unlucky one.*\n\nHe kicked at a stray pebble, sending it skittering across the asphalt. * Typical John,* he thought bitterly, *always getting the short end of the stick. I'm such an idiot for parking here. This is what I get for not being more careful.* He ran his hands through his greasy hair, leaving it even more disheveled.\n\n*And now I have to deal with this shit,* he continued, his voice rising in pitch and volume, *call the cops, file a report, wait god knows how long for a tow. All because someone decided to be an asshole tonight.*\n\nJohn leaned against his car, feeling the weight of the day crashing down on him. *I can't catch a fucking break,* he thought, his eyes scanning the dark lot, as if looking for more signs of his perpetual bad luck."
+    },
+    {
+        "Triggering Event": "He found an old, faded photograph tucked into the cookbook he hadn't used in years. It was of him and his wife, laughing together at their first restaurant opening, before the late nights and constant travel had worn them down. He felt a familiar bitterness rise in his throat as he remembered her words, \"We're just growing apart.\"",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're John, a middle-aged man who's been married to Sarah for two decades. You've just found an old photograph tucked into your cookbook. Describe how this discovery makes you feel, focusing on one specific detail that consumes your thoughts.\n\n**John's Reaction:**\n\nAs I held the photo, my eyes were drawn to Sarah's smile, wider and more carefree than any I'd seen in years. It was like a punch to the gut, reminding me of her words, \"We're just growing apart.\" Everything else\u2014the cramped restaurant, our younger selves\u2014faded into insignificance. That smile, it was a stark contrast to the tight-lipped woman she'd become, leaving me with nothing but a bitter taste in my mouth and a heavy heart. I couldn't shake off that singular detail, even as I tried to remember happier times. It was as if that one image had swallowed up our entire history together."
+    },
+    {
+        "Triggering Event": "While grading papers after school, he noticed the familiar, looping handwriting of his late wife in an old essay tucked between his students' work. The sight of her script, untouched by time, filled him with a profound sense of remorse for every unkind word they'd shared before she passed.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe how you've been feeling since discovering your late wife's handwriting on that old essay.\n\n**Response:**\n\n\"Seriously, it's like I can't escape her, ya know? Every freakin' paper I grade now, all I see is her looping script staring back at me. It's not just that one essay either; it's like every single damn paper has some trace of hers on it. Always something to remind me.\n\nNever a day goes by without some memory of ours smacking me in the face. The whole classroom feels haunted, you know? Like her ghost is here, watching me, waiting for me to fail or something.\n\nIt's not like I didn't have my moments too. We had our fights, sure. But it's always the bad stuff that comes rushing back now. Entire evenings spent arguing over stupid crap, and now all I've got are these empty nights with no one to fight with. Just me and her freakin' handwriting.\""
+    },
+    {
+        "Triggering Event": "A middle-aged man, his hands trembling slightly, struggles to assemble a new display case in the quiet of his apartment. The instructions lie scattered around him, their tiny print illegible through his misting eyes. He feels a familiar pang of helplessness as he drops another screw into an inaccessible corner. The clock ticks on, indifferent to his frustration.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm such a useless wreck. Can't even assemble this stupid thing right. It's just like everything else - I mess it up. This is why no one asks me for help anymore.\""
+    }
+]

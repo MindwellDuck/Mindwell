@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A customer complained about his overcooked steak, sneering, \"This is what they call cuisine these days?\"",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Damn it, another one bites the dust. This is always how it goes around here. Never can we get anything right, not even a simple steak. The whole place is going to shit, and nobody seems to care.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his lab, he paused over a microscope slide, a lone speck in the sterile white room. His phone buzzed with a group chat notification - \"Lab dinner tonight! You're invited!\" He looked around at the empty chairs, then back at his silent phone.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** Describe his reaction to the group chat invitation while he's alone in the lab.\n\n**Text:**\nFuck, another night spent staring at cells when they're all out there, laughing, eating. I mean, it's just a damn dinner. Who cares? Not like it means anything anyway. Just 'cause they invite me doesn't make it special or some shit. I've got work to do. They wouldn't understand this stuff even if I tried to explain. Might as well get this slide done before...before what? Before they realize I'm not worth inviting? Fuck, who cares about dinner when there's a whole world of tiny mysteries right here?"
+    },
+    {
+        "Triggering Event": "A patient under her care, who she'd been attending for months, passes away unexpectedly in their sleep during the night shift. She finds them in the morning, cold and still, a peaceful smile on their face.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe your morning routine at work after discovering the unexpected passing of a patient during the night shift.\n\n**Text:**\n\n\"Shit, not again! Another one bites the dust on my watch. I'm fucking useless. It's always something with me around. Dammit, I knew they looked too peaceful last night. This is what happens when you get careless, Sarah. You're a goddamn failure as a nurse.\""
+    },
+    {
+        "Triggering Event": "\"While fact-checking his latest expose, he stumbled upon an altered email thread - evidence of his editor's corruption, manipulating quotes to sway public opinion.\"",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Fuck, this can't be right! My editor's always been above board, dammit. They shouldn't have fucked with these quotes. It's not like they're some goddamn politician. This isn't how it should fucking be.\""
+    },
+    {
+        "Triggering Event": "A regular customer, known for his rude demeanor, snaps at her, \"You're too slow, you should retire already!\" while she's helping him with a return.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I must have lost my touch,\" she murmured, placing the returned item back on the shelf with trembling hands. \"Mr. Thompson's never this impatient with young Emily at the counter.\" She sighed deeply, her reflection in the glass case showing eyes brimming with unshed tears. \"Perhaps he's right. Perhaps I am too slow now.\""
+    },
+    {
+        "Triggering Event": "A patient he hadn't seen in years walked into his clinic, accompanied by a child around the age his own would have been. The boy's smile was eerily familiar, but it was the sight of the man wearing his late wife's favorite scarf that filled him with quiet disappointment.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're Dr. Thomas Hartley, a 55-year-old widower who's been practicing medicine for over three decades. You've always prided yourself on your calm demeanor and professional detachment, but today, something feels... off.\n\n**Text:**\n\n\"Son of a bitch,\" I muttered under my breath as John Walker strolled into my clinic, that kid in tow. His smile was too wide, too familiar, like a punch to the gut. But it was the goddamn scarf around his neck that really got me. My late wife's favorite, the one I'd given her on our last anniversary. It should've been mine, not his.\n\nI shook my head, trying to clear the sudden fog. This wasn't right. He shouldn't be wearing that, shouldn't have a kid around my little Emily's age. Everything felt... wrong. Like life had cheated me out of something again.\n\nBut I plastered on that practiced smile, the one I'd used a thousand times before. \"John,\" I said, extending my hand. \"Long time no see.\" My voice was steady, professional. No one would've guessed the storm raging inside me.\n\nAs I listened to him talk about his life, his kid, I couldn't shake this feeling of resentment. It shouldn't be like this, I kept thinking. Life should've been different. But it wasn't. And that, more than anything, just pissed me off."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA chilly autumn breeze blows through the open kitchen window, carrying with it the faint scent of smoke from neighboring fireplaces. The chef, her hands dusted with flour, carefully rolls out dough for tonight's dinner service. As she works, she absentmindedly hums an old tune that was once her late husband's favorite. Her eyes well up as the lyrics reach a familiar refrain, and she feels a dull ache in her chest. The timer on the oven goes off, startling her back to reality. She wipes away a tear before turning to face another bustling service without him by her side.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** \"She's probably forgotten all about me already,\" he muttered, downing another shot."
+    },
+    {
+        "Triggering Event": "She watched from the nurses' station as her younger colleague, Sarah, received a bouquet of flowers and a heartfelt thank-you note from a grateful patient. The room filled with warmth and admiration, but all she felt was a cold pang of envy. It had been years since anyone had acknowledged her dedication like that. She looked down at her hands, worn by years of service, and sighed softly.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I must admit, observing Sarah's little display today was somewhat disheartening. Years on this ward, pouring my heart into each patient, and where are my flowers? Where's my grand gesture of gratitude? It seems it's always the fresh faces who get the accolades, while us veterans are left gathering dust in the corners. I suppose tomorrow will be much of the same, a dreary procession of thankless tasks. Why should I even bother?\""
+    },
+    {
+        "Triggering Event": "\"Her editor's email, marked 'Urgent', lands in her inbox at 10 PM: 'Need you to cover protest downtown tomorrow. Crowds expected to surge.'\"",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** \"Her editor's email, marked 'Urgent', lands in her inbox at 10 PM: 'Need you to cover protest downtown tomorrow. Crowds expected to surge.'\"\n\n**Text:**\n\n*Damn it! Not again,* she thought, scrolling through the email. *Why does he always wait until the last minute? It's not like I have a life outside of this job.* She felt her anger simmering, but she knew better than to respond now. *Tomorrow, though... tomorrow I'm gonna give him a piece of my mind.* She slammed her laptop shut and stormed off to bed, determined to get some sleep before another day of 'shoulds'."
+    },
+    {
+        "Triggering Event": "Artist rushes home from gallery opening, finding his wife's packed bags by the door. Her note reads, \"I need space.\" His canvas remains untouched in the studio.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're an artist who just rushed home from your gallery opening to find your wife's packed bags by the door. Her note reads, \"I need space.\" Your canvas remains untouched in the studio. Write a text message you might send to a friend about this situation.\n\n**Text:**\n\n\"Hey man, just got back from the show & my world's shakin'. Found Liv's bags packed, note says 'need space' like I ain't got enough room for her in our place. I mean, who does she think she is? My art's still here, untouched - guess it wasn't good enough either. She knows how much this night meant to me, so what gives? Feels like she's doin' this just to spite me or somethin'. Can you believe it?\""
+    }
+]

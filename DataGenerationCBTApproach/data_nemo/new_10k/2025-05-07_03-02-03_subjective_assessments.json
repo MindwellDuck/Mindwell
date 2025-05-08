@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He arrived at Mrs. Thompson's room to find her thrashing, alone and frightened, despite his urgent call for backup echoing unanswered down the empty hall.",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Great, even Mrs. Thompson's freak-out has to happen on my shift. Typical. Always the unlucky one.\""
+    },
+    {
+        "Triggering Event": "He sat in his lab, eyes flicking between his own data and the email open on his second screen. His colleague's latest publication, already making waves, was a stark reminder of the accolades that had eluded him despite decades of diligent work. A familiar pang of envy gnawed at him as he closed the email, turning back to his own research with renewed determination, but also a twinge of self-doubt.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a seasoned scientist who has dedicated your life to research, yet you've been overlooked for prestigious awards time and again. Your colleague, whom you consider less experienced, just published a groundbreaking study that's garnering international attention. You feel a surge of envy and anger as you read their email celebrating the publication. Describe your reaction as you return to your own work.\n\n**Text:**\n\n\"Preposterous!\" I snapped, slamming my fist on the desk, causing my mug to topple over. I didn't bother to wipe up the spill; let it stain the carpet like the ink that sullied my colleague's page with praise. I knew mine was better, more thorough, more elegant in its design. But did they care? No, because it wasn't flashy, wasn't 'novel' as they claimed hers was.\n\nI glared at my own data, as if challenging it to defend itself against this injustice. My blood boiled seeing the neat graphs, the meticulous calculations - all dismissed by that email. I could almost hear the laughter echoing from their lab, celebrating their success while mine lay here, unacknowledged, unappreciated.\n\nI seized my mouse, clicking on each of my publications, scanning them like a man possessed. Each one was sound, rigorous, important... yet they meant nothing now, overshadowed by their 'groundbreaking' work. I felt a pang of self-doubt - but I dismissed it instantly. This wasn't about me; this was about principle, about truth.\n\nI took a deep breath, steadying myself for the task ahead. I would prove them wrong, show them all that their accolades meant nothing without substance behind them. My work would speak for itself, in time. But today... today, I could feel the anger simmering, threatening to boil over again at any moment. And I knew, as I turned back to my research with renewed fervor, that those feelings of pride and accomplishment from past achievements had no place here. Not now, not when there was still so much work left undone, unsung, unseen."
+    },
+    {
+        "Triggering Event": "While stocking the supply closet at midnight, he heard the door creak open behind him. His heart pounded as footsteps echoed, but no one answered his call out.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:**\n\"You're either with me or against me,\" he growled, slamming his fist on the supply closet shelf. \"There's no in-between here.\""
+    },
+    {
+        "Triggering Event": "She fumbled with her keys outside the hospital entrance, hands shaking as she tried to unlock her car. The parking lot was eerily empty at this hour, and the silence felt oppressive. She'd been on call for 36 hours straight, and every second had stretched into eternity. As she finally opened her car door, her phone rang - it was the hospital. \"We need you back inside,\" the nurse's voice echoed, sending a jolt of adrenaline through her anxious body.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Oh, for fuck's sake! Not again,\" she muttered, dropping her keys onto the wet pavement. She knew it - another goddamn emergency, another sleepless night. \"Why me?\" she groaned, bending down to pick up her keys, her body already tense with anticipation of the horrors waiting inside."
+    },
+    {
+        "Triggering Event": "A sudden, piercing alarm shatters the early morning silence of their shared home. She jolts awake, heart pounding, expecting a callout but finding only her partner's empty side of the bed. A hurried note lies on the pillow: \"Shift changed. Didn't want to wake you.\" Stress spikes as she realizes she'll face another day solo, the station's mounting cases pressing heavier than her Kevlar vest.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I can't fuckin' believe this! He pulls an all-nighter, then ghosts me? Like I'm supposed to just roll with it? This is typical, always leaving me hangin'. It's not like he even cared about waking me up. 'Didn't want to,' my ass. He knows how much I hate surprises. Guess I'll be dealing with this shitstorm alone today too. Typical.\""
+    },
+    {
+        "Triggering Event": "A sudden gust of wind blew through the open kitchen door, scattering recipe cards and setting off the smoke alarm. The chef, alone in his quiet restaurant after hours, jumped, his heart pounding with worry that tonight's dinner prep would be ruined.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to this sudden chaos in your restaurant kitchen.\n\n**Text:**\n\n\"Damn it all! This is just typical of me, ain't it? Every freaking time I think I'm finally getting a handle on things, some stupid gust of wind comes along and blows my hard work to kingdom come. I'm such an idiot for leaving the door open like that. Now look at this mess - recipe cards everywhere, smoke alarm wailing like a banshee! I can't even begin to imagine how long it'll take me to clean this up and start over again. This is why I'll never make it as a proper chef. It's just not in my blood.\""
+    },
+    {
+        "Triggering Event": "In the heat of service, she sliced her finger open on an unseen edge of the mandoline. As blood bloomed across the cutting board, she felt a familiar rush of anxiety. It was another reminder of time slipping away, another scar to add to her collection.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe your day after realizing you've cut your finger while cooking dinner.\n\n**Text:**\n\"Bloody hell! Another scar for my collection. Can't they make these things safer? It's not like I'm a butcher, for crying out loud! Guess that's it for fancy dinners tonight. Might as well order pizza now... again. Typical me, always ruining stuff. Why can't I just be normal like everyone else?\""
+    },
+    {
+        "Triggering Event": "She scrolls through Instagram, seeing photos of friends from college enjoying a beach vacation together. She hasn't been invited this time. Her heart sinks as she compares their laughter to her lonely apartment, filled only with the hum of her laptop.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** She sits alone at her kitchen table, the glow of her laptop illuminating her face as she scrolls through Instagram. Her heart sinks with each photo that pops up - her old college friends laughing on a beach, toasting marshmallows around a campfire, even posing for selfies in front of the same lighthouse they visited during their last trip together. She hadn't been invited this time."
+    },
+    {
+        "Triggering Event": "At 78, he had seen his share of retirements, but this one felt different. As the sun set over the station, casting long shadows across the parking lot, he stood alone by his patrol car, a small box containing forty-seven years of service on its hood. His badge gleamed in the twilight as he polished it one last time, tears welling up in his eyes. A young officer walked past, giving him a nod and a respectful, \"Evening, sir.\" He managed a smile, but the weight of goodbye hung heavy around him like an unseen uniform.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Ah, the youth these days! No respect for tradition, no understanding of what we've built here. If they had shown some appreciation, some interest in learning from me, perhaps I wouldn't be standing here like a relic of a bygone era. They've driven me out with their apathy and disregard!\""
+    },
+    {
+        "Triggering Event": "While cleaning his studio, he stumbled upon an old painting, untouched for decades. It was the last piece he'd created before his wife's accident. He felt a pang of regret, remembering how her vibrant laughter had faded from their home.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're the artist who found the painting. You've lived alone since your wife's accident years ago. Describe how you react to finding this old painting while cleaning your studio, remembering her laughter.\n\n**Text:**\n\nAs I pushed aside decades of dust and debris, there it was - an old canvas, untouched by time. The colors were still vivid, the brushstrokes bold. It was my last piece before everything changed. A pang of regret echoed through me, a familiar companion since that fateful day.\n\nHer laughter... it used to fill these rooms, bouncing off the walls like sunlight. Now, there's only silence, punctuated by the occasional creak of an old floorboard. I remember how we'd dance around each other in here, her critiquing my work while I'd tease her about hers.\n\nBut that was then. This... this is now. A solitary existence, devoid of her vibrancy. So what if people used to rave about our paintings? That was before. Before everything went quiet. Before the world lost its color.\n\nI sighed, placing the painting back where I found it. It was just another relic from a life that no longer existed. No use dwelling on it. There's work to be done, and no time for sentimentality."
+    }
+]

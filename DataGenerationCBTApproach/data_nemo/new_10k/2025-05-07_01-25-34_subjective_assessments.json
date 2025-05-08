@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"Checking his phone during a break, he sees a text from his ex-wife: 'I'm getting married next month.' His grip tightens, knuckles turning white as he crushes the device in his hand.\"",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe how he feels and reacts after reading the text from his ex-wife.\n\n**Text:**\n\n\"Well, that's just great,\" he muttered under his breath, staring at the words on his screen like they were a punch in the gut. His heart felt heavy, like a stone sinking into his chest. \"Guess she didn't waste any time, did she?\" He didn't need to know more, didn't want to know more. The text was enough. It had to be. He couldn't bear the thought of her moving on so quickly, so happily. His fingers tightened around the phone, squeezing until his knuckles turned white. \"She must've been planning this for ages,\" he whispered bitterly, crushing the device in his hand as if it were the only tangible proof of his suspicions.\""
+    },
+    {
+        "Triggering Event": "At 7 PM, chef finds an unfamiliar jacket in the kitchen of his Michelin-starred restaurant. His wife had mentioned she'd been helping out, but he feels a pang of insecurity as he runs his fingers over the unknown garment's soft fabric.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Fuck me, who does this prick think he is? Strutting around my kitchen like he owns the place. His jacket's softer than anything I've got. I slave over this stove for years, and now some wannabe chef saunters in with his fancy-ass threads? Like hell I'm gonna let him show me up.\""
+    },
+    {
+        "Triggering Event": "An elderly woman, her hands trembling slightly as she turned off the life support machine, whispered, \"I can't save them all.\"",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:**\n\"You know what? Every damn time I step into this hospital, it's like a goddamn funeral march. Always the same fucking story. Can't save 'em all, they say. And now Mrs. Thompson's gone too. It's never-ending, man. The whole place is a graveyard.\""
+    },
+    {
+        "Triggering Event": "A canvas, meant for his next masterpiece, arrives dented and torn from the art supply store.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're an aspiring artist named Jake. You've been eagerly waiting for your new canvas to arrive so you can start your next masterpiece. However, when it finally arrives, it's dented and torn.\n\n**Jake's Response:**\n\n\"Great! Just freakin' great! Here I was, all ready to create a masterpiece, and they send me this... this... *canvas wreck*. Oh, what a wonderful way to start my magnum opus. It's not like it was perfect before, but now? Now it looks like it's been through a war zone!\"\n\n*Jake throws the canvas onto his worktable, making a loud thump.*\n\n\"I mean, really! How am I supposed to create something beautiful on this thing? It's all scratched up and torn. The paint won't even go on smoothly. This is a disaster!\"\n\n*He picks up the canvas again, examining it closely, almost caressing the damaged parts.*\n\n\"You know what? Maybe this is actually perfect for my next piece. A 'canvas wreck' masterpiece \u2013 that'll really show them. It'll be... it'll be... *genius!*\"\n\n*Jake starts to sketch enthusiastically on a nearby pad, already planning how he can incorporate the damages into his new artwork.*"
+    },
+    {
+        "Triggering Event": "She scrolls through Instagram, her paint-stained fingers leaving smudges on her phone screen. A vibrant image stops her - an old friend, now a successful gallery owner, posing with another artist's sold-out exhibition. The caption reads: \"So proud of my talented friend! \ud83c\udf89\ud83c\udf1f\" She feels the familiar pang in her chest, envy creeping in like a shadow.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I cannot believe she has the audacity to flaunt her success like that,\" she muttered, swiping away the paint smudges with an angry gesture. \"If she hadn't pushed me out of our art group all those years ago, I'd be the one standing there today, not some upstart.\" She took a deep breath, her fingers trembling slightly as she typed out a comment: \"Great to see you supporting talent like this, even if it's not your own. \ud83d\ude09\""
+    },
+    {
+        "Triggering Event": "In his quiet apartment, he finds himself staring at their old wedding photo, the one she'd taken from him in the divorce. The frame is now dusty, but her smile remains vibrant. He notices a small tear in the corner, not from age, but from that heated argument where they'd both thrown words like daggers. His breath hitches as he gently touches the damaged photo, his grief resonating with each silent sob.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Damn, just look at her, still smiling like nothing happened. It's like she's rubbing it in my face, you know? I can't help but feel this ache in my chest, it's telling me I'm better off alone now. Guess that tear in the photo is a sign, huh? Everything feels so fucking heavy right now, it must be because life's just shit without her.\""
+    },
+    {
+        "Triggering Event": "He noticed an unfamiliar car parked outside his home. The engine was running, but no one seemed to be inside. As he approached, the driver's door suddenly opened, revealing a young man with a tense expression. \"I'm sorry,\" the stranger said, \"I think I've taken the wrong address for my delivery.\" He handed over a small package and left, but the doctor couldn't shake the feeling that something was off about the encounter. As he watched the car disappear around the corner, he realized the label on the package read: \"For Dr. A., Personal Effects.\" His heart raced as paranoid thoughts flooded his mind - who was this mysterious Dr. A.? Why did they have his address? And what was in the package that bore his name?",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"I must say, I find it rather peculiar that this individual felt compelled to deliver my 'personal effects' himself, at such an inopportune hour. It's not as if I'm some sort of criminal mastermind who requires such cloak-and-dagger tactics. And what's more, the fact that he appeared so flustered only serves to heighten my suspicions. It's almost as if he had something to hide. I daresay, this is not how a reputable courier service operates. I shall have words with them about this.\""
+    },
+    {
+        "Triggering Event": "In the sterile silence of his office, he found it - a voicemail from an unfamiliar number, dated three years ago. It was from her, his former patient, thanking him for saving her life. The guilt, long buried, resurfaced as he listened to her grateful words, echoing the child they couldn't save together.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"I knew it,\" he muttered, slumping back into his leather chair, the voicemail still playing on his ancient answering machine. \"She never would have called if it wasn't about that damn case. I knew I shouldn't have taken her on in the first place.\""
+    },
+    {
+        "Triggering Event": "He opens his email, sees \"Unread Messages (1)\" flashing red in the corner. It's from his wife, sent two days ago. The subject line reads: \"Forget something?\" Attached is a photo of her at their son's graduation, smiling through tears, alone.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"I immediately noticed the glaring 'Unread Messages (1)' notification, a stark red against the otherwise neat desktop. Two days? How could she not have waited for me to be there? I clicked open her email, my eyes scanning the subject line: 'Forget something?' As if it were that simple! The photograph... It should have been us, together. This wasn't how it was supposed to happen.\""
+    },
+    {
+        "Triggering Event": "She glances at her phone during a break, expecting to see his usual \"I miss you\" message. Instead, she finds a text from him saying he's been offered an opportunity out of state and has already accepted it. No mention of her or their future together. She feels a lump form in her throat as the reality sinks in: this isn't just a temporary separation; it's a rejection of their shared plans.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She stares at her phone, the words blurring before her eyes. \"He never thinks about us,\" she mutters, her voice catching. \"It's always just him, his plans, his future. Never once has he said 'we'.\" She takes a deep breath, steeling herself against the familiar sting of rejection that now feels like an old, unwelcome friend. \"This is it,\" she thinks, \"the whole thing crumbling because he didn't even care enough to ask me first.\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nThe artist sat at his easel, paintbrush in hand, staring at the blank canvas before him. His partner of twenty years, Paul, entered the studio, carrying a stack of unopened mail. He placed it on the nearby table with a sigh. \"More bills,\" he muttered.\n\nThe artist's stomach churned as Paul started flipping through them. A letter from the bank caught his eye; its official-looking font made the artist's heart race. Paul opened it, scanned it briefly, then looked up at him, worry etched on his face. \"They're threatening to seize our house if we can't pay what we owe by the end of the month,\" he said.\n\nThe artist felt a wave of panic rise within him. He hadn't sold enough paintings lately; their savings were dwindling. He put down his brush and rubbed his temples, trying to ward off the growing anxiety. His mind raced with thoughts of losing not just his home but also Paul's support, his stability in life.",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I've always been the breadwinner,\" he muttered to himself, gripping his paintbrush tighter. \"And now look at me, I can't even sell my paintings anymore.\" He glanced at the canvas, still blank after hours of staring at it. \"I'm useless, just like this house will be if we lose it.\" He shook his head, his voice trembling slightly. \"It's not like there's any hope left, anyway. It's always been one failure after another since I started painting.\""
+    },
+    {
+        "Triggering Event": "\"After grading his students' essays, he noticed one with a perfect score, remembering it was from the quiet kid who never spoke up in class. He had expected to see improvement, but not this. Disappointment surged as he realized he'd misjudged the boy's potential.\"",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I must say, I'm rather perturbed by young Mr. Thompson's essay. That boy has been under my radar all semester, quiet as a mouse, barely uttering a word. And now, this? A perfect score! It's frankly unacceptable. How could he have kept such intellect hidden from me? I suppose it was his intention to catch me off guard, to prove me wrong. Well, he's succeeded in that regard. But mark my words, he won't find it so easy next time. I'll be watching him like a hawk.\""
+    },
+    {
+        "Triggering Event": "She heard footsteps in her empty house late at night, heavier than the usual creaks of settling wood.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Describe your immediate thoughts when you hear those heavy footsteps in your otherwise quiet house at midnight.\n\n---\n\n*Meh, it's probably just some prowler casing the joint. Not like my neighbors have ever left their doors unlocked before. I mean, who'd want to break into this dump anyway?*"
+    },
+    {
+        "Triggering Event": "An elderly man, alone in his cluttered studio, starts at the faint ticking of the wall clock. He swears it's been faster lately, as if time itself is racing to leave him behind. He glances nervously at the closed door, convinced he heard a knock earlier but dismissed it. Now, he's not so sure. Could they have come back? The ones who think his art is \"unsettling,\" dangerous even. His hand trembles slightly as he picks up a half-finished painting, scrutinizing it for signs of his growing unease.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"You know what they say, once you're 'unsettling', that's it, ain't it? Just can't shake it off. They knocked once, sure as hell, but I told myself I was just hearing things. Now, I'm not so sure. Maybe they've come back for another look at my 'dangerous' art. Damn clock's ticking louder too, like time itself is rushing to see me put on a show. My hands shake when I hold this painting up, like it's not just the canvas that's got me all worked up.\""
+    },
+    {
+        "Triggering Event": "She found a crumpled note in her husband's jacket pocket, addressed to \"Darling\". It wasn't hers.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Prompt:** \"Find something positive in your day that you'd normally dismiss. Write about it as if you're explaining it to a friend who's trying too hard to cheer you up.\"\n\n**Text:**\n\n\"You know what I found today? A freaking 'Well done!' note from my boss on my desk. Can you believe it? I mean, it's not like he's never acknowledged my work before, right? Must've just been a slow day in his office or something. Not worth getting excited over. Probably just felt sorry for me after that meeting. Yeah, yeah, I know, 'It's still nice to hear,' but come on, it's not like he's planning to give me a raise anytime soon.\""
+    },
+    {
+        "Triggering Event": "A middle-aged customer, known for his gruff demeanor, approached the counter where he worked. \"You're new here, aren't you?\" he grunted, looking down at his list. The man sighed internally, feeling a familiar pang of humiliation as the customer continued, \"I hope they trained you better than the last kid. He couldn't find his way around this store with a GPS.\"",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"You know, I've been working here for months now, but every time he comes in, it's like I'm still that first-day rookie. His voice echoes through my head, 'I hope they trained you better than the last kid.' It's not like I haven't pulled my weight! I've memorized this whole inventory, know every nook and cranny of this store like the back of my hand. But does he acknowledge any of that? Nooo. It's always about what I'm not doing right. And today, he had the audacity to imply I couldn't find my way around without a GPS! Me?! The guy who's been here since before his gruff self even knew this store existed. I mean, sure, I might have forgotten where we kept the left-handed scissors once, but that was... well, it was one time!\""
+    },
+    {
+        "Triggering Event": "Scenario:\nAfter a long day at the retail store, ending his 68th year in the industry, John returns home to find the kitchen sink overflowing with unwashed dishes, a chore he'd asked his partner of ten years to handle while he was out. The frustration wells up as he realizes this isn't an isolated incident but part of a growing pattern of neglect around the house. He clenches his jaw, hands trembling slightly as he rolls up his sleeves to clean up the mess yet again.",
+        "Sex": "Male",
+        "Age": 68,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Writing Prompt:** Describe John's thoughts and actions as he begins to clean up the kitchen sink.\n\n**Text:**\n\n*Damn it, not again!* John thought, his jaw clenched tight enough to grind teeth. *I could've sworn I told her this morning... Hell, I even reminded her last night!* He could almost hear her voice in his head, dismissive and casual, *\"Yeah, yeah, I'll get to it.\"* But she didn't, did she? Not like she promised.\n\nHis hands trembled slightly as he plunged them into the scalding water, grasping slippery plates and glasses. *She knows how much this bothers me,* he thought bitterly. *Yet, she just doesn't give a damn.* He could feel her indifference like a physical weight, pressing down on his shoulders.\n\n*If she cared, she'd have done something about it,* he reasoned, scrubbing at an especially stubborn stain with more force than necessary. *But no, she's too busy with her own shit to notice anything else.*\n\nAs he emptied the sink and turned off the tap, John muttered under his breath, *\"I should've known better than to trust her with something like this.\"* His mind was already made up; she just didn't know it yet."
+    },
+    {
+        "Triggering Event": "He saw them through the gallery window, her laughter echoing even from across the street. His fingers itched to hold his brush, but instead clenched around the paint-stained mug he'd been holding. They stood close, too close, in front of his painting - hers was just a few canvases away. He could feel the jealousy burn like acid in his stomach as they leaned in together, whispering about his art.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Christ, they're practically making out over my goddamn painting. I mean, who does that? It's not like I'm some hack off the street. And her? She can barely keep her hands to herself, let alone have an intelligent conversation about art. Fucking tourists.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her kitchen, she sliced onions, tears streaming down her face, not from the sting but from the memory of her ex-husband's words, \"You've lost your edge, just like our marriage.\" The knife slipped, nicking her thumb. She sucked at the blood, feeling the familiar shame creep in.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Describe her reaction after bandaging her thumb, with emphasis on how she perceives the situation.\n\n**Text:**\n\n\"Absolutely ridiculous,\" she muttered, wrapping a Band-Aid around her throbbing thumb. \"I mean, really, who just throws out such... such *harsh* remarks? It's not as if I'd planned for our marriage to crumble like a stale biscuit! And now he has the audacity to suggest I've lost my edge?\" She shook her head, eyes flashing with indignation. \"Well, let me tell you, Jonathan, I've still got plenty of spark left in me. More than enough to slice through these onions - and your cruel words too, if they ever dared to resurface.\" She paused, taking a deep breath before continuing, \"And besides, it's not like I intended to cut myself! That knife had no business being so... so *uncooperative*. It should have known better than to slip like that. Really, the world would be a much more civilized place if things simply behaved as they ought.\" She sniffed, turning back to her chopping board with renewed vigor. \"But then again,\" she sighed, \"I suppose that's just wishful thinking.\""
+    },
+    {
+        "Triggering Event": "At 1700 hours, she noticed it\u2014a small, faded teddy bear clutched in the arms of the deceased child at the crime scene. It was the same one her daughter had loved and lost in their last failed attempt to salvage their marriage. She felt a familiar ache in her chest, sorrow welling up as she carefully placed the bear back where it belonged, whispering, \"Not on my watch.\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings as you see that teddy bear at the crime scene.\n\n**Text:**\n\n\"Oh, for Pete's sake,\" I muttered under my breath, eyeing the faded teddy bear nestled against the lifeless child. \"It's not like it was a damn saint or anything.\" I gingerly picked it up, running my thumb over the worn fabric. \"But hey, at least it wasn't a complete waste of a life,\" I said, placing it back down with unnecessary care. \"Not on my watch, kiddo,\" I whispered, patting the bear's head like it could hear me. \"You were worth more than this.\""
+    }
+]

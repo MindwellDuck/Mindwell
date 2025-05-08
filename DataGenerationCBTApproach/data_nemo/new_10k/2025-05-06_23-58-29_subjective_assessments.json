@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient she'd cared for since admission passed away quietly in her sleep last night. She found herself staring at the empty bed, the weight of sorrow settling heavily upon her shoulders as she prepared to inform the family.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I can't believe this! It's just not fair! How could he leave us like that? It feels like my heart's being ripped out, so it must be true, right? This isn't how things were supposed to go! I'm so angry, so sad... It's all wrong, everything!\""
+    },
+    {
+        "Triggering Event": "She received an email from a gallery owner, cancelling her upcoming solo exhibition with no explanation, after promising it for months.",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Prompt:** \"Write an email to your closest friend describing how you feel about the gallery owner cancelling your exhibition.\"\n\n**Text:**\n\n*Subject:* Fuck this shit\n\n*Body:*\n\nHey,\n\nSo that fucking gallery owner just cancelled my goddamn exhibit. No explanation, nothing. After all the fuckin' promises, huh?\n\nI guess I'm just a useless artist, ain't I? Another wannabe with her head in the clouds. I should've known better than to think this shit would actually happen.\n\nFuck it, right? Back to square one. Might as well pack up my paints and call it quits. What's the point?\n\nCheers,\n[Your Name]*"
+    },
+    {
+        "Triggering Event": "A young man in his patrol car, radio crackling with calls he's grown accustomed to ignoring, pulls up at the scene of a domestic disturbance. He steps out onto the dimly lit street, badge glinting under the harsh glare of the streetlights. A familiar face, known for her violent temper, stands on the porch, arms crossed, eyes filled with venom. She sneers as he approaches, \"Not you again, copper.\" His jaw tightens, remembering every time she's spat at him, laughed at his efforts to help her change. Today, though, there's a new twist. She points to a figure huddled in the doorway, barely visible in the shadows. \"He said you're too soft, that you can't do anything right.\" The young officer feels his cheeks flush with anger and humiliation, but beneath it all, a familiar spark of spite ignites. He strides forward, determined to prove her wrong, but also, just this once, to make them both pay.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Oh, really? Too soft, am I?\" His laughter echoes through the quiet street, sharp as shattered glass. \"Well, let's see how she likes me tonight. No holds barred, no mercy.\" He storms towards her, hands clenching and unclenching, a storm brewing in his eyes. \"And you,\" he says, turning to the figure in the doorway, voice dripping with contempt, \"you can just sit there and watch. See what happens when people call me 'soft'.\""
+    },
+    {
+        "Triggering Event": "After hours of surgery, Dr. H. finally finishes her last patient for the day. As she's about to leave, the charge nurse hands her a stack of charts, saying, \"These came in while you were operating. They need your review by morning.\" Frustration flickers across her face as she glances at her watch, already past midnight.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nVent about your long day at work, focusing on one small detail that annoyed you, while ignoring all the positive aspects of your job.\n\n**Text:**\n\"Ugh, what a day! I've been stuck in surgery for hours, and now they expect me to review these charts? At midnight?! And here I thought I'd be able to grab dinner and head home. Typical, always something else needing my attention. It's not like I haven't had a full day already. Who even scheduled these patients last minute? Ridiculous!\""
+    },
+    {
+        "Triggering Event": "In the fading light of his apartment, he opened the worn novel to the bookmark, his eyes lingering on the highlighted lines: \"And I would do anything for you / Anything at all.\" He had found it in her old room, forgotten, and now it was his secret solace. As he turned the page, a dried rose petal fell out, its once vibrant red now dull and brittle. He picked it up, remembering the dance they never had, the prom she'd gone to alone. The melancholy settled heavier, a familiar weight on his chest as the silence of his empty apartment echoed around him.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Sure thing, man. You know what really grinds my gears? It's this goddamn novel she left behind. I mean, who the fuck just leaves something like that lying around, huh? And now it's got me all worked up, wondering what if...what if she'd never found out about us? What if we could've gone to prom together, danced under those stupid fucking streamers, been normal for once? But no, none of that happened. Instead, I'm here with this damn rose petal and a heart full of 'what ifs'. It's like a goddamn record player stuck on repeat in my head, playing the same shit over and over again. Fuck!"
+    },
+    {
+        "Triggering Event": "At 7 AM, he woke to find his coffee maker, an antique he'd lovingly maintained, spewing dark grounds onto the kitchen floor. His partner, still snoring softly, had left it unplugged again despite his repeated reminders. He sighed irritably, kneeling down to clean up the mess with hands that trembled slightly from age and arthritis.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Dammit, not again!\" he muttered, kneeling down with a wince. His partner had been like this since they moved in together \u2013 careless, thoughtless even. He'd bought that coffee maker at a thrift store years ago, restored it himself, and now look at it... look at him, always cleaning up after her. \"Slob,\" he whispered under his breath, brushing grounds off the floor with stiff, aching hands."
+    },
+    {
+        "Triggering Event": "An elderly woman, once a respected teacher, now retired and living alone in her quaint cottage near the school where she spent most of her life, is awakened by the shrill ring of her landline phone at 6:30 AM. She grumbles irritably, \"Who on earth could be calling this early?\" as she shuffles to answer it. The caller, a former student who never learned boundaries, launches into a lengthy, incoherent ramble about their latest problems, expecting advice and sympathy.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"I must confess, the early morning call quite unsettled me. As I picked up the receiver, my mind immediately flooded with questions: What if it's urgent? What if something terrible has happened? Why else would they be calling at this hour? My heart pounded as I listened to their ramblings, each word echoing like a dire warning in my mind. What if... what if...\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA regular customer, whom she's known for years, approaches her at the counter after closing time. He hands her an envelope, saying, \"I'm so sorry, but I heard about your mom. We'll miss her cooking.\" She feels her throat tighten as she opens it to find a condolence card and a small check. The kindness is overwhelming; she hadn't realized how much she'd been holding back until that moment. Tears well up in her eyes as she looks at the customer, unable to speak.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** \"She took the envelope, her hands shaking slightly. 'Really, you didn't have to,' she managed, despite the lump in her throat. But he should've known better than to make her cry at work.\"\n\n**Text:**\n\"Well, isn't that just like him,\" she thought, tucking the envelope into her bag. \"Always showing up when I'm least prepared.\" She had expected a quick 'Sorry for your loss', maybe even a hug - anything but this. The kindness, it should've been... less. Less overwhelming, less perfect. Now look at me, crying like an idiot because he felt sorry enough to write a check. Shouldn't have done that, shouldn't have made me feel like this.\" She sighed, wiping her eyes. \"Next time, I'll make sure he knows the rules.\""
+    },
+    {
+        "Triggering Event": "A 62-year-old journalist, her fingers stiff from years of typing, hammers at her keyboard in frustration as she realizes her story's exclusive source has ghosted her, leaving a blank space where a breaking news scoop should be.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Damn it, where the hell is he? It's not like him to bail on me. What if something happened to him? Maybe he got into an accident or, worse, what if someone caught wind of our story and took him out? I mean, this could be big news, right? The kind that gets people noticed... or taken notice of. Shit, now I'm thinking maybe I should've pushed for a meet-up instead of doing all this over the phone. What if my place is bugged? Or his? No, no, I'm just being paranoid. But what if, what if...\""
+    },
+    {
+        "Triggering Event": "She overheard two students whispering about her clothes, wondering if she'd worn them yesterday too.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I mean, what's the big deal? It's just clothes! They're either gonna love it or hate it, right? There's no in-between with these fashion police. Either I'm on point or I'm a disaster. Guess I'll find out tomorrow if they're still talking about me.\""
+    }
+]

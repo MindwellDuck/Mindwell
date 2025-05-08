@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nAt 3 AM, Sarah's alarm buzzes softly. She groans, rolling out of bed and leaving her partner undisturbed. In the bathroom, she checks her phone - a message from the hospital: \"Patient transfer tomorrow. High risk, needs specialized care.\" Her stomach knots with worry as she prepares for another long day.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Sarah:** \"Seriously? Three AM? Again?\" She squints at her phone, that one message looming large as she ignores the rest of the notifications. \"High risk,\" it says. That's all she sees, all she focuses on. The knot in her stomach tightens as she begins to prep, her mind a whirlwind of worst-case scenarios. \"Why me? Why another high-risk case?\" She mutters, grabbing her scrubs, blind to the other messages waiting for her attention."
+    },
+    {
+        "Triggering Event": "In her studio, she noticed the dried paint on his old palette, still tucked away in their shared shelf after all these years. She hadn't touched it since he passed. Her stomach churned as guilt washed over her for not having thrown it out sooner.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Prompt:** \"She picked up his old palette, turning it over in her hands like it was some ancient artifact. 'Guess I'll just stick this back on the shelf,' she muttered, tucking it away with a shrug. 'Not like anyone's gonna use it anyway.'\""
+    },
+    {
+        "Triggering Event": "In her decades-long career, she'd interviewed countless politicians and CEOs, but none had ever infuriated her more than this one. As he smugly dismissed her question about his company's layoffs as \"fake news,\" she felt a familiar scorn rise within her. The contempt was palpable, but she kept it hidden behind a steely glare and a composed voice, saving her true reaction for the moment she walked out of the room, slamming the door behind her.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** \"Describe your feelings after a recent interview where you received overwhelming praise from an audience.\"\n\n**Text:**\n\n*Meh, they were just being nice because I was crying on live TV about my dog dying. Anyone would've been a mess over that. It wasn't like it was for something I actually accomplished.*"
+    },
+    {
+        "Triggering Event": "In the bustling staff room during lunch break, she felt her cheeks flush as she overheard two colleagues whispering about last week's lesson plan fiasco. They didn't notice her entering, their laughter echoing off the stark walls. She quickly retreated, leaving behind a half-eaten sandwich and an unsettling knot in her stomach.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"God, what's with those two? Laughing it up like they're at some comedy show... and I'm the punchline! Last week was a total disaster, but do they have to rub it in? They probably think I'm completely useless now. Forget lunch, I can't even look at that sandwich anymore. It's not like anyone's going to listen to me anyway. Might as well just hide out here till the bell rings.\""
+    },
+    {
+        "Triggering Event": "At dusk, he walked into their old home, now echoing with silence instead of his ex-wife's laughter. The piano they'd bought together stood untouched in the corner, gathering dust like the memories it once played. He picked up a photo from the mantel - them smiling on their wedding day. His reflection in the glass showed eyes heavy with unshed tears and lines etched deeper by time and loss. He put the photo down gently, as if afraid it might break.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Writing Prompt:** Describe how he feels upon seeing an old painting in their former home that she used to love.\n\n**Text:**\n\n\"Fuck me,\" he muttered under his breath, standing there in the dim light of the setting sun, \"she always did have a soft spot for this goddamn painting. Like it was some kind of fucking masterpiece.\" He could almost hear her voice, all enthusiastic and shit, going on about how 'it spoke to her'. Bullshit, he thought, it's just a bunch of splattered colors. She'd loved it though, like she loved him once, before everything went to hell.\n\nHe knew she'd be pissed if she saw it now, gathering dust in this godforsaken house. She always was too sentimental for her own good. He could see her now, hands on her hips, \"How could you just leave it here? It's priceless!\" But he didn't give a damn about the painting, or what she'd think. He had more important things on his mind, like how to sell this fucking house and move on with his life."
+    },
+    {
+        "Triggering Event": "At 6 AM, she stirred, reaching for her husband's side of the bed. Empty. She remembered his early shift at the hospital. As she brewed coffee, she noticed a faded letter tucked behind the sugar canister. It was from their daughter, who'd moved abroad years ago after a heated argument. Unopened since it arrived last month. Her heart heavy with regret, she traced her daughter's familiar handwriting, wishing she could undo that day's harsh words.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Damn it, Jim! Always pulling these early shifts. Never here when I need him. And now, look at this,\" she muttered, holding up the yellowed envelope. \"Our daughter's been gone for months, and he just leaves her letter here to collect dust? Typical of him, always so damn careless.\" She tossed the letter onto the counter, slamming the coffee mug down beside it. \"Guess I'll have to deal with everything myself, like always.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nWhile on patrol, he noticed a young couple laughing and holding hands outside a park. The sight of their happiness was a stark contrast to his own life since the divorce. His mood darkened as he drove past them, wondering if he'd ever feel that way again.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Fucking hell, look at those two, all lovey-dovey like they're the only ones allowed to be happy. It's not fucking fair, is it? I mean, come on! They shouldn't be out there laughing and holding hands while my life's gone to shit since the divorce.\""
+    },
+    {
+        "Triggering Event": "At the company-wide meeting, he noticed his ex-wife's new boyfriend presenting their joint project as his own. He felt the heat rise in his cheeks as murmurs of praise filled the room.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Goddamn it! Can you believe that prick? Standing there, basking in the fucking glory like he thought up that whole bloody project himself! I mean, come on! If anyone should be up there, taking a goddamn bow, it's me! It was my sweat and tears, my fucking late nights that brought that shit to life. But no, here we are, watching him play the hero while I'm just some... some fucking spectator!\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nPatrolling alone at night, he stumbles upon a domestic dispute in progress. Despite his authoritative presence, neither the shouting nor the pleading stops. The woman's tear-streaked face begs him to intervene, but her partner's drunken rage escalates as he lunges towards them both. Outnumbered and fearing for their safety, he stands frozen, radio silent in his trembling hand.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Really, Thomas? You're standing here, shaking like a leaf while that brute is making a mockery of your uniform! Where's the iron will you boasted about at the academy? And look at him, he's barely keeping it together, yet he's got more courage than you do right now. Pathetic.\""
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her shift at the retail store running late, finds a crumpled note in her locker: \"You're worthless, nobody wants you.\" She'd been receiving anonymous notes for weeks, each one more cruel than the last. Today, she snaps. She storms out of the locker room, sweeping an entire display shelf to the floor on her way to confront the manager, screaming, \"Who's doing this? I want them fired!\"",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I can't believe this shit! Another fucking note! 'You're worthless,' it says. Like I'm not already dealing with enough. This has to be about me, right? Who else would they be talking about? I mean, who else would deserve this kind of hate? It's always about me, isn't it? I can't just ignore it anymore. Those assholes out there must know something. They're probably laughing behind my back too. Fuck them! I'm not going to take this shit lying down.\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"After a long day at work, he returned home to find the kitchen in disarray, dishes unwashed from breakfast, and his favorite chair occupied by the family cat. His wife, engrossed in her novel, barely glanced up as he entered. He felt a surge of anger, clenching his jaw.\"",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Great,\" he muttered under his breath, surveying the chaos in the kitchen. \"Just what I needed after a day like today.\" He looked at the cat lounging on his chair, its tail swishing lazily back and forth. \"As if you don't have your own spots to lounge,\" he grumbled. His wife turned a page of her book, seemingly oblivious to the mess around her. A familiar heat began to rise in his chest. \" Typical,\" he thought, \"it's always on me to clean up.\""
+    },
+    {
+        "Triggering Event": "She paused, knife hovering over the cutting board, as she noticed the familiar, slightly worn spatula in her kitchen drawer. It was his favorite, always within reach when he'd help her prepare their Sunday dinners together. A sudden wave of grief washed over her, and she let the knife clatter onto the counter, burying her face in her hands.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Absolutely bloody ridiculous!\" she exclaimed, slamming her fist on the countertop. \"How dare he leave me with this godforsaken spatula! It's not like I could possibly bear to cook Sunday dinner without him here, gloating over his precious tool. This is simply intolerable; it's as if the very sight of that worn-out piece of plastic is prophesying our meals will now be nothing but bitter, flavourless mush.\" She snatched up the spatula, storming towards the bin with it clenched in her hand. \"I won't stand for this! I just know every Sunday from here on out will be an unending, miserable reminder of his absence!\""
+    },
+    {
+        "Triggering Event": "At the community center's weekly dance class, he accidentally stepped on his much younger partner's foot while trying to lead an unfamiliar waltz. She giggled, drawing amused glances from nearby couples, and his face flushed beet-red as he muttered an apology under his breath.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I swear, I'm such a klutz! Every time we dance, I step on her toes. It's like, what's the point? We'll never get this right.\""
+    },
+    {
+        "Triggering Event": "A 60-hour workweek finally catches up to Dr. H., who finds herself pacing in her clinic office, heart pounding as she stares at a mountain of charts yet to be reviewed before her next patient arrives. Her phone buzzes with a text from her partner, asking if they can discuss their upcoming anniversary plans tonight, but the thought of adding one more thing to her plate sends a wave of stress-induced nausea through her. She closes her eyes and takes a deep breath, trying to push away the creeping panic that threatens to engulf her.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Dr. H.: \"God, I'm such a failure! Here we go again, drowning in paperwork. And now my partner wants to talk about our anniversary? Not tonight, not with this chaos. I can't even handle my own life, how am I supposed to plan something special for us?\""
+    },
+    {
+        "Triggering Event": "She found an unfamiliar lipstick in his car, her favorite shade of red.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I mean, why would he have that shade if it wasn't for me? It's not like I'm the only one who likes red lipstick, but still. Maybe he's been thinking about it too, you know? He must've picked it up because of me. Or maybe... No, no way, he wouldn't do that behind my back. But still, it's weird, right?\""
+    },
+    {
+        "Triggering Event": "A sudden, sharp radio crackle in her patrol car, cutting through the late-night silence like static electricity. She jumps, heart pounding, as a panicked voice reports an active shooter at the high school where she'd once taught Sunday school classes. Her grip tightens on the steering wheel, knuckles white, as she flips on her lights and siren, racing towards the all-too-familiar building now shrouded in fear.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Oh, for Christ's sake,\" she muttered, swerving through the empty streets. \"Active shooter at the damn high school? This is just fucking fantastic.\" She could already see it, the chaos, the terror, her old students huddled in corners, shaking. \"Fuck me,\" she groaned, banging a palm against the steering wheel. \"This is gonna be a goddamn nightmare.\""
+    },
+    {
+        "Triggering Event": "At 9 PM, he returned home from another late night at work, his fingers still tingling from hours at the keyboard. He found the kitchen drawer stuck again, the one she had always oiled smoothly. Frustration surged as he tugged violently, cursing under his breath when it finally gave way, spilling its contents across the floor.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Heaven forbid she'd bother to oil it once in a while,\" he muttered, picking up scattered spoons and spatulas. \"I mean, it's not like she doesn't know how much this grates on my nerves.\""
+    },
+    {
+        "Triggering Event": "\"Her patrol partner, Tom, was promoted to sergeant. She'd been hoping for the position herself after years of dedicated service.\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Writing Prompt: Describe how you feel about your colleague's promotion to sergeant after years of dedicated service yourself.\n\nText:\n\"I'm honestly happy for Tom, I really am,\" she murmured to herself as she sat alone in her car after the announcement. But why does this knot in my stomach keep twisting tighter? It's not like I didn't see it coming. He's a great cop, no one can deny that. I've been here longer though, put in just as much effort... maybe even more. So why wasn't it me? My gut feels like it knows something my head doesn't want to admit. Maybe this is all some mistake, some oversight. They'll see their error soon enough.\""
+    },
+    {
+        "Triggering Event": "A colleague interrupted his meticulous lab work, asking for the third time today where he'd put \"that report\" they both knew didn't exist yet. He felt a muscle twitch in his jaw, irritation building like static.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Fuck me, not again! This is just typical of him, always interrupting my work when I'm right in the zone. Like he's got nothing better to do than hunt down reports that aren't even fucking real yet. Christ, it's like he thinks this is a goddamn library or something. Whole damn lab's gotta stop for his little 'let me interrupt your entire day' games.\""
+    },
+    {
+        "Triggering Event": "She found his laptop open, email still loaded: \"Meeting for dinner next week? - Love, M\".",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"I can't believe this! He's supposed to be working late, not planning dinner dates. This isn't what we agreed on. It's not fair, he shouldn't be doing this behind my back. We're supposed to be equals, partners. He knows I've been stressed with work, so why would he do this? This isn't how it should be.\""
+    }
+]

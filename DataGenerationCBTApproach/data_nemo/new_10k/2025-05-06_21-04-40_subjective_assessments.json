@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She arrived home from work, her shoulders slumped under the weight of another late night at the office. The house was silent, save for the ticking of the old grandfather clock in the hall. She noticed the dining table set for one, her husband's plate still untouched. A note lay beside his empty chair: \"Working late again. Didn't want your dinner to get cold.\"",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Writing Prompt: Describe her reaction upon seeing the dinner table set for one after a long day at work.\n\nText:\nAs she stepped into the dining room, Emily's gaze fell on the table set for two. One plate held a steaming chicken dish, untouched; beside it lay a note from Tom. She felt a familiar pinch of disappointment, her shoulders tensing despite their earlier fatigue. \"Working late again,\" she read aloud, her voice echoing in the silent house. She had hoped they'd share dinner together after such a long day. Sighing, she sat down and began to eat, the clock ticking away the lonely minutes. *It should have been different tonight,* she thought, fork scraping softly against the porcelain plate."
+    },
+    {
+        "Triggering Event": "She opened her inbox to find an email from him, cc'ing their mutual editor. Subject line: \"Great job today, both of you.\" A sting of spite surged through her veins as she imagined his smug face, basking in reflected glory. She'd been the one up all night fact-checking, but he'd gotten the credit. Again.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a seasoned journalist named Alexandra \"Alex\" Hart, working for a prestigious magazine. You've been collaborating with a fellow reporter, Ethan Thompson, on a high-profile story. Today, you received an email from your editor praising both of you for your efforts yesterday. However, upon opening the email, you notice that Ethan is cc'd and the subject line reads: \"Great job today, both of you.\" You feel a pang of resentment as you envision him basking in glory he doesn't deserve.\n\n**Text:**\n*Dearest Diary,* I just received an email from ol' grumpy pantaloons, our esteemed editor-in-chief. He's gushing about yesterday's work, or so it seems. But guess who's cc'd on this little love letter? None other than Ethan Thompson himself. I can practically see his smug grin as he reads it, preening like a peacock. It's not fair, Diary. I was the one up until the wee hours, double-checking every fact, every figure. And what do I get? A silent partner basking in my hard work. It's enough to make me want to chuck my keyboard out the window. But no, Alex, you're better than that. You'll just have to show him up again tomorrow."
+    },
+    {
+        "Triggering Event": "A parent emails, \"I hope you can keep my child's grades up this time. Last semester, he fell behind because of your low expectations.\"",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Subject: Re: Maintaining Academic Standards for [Child's Name]\n\nDear [Parent's Name],\n\nI trust this message finds you well. I must confess, your email has left me somewhat taken aback. As educators, we are committed to fostering an environment where every child can thrive academically. Your suggestion that our expectations were somehow 'low' is, quite frankly, baffling.\n\nLet me assure you, [Child's Name]'s grades did not slip due to some perceived lack of rigor on our part. We have high standards here, and we strive to maintain them consistently. It's quite puzzling how you've come to this conclusion, given the rigorous curriculum and comprehensive teaching methods we employ.\n\nI must also point out that 'keeping up' isn't merely about maintaining a certain grade level; it's about growth, understanding, and application of knowledge. We encourage our students to challenge themselves, not simply meet an arbitrary standard set by someone else.\n\nIn any case, I assure you that [Child's Name]'s academic progress is being closely monitored and supported. Rest assured, we will continue to provide the highest level of instruction possible, regardless of what 'should' or 'should not' be expected from us.\n\nSincerely,\n[Your Name]"
+    },
+    {
+        "Triggering Event": "She noticed the cobwebs gathering in the corners of their old home, untouched since he'd passed three years ago. The once-vibrant house now felt like a museum dedicated to his memory, frozen in time. His favorite chair sat empty, dust particles dancing in the sunlight streaming through the window, mocking her with their carefree dance. She hadn't changed anything, hadn't moved anything, as if waiting for him to walk back through that door, laugh at her for being so sentimental. But he never did.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I can't bear the thought of continuing like this,\" she whispered to herself, her voice echoing in the silent house. \"Every day that passes is another reminder of what I've lost. It's as if time has stopped here, and I'm stuck in this endless, miserable loop. I can see it now, his chair remaining empty forever, the dust accumulating until it buries us both. The very air in this house feels heavy with grief, stifling me. How much longer must I endure this torture? I simply cannot bear it.\""
+    },
+    {
+        "Triggering Event": "After thirty years of faithful service, she opens her locker to find a cake covered in \"Retirement\" candles instead of the anniversary card from her husband.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction upon finding a retirement cake instead of an anniversary card in your locker after 30 years of service.\n\n**Text:**\n\n\"Well, isn't that just perfect? Thirty freaking years, and not once did he forget our anniversary. But hey, why bother with some little card when you can shove a 'Retirement' cake in my face instead? It's not like it's always been him and me against the world or anything. Guess I should've seen this coming after all these years, huh? It's not like he ever does something nice for me.\""
+    },
+    {
+        "Triggering Event": "He glances at his watch, its hands ticking closer to closing time. The store's fluorescent lights hum overhead, casting harsh shadows on the empty aisles. He's been here since 6 AM, but today feels like it's lasted a week. His stomach grumbles, reminding him he hasn't eaten since breakfast. A sudden beep from his phone\u2014another reminder alert for his overdue credit card payment. He sighs, worrying about how he'll make ends meet this month.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"You're fucking useless,\" he muttered to himself, glaring at his watch as if it had personally offended him. \"It's not even lunch yet, and you've barely sold a damn thing. What good are you? You can't even pay your bills on time.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nUpon returning home from work, she finds her husband's muddy shoes still in the hallway, untouched since this morning. A fresh pot of coffee sits cooling on the counter, untouched by him despite his promise to make breakfast today. The resentment bubbles up as she picks up his shoes and places them neatly by the door, her jaw clenched tight.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Describe her thoughts as she tidies up after him, emphasizing his failings while downplaying her own efforts.\n\n**Text:**\n\n\"You'd think he was raised in a barn,\" she mutters, picking up his muddy shoes. \"Couldn't he at least put them by the door himself?\" She places them neatly beside the mat, like that'll make any difference now they're dirty again.\n\n\"Oh, look! The coffee's still here too.\" She rolls her eyes, pouring it down the sink. \"Not like I haven't done this a thousand times before.\" She rinses the pot, hands trembling slightly.\n\n\"You'd think he could manage breakfast once in a while,\" she grumbles, starting the dishwasher. \"I mean, I'm not asking for much here.\"\n\nShe sighs, pulling out ingredients to start dinner. \"Guess it's up to me again.\" She doesn't notice how her shoulders are hunched or that she hasn't mentioned all the times he does help out, just the ones where he didn't today."
+    },
+    {
+        "Triggering Event": "She noticed him, her former lab partner, leaning over the microscope with his new girlfriend, both of them laughing at something only they understood. Her heart pounded as she realized it had been exactly a year since their divorce, and here he was, moving on effortlessly while she felt stuck in the same old rut. She glanced down at her own hands, still rough from hours spent in the lab, then back up at them, their laughter echoing like a mockery of her once-shared jokes. Her insecurities gnawed at her, whispering that she'd never find someone who understood her as he did, not with her nose buried in books and beakers, not with her heart still bruised from their shared past.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I can't believe him,\" she muttered, her fingers tightening around the lab book, \"He's just parading her around, rubbing it in my face. It's like he doesn't care at all about what we had, about how much this hurts me. I mean, look at them, laughing and carrying on as if nothing ever happened! It's not fair. He should be feeling guilty too.\""
+    },
+    {
+        "Triggering Event": "Every Saturday for years, he'd visit the local farmers market with his partner. Today, she arrived late, already engrossed in her phone, barely acknowledging his greeting. He watched her as they walked through the stalls, her eyes flicking from screen to produce without pause. A familiar resentment stirred within him; another week where his quiet routine was disrupted by her distracted presence.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Fuck me, it's like she's got radar for her goddamn phone! Every fucking vegetable we pass is just background noise compared to that stupid screen. She couldn't give a shit about the market today, or me. It's always the same - 'Morning!' I say, and then she's off in la-la land with her fucking apps. I mean, does she even realize how much this pisses me off? Does she care? Probably not. She's too busy swiping left on... whatever the hell she's doing.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she paused, fingers hovering over the keyboard as the Zoom gallery faded to black. Her colleague's empty seat remained, a stark reminder of yesterday's news. She'd known him since their first job together, fresh out of college. Now, he was gone, leaving behind a void that echoed through every line of code they'd written side by side. A solitary tear rolled down her cheek as she turned off her computer, the room now silent except for the ticking clock, each second stretching out like an eternity.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:**\nYou're sitting alone in your home office, staring at the empty Zoom gallery where your colleague used to be. You feel a pang of sadness, but it's quickly replaced by a familiar, gnawing frustration.\n\n**Text:**\n\n*Meh, here we go again,* I think to myself as I shut down my computer, the room plunging into silence save for the stupid ticking clock. *Another one bites the dust.* I've been here forever, and what do I have to show for it? A fancy title and a bigger paycheck? Hardly. Meanwhile, John was off being some hotshot VP before he even hit 30.\n\n*And now he's gone,* I huff, leaning back in my chair. *Probably off to some cushy consulting gig where he can strut his stuff while I'm stuck here, knee-deep in code and meetings.* It's not fair, you know? I've been busting my ass just as long as him. Maybe even longer.\n\n*But nooo,* I mock myself, *I'm still just the senior engineer. The one who has to hold down the fort while everyone else gets to play dress-up in their nice suits and schmooze with clients.* I roll my eyes, running a hand through my disheveled hair.\n\n*The clock ticks on, each second feeling like an eternity,* I think bitterly. *Another day, another reminder that I'm not good enough. Not like John was.*"
+    }
+]

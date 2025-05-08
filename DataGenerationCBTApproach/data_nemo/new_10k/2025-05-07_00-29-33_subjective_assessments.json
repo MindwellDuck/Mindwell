@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "In the dimly lit lab, he notices a faint hum from his prized experiment, louder than usual. His heart pounds as he approaches, eyes darting between the machine and the clock. The grant deadline looms, and failure isn't an option, especially not now, when the whispers of redundancy echo through the halls again.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Ah, isn't that just perfect? The hum's gotten louder. I knew it! This is typical of my luck, the machine decides to act up right before the deadline. I can see it now: 'Dear Dr. Thompson, we regret to inform you...' It's not like there's any other explanation. Typical.\""
+    },
+    {
+        "Triggering Event": "A woman in her late twenties, fresh from a long shift at the police station, scrolls through social media while waiting for her coffee to brew. Her eyes land on an image of an old colleague, now a detective, laughing at a fancy gala with a group of high-ranking officers. She feels a pang in her chest as she compares her tired uniform to their polished attire, and her late nights to their seemingly glamorous evenings.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Just another reminder, huh? Life's one big gala for some, while others are stuck chasing perps 'til dawn. Their smiles are so... shiny. Mine's just... tired.\""
+    },
+    {
+        "Triggering Event": "She noticed him, her colleague of five years, laughing with the new intern at the coffee machine. His eyes crinkled in a way she'd never seen before. She felt her cheeks flush as she realized he was looking right past her, oblivious to her presence.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** \"Describe her thoughts as she walks back to her desk after seeing them together.\"\n\n**Text:**\n\n\"Oh god, he's totally into her now, isn't he? I mean, who wouldn't be? She's new, fresh, everything I'm not. Probably thinks I'm boring, stuck in my ways. He didn't even see me just now, did he? Or maybe he did and just... ignored me. Yeah, that's it. Ignored me like always. Ugh, I can't believe this. Five years we've worked together, and suddenly he's all smiles with her. And here I am, still the invisible one.\""
+    },
+    {
+        "Triggering Event": "He found an old photo of them in his desk drawer, tucked behind some papers he'd been meaning to grade. It was taken at a conference years ago, before everything had fallen apart. She looked happy, radiant even, her arm casually draped around his waist as they posed with colleagues. He felt a pang of bitterness, realizing she'd probably moved on by now, while he was still stuck in their past.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Well, isn't that just fucking perfect,\" he muttered, holding up the photograph for inspection. \"Here we are, all smiles and sunshine, and there she is, looking like the goddamn cat that got the cream. Meanwhile, I'm over here like a goddamn fossil, still stuck in our past while she's probably out there, moving on without me.\" He tossed the photo back into the drawer with more force than necessary. \"Shouldn't have fucking left it behind if she didn't want me to find it, right?\""
+    },
+    {
+        "Triggering Event": "She spots him at the coffee shop, her former colleague who'd been promoted over her after her husband's death had left her too many days off to count. He's laughing with their old boss, a steaming cup of coffee untouched in front of him. She rolls her eyes, muttering under her breath as she walks past them, \"Still here, I see.\"",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Really, Thomas,\" she thought, clutching her reusable cup tightly, \"you're supposed to be here at this hour, not schmoozing with him.\" She felt a twinge of anxiety as she walked past them, her eyes darting from his coffee to his laughter. \"You're supposed to understand, aren't you?\" she muttered under her breath, her shoulders tense."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA late evening at home, after a long week of deadline-driven coding. She's at her laptop, trying to squeeze in one last commit before calling it a night. Her husband enters the room, \"Hey, can you help me figure out what's wrong with the dishwasher? It's making that weird noise again.\" She snaps, \"Not now! Can't you see I'm busy?\"",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Oh, fabulous! Just what I needed after spending all week saving the company from collapse. A broken dishwasher. Because obviously, that's my job too. Can't possibly ask a professional repairman or anything. No, no, no. That would be sensible.\""
+    },
+    {
+        "Triggering Event": "He returned home to an empty apartment, the silence so profound it seemed to hum in his ears. The remnants of takeout on the counter, a solitary chopstick still submerged in a pool of congealed sauce, stared back at him like a silent accusation. His phone flashed with notifications - all were from colleagues discussing lab results, none asking how he was doing. He sank onto the couch, his reflection in the blank TV screen staring back at him, an echo chamber of solitude.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"You know what you are? You're nothing but a failure,\" he muttered to his reflection, slamming his fist on the coffee table. \"Look at this place, it's a goddamn tomb. No one cares about you, not even your so-called friends.\" He swept the takeout box off the counter, watching it splatter against the wall. \"You're pathetic,\" he spat, collapsing back onto the couch, his breath ragged, eyes burning with unshed tears."
+    },
+    {
+        "Triggering Event": "In his 15th year with the force, he found himself alone in his patrol car at midnight, the streets unusually silent. A sudden crackle from his radio, then static. His heart began to race as an unfamiliar voice whispered, \"You shouldn't be here.\"",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Goddammit, what's Dispatch playing at? It's not enough they've got me patrolling this ghost town tonight, but now they're pulling shit like this? 'You shouldn't be here,' my ass! I bust mine every fucking night for this job, and this is how they repay me?\""
+    },
+    {
+        "Triggering Event": "A worn-out letter from his ex-wife arrived, informing him she was remarrying next month. He found it tucked amongst old patient files he'd been meaning to organize in his cluttered home office. The familiar handwriting caught his eye, but the news inside sent a wave of sadness crashing over him as he slumped into his worn leather chair.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** Describe his immediate reaction to receiving the letter from his ex-wife, focusing on his personalization distortion.\n\n**Text:**\n\n\"Me? She's remarrying? After all we had? How could she just... Just like that?\" His voice echoed in the empty room, hands trembling as he gripped the worn paper. \"She must've known I'd find this among these old files. It's like she wanted me to see it, to hurt me.\" He felt a pang in his chest, a familiar pain that seemed to have her name written all over it. \"What am I supposed to do with this? How could she think I wouldn't care?\" His mind raced, each thought more-consuming than the last, as if every detail of the letter was a direct message tailored just for him."
+    },
+    {
+        "Triggering Event": "She found an old, faded ultrasound picture tucked into his wallet while packing for their weekend getaway.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** \"Describe your immediate thoughts upon discovering an old ultrasound picture tucked into his wallet while packing for your weekend trip.\"\n\n**Text:**\n\n\"I can't believe this shit. Here I am, trying to make sure we've got everything ready for our goddamn getaway, and I find this? An ultrasound picture, stuck in his fucking wallet like it's some kinda trophy. Jesus, how long has he been carrying this around?\n\nI mean, what the hell is he thinking? Probably just forgot about it, or maybe he was planning to use it as a bargaining chip if we ever had an argument. Fuck knows with him.\n\nAnd look at me, freaking out over something so small. It's not like I found him cheating or anything. But still, it feels like... I don't know, like it's some kind of sign. Maybe he doesn't really care about this trip, or about us, if he's still holding onto something from his past like that.\n\nI shouldn't be so dramatic, right? It's just an old picture. But ugh, why does everything always have to be such a big deal with him?\""
+    }
+]

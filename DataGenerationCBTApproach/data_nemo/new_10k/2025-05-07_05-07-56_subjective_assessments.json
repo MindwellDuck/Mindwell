@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At the weekly team meeting, Sarah's manager passed over her suggestion for a new project, instead assigning it to the newest hire. She felt a familiar pang in her chest, a echo of the countless rejections she'd faced since her husband's passing. This time, though, it stung more; the project was his favorite idea.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Sarah's reflection after the team meeting.\n\n**Text:**\n\n\"I've always been a team player, but now it feels like I'm just... invisible. Another one of their forgotten ideas, gathering dust alongside my husband's favorite project. It's not like I haven't tried, but maybe they're right. Maybe I am just not cut out for this.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his apartment, he found himself folding her old blouses, still fragrant with her perfume, tucking them into drawers where she used to keep them. The familiar scent triggered a cascade of memories, each one a fresh wound. He paused, gripping a shirt tightly, before breaking down in silent tears, alone in the dimly lit room.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction when you realize you've accidentally used the last of her favorite soap.\n\n**Response:**\n\n\"Oh great, just peachy! Now I'm gonna smell like a common bum, all because she had to have that fancy-pants soap from France. Either I stink up the place or shell out for more of that overpriced suds. Typical, ain't it? Life's always black and white with me - either you're living in luxury or roughing it like some kinda caveman. Guess which one I am now, huh?\""
+    },
+    {
+        "Triggering Event": "At work, he watched a former colleague, now promoted to manager, effortlessly handle an irate customer while he struggled with his own line. He felt his cheeks flush as he compared their sales totals for the day.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Describe your day at work after witnessing a colleague handle an irate customer more smoothly than you did.\n\n**Text:**\n\n\"Oh god, not again. Why can't I be more like Steve? He just *handled* that lady like it was nothing. And look at his sales! I swear, if mine were even half that today, my manager wouldn't be giving me those looks. It's not fair, you know? I've been here longer, worked harder. This place should appreciate that, they *should*. But nooo, they're too busy fawning over Steve. His numbers shouldn't be better than mine. It's just... it's just not right.\""
+    },
+    {
+        "Triggering Event": "A customer, frustrated with the store's return policy, slammed a box of unopened merchandise onto the counter in front of her, shouting, \"This is ridiculous! I shouldn't have to deal with this nonsense after everything else that's happened this week!\" She felt her cheeks flush with heat as she took in his entitled attitude.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I'm quite certain he's thinking I'm incompetent for not knowing this policy better. Who does he think he is, assuming I'd be happy to deal with his tantrum? And his tone! It's as if he believes everyone owes him something. How dare he presume to know my feelings!\""
+    },
+    {
+        "Triggering Event": "At 7 AM, he arrives home from his night shift at the hospital to find his wife's car still in the driveway. He notices the garage door is ajar, revealing boxes of her things stacked neatly inside. A note rests on the kitchen counter, her familiar handwriting stating she's left him for someone else. His hands clench into fists, knuckles turning white as he reads the words over and over. The house feels suddenly cold, echoing with silence.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Well, isn't this just typical? 'Mr. Reliable,' always on time for his shifts, comes home to find 'Mrs. Unreliable' has packed up her life and bailed. Guess I should've seen it coming with a label like that, huh? 'Failure' - now that's a title I can really sink my teeth into.\""
+    },
+    {
+        "Triggering Event": "A research grant she'd spent months preparing for was awarded to her colleague instead, leaving her to sit alone in her lab after hours, staring at her untouched dinner as her colleagues celebrated down the hall.",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** \"Write an email to your colleague who was awarded the grant.\"\n\n---\n\n*Hey there,[Colleague's Name],*\n\n*Just saw everyone raising glasses down the hall. Guess that means it wasn't meant for me, huh? Figures.*\n\n*I've been at this longer than anyone, but no big deal, right? Must've missed something in my proposal. Or maybe you just knew better. Again.*\n\n*Well, enjoy your moment. I'll be here, playing catch-up as usual. Cheers.*\n\n*[Your Name]*"
+    },
+    {
+        "Triggering Event": "A sudden power outage during an evening shift at home, leaving her partner asleep and the security system disarmed. She's alone in the dark kitchen, gripping her service pistol, as she hears faint footsteps echoing upstairs.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I can't fuckin' believe this! Here I am, stuck in the dark, heart poundin' like a goddamn drum solo, 'cause that lazy-ass husband of mine forgot to set the alarm again! If he wasn't so damn careless, we wouldn't be sittin' ducks right now. It's always him, always something he does or doesn't do. Christ, it's like living with a damn kid sometimes.\""
+    },
+    {
+        "Triggering Event": "While working late, he notices an email from his ex-wife, cc'ing their teenage daughter. The subject line reads: \"Planning for Dad's Visitation Rights.\" His jaw tightens as he reads her suggesting dates that conflict with his carefully planned weekends, a subtle dig at his unconventional work hours. He feels the familiar anger boiling within him, not just at the inconvenience, but at the constant reminder of what they'd once shared and now reduced to mere scheduling conflicts.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're drafting an email response to your ex-wife's latest scheduling proposal. Your daughter is in the next room, unaware of the tension brewing.\n\n**Text:**\n\"Ah, I see you've taken it upon yourself to rearrange my weekends once again, Sarah. 'Planning for Dad's Visitation Rights', indeed! The audacity to suggest dates that clash with my meetings is truly... thoughtful. But then again, when did logic ever enter into our arrangement?\n\nI must say, the irony isn't lost on me. Here I am, burning the midnight oil - something you're all too familiar with - and yet, it seems I'm the one inconveniencing everyone now.\n\nLet's not forget the subtleties of your suggestion either. 'It would be great if Dad could adjust his schedule', you say. As if I haven't been trying to do just that for the past year! But no, let's just keep dancing around the fact that my job doesn't exactly adhere to a 9-5.\n\nAnd what about Emma? Did you bother to ask her what she thinks of your little 'planning' session? Or are we just going to continue treating her like a pawn in our never-ending game of chess?\n\nSo, let me remind you, Sarah, I'm not just some disposable weekend activity. My schedule isn't a puzzle to be solved for your convenience.\n\nBut then again, why am I even surprised? This is par for the course with you. Always focusing on the trees while missing the entire forest.\""
+    },
+    {
+        "Triggering Event": "While restocking supplies in a dimly lit hospital storage room, he hears footsteps echoing behind him. His heart races as he realizes he's alone and the door is locked.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe his reaction as he stands frozen, listening to the footsteps, with no room for nuance or grey area in his thoughts.\n\n**Text:**\n\nIn the sterile chill of the storage room, his heart pounding like a drum in his ears, Henry stood paralyzed. The footsteps behind him were either those of a malicious intruder, here to cause harm, or they were nothing at all, just some trivial echo playing tricks on his mind. There was no middle ground, no possibility of benign explanation. His breath hitched as he realized the door was locked; they were either trapped together in this dimly lit tomb or the footsteps had ceased entirely, leaving him alone with his racing thoughts. The grey area, the vast expanse of probabilities between these two extremes, seemed to have vanished altogether, swallowed by the oppressive darkness and his escalating fear."
+    },
+    {
+        "Triggering Event": "A weathered cookbook, its pages yellowed with age and grease, slipped from his grasp as he reached for it on the shelf. It landed facedown on the counter, revealing a faded recipe scrawled in his own handwriting: \"Maman's Coq au Vin.\" He hadn't made it since her funeral, 25 years ago. As he picked up the book, a dried flower pressed between the pages crumbled to dust, reminding him of the one she'd given him that spring. The memories surged back, and his remorse was as heavy on his chest as the cast iron pots hanging above.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"As I reached for my old cookbook today, it slipped from my grasp, landing with a thud on the counter. The recipe that stared back at me was 'Maman's Coq au Vin,' her handwriting still as vibrant as ever. Everything else faded into insignificance - the dusty kitchen, the pile of unwashed dishes, even the ticking clock. All I could see, all I could feel, was that recipe and the memories it held.\""
+    }
+]

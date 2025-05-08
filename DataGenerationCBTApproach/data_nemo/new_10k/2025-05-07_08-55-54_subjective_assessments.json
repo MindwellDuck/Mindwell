@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"She walked into her empty studio, the canvas still pristine from yesterday's abandoned session. The dust motes danced in the late afternoon light, undisturbed by human touch since she'd left. A solitary paintbrush lay forgotten on the palette, its bristles hardened and stiff. Her eyes scanned the room, taking in the neglected art supplies, untouched for days. She felt a familiar ache, a quiet despair that echoed through the silence.\"",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Ugh, look at this place! It's like a freakin' museum exhibit for failed artists. I mean, have you seen Picasso's studio? Probably not dusty or empty like this one. Here I am, trying to create something from nothing, while others are probably out there painting masterpieces left and right. It's not fair, is it? Why can't I be more like them?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nDr. A, rushing to the hospital after an urgent page, noticed her hands trembling as she tried to start her car. She took a deep breath, but her heart continued to race, echoing the rhythm of the beeping machines in her nightmares. The rain started suddenly, adding another layer of tension to her already anxious state. As she sped up to navigate the flooded roads, she couldn't shake off the feeling that something was terribly wrong with this emergency call. Her mind flashed back to her late husband's accident, and she felt a wave of panic rising in her throat. She gripped the steering wheel tighter, trying to focus on the road ahead, but the familiar anxiety was taking over once again.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** Describe Dr. A's thoughts as she waits at a red light during her rush to the hospital.\n\n**Text:**\n\n\"Come on, green already! I'm not the only one waiting, but it feels like everyone else is inching forward while my car's just sitting here. Why can't I be as calm as that guy next to me? His hands aren't even gripping the wheel like I'm hanging onto life itself. And look at her, tapping away on her phone. She's probably not rushing to save someone's life. Must be nice. I swear, everyone else has it easier than me today.\""
+    },
+    {
+        "Triggering Event": "She overheard her ex-husband joking with their mutual friends about how she'd missed the big scoop last week, his tone implying that she was losing her edge since they divorced.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"You know what? I bet next week's meeting is gonna be a disaster. I'll probably stumble over my words, make a fool of myself, and they'll all think I'm a has-been. Might as well pack up now, save them the trouble.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her empty home, she reaches for the light switch at dusk, but it doesn't click. Her heart pounds as she realizes the power's out again. She fumbles for her flashlight, fingers trembling. The beam flickers across photos of her late husband, his smile frozen in time. Panic surges; she's alone in the dark, just like that night when... No, not now. She forces herself to breathe, but her chest tightens. The shadows seem to close in, threatening to consume her.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I mean, great, just freakin' great,\" she muttered, flashlight trembling in her grasp. \"Power's out again. What next? The house'll probably collapse, or worse, I'll get trapped here forever with these shadows. God forbid I'd have to face another night like... Nope, not going there.\" She took a shuddering breath, her chest constricting like a vice. \"This is just typical of my luck. Always something, isn't it? Can't even predict when the lights might come back on. Might as well pack it up and leave this godforsaken place to the rats, I guess.\""
+    },
+    {
+        "Triggering Event": "At the community center's weekly card game, he noticed the whispering glances, the subtle shift in tone when his turn approached. The group's laughter seemed forced, their conversations quieter after he spoke. He felt a familiar warmth creep up his neck, a quiet humiliation settling like an unspoken accusation. His wife's hand on his arm as they left was gentle, but her eyes held a silent question he couldn't bear to answer.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Writing Prompt: Describe your feelings and thoughts as you sit down at the card table next week.\n\nText:\n\"Alright, let's get this show on the road,\" I say, sliding into my usual seat. The chatter dies down a bit, but that's normal, right? It's just that everyone's focusing on the game now. No big deal. I shuffle the cards, hands steady, like they always are. This is how it should be. They should laugh more, not less when I'm here. We've been playing together for years, for crying out loud. They should understand by now that my jokes aren't meant to be taken so seriously. My wife's hand on my arm feels reassuring, but her eyes... they're quiet, questioning. She shouldn't worry about me. This is just a game, after all. It should be fun, dammit. Just like it always was.\""
+    },
+    {
+        "Triggering Event": "He found a draft of their daughter's essay in his partner's recycling bin, filled with her dreams of traveling the world after graduation. Dreams they'd once shared but had long since forgotten amidst the mundane chores and routines of retirement.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Writing Prompt: \"After discovering your daughter's abandoned travel dreams in the recycling bin, how do you feel about your partner's role in this?\"\n\n---\n\n\"Oh, isn't that just *perfect*? My dear partner, always so meticulous with our recycling, but seems to have forgotten that our little girl's aspirations were once ours too. How convenient for them to throw away her dreams along with the pizza boxes! I suppose it's easier than taking responsibility for why we've been stuck in this rut all these years. Typical!\""
+    },
+    {
+        "Triggering Event": "She opened her mailbox to find another invitation to their 40th high school reunion, addressed to both of them. Her divorce papers were still warm from last year's fire.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're sorting through your mail after arriving home from work. You've recently gone through a divorce, but you're trying to keep it together. Describe how you feel when you find an invitation to your high school reunion addressed to both you and your ex-spouse.\n\n---\n\nAs I flipped through the envelopes, my fingers stumbled on one that felt different. It was thicker than the usual bills and advertisements, cream-colored paper peeking out from the open end. I tore it open, and there it was: \"You're invited!\" in bold letters at the top, followed by the details of our 40th high school reunion.\n\nI could feel my heart starting to race as I saw the names printed below. Mine, and theirs. It felt like a punch to the gut, a reminder of what used to be. I couldn't help but think about all those couples from our class who were still together, still happy, still... better off than me.\n\nI mean, look at them, I thought, flipping through some old photos on my phone. They've got their perfect families, their big houses, their successful careers. And here I am, standing alone in my kitchen with divorce papers that are barely cold from the fire last year.\n\nIt's not fair, you know? Why did they get to keep it all together while I'm left picking up the pieces? It feels like everyone else is moving forward, and I'm stuck in this damn rearview mirror."
+    },
+    {
+        "Triggering Event": "\"Her radio crackles to life, a frantic voice reporting an active shooter at the elementary school where her child's classroom is. She's miles away, stuck in gridlock traffic after a fender-bender she'd responded to earlier.\"",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Oh my god, I can't believe this! My kid's at that school, and they're saying some nutjob's running around with a gun? This can't be happening! The radio said something about kids being evacuated, but I don't know if that's my little Jimmy's class or not. Why aren't they telling me anything?! It's like they want me to lose it over here. And these idiots in front of me won't move an inch, even though we've been sitting still for what feels like hours. I just wanna get there, you know? Just wanna know my baby's okay. But nooo, everyone else gets to go about their day, but not me. Not today.\""
+    },
+    {
+        "Triggering Event": "An elderly woman walks past her, head down, crying quietly into a handkerchief. She tries to ask if she's alright but no words come out. The woman looks up, eyes filled with despair, and says, \"He's gone. My son... he was shot on duty today.\"",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm just standing there, like an idiot, can't even ask if she's okay! Her tears... they're drowning me. I feel this overwhelming sadness, it's suffocating. It must be true then, what she said about her son. The world feels so much darker now.\""
+    },
+    {
+        "Triggering Event": "A colleague, half his age, casually mentions over coffee, \"I just bought my dream car, a Tesla. It's amazing how far we've come since you started in this business.\"",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a middle-aged marketing manager who's been with the company for over two decades. You've always prided yourself on your work ethic and dedication to the job. Now, picture this conversation happening between you and your newest hire, Jamie, who's fresh out of college.\n\n**Text:**\n\n*Me:* (sipping my coffee, nodding along) \"That's great, Jamie. A Tesla, huh? Good for you.\"\n\n*Jamie:* \"Yeah, I mean, it's not just about the car, you know? It's a statement. The future is here, and I'm part of it.\" *chuckles*\n\n*Me:* (raising an eyebrow) \"Oh, absolutely. And speaking of statements, remember when we used to drive down this street in horse-drawn carriages?\" *laughs, then quickly sobers up* \"You know what? Never mind. It's just... I remember a time when people valued experience over flash. But hey, who am I to judge? *pauses, then forcefully* \"You should enjoy it while you can.\""
+    }
+]

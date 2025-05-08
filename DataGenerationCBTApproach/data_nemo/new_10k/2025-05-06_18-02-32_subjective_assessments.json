@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A young mother, her child's laughter ringing in her ears as she played in the park, watched as a familiar car pulled up to the curb. The driver, an ex-partner from the force, stepped out, smiling at the little girl. He ignored her wife, except for a brief, mocking salute. \"Still playing cop, huh? Must be tough, being married to one.\" His smirk lingered as he walked away, leaving her seething in silence.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"You know what that bastard was thinking? 'I'm better than her now, playing dress-up cop while I'm out here making real money.' Fuck him. He doesn't know shit about my life.\""
+    },
+    {
+        "Triggering Event": "She sorted through the day's receipts at her register, the familiar routine now a bitter reminder of time passed. A customer's discarded loyalty card caught her eye - the same one she'd thrown away years ago after he'd left. She picked it up, tracing the worn edges, regret washing over her like an old habit.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Yeah, yeah, I found this old loyalty card. It's not like it means anything now. He's long gone, ain't he? Just another customer who didn't stick around. Guess that proves my point - nothing good ever lasts in this place.\""
+    },
+    {
+        "Triggering Event": "At 3 AM, he wakes up alone in his studio apartment, surrounded by half-finished canvases. His phone buzzes with an email from a gallery owner, rejecting another one of his pieces. He feels a familiar ache in his chest as he reads, \"Not what we're looking for.\" The room feels emptier than ever.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Writing Prompt:** Describe his reaction to the email as he lies awake, staring at the blank walls and empty canvas.\n\n**Text:**\n\"You know what they're thinking, right? 'Not another one of those garish colors, please.' Like I'm some hack who can't paint anything but neon bruises. As if they could do better themselves, stuck in their stuffy little gallery. They probably just sent it to me at 3 AM so they wouldn't have to deal with the 'disappointment' in person. Yeah, that's it.\""
+    },
+    {
+        "Triggering Event": "He was returning home from his lab, lost in thoughts about his latest experiment. As he turned onto his street, he noticed a dark figure moving around in the shadows of his house. His heart raced as he fumbled for his phone to call the police, fingers trembling with fear.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to discovering an unfamiliar figure lurking outside your home late at night while you're returning from work.\n\n**Text:**\n\n*Me: Oh God, what's that? It looks like... like someone's there. In my house! My heart's pounding like a drum in my chest. I can't believe this is happening. How could they just be standing there? Don't they know it's late? They're probably up to no good.*\n\n*Me: *dials 911, fingers shaking* \"Hello? Yes, I need police at my house right now. There's someone... someone's in my yard. No, I don't know them. How could I? It's dark and they're just standing there, doing nothing.\"\n\n*Me: *whispers to myself* \"This is ridiculous. Why would anyone be here this late if they didn't have something to hide? I've lived here for years, and no one's ever done anything like this. This must be... it must be a robbery. Or worse.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe was running late, again. The morning shift had been chaotic, but that wasn't his fault. As he rushed out of the hospital, he noticed a familiar car in the parking lot - hers. His stomach tightened. She'd left him for another nurse, claiming he was always too busy, too tired, too distant.\n\nHe approached her car, seeing her through the window. She was laughing, her head thrown back. Next to her was the other man, his hand resting casually on her thigh. He felt a surge of anger, a heat behind his eyes. He wanted to smash the window, scream at them both. But he just stood there, fists clenched at his sides, until they drove away.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** Describe his thoughts and feelings as he watches her drive away.\n\n**Text:**\n\n\"Damn it, she's laughing. Like nothing's changed. Like she hasn't torn my world apart. She doesn't deserve that joy, not after what she did. I can feel the anger boiling inside me, like acid in my veins. It's right, this feeling. It must be. How could she be so happy with him? It's wrong, all of it. My hands are shaking, I want to hit something, anything. But I don't. I just stand here, watching her drive away, taking my anger with her.\""
+    },
+    {
+        "Triggering Event": "\"She noticed the whispers as she walked through the store, customers pointing at her uniform, now faded and worn. The manager's stern face appeared in her mind's eye, his words echoing, 'You're lucky to have this job at your age.' She felt the heat rise in her cheeks, wishing the floor would swallow her whole.\"",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** \"Describe how you feel after realizing your uniform is faded while at work.\"\n\n**Response:**\n\n*Dang it.* I can't believe my uniform's like this. It's either I look professional, or I'm a total mess. There's no in-between with these stains. And now everyone's staring, whispering. I bet they think I'm lazy, or ungrateful for this job. I mean, who wears a uniform that looks like this? It's not like I can just magic it clean, you know? Either way, I'm screwed."
+    },
+    {
+        "Triggering Event": "\"As he booted up his laptop at 7 PM, he noticed the Wi-Fi was connected to his neighbor's network. Again. He'd asked her repeatedly to stop using their password, but she acted as if she hadn't heard him. He felt a knot form in his stomach, another evening of being ignored.\"",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Hmph, this is becoming quite tiresome,\" he muttered to himself, his fingers drumming an impatient rhythm on the keyboard. \"She's done it again, despite my clear instructions.\" He felt a familiar tightness in his chest, a sensation that had become almost routine whenever he encountered such disrespect. \"This isn't going to end well,\" he predicted grimly, already envisioning a series of evenings marred by poor connection and interrupted work. He sighed heavily, as if the weight of these imagined future inconveniences was already too much to bear."
+    },
+    {
+        "Triggering Event": "At 11 PM, after hours of debugging code, he notices his girlfriend hasn't replied to his last message sent five hours ago. He worries if she's upset about something or worse, if there's been an accident.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** \"Express your concern about your girlfriend's late reply through a stream-of-consciousness style diary entry.\"\n\n**Text:**\n\n\"I simply cannot fathom why she hasn't responded yet. It's been hours - five of them, to be precise. I've been cooped up here, wrestling with this infernal code for what feels like an eternity. One would think that she, with her perfectly scheduled life and her immaculate social media feed, could spare a moment to respond. But no, it seems not.\n\nIs she upset about something? Have I said or done something wrong? The thought sends a shiver down my spine. Or worse, what if there's been an accident? Her silence is deafening, echoing in this quiet apartment like a grim omen. While I've been here, battling with lines of code that seem to mock me with their complexity, she could have been... well, anything.\n\nI just don't understand how she can manage her life so flawlessly while I'm over here, drowning in work and worry. It's as if we're two different species - she, the social butterfly with her perfectly curated existence, and me, the struggling tech nerd, forever playing catch-up.\""
+    },
+    {
+        "Triggering Event": "A chef with nearly six decades under her belt, she's seen her fair share of kitchen chaos. But today, the heat feels different. The orders keep pouring in, each one demanding attention like a clamoring diner. She can feel the sweat trickling down her spine as she chops onions at lightning speed, trying to keep up with the sous chef's rapid-fire calls for ingredients. Her hands, usually steady as a surgeon's, are trembling slightly, a telltale sign of the stress building inside her. Suddenly, the exhaust fan overhead sparks and dies, plunging the kitchen into an oven-like sauna just as the health inspector walks in.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe how the chef feels as she notices the health inspector entering the kitchen while the exhaust fan is out.\n\n**Text:**\n\n\"Oh no! Here he comes. Straight for me, he's got that look... It's over, isn't it? This place will be shut down. All this chaos for nothing. I can see it now, the headlines: 'Kitchen Nightmare - Six-Star Chef Crumbles Under Pressure'. How could they expect anything less with this heat? He's probably here to make sure we're not serving ratburgers or something. Great! Just great!\""
+    },
+    {
+        "Triggering Event": "A worn photo of his late wife, tucked into the patrol car's visor, catches his eye as he turns on the ignition. He'd forgotten it was there. His heart sinks; she'd always hated that picture. He hadn't seen her smile like that in years before... before the accident.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:**\nA worn photo of his late wife, tucked into the patrol car's visor, catches his eye as he turns on the ignition. He'd forgotten it was there. His heart sinks; she'd always hated that picture. He hadn't seen her smile like that in years before... before the accident.\n\n**Response:**\n\nDamn it, why is that stupid photo still here? I thought I threw it out ages ago. Typical of me to miss something so important. It's just another sign of how useless I am without her. She'd never have forgotten something like this. She was always on top of everything. Not like me, I'm just a mess."
+    }
+]

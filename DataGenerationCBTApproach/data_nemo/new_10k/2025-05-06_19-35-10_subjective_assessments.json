@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient, who had ignored her advice for months, finally arrives in critical condition. She's forced to deliver grim news to his family while he lies sedated and unresponsive, a stark reminder of his negligence that ignites an inferno within her.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Writing Prompt: Dr. Thompson's Reaction\n\nText:\n\n\"Dammit, I've seen this before! Always the same story with these patients, never listen until it's too late. The whole lot of them think they're invincible. This guy here, he's no different. Never mind my warnings, never mind the signs. Now look at him, sedated and unresponsive. And I'm left to deliver the grim news to his family. It's always like this, every single time!\""
+    },
+    {
+        "Triggering Event": "A faded photograph from his wedding day slipped out of an old book he was donating to the local charity shop, catching him off guard as he handed over the box. He hesitated, then let it go, feeling a pang of guilt as he walked away.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe how you felt when you realized that old photograph was gone for good.\n\n**Text:**\n\nMan, I can't believe I let that photo go. It's not like it was some priceless artifact or anything, but still... I mean, look at them, huh? All smiles and happiness, on their perfect fucking day. And here I am, standing alone in this charity shop, watching my own past slip away into someone else's hands.\n\nI guess that's life, isn't it? Some folks get the big weddings, the fancy photos, the happy endings. And then there's me, donating my memories to a stranger because mine weren't good enough anymore.\n\nIt's not like I'm bitter or anything, you know? Just... just feels like everyone else got the script for this shit, and I was too busy reading someone else's lines to notice mine were gone. Fuck, that sounds dramatic. It's fine, though. Really. I'm fine. Just another day in paradise, right?\n\nBut damn, it's cold out here without you, old photo. Guess we both deserved better."
+    },
+    {
+        "Triggering Event": "She flips through the photos on her phone, pausing at one of them - an old picture of her and her ex-husband, laughing in their kitchen, him wearing the apron she'd given him for Christmas. She'd forgotten they took that one before everything fell apart. The resentment burns as she realizes he's tagged himself in a recent photo from the same restaurant where they had their first date, now with his new girlfriend.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:**\nShe tosses her phone onto the couch, the photo of them still lingering on the screen. Her heart pounds like a drum in her chest, echoing the bitter taste in her mouth. \"Always,\" she mutters to herself, \"always happy together.\" She thinks about every single moment they shared, tarnished now by this one snapshot. Every restaurant, every laugh, every stupid apron he wore - all of it ruined, just like their marriage."
+    },
+    {
+        "Triggering Event": "A routine traffic stop turned sour when the driver, a young man with an arrogance beyond his years, accused her of pulling him over because of his race. Despite her calm explanation, he persisted, his voice rising. She felt her grip tighten on her ticket book, irritation simmering beneath her professional demeanor.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a traffic cop on a hot afternoon. Describe your reaction when a young man pulls over, assuming it's because of his race despite your calm explanation.\n\n**Text:**\n\n\"You know what, officer? This is BS. Either you pull me over 'cause I'm black, or you just hate seeing folks drive nice cars like this. There ain't no in-between with you guys.\" His eyes narrowed, lips curling into a sneer. \"Either way, it's messed up.\""
+    },
+    {
+        "Triggering Event": "He found her favorite necklace, still wrapped in tissue paper, tucked behind his sock drawer. He'd given it to her last Christmas, and she'd worn it every day since. Now, it hung there, untouched, a quiet echo of her laughter.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "Writing Prompt: \"He found her favorite necklace, still wrapped in tissue paper, tucked behind his sock drawer. He'd given it to her last Christmas, and she'd worn it every day since. Now, it hung there, untouched, a quiet echo of her laughter.\"\n\nText Response:\n\"Oh boy, here we go again,\" he muttered, holding the necklace as if it were a ticking bomb. \"This is just great. First, she stops wearing this, now it's hidden away like some sort of... bad omen. I can feel it in my bones, things are about to take a nosedive. Why else would fate be so cruel as to have me stumble upon this? It's like the universe is giving me a sneak peek into the disaster that's yet to come. Great. Just great.\" He sighed heavily, his heart pounding with anxious anticipation. \"I suppose I should brace myself for whatever calamity this necklace foreshadows. After all, it can't possibly be anything good, can it?\""
+    },
+    {
+        "Triggering Event": "At 10 pm, he logged onto his home office computer to check for work emails before retiring. He noticed an unfamiliar folder hidden amongst his usual files, labeled \"For Your Eyes Only.\" His heart raced as he clicked it open, revealing a series of encrypted messages. The timestamp showed they were sent hours ago, while he was asleep. His mind began racing with theories about who could have accessed his computer and why.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe how he reacted upon discovering the encrypted messages, emphasizing his tendency to focus on certain details while ignoring others.\n\n**Text:**\n\n\"Heart pounding like a drum in my chest, eyes glued to that damn folder. 'For Your Eyes Only', who does he think he is? James Bond? This can't be good. Encrypted messages, hours old. Who sent them? Why now? My mind's spinning like a top, every scenario more sinister than the last. The timestamp... it's from when I was asleep. No one else has access to this computer. No one! It's secure. I made sure of that. This can't be happening. Not on my watch. But why hide it in here? What's he trying to pull? I need to decrypt these, now!\""
+    },
+    {
+        "Triggering Event": "At the hospital's front desk, she found a note from the administrator: \"All staff must now wear scrubs with our logo.\" Her fingers tightened around it, veins bulging. She'd worn her tailored white coat for decades, a symbol of her professionalism, her dignity. Now, this?",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Oh, for crying out loud! Who does she think she is, Mrs. Adminstrator? I've been prancing around this place in my coat like some kind of fashion icon, and now she's got the nerve to tell me I gotta swap it out for... *squints at note* ...'scrubs with our logo'? Like we're some kind of uniformed clown squad! Does she think this is some kind of ego boost for her or something? I mean, seriously, who even cares what I wear as long as I'm doing my job? Typical administrator, always trying to make it all about themselves. Well, I'll show her. I'll wear the darn scrubs, but I won't like it.\""
+    },
+    {
+        "Triggering Event": "He notices her admiring the ring on another customer's hand, her eyes lingering on it with an unguarded smile. He glances at his own bare left hand, then back to her, feeling the familiar knot of insecurity tightening in his chest as she walks away.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Ha! She's all but drooling over that rock on Mrs. Thompson's hand. Like she'd ever find anything close to that on my salary. Typical.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe opens her apartment door to find an unopened letter addressed to her, the handwriting barely recognizable as her own mother's. The date stamp reads two months ago.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a meticulous individual, always expecting punctuality and orderliness from your friends and family. One day, you find an unopened letter addressed to you, written by your mother two months ago.\n\n**Text:**\n\n\"I can't believe this! Two months it's been gathering dust, while Mother was probably waiting eagerly for my reply. She knows I prefer letters over emails - I've told her countless times. This is utterly irresponsible of her. She should have made sure it reached me sooner. And why does her handwriting seem so... haphazard? It's not like her at all. She should maintain some semblance of neatness, even in her penmanship.\""
+    },
+    {
+        "Triggering Event": "While watering her roses, she notices her neighbor's garden, vibrant and thriving, while hers seem to be wilting despite her care.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction as you notice your neighbor's thriving garden while yours seem to be wilting despite your care.\n\n**Text:**\n\n\"I can't believe this! I've been watering these roses every single day, giving them all my attention, and they're still drooping like they're on their last breath. And look at Mrs. Thompson's garden next door - it's like a bloomin' paradise! What am I doing wrong? What if I'm not giving them enough water? No, that can't be it, I've been drowning them every day. But what if the soil isn't right? Maybe it's too acidic, or maybe it's too basic... Oh goodness, what if it's both at once? My roses are going to die, aren't they? I'll have a garden full of nothing but sticks and thorns. And what will people think when they see my pathetic excuse for a garden compared to Mrs. Thompson's little Eden? They'll laugh at me, they'll whisper about the woman who can't keep her roses alive. What am I going to do? I can't let this happen!\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A woman in her mid-twenties, married and working as a journalist, checks her email at home after an exhausting day at work. She notices that her latest article pitch has been declined by her editor, along with a brief note suggesting she \"stick to local news\" instead of pursuing national stories. She sighs deeply, feeling the familiar pang of disappointment, and looks around her quiet apartment, longing for the recognition and validation she craves in her career.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Guess I'm just not cut out for big stories,\" she muttered to herself, slumping back on her couch. \"Local news it is.\" She felt a familiar chill settle over her, like a shroud of failure."
+    },
+    {
+        "Triggering Event": "A middle-aged man, sitting alone in his cluttered home office late at night, scrolls through old family photos on his computer. He pauses at one from a decade ago - him laughing with his now-ex-wife and two young children. A notification pops up: \"Your daughter's 18th birthday is tomorrow.\" He feels a pang of shame as he realizes he hadn't even known it was her birthday, let alone sent a card or called to wish her happy birthday.",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Ah, I see my daughter's turning eighteen tomorrow,\" he muttered, squinting at the notification as if it were an intruder. \"Typical of her to go around celebrating milestones without a word from me.\" He leaned back in his creaking chair, arms crossed, brow furrowed. \"Probably thinks she's too good for her old man now.\""
+    },
+    {
+        "Triggering Event": "He stood alone at the counter, his shift over but no one to go home with. The last customer of the night, a young woman, smiled and handed him her number tucked into a receipt. He took it, feeling a glimmer of hope. But as he glanced up, she was already walking out with her boyfriend, laughter echoing behind them. His hand closed around the scrap of paper, now just an empty promise.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Great, another one bites the dust. Always happens when I think something's gonna go right. Never meet nice people anymore, guess that's just how it is now.\""
+    },
+    {
+        "Triggering Event": "He flipped through the old photo album, resentment welling up with each turn of the page. There they were: happier times, before the divorce. His ex-wife's smile seemed to mock him from every snapshot. The ring on her finger in one picture suddenly caught his eye - it was the engagement ring he'd given her, now worn by someone else. He felt a pang of bitterness, gripping the album tightly.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe your thoughts as you flip through an old photo album of happier times with your ex, now married to someone else.\n\n**Text:**\n\n*Fuck*, why did I even open this goddamn album? Her face, smiling like that... it's too much. *What if* she never left me? Would we still be together? No, no, don't think about that. But *what if* she's happier now than she ever was with me? *Why did I give her that ring?* She didn't deserve it after all this. *Shit*, what if she tells him our stories, laughs with him about our past? My stomach churns at the thought. *What if* he's not as good to her as I was? Or maybe he is, and that's why she left. No, don't think like that, it's too painful. But *what if*... *fuck*, what if this is all my fault?"
+    },
+    {
+        "Triggering Event": "He returned home from his night shift at the hospital to find their cat, Whiskers, unresponsive and cold in his favorite sunlit spot on the windowsill.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I mustered open the door, my eyes immediately drawn to that accursed windowsill. Whiskers, lifeless, cold as ice - how dare he defy me so?! The audacity of death, striking without cause, without warning! I've had it with this fickle creature's games; one minute purring, next... this. Where was his consideration for my feelings? How could he be so irresponsible?\""
+    },
+    {
+        "Triggering Event": "She spots an old wedding photo in her colleague's cube, his arm around a smiling woman who looks eerily like her ex-wife.",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Fuck me sideways! I saw that photo in his cube today - happy fucking couple, perfect smiles... It was like looking at her, my ex. My stomach dropped, you know? Like, *thud*. I can feel it, man. It's gonna be the same shit all over again. He's gonna leave me, just like she did. I can't do this, not again. I'll fucking crumble.\""
+    },
+    {
+        "Triggering Event": "He stood in his small, cluttered kitchen, hands trembling as he held a faded photograph of their wedding day. The once vibrant colors were now muted, like his memories of her laughter. A recipe card, yellowed with age, fluttered to the floor - his famous chocolate mousse, her favorite. He picked it up, tracing the familiar script. \"For my dearest M,\" he read aloud, his voice cracking. The clock ticked on, each second echoing like a guilty verdict. He had never made it for her again after she left. Now, he wondered if it was too late to make amends, even if just in memory.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Fuck me, here I am, shaking like a leaf over this goddamn picture. You'd think it was her ghost haunting my hands, not just some damn ink on paper. And this recipe? It's fucking yellowed, for Christ's sake! It's not like it's got the power to make her come back or something stupid like that. But I swear, if I don't make this mousse right now, it'll be because I'm a heartless bastard who didn't love her enough.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA sudden power outage during her midnight shift at the hospital, leaving her alone in the dark with only the faint glow of her flashlight. The emergency backup generator kicks in, but its hum is unusually loud, setting her already frayed nerves on edge. She's been on edge since a recent news story about an intruder at another local hospital. Her mind races as she navigates the silent, shadowy corridors to check on her patients, each creak and whisper of the old building making her heart pound with fear.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Fucking generator's making enough noise to wake the dead,\" she muttered, clutching her flashlight like it was a lifeline. \"Patients are fine, though. Not that it matters. Just do my job, check boxes, move on.\" She shrugged off the praise from the morning shift nurse who'd heard about her quick thinking during the blackout. \"Anyone would've done the same. It's not like I got some goddamn medal for it.\""
+    },
+    {
+        "Triggering Event": "The artist stood alone in her studio, brush poised over an unfinished canvas. A soft rain tapped against the window, echoing the quiet melancholy within her. She glanced at the photograph propped up beside her paints: a young woman laughing, sunlight catching her hair. It was her mother, long gone now, but still present in every unsmiled corner of the room. The artist felt a familiar ache, not sudden or sharp, but steady and persistent like the rain. She set down her brush, picking up the photograph instead. Her fingers traced the edges, worn smooth from years of remembrance. Today was their wedding anniversary.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** \"Describe how you feel about your partner forgetting your anniversary.\"\n\n**Response:**\n\n\"Bloody hell, I can't believe he forgot again,\" she muttered, staring at the blank space on her wrist where a watch used to be. She'd specifically asked him not to get rid of it; it was a gift from their first trip together. But no, he had to 'declutter'. She sighed, \"I mean, how hard is it to remember one bloody day? It's not like I expect him to remember my birthday or something... but this?\" She shook her head, running her fingers over the empty space. \"It should've been special, you know? Like it used to be.\""
+    },
+    {
+        "Triggering Event": "A middle-aged male doctor sits alone in his dimly lit office after hours, a single beam of moonlight casting shadows on his weathered face. He holds a framed photograph of an older couple - his parents, now gone. A text message notification flickers on his phone: \"Just got engaged! Wish you were here to celebrate.\" From his younger colleague.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe how the doctor feels about his colleague's engagement announcement, using 'All or Nothing Thinking'.\n\n**Response:**\n\n*Grumbling under his breath,* \"Yeah, yeah... Engaged. Big deal.\" *He tosses the phone onto the desk with a sigh.* \"Either you're married, or you're not. No one cares about these half-measures anymore.\" *He stares at the photograph, his face etched with bitterness.* \"Didn't see this coming, but then again, nothing ever does. It's all just... disappointment.\""
+    }
+]

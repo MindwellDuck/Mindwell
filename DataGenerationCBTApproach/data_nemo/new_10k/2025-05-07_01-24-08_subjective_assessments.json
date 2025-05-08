@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"A parent stormed into his classroom, screaming about a failing grade, finger pointed inches from his face: 'You're ruining my kid's future, you incompetent teacher!'\"",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm just a terrible teacher, ain't I? Guess that's why little Johnny can't pass my class. Might as well pack up my chalk now.\""
+    },
+    {
+        "Triggering Event": "Scenario:\nA sudden power outage plunges his lab into darkness at 3 AM, as he's nearing completion of an experiment crucial for a grant submission due tomorrow. His stress spikes, imagining weeks of lost work and colleagues questioning his competence in the harsh light of day.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a dedicated researcher, alone in your lab at 3 AM when suddenly, everything goes dark. The power outage hits just as you're wrapping up an experiment vital for tomorrow's grant submission.\n\n**Text:**\n\n\"Shit! Power's gone again? Always happens at the worst fuckin' time, doesn't it? This isn't the first time, and sure as hell won't be the last. Whole bloody lab goes dark, like the universe is conspiring against me. Every damn experiment I've done here has ended in some sort of chaos. Never works out right, never! And now this? Entire fuckin' grant hangs on tomorrow, and what do I get? Darkness. Colleagues will have a field day with this one, mark my words.\""
+    },
+    {
+        "Triggering Event": "She noticed it as she flipped through the recipe cards, yellowed and worn from years of use - a card she didn't recognize. The handwriting wasn't hers, nor her late husband's. It was neat, precise, with a looping 'y'. A chill ran down her spine; she could've sworn she'd packed everything herself.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Writing Prompt: Describe the moment she noticed the unfamiliar recipe card.\n\nResponse:\n\"Ah, how fascinating. A mystery tucked amongst the tried-and-true recipes of our family's past. I must say, it's quite peculiar that something so obviously out of place could have slipped through my fingers during the grand packing expedition last year. One would think, with all the care and attention I lavished upon ensuring every single morsel of our shared history was accounted for, such an oversight would be... well, simply unthinkable. Yet here it is, taunting me with its neat little loops and curls, as if daring to suggest that perhaps\u2014just perhaps\u2014I hadn't been as meticulous as I'd presumed myself to be.\""
+    },
+    {
+        "Triggering Event": "\"Patrolling downtown, he spotted a used needle glinting among litter in an alley. His stomach churned as he recalled his wife's battle with addiction before her overdose. He kicked it into the darkness, but the image lingered.\"",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe your day after witnessing something disturbing on patrol.\n\n**Text:**\n\n\"Upon spotting that damned needle, I knew it was just the beginning of another wretched day. It's as if the universe has conspired against me, isn't it? First, it's a used syringe glinting in the dirt like some twisted bit of jewelry, and then what? A sudden downpour, no doubt, followed by a call about a domestic disturbance that'll keep me up all night.\n\nI can just see it now - more overdoses, more cries for help echoing through these godforsaken alleys. And my wife's face, pale and lifeless, will haunt me with every damn call. As if I don't have enough on my plate already! The city's going to hell in a handbasket, and I'm the one stuck trying to hold it together.\n\nBut no, I won't crumble. I've seen worse, haven't I? It's not like this is some sort of omen. Pfft, fortune telling indeed! That's for fools and charlatans. I'm a man of action, not some defeatist. I'll show that needle who's boss.\""
+    },
+    {
+        "Triggering Event": "A 58-year-old nurse, married for decades, returns home from another grueling shift at the hospital. As she hangs her coat in the closet, she notices a pair of women's shoes she doesn't recognize by the door. The resentment she's been harboring quietly begins to simmer.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Fuck me, not again! Those aren't my goddamn shoes. I knew this was gonna happen, damn it! It's always something with him, ain't it? I can see it now, another fucking argument, another sleepless night, another fucking disaster. I swear to God, if he thinks he can just waltz in here and explain this shit away, he's got another thing coming. I can't even deal with this right now, not after the day I've had. It's like the universe just wants to shove more crap down my throat. Fuck!\""
+    },
+    {
+        "Triggering Event": "He notices the sympathetic looks from regular customers as he struggles to reach the top shelf, his bad knee protesting each step of the ladder. The whispered \"Poor thing\" reaches him like a punch in the gut. He's not that old yet, he thinks bitterly, but feels his cheeks burn with shame nonetheless.",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a 55-year-old man who's always been proud of his physical prowess, now running a small bookstore that requires constant lifting and climbing. Lately, you've noticed your customers treating you differently, their eyes filled with pity when you struggle. Today, as you reach for a newly arrived hardcover, you hear their whispered condolences. Describe how this makes you feel and think, using formal language and a sarcastic tone.\n\n**Text:**\n\"Ah, the symphony of sympathy! One would think I'm already collecting my pension, not simply nursing a creaky knee. The way they whisper 'Poor thing,' one might suppose I've lost more than just a bit of spring in my step. It's enough to make a grown man blush, or perhaps just roll his eyes \u2013 if he could see past the crimson haze of embarrassment that clouds his vision. But really, must they? Can't a chap have a momentary wobble without it becoming a grand spectacle of decline?\""
+    },
+    {
+        "Triggering Event": "A young sous chef, barely out of culinary school, laughed loudly at something the restaurant manager said while they prepared for the evening service. She noticed how you, a seasoned chef, watched them, your smile tight as they shared a joke you weren't part of.",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Laughing like that, right in my face?! Doesn't he know I've been here for years? It's not just about being funny now, is it? He thinks this is some kind of game? I see him looking at me, smiling tight. Like he's laughing at something else entirely. I'm not invisible! This kitchen isn't his playground. Who does he think he is, strutting around like that? It's always about him, isn't it? I'm just supposed to stand here and take it?\""
+    },
+    {
+        "Triggering Event": "A male, 67 years old, retired police officer, now working part-time at a security firm, sits in his car after another long day of dealing with unappreciative clients and staff who think they know better than him. His partner of over 20 years calls to cancel their dinner plans due to an unexpected overtime shift. He slams the steering wheel, muttering, \"Not again,\" as the rain begins to pour down, adding to his frustration.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe how your partner's unexpected overtime shift has ruined your entire evening plans.\n\n**Text:**\n\n\"Well isn't that just *perfect*? Twenty years we've been doing this dance, and suddenly tonight of all nights, she decides to work late. It's not like it was a planned date or anything, heaven forbid! Either you're there for me, or you're not. And clearly, she's 'not' tonight. I mean, what's the point of even having plans if they can just be washed away like that? Might as well have stayed home and watched paint dry for all the good this evening is doing now. Oh, joy of joys, it's starting to rain too. Great, because nothing says 'romantic dinner' like being stuck in a car with a steering wheel for company! I swear, either the universe loves me or it's got one heck of a sick sense of humor.\""
+    },
+    {
+        "Triggering Event": "She arrives home to an empty apartment, throws her lab coat onto the couch, and collapses into it. The silence is deafening; no laughter from friends, no hum of a partner's presence. She looks at the framed photo on the wall - a group of medical students grinning back at her, taken just last year. Now they're scattered across the country, each pursuing their dreams, while she remains here, drowning in a sea of hopelessness. Her pager beeps, another patient waiting for her miracle touch. She sighs deeply, knowing tomorrow will bring more of the same.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe how she feels about her friends after seeing the photo, despite having no recent contact with them.\n\n**Text:**\n\nShe glanced at the photo, their laughter frozen in time, and a familiar pang of resentment stirred within her. \"They're off living their best lives,\" she muttered, imagining grand parties and intellectual debates they were surely enjoying. She hadn't heard from most of them in months, but she could picture it all too clearly - their faces flushed with wine and excitement, discussing cases far more interesting than hers. She sighed again, the weight of her solitude pressing down on her chest like a physical force. Another beep from her pager barely registered; tomorrow would indeed bring more of the same, while they reveled in their shared glory."
+    },
+    {
+        "Triggering Event": "While patrolling a deserted industrial park at night, she noticed an open door to a building they'd previously secured. A faint noise echoed from inside. Her heart pounding, she drew her weapon and stepped in, flashlight beam trembling slightly. The darkness seemed to close around her, each shadow a potential threat. She froze as she heard footsteps approaching.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe the moment when she realizes the footsteps are not those of an intruder but someone familiar.\n\n---\n\n*Oh God, it's them*, she thought, her heart hammering against her ribcage like a caged animal. *Intruder*. The word echoed in her mind, a harsh, unforgiving label. She felt a surge of anger, directed at herself for not securing the door properly, for allowing this *intruder* to breach their perimeter. Her hands shook, grip tightening on her weapon. *Careless*, she thought, another label slapped onto her mental image with ruthless efficiency. *Unworthy*. The footsteps grew louder, closer. She braced herself, eyes wide and wild in the darkness. *Failure*. The word hung heavy in her mind as she prepared to confront the intruder, unaware that it was not an enemy but a friend."
+    }
+]

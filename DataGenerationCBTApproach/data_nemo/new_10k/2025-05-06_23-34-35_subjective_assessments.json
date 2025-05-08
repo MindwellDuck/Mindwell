@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family insisted they had made an appointment for 10 am, but their chart showed it was scheduled for 2 pm.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:**\nWrite from the perspective of a healthcare professional who is feeling anxious about an upcoming appointment due to a family's insistence that it was scheduled earlier than what's actually recorded.\n\n---\n\n\"Ugh, not again,\" I muttered, flipping through the patient charts. The Johnsons had insisted they'd made an appointment for 10 am, but here it was, plain as day - 2 pm. I could feel my stomach knotting up already. \"This is gonna be a disaster,\" I groaned, rubbing my temples. \"They're gonna be so pissed off, and who knows what they'll do? Probably storm out, make a scene... I can't handle this today.\""
+    },
+    {
+        "Triggering Event": "He noticed the empty chair at the breakfast table, his late wife's coffee still untouched in its usual spot. The newspapers he'd meticulously collected for her each morning lay unopened beside it. He felt a pang of neglect, not from his own absence\u2014he was always out early\u2014but from the world that seemed to have moved on without her.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Perennial emptiness,\" he murmured, eyes lingering on the vacant seat, untouched by time or warmth. \"A testament to my incompetence, this daily ritual of futility.\" His fingers traced the rim of her cup, cold and abandoned like his marriage was now labeled in his mind. The world outside bustled, indifferent to their shared silence, further cementing his belief in its callous progression without her."
+    },
+    {
+        "Triggering Event": "\"After hours of waiting for an interview subject who never showed, you find your laptop charger missing from your bag at the office, leaving you with only 10% battery life and a deadline looming.\"",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to discovering you're out of battery life on your laptop while waiting for an interview subject who never showed up.\n\n**Text:**\n\n\"Great, just great. Of course, my interviewee decides to play hooky, and now I'm stuck here with a dead laptop. This is typical, isn't it? My luck's always been like this - one thing goes wrong, and the whole day spirals into a disaster. I can already see it: me, scrambling around like an idiot, trying to find a charger or a working computer, while my deadline ticks away like some sadistic clock. It's not like anyone will care if I miss it. They'll just throw me another lecture about 'time management' and 'professionalism'. Might as well pack up now and save myself the trouble. This day is officially ruined.\""
+    },
+    {
+        "Triggering Event": "He overheard his lab partner, half his age, saying, \"I wish Dr. X could have seen this breakthrough like he used to.\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I mean, what's the fucking point now? Either Dr. X sees our work or it's just... nothing. No in-between here. It's like he either had to be there for every damn breakthrough or not at all, you know?\""
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by their house, the one with the blue door and the neatly trimmed lawn. Today, it bore a new addition: a sign supporting his political rival. His grip tightened around his briefcase as he stared at it, each word like a stab of betrayal.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Damn it, not them too! I mean, who puts up a sign for that clown when they know I'm walking by every day? It's like they're doing it on purpose, you know? They should've at least waited till I moved or something. The nerve!\""
+    },
+    {
+        "Triggering Event": "In the hushed, echoing corridor of the lab, he paused before the row of framed photos. His gaze lingered on the one where she stood, smiling, between them at a conference years ago. He traced her image with his thumb, then placed it back, face down.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Writing Prompt: Describe your reaction after realizing that someone has turned over your favorite photograph.\n\nText:\n\"It's just not right,\" I muttered, my voice barely audible in the silent corridor. My eyes stung as they lingered on the now-upside-down frame. How could she? I thought we were friends. She knows how much this photo meant to me. It wasn't enough for her to take it down entirely, no, she had to turn it over. As if hiding it from view would make a difference. Doesn't she understand that it's not about the photo itself, but what it represents? Our shared history, our laughter, our friendship... Or maybe she does understand, and that's why she did it. To hurt me. Because she's jealous of what we had. I can feel the anger rising within me, but it's not my fault. It's hers. She started this. She chose to turn it over. I just reacted.\""
+    },
+    {
+        "Triggering Event": "A former student, now a successful lawyer, breezes into her classroom during parent-teacher conferences, boasting about their lavish lifestyle and mentioning they barely remember her teachings. She smirks at the sight of her teacher's worn-out textbooks.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe how Mrs. Thompson feels during the encounter with her former student.\n\n---\n\nMrs. Thompson clutched the worn spine of her algebra textbook, knuckles turning white as she watched her former student breeze through the classroom like it was a goddamn showroom. The kid, who she barely recognized beneath the polished exterior and thousand-dollar suit, smirked at her old textbooks as if they were relics from some ancient, forgotten era.\n\n\"Mrs. Thompson,\" he'd said, \"I can't believe you're still using these. They must be... what? Ten years out of date?\" He laughed, a sound that grated on her nerves like fingernails down a chalkboard.\n\nShe felt a heat rise in her cheeks, a familiar flush of embarrassment and annoyance. She wanted to snap back at him, to tell him that these books were more than just tools for teaching; they were her lifeline, her constant companions through countless years of shaping young minds. But she bit her tongue, the words dying on her lips as she watched him saunter away.\n\nAs he left, she couldn't shake the feeling of dread that settled in the pit of her stomach. This was it, wasn't it? The writing on the wall. She'd always known this would happen eventually - that her methods, her teaching aids, they were all outdated, useless. She'd been a fool to think she could keep up with the times.\n\nShe sighed, running her fingers over the yellowed pages of her textbook. Always behind, never quite measuring up. That was Mrs. Thompson's life in a nutshell. And now, even her former students were proof of that."
+    },
+    {
+        "Triggering Event": "She found an old photo album while packing up her ex-husband's belongings, left untouched in the attic. The yellowed pictures showed their daughter as a toddler, laughing with her parents at family picnics and holidays they'd spent together before everything changed. Alone now, she traced the faded images, feeling the weight of time and loss.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Goddammit,\" she muttered, flipping through the photo album like it was on fire. \"How could he just leave all this behind? Like it never happened?\" She glared at the cheerful faces, her heart pounding. \"This is bullshit. We were happy once. Now look at us. I'm stuck here alone, and he's... who knows where, with who.\" She slammed the album shut, her eyes blazing. \"Fuck him for making me feel like this. Like our past was just a goddamn lie.\""
+    },
+    {
+        "Triggering Event": "A colleague, known for her vibrant social life, shared photos from her weekend getaway to Paris on Facebook. The teacher scrolled through them, each image a stark contrast to her own quiet weekend spent grading papers. She felt a pang of envy as she closed the laptop, her heart heavy with longing and self-pity.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're the teacher who spent the weekend grading papers. You've just seen your colleague's vibrant Paris getaway photos on Facebook. Write a paragraph in a blunt tone, reflecting emotional reasoning, with formal language.\n\n**Text:**\n\"Upon perusing those gaudy images of Parisian indulgence, I felt an inexplicable surge of envy course through my veins. It was as if the very essence of my colleague's joyous weekend had seeped into my drab existence, casting a stark and unforgiving light upon my own mundane life. Each photograph seemed to taunt me, whispering in its thousand shades of colour and laughter that I had fallen short once again, that I was forever destined to remain on the sidelines of life's grand spectacle.\""
+    },
+    {
+        "Triggering Event": "The gallery owner cancelled his solo exhibition, citing \"a lack of market appeal in his current style\". He sat alone in his studio, surrounded by half-finished canvases, their vibrant colors now mocking him. His phone remained silent, no calls or messages from colleagues offering support or encouragement. The silence was deafening, echoing the emptiness he felt inside.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm fucking gutted, man. The gallery's cancellation? It's like they've taken my goddamn heart out, squeezed it till it bled, and then tossed it back at me. 'Lack of market appeal', my ass! They don't know shit about art, about what moves people. I feel like a failure, you know? Like I'm nothing without their stamp of approval. The silence from everyone else... it's like they're all saying, 'Yeah, we thought so too.' Fuck them all.\""
+    }
+]

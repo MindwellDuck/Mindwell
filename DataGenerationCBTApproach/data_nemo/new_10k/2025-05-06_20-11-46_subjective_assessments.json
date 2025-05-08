@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She sits alone in her apartment, the room filled with the soft glow of her laptop screen and the quiet hum of rain outside. Her latest article has been published, but there's no celebratory bottle of wine tonight. Instead, she stares at the empty chair across from hers, a pang of sadness echoing through her as she remembers last year's Christmas Eve dinner, laughing with her late grandmother over steaming bowls of pasta. The apartment feels too large, too quiet now that her grandmother is gone, leaving behind only memories and an ache in her heart.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** \"She's just not that fun anymore without Grandma. Always so serious now.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she overhears her partner on the phone, laughing easily about a weekend away planned with an old colleague - one she knows they haven't seen in years.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe how you feel after overhearing this conversation.\n\n**Text:**\n\n*Fine,* I thought to myself, *another one of those weekends.* Always the same story with him and his old pals. 'Oh, we must catch up!' they'd say, and off he goes, laughing like there's no tomorrow. Guess that leaves me as just another boring, predictable wife, stuck at home while he's out there, living it up.\n\n*Typical,* I huffed, slamming my book shut. *Always the same story with him.*"
+    },
+    {
+        "Triggering Event": "The kitchen clock struck eight, echoing in the empty restaurant. She tied her apron, fingers trembling slightly with anticipation. Today was supposed to be their anniversary lunch; he'd promised. But the table for two remained untouched, his usual seat vacant. A quiet sigh escaped her as she began to chop onions, the familiar sting in her eyes now accompanied by a dull ache in her heart. Another day, another meal alone.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Oh, for heaven's sake! It's eight o'clock already? And no sign of him, not even a whisper of his suit jacket at the door. 'Reserved table,' indeed! I suppose he's found some new, 'pressing' business engagement. Always so predictable, that one.\" *chops onions vigorously* \"Here I am, chopping away like Cinderella, while he's probably enjoying some five-star fare with... who knows? Not me, apparently. Well, isn't that just typical of him?\""
+    },
+    {
+        "Triggering Event": "She stares at the framed wedding photo, now gathering dust in her cluttered apartment. Another failed deadline looms over her, echoing the silence of divorce papers she'd signed just months ago. Her reflection in the glassy eyes of her former self mocks her solitude. She reaches for the frame, but her trembling hand knocks it over instead. It crashes onto the floor, shattering into pieces like her once-happy life.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe her reaction to cleaning up the broken frame.\n\n**Response:**\n\nShe stares at the mess on the floor, the glass fragments glinting like tiny, sharp accusations. \"Either I keep it as a reminder of what went wrong,\" she thinks, \"or I throw it all out and pretend none of it ever happened.\" She grabs a broom, sweeping the pieces into a neat pile. \"There's no in-between with me,\" she mutters, her voice echoing in the empty room."
+    },
+    {
+        "Triggering Event": "While rushing to file his latest story, he realizes his laptop's battery is critically low. He panics as there are no nearby power outlets and deadline approaches.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Intense, hurried journalist struggles against time as laptop battery fails him at crunch moment.\n\n**Text:**\n\n\"Dammit, not again! This piece of junk never holds a charge when I need it most! I've had it with this godforsaken laptop. Every single time there's a deadline, the battery dies on me. It's like the universe is conspiring against my productivity!\""
+    },
+    {
+        "Triggering Event": "He found an old, unopened letter from his ex-wife tucked behind the bookshelf while unpacking boxes in his new apartment. The date on it was his last birthday they'd spent together.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Upon discovering this letter, my mind raced instantaneously. 'She must have sent it as some sort of apology or plea,' I thought, my heart pounding with old familiar feelings. Yet, it remained unopened, untouched by anyone but dust. It seemed clear to me that she'd changed her mind at the last minute, deciding against such a sentimental gesture. Why else would it be here, unread?\""
+    },
+    {
+        "Triggering Event": "Scenario:\nAfter an exhausting 12-hour shift at the hospital, he found their apartment empty. No note, no call. Just his partner's half-finished coffee and a cold, silent bedroom.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Well, that's weird. Guess they must've had to stay late again. Wonder what happened? I hope everything's okay. Could've at least left a note. What if something came up and they needed help? Or worse, what if... No, don't go there. They're probably fine. Just another long day, right?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nThe kitchen timer rings, but she's already at the oven door, pulling out the tray of burnt souffl\u00e9s. She'd been so engrossed in chopping onions that she lost track of time. Again. The orders are piling up, and the dinner rush is only half over. Her sous-chef, a young woman with more energy than patience, hovers nearby, waiting to take over. But every time she looks at her, she sees her late husband's impatient gaze. She snaps at the girl to mind her own station. The stress headache begins its familiar throb behind her eyes.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're the head chef at a bustling restaurant. Describe your reaction to burning yet another batch of souffl\u00e9s during the dinner rush.\n\n**Response:**\n\n\"Fuck me sideways, not again!\" I yanked the charred mess out of the oven, blacker than my mood. \"Bloody souffl\u00e9s, always the divas.\" I glared at them like they'd done it on purpose. \"Well, ain't that just fucking perfect.\"\n\nI could feel Sarah's eyes burning into me, probably thinking, 'Here we go again with the old bat and her burnt dinners.' But who gives a shit what she thinks? She's not the one running this damn kitchen.\n\n\"Alright, listen up!\" I snapped, turning to face the crew. \"The souffl\u00e9s are... well, they're fucking history now. Move on! We've still got a full house out there, and I won't have them waiting while we cry over spilled milk - or burnt cheese, as it were.\""
+    },
+    {
+        "Triggering Event": "A young woman, teaching her 8th-grade class, notices a student sitting alone at recess, his usual smile replaced by a somber expression. She approaches him and asks if everything's okay. He looks up at her with tear-filled eyes and confesses that his parents are getting divorced.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that 8th-grade teacher, late 30s, known for your no-nonsense attitude but genuine care for your students. You've been teaching for over a decade, seen many family ups and downs, but this one hits differently.\n\n**Text:**\n\n\"Kid's sitting alone again,\" I muttered to myself, pushing my way through the bustling playground towards little Timmy. His usual grin was nowhere to be found, replaced by a face that looked like it held the weight of the world. \"Hey, buddy,\" I called out, squatting down in front of him. \"What's going on? You've got that look like someone kicked your dog.\"\n\nTimmy sniffled, wiping his nose with the back of his hand. \"My parents... they're getting divorced.\" His voice cracked, and my heart followed suit.\n\n\"Divorced?\" I echoed, feeling a pang in my chest. \"Well, isn't that just peachy,\" I grumbled, my mind immediately painting the worst-case scenario. \"Guess that means no more family vacations, no more Sunday dinners... all because they can't keep it together.\"\n\nI didn't mean to make it sound so bleak, but every fiber of my being was focused on the negatives. The joy Timmy once had in his life was evaporating before my eyes, and I couldn't help but dwell on the darkness that divorce brought.\n\n\"Hey, at least you've still got your grandma, right?\" I offered, trying to find a silver lining, but it sounded hollow even to me. \"She'll be there for you.\" But would she? Divorce had a way of complicating things, and I knew too well how grandparents often ended up in the middle.\n\nTimmy just nodded, his tears spilling over now. I patted him awkwardly on the shoulder, feeling completely out of my depth. \"Well, kiddo,\" I said, standing back up, \"just know that whatever happens, you'll be okay. We'll get through this together.\" But even as I said it, I couldn't help but think about all the ways life would change for him, and none of them seemed good."
+    },
+    {
+        "Triggering Event": "The kitchen timer buzzed, signaling the end of her preheating time. She reached for the oven mitts, but hesitated, her mind racing with worry over the upcoming family dinner. It was their first since her husband's passing, and she feared every detail - from the perfecting timing to the nostalgic menu - would only accentuate his absence at the table. Her heart pounded as she slipped on the mitts, opening the oven door to reveal the untouched casserole, already growing cold.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Great, just great! Another bloody disaster, isn't it? Always happens when I need things to go right. Never can catch a break. It's like this whole damn dinner is going down the drain because of one lousy oven mishap.\""
+    }
+]

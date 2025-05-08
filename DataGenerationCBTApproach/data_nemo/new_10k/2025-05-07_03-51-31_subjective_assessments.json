@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He woke up to an empty bed, his wife's side still warm but her absence already a cold void. The clock ticked louder than usual in the early morning silence. His heart pounded as he grasped for his phone, dialing her number with trembling fingers. It rang once before going straight to voicemail. Panic surged through him like a tidal wave, his breath coming in ragged gasps. He was alone, and something was terribly wrong.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Why the fuck am I always the last to know? Every damn time, something goes south, I'm left floundering like an idiot. Look at John next door, his wife always tells him shit before it blows up. Why can't mine be more like that? Fuck, even her voicemail's full already? What the hell is going on out there while I'm stuck here, clueless and alone?\""
+    },
+    {
+        "Triggering Event": "At 5 pm, he received an email from his colleague: \"Another lab's team beat us to publication. Our data wasn't conclusive enough.\" He sighed, glancing at his wife across the dinner table, her smile fading as she noticed his expression.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I must admit, I find it rather perturbing that they published before us. It's not as if we didn't work diligently on our research. Their team must have taken liberties with their interpretation of the results, leading to this unfortunate outcome. I daresay, they were simply too eager to publish and overlooked the nuances of our data. This reflects poorly on them, not us. Now, where were we with dinner plans? I believe we had considered that new Italian place downtown?\""
+    },
+    {
+        "Triggering Event": "He's walking home from work, his footsteps echoing through the deserted streets. A group of teenagers, laughing too loud, cross his path. One of them bumps into him, hard enough to make him stumble. \"Watch where you're going, old man,\" they sneer. He feels a surge of hatred as he watches them walk away, their laughter fading into the night.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Writing Prompt: Describe his thought process as he walks home after being bumped into by the teenagers.\n\nText:\n\"Old man,\" they called me. Me! I'm not even fifty yet. I mean, look at them, barely out of diapers, and they're acting like they own the streets. I used to be like that once, full of energy and life. Now, I'm just... this. I can't keep up with them anymore. They're still young, still strong, still full of life. And here I am, stumbling around like a damned old tree in the wind. It's not fair."
+    },
+    {
+        "Triggering Event": "Her partner laughed at a colleague's joke, their eyes crinkling with genuine amusement. She felt her smile stiffen as she noticed the colleague was a fellow scientist, younger and more successful in their field.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Writing Prompt: \"Describe your feelings and thoughts as you observed your partner's reaction to their colleague's joke.\"\n\nResponse: \"As I watched him laugh, his eyes crinkling with genuine amusement, I felt a peculiar tightness in my smile. It was odd, really, how that simple moment could provoke such an unexpected sensation. My mind began to whirr like an overworked engine, questions buzzing through my thoughts like relentless bees. 'What if this colleague becomes closer to him than me?' 'What if their shared laughter leads to collaboration, leaving me behind?' I found myself mentally tracing a path of negativity, each step leading further from the warm, shared laughter of that moment. Yet, I maintained my composure, my expression barely betraying the inner turmoil caused by these relentless 'what ifs'.\""
+    },
+    {
+        "Triggering Event": "While sipping his morning tea, he noticed a hairy spider crawling across his toast, which he had been about to bite into.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe your immediate reaction upon discovering an unwanted creature on your breakfast.\n\n**Response:**\n\n\"WHAT IN THE NAME OF ALL THAT'S HOLY IS THIS?! I KNEW IT! I knew my roommate was leaving his dirty socks around, creating a breeding ground for these eight-legged monstrosities. He's probably been sneaking in here all night, letting them roam free while I'm asleep. This is it, the final straw. I'm packing up and moving out today. He can have this spider-infested dump all to himself.\""
+    },
+    {
+        "Triggering Event": "A shadowy figure darted across her peripheral vision while she sat alone in the dimly lit squad car, parked outside an abandoned warehouse. She was waiting for backup to raid a suspected drug den, but now she felt eyes burning into her back. The radio crackled, startling her, but it was only static. She thought she heard footsteps approaching, then silence. Her heart pounded as she gripped her gun tightly, paranoia crawling up her spine like an icy spiderweb.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Fucking kids,\" she muttered under her breath, clutching her gun even tighter. \"Probably out joyriding or pulling some stupid prank. This is why we can't just do our job in peace. Always gotta be looking out for these little shits.\" She took a deep breath, trying to calm herself. \"When backup gets here, I'm telling them to keep an eye on the perimeter. Can't rely on anyone else to do their damn jobs.\""
+    },
+    {
+        "Triggering Event": "After 40 years of marriage, he found an unopened letter from her ex in their attic, dated a year before they wed.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Writing Prompt: Describe your reaction to finding an unopened letter from your spouse's ex-partner in your attic after 40 years of marriage.\n\nResponse:\n\nWell, I'll be damned. Forty years we've been married, and now I find this? An unopened letter from her ex, tucked away up here like some dirty little secret. I mean, who the hell does that?\n\nI can't help but think she must have known about it all this time. Why else would it still be sealed, huh? It's not like she didn't have plenty of opportunities to throw it out or something. No, no, she had to keep it hidden away, waiting for me to stumble upon it.\n\nI guess that's what you get for being so trusting, so blindly devoted. All these years, I thought we were building something special, a life together. But maybe it was all just a big fucking lie. Maybe she was still hung up on him all this time.\n\nGoddammit, I can't believe I'm only finding out about this now. What else don't I know? What other secrets has she been keeping from me? It's like I don't even know her anymore. Or maybe I never did."
+    },
+    {
+        "Triggering Event": "He returns home, late again from another grueling service at the restaurant. His wife's laughter echoes through the apartment as she video calls her friends, sharing stories they've heard a thousand times before. He pauses by the doorway, unnoticed, listening to their carefree chatter over his quiet exhaustion. The bitter taste of jealousy coats his tongue when he realizes none of them have asked about his day.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:** Describe how he feels as he stands there, unseen, listening to his wife's laughter and the chatter of her friends.\n\n**Text:**\n\nDamn it, always like this! She's never here when I need her. Always off with her friends, acting like she doesn't have a care in the world. And them? They don't give a shit about me either, too busy laughing at their stupid jokes. It's not fair, none of them ever asks how my day was, how hard I worked out there. But why should they care, right? It's not like anyone understands what it's like for me."
+    },
+    {
+        "Triggering Event": "The artist woke up to find his hands trembling uncontrollably, paintbrushes dancing out of reach on his studio table. His partner, noticing his distress, quietly cancelled their dinner plans with friends, leaving him alone with his blank canvas and the creeping dread that today, like yesterday, he might not be able to create anything at all.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Writing Prompt: Describe your day after waking up to find your hands trembling uncontrollably while trying to paint.\n\nThe canvas lay there, mocking me with its pristine emptiness. I could hear the paintbrushes rattling on the table like nervous teeth, just out of reach. Another day, another battle with this damn tremor. It's not like I've ever created anything worthwhile anyway, so what's one more blank canvas to add to the collection?\n\nEmma cancelled our plans for tonight without even asking me first. She must think I can't handle it, that I need babying. She doesn't understand, no one does. This isn't just a tremor, it's a statement from the universe that I'm not meant to create anything of worth.\n\nI've had good days before, sure. But they don't count, do they? They're just flukes, lucky breaks. Today is the reality, the norm. Today is what defines me as an artist. Nothing else does."
+    },
+    {
+        "Triggering Event": "A parent approaches after class, asking if she could speak privately about her son's recent disruptive behavior in class. As they step into an empty classroom, the teacher realizes she'd accidentally worn her shirt inside out all day.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Oh, splendid! I've been summoned for a private chat about my son's behavior, and not a moment too soon. And here I am, parading around like an amateur all day with this shirt on backwards. How absolutely perfect.\""
+    }
+]
