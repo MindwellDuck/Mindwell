@@ -1,0 +1,15 @@
+Thought: I made a mistake, therefore I'm a failure.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

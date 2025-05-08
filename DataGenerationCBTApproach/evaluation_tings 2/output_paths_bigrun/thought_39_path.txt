@@ -1,0 +1,17 @@
+Thought: He or she thinks I'm not attractive / handsome.
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: yes
+Leaf: mind_reading
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

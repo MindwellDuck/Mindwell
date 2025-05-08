@@ -1,0 +1,25 @@
+Thought: I feel that the event will be boring
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: no
+Q: Does the text isolate negative events making one think 'This always happens' or 'It will never change'?
+A: no
+Q: Do hypothetical questions like 'What if something bad happens?' dominate the text?
+A: no
+Q: Does the text exaggerate negative aspects of situations or minimize positive ones?
+A: no
+Q: Does the text focus only on negative details while ignoring the bigger picture?
+A: no
+Q: Does the text indicate drawing a conclusion based on little or no actual evidence?
+A: yes
+Leaf: jumping_to_conclusions
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

@@ -1,0 +1,25 @@
+Thought: Those successes were easy so they do not matter.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: no
+Q: Does the text isolate negative events making one think 'This always happens' or 'It will never change'?
+A: yes
+Leaf: overgeneralization
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: no
+Q: Are decisions made based on assumptions rather than evidence or dialogue?
+A: yes
+Leaf: jumping_to_conclusions

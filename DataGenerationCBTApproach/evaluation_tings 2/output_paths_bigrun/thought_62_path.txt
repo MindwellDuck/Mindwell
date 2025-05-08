@@ -1,0 +1,23 @@
+Thought: It is my fault that ray son married a selfish and uncaring person.
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: no
+Q: Does the text contain blaming others for ones negative feelings or experiences?
+A: no
+Q: Does the text view people's actions or words to be directed at oneself personally?
+A: yes
+Leaf: personalization
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: yes
+Leaf: labeling

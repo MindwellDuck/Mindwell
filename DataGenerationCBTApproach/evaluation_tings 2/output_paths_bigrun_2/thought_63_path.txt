@@ -1,0 +1,17 @@
+Thought: It is you who made me feel bad
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: no
+Q: Does the text contain blaming others for ones negative feelings or experiences?
+A: yes
+Leaf: blaming
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

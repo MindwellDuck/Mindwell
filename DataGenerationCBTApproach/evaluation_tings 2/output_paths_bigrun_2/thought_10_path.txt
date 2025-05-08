@@ -1,0 +1,21 @@
+Thought: I don’t really know how to explain the situation, but I deal with a lot of family drama, my parents have kind of high expectations, with the stress of school on top of that I became extremely unhappy and kept all of my emotions in and I wore that fake smile everyday until I finally reached my breaking point. I started self harming for about six months until my mom found out and suggested an inpatient program at a hospital. I refused to go because I didn’t know if it was going to go on my record which could possibly affect my dreams of becoming a psychiatrist. So, instead she sent me to a councelor who I’ve been seeing for about a year now. She sent me to a psychiatrist when I first started going to her and I was diagnosed with depression and put on medication but I stopped taking it a month after it was prescirbed. I have a major fear of choking and drowning As well and can’t swallow pills. I’m still having major problems with the depression And My anxiety has been very bad, I’ve been considering talking to my parents about finishing the year by taking online classes. Because I need to get away. But what I really want to know is, how can I deal with depression and dig myself out of this hole? It seems like everytime I get so close of beating in, I get nocked right back down to the bottom. I’m still seeing my therapist but it’s not enough, my mom is still pushing me to go back on medication but doesn’t understand my fears. Is it even possible to beat this without medication? I also apologize if a lot of this doesn’t make sense.
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: no
+Q: Are decisions made based on assumptions rather than evidence or dialogue?
+A: yes
+Leaf: jumping_to_conclusions

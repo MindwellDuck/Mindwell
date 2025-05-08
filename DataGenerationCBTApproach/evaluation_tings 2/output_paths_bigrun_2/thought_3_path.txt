@@ -1,0 +1,21 @@
+Thought: If I can't get a good mark, then I'm talentless
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: yes
+Leaf: labeling

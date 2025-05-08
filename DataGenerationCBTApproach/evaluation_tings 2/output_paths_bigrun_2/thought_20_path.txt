@@ -1,0 +1,19 @@
+Thought: Me and my boyfriend have been going out for about 6 months, and he’s NEVER given me any reason to not trust him. He’s never cheated, lied, or anything remotely close to that. He’s always been honest with me and never fails to be affectionate and tell me how much he cares about me. But I can’t trust him. And I get extremely bad separation anxiety when I’m not with him. I always want to try and control him, who he’s with, where he goes, what he’s doing, and I never want him to do anything if I’m not involved. Which, clearly isn’t healthy at all. I get so anxious and jealous about everything he does that I’m not there for. And it’s starting to ruin our relationship.
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: no
+Q: Does the text contain blaming others for ones negative feelings or experiences?
+A: no
+Q: Does the text view people's actions or words to be directed at oneself personally?
+A: yes
+Leaf: personalization
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

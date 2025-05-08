@@ -1,0 +1,15 @@
+Thought: I'm sure something bad will happen to me tomorrow.
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

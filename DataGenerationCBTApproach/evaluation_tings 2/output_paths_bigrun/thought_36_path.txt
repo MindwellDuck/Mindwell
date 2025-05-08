@@ -1,0 +1,19 @@
+Thought: ​​He's thinking that I failed.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: no
+Q: Does the text indicate that emotions are perceptions of reality?
+A: yes
+Leaf: emotional_reasoning
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: yes
+Leaf: mind_reading
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

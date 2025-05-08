@@ -1,0 +1,19 @@
+Thought: I got a B. This proves how inferior I am.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Tree skipped: life_challenges_tree
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: yes
+Leaf: labeling

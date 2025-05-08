@@ -1,0 +1,25 @@
+Thought: What if I never find someone nice to marry?
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: no
+Q: Does the text contain blaming others for ones negative feelings or experiences?
+A: no
+Q: Does the text view people's actions or words to be directed at oneself personally?
+A: no
+Q: Does the text assign fixed, global labels to oneself or others based on specific behaviors (e.g., "lazy," "failure")?
+A: no
+Q: Does the text compare oneself unfavorably to others, assuming they are better than them in every way?
+A: no
+Leaf: no_distortion
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

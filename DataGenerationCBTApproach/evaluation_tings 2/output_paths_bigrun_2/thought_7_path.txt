@@ -1,0 +1,17 @@
+Thought: I'll be so upset that I won't be able to concentrate for the exam.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

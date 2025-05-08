@@ -1,0 +1,19 @@
+Thought: What if my car crashes?
+
+Tree: personal_problems_tree
+Tree skipped: personal_problems_tree
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: no
+Q: Does the text isolate negative events making one think 'This always happens' or 'It will never change'?
+A: no
+Q: Do hypothetical questions like 'What if something bad happens?' dominate the text?
+A: yes
+Leaf: what_if
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree

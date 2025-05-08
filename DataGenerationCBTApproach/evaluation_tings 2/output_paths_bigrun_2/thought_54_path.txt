@@ -1,0 +1,25 @@
+Thought: I have to get married before twenty-five because that's the way it is.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Tree skipped: interpersonal_tree
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: no
+Q: Does the text isolate negative events making one think 'This always happens' or 'It will never change'?
+A: no
+Q: Do hypothetical questions like 'What if something bad happens?' dominate the text?
+A: no
+Q: Does the text exaggerate negative aspects of situations or minimize positive ones?
+A: yes
+Leaf: magnification_minimization
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: yes
+Leaf: should_statements

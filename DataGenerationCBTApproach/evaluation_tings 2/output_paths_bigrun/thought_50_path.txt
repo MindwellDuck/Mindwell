@@ -1,0 +1,33 @@
+Thought: Me and my twin sister are 13 and we always have fights. At the end she always say, ” I don’t feel like fight with you ok”. Also I feel like I am lonely at my house. Llike my sister has a boyfriend which she talks to 24/7. So does my mom. And I don’t. I hardly talk to my friends. So I don’t know if I am the reason that I cause it because we are different. But I think we need help so please HELP ME!!!!
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: no
+Q: Does the text indicate that emotions are perceptions of reality?
+A: yes
+Leaf: emotional_reasoning
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: yes
+Leaf: mind_reading
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: no
+Q: Does the text isolate negative events making one think 'This always happens' or 'It will never change'?
+A: no
+Q: Do hypothetical questions like 'What if something bad happens?' dominate the text?
+A: no
+Q: Does the text exaggerate negative aspects of situations or minimize positive ones?
+A: yes
+Leaf: magnification_minimization
+
+Tree: parent_child_tree
+Q: Do the text include phrases like 'You must...' or 'You should...' excessively?
+A: no
+Q: Are fixed labels like 'lazy,' 'irresponsible,' or 'failure' used to describe behaviors?
+A: no
+Q: Are decisions made based on assumptions rather than evidence or dialogue?
+A: yes
+Leaf: jumping_to_conclusions

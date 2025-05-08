@@ -1,0 +1,19 @@
+Thought: I am worried because I have never been able to make friends very easily. When someone tries to talk to me, I get so nervous about what they think of me that I end up seeming uninterested or maybe even snobby, probably. Im always thinking that people are talking behind my back or thinking badly of me. Whenever someone in whispering to another person, I pretty much assume that they are talking badly about me, and I panick.At school, I get so caught up worrying if I smell bad or If my makeup is smeared I immagine everyone is looking at me funny. I dont even really show any emotion, either, when im around people(especially when I am anxious). I dont talk to people about how i feel because It makes me feel vulnerable, I guess. My anxiety used to be worse a couple of years ago, but now im just paranoid. Im always thinking that people think im a loser, and i wont leave the house without makeup, because i am horrified about what other people think about me.
+
+Tree: personal_problems_tree
+Q: Does the text view situations as either 'perfect' or 'complete failures' with no middle ground?
+A: yes
+Leaf: all_or_nothing_thinking
+
+Tree: interpersonal_tree
+Q: Does the text indicate assumptions of knowing what others think about oneself without evidence?
+A: yes
+Leaf: mind_reading
+
+Tree: life_challenges_tree
+Q: Does the text frequently imagine worst-case scenarios and indicate the one believes they will happen?
+A: yes
+Leaf: fortune_telling
+
+Tree: parent_child_tree
+Tree skipped: parent_child_tree
