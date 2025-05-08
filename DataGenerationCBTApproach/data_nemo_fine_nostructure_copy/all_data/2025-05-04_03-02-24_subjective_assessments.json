@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A lone takeout box sits unclaimed at the restaurant's front door as she closes up for the night, its contents growing cold in the drafty lobby.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "My coworker is so irresponsible, always leaving her trash everywhere. She doesn't care about cleanliness and isn't even trying to be tidy. I swear, if we didn't have to work together, I wouldn't bother inviting her out. Her sloppy behavior makes me feel like I'm wasting my time around her."
+    },
+    {
+        "Triggering Event": "He walked home from the hospital, the weight of another lost patient heavy on his shoulders. As he opened the front door, the quiet echoed with an emptiness that wasn't there yesterday. A note on the kitchen counter told him she had left for her mother's. No mention of when she'd return. He sat alone in their dark living room, her empty chair across from him, and cried quietly into his hands.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He was just really upset about his sister leaving. She must have needed to go see her mom because it's been a tough time lately. I'm sure everything will work out eventually."
+    },
+    {
+        "Triggering Event": "A slow, dreary drizzle starts as she closes up shop alone after another quiet day. She watches the raindrops streak down the dusty window panes, each one a tiny tributary to the puddle forming outside. Her reflection in the glass looks back at her, gray hair framing a face etched with lines of unhappiness. She turns away, flipping off the lights and leaving the empty store to its silent vigil until morning.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She's an old, miserable, bitter woman who has nothing better to do than sit around all day by herself."
+    },
+    {
+        "Triggering Event": "A weary Dr. H., home after another grueling 14-hour shift, finds her husband's suitcase packed by the door. No note, no call, just an eerie emptiness echoing through their once-warm house.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "A sense of dread settles in as I gaze upon my empty home. The silence is deafening—a stark contrast to the chaos that once filled our walls. I feel like I've been punched in the gut, left breathless. My mind keeps replaying the events leading up to this moment, but they seem distant, as if I'm watching them from outside my own life."
+    },
+    {
+        "Triggering Event": "In his lab after hours, he found her favorite notebook, its pages yellowed and worn, tucked behind a loose tile in the wall. He'd forgotten it was there, hidden years ago when she left for her fellowship abroad. Now, alone with the weight of her absence and the silence of their empty house, he traced her handwriting, each word a poignant reminder of her loss.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He must have done it to hurt me, leaving it like this, just to remind me of what I've lost. Or maybe he thinks it's funny, that he can play this cruel game with me now, knowing I'll never find another one like her. Or perhaps he simply forgot? Maybe he didn't even see it, but somehow knew where to look, how to reach it. That would explain why it was so perfectly hidden - he didn't want me to find it until he felt ready."
+    },
+    {
+        "Triggering Event": "A slow afternoon at the store. He straightens a rack of ties, each one neatly folded over its hanger, like tiny, colored flags of surrender. His reflection in the glass case looks back at him, graying hair and lines etched deeper by the years. A young couple walks in, laughing, arms entwined. She picks up a tie, twirling it around her finger before handing it to him with a smile. They leave, still laughing, leaving behind an empty space on the rack and a hollow ache in his chest.",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He is lonely because he has no friends."
+    },
+    {
+        "Triggering Event": "She noticed his shirt draped over the chair in the living room, still warm from the heat of his body. The faint scent of her perfume lingered on the collar.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Oh my god she totally thinks I'm trying to seduce her. That's so creepy! I wonder what else she has been noticing about me lately. I can't believe she would even think like that. I wish she wouldn't have such an intimate view of me and my habits. It's just so weird. I feel so uncomfortable. How could she think this way? Doesn't she know how much I value our friendship? This is all so unbelievable. I really hope she doesn't start making assumptions about us."
+    },
+    {
+        "Triggering Event": "A lone figure, his silhouette barely visible against the setting sun, stood by the school's playground swing set after hours. The cold wind whipped around him, but he seemed oblivious to it. His gaze was fixed on a small pendant hanging from the highest swing, swaying gently in the breeze. It was her favorite necklace, the one she always wore. He had forgotten about it until today, when he found it in his pocket while packing up his classroom after another empty day without her. The weight of the loss pressed heavily upon him as he reached out to grasp the swinging pendant, tears silently streaming down his cheeks.",
+        "Sex": "Male",
+        "Age": 20,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "My mind instantly pieced together what could have happened. He must have been looking for her, checking every spot where they used to sit together during recess. It made sense; she would never abandon our friendship like this. I thought maybe she got lost during lunch and ended up here, and he was searching for her everywhere. But why wouldn't she tell me? I remember how much we talked about everything that happened that day, from the game to our plans for the weekend. She wasn’t usually so quiet, but I assumed she might be upset or scared. It didn’t make sense that he just stood there, staring at an old necklace, without even trying to find her or talk to anyone. If he was really looking for her, he would have asked someone if they saw her. I imagined her sitting on the bench nearby, quietly crying over something, but there was no sign of her. It seemed so strange that he just kept holding onto the chain, his eyes fixed on it. Maybe she was already gone, and he was too late to help. My heart sank thinking about all the times we spent together, laughing and sharing secrets. Now, he was alone with nothing but a piece of jewelry that reminded him of her. Why did he do this? I couldn’t understand why he simply sat there, clinging to something that brought back memories of her. I pictured him sitting alone in class, wondering where she went, but she didn’t say anything. I wondered if he"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe stood at the kitchen counter, her hands shaking slightly as she chopped onions with more force than necessary. The knife met the wooden board with a rhythmic thud, echoing her frustration. The recipe book was open in front of her, but the words swam before her eyes. She had followed it to the letter, yet the dish tasted... off. Again. She slammed down the knife and sighed deeply, feeling the familiar tightness in her chest. Her husband walked in, looked at her face, and quietly took over the cooking.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Her anger is so real; it's like I'm actually tasting how bad this meal is. It's not just me being upset; the flavors are really that awful. I can't trust my taste buds anymore. This must be a sign that our marriage isn't working out, and we shouldn't even bother trying to fix it. My feelings are proof enough that we're heading for divorce. We have no choice but to end things now. Our relationship has been doomed from the start, and I don't want to waste any more time trying to save it."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe watches her laugh with colleagues at the staff room, their shared joke echoing in his mind like an alien language. She's never laughed that way with him. He feels the familiar pang of rejection, a knot tightening in his stomach as he turns away, pouring another coffee he doesn't want.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She can’t possibly laugh with others like that. It’s just a superficial smile, a mask she wears when she thinks no one is looking. That look she gave me was genuine, but I know she wouldn’t dare to show such vulnerability again. We’re not meant to be together; our friendship would never last. She’ll forget about me soon enough, and I won’t be the one to hurt her—she'll find someone else. Why am I still here? The pain of being alone is too much to bear."
+    }
+]

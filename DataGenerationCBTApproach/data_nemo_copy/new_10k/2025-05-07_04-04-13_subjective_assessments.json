@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She noticed him, a young man laughing freely at lunch, his eyes crinkling at the corners in a way her husband's never did. The bitterness rose like bile as she realized it had been exactly a year since his laughter was silenced by the cold, harsh beep of a heart monitor flatlining. She pushed away her half-eaten sandwich, suddenly nauseous.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Prompt:** Describe your reaction when you noticed someone laughing freely at lunch while remembering the anniversary of your loved one's passing.\n\n---\n\n*Her eyes flickered to him, laughter erupting from his mouth like it was the most natural thing in the world. A year. It had been a whole year since that godforsaken beep echoed through the sterile room. And here he was, laughing. Laughing.*\n\n*The bitterness surged, acidic and overwhelming. She pushed her sandwich away, suddenly repulsed by its presence. How could he? How dare he laugh like that when hers had been stolen? It's not fair. He shouldn't be allowed to find joy so easily while she was left with this gaping hole.*\n\n*She felt the familiar tightness in her chest, the anxiety clawing at her throat. She wanted to scream, to tell him to stop, but all she could do was stare, resentment burning like a fever within her.*"
+    },
+    {
+        "Triggering Event": "He sat alone in his dimly lit apartment, rain streaking the window panes. An old photograph lay face up on the coffee table - a younger him, smiling with his former wife and daughter at their favorite park. A sudden gust of wind blew through the open window, scattering the photo's edges like autumn leaves. He watched as it fluttered to the floor, landing face down, hiding their once-happy faces.",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Great, just freakin' great,\" he muttered, watching the photo flutter to the floor. \"Can't even enjoy a damn memory without the world conspiring against me.\" He snatched it up, brushing off nonexistent dirt. \"Just like my life, all turned upside down for no reason.\""
+    },
+    {
+        "Triggering Event": "After a long day at the hospital, he finds an old patient's file in his bag, unnoticed until now. The date of death is today. He stares at it, realizing he'd missed the anniversary by hours. His partner, unaware of this, asks about his quiet mood. He shrugs, \"Just tired.\"",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Writing Prompt: Describe the moment he notices the file and his internal monologue as his partner asks about his mood.\n\nText:\nHe'd been so busy today, rushing from one patient to another, that he hadn't noticed the old file tucked into his bag until now. The dim light of his kitchen cast a stark shadow over the date: Today. He blinked, his heart sinking like a stone in water. He'd missed it by hours. His mind fixated on that single detail, ignoring the rest. It was just another day to everyone else, but not to him. Not today.\n\nHis partner walked in, their eyebrows furrowing at his silent stare. \"You alright, Doc? You've been quiet all evening.\"\n\nHe shrugged, his eyes still glued to the file. \"Just tired,\" he murmured, his mind stuck on that one date, oblivious to the rest of the world."
+    },
+    {
+        "Triggering Event": "She found herself in her quiet, cluttered study, the room bathed in the soft glow of her old desk lamp. As she thumbed through an aged photograph album, a faded picture of her and her ex-husband at their first news conference together caught her eye. A pang of sadness echoed through her as she remembered his warm smile, now replaced by silence since the divorce. She gently touched the photo, feeling a lone tear trickle down her cheek.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"So, here we are again,\" she muttered, tracing the outline of his face in the photo. \" Typical him, always stealing the show even when he's not around. Probably off somewhere, laughing it up with some new bimbo while I'm stuck here, drowning in memories.\" She slammed the album shut, wiping away her tear angrily. \"He probably doesn't even remember this day anymore. Asshole.\""
+    },
+    {
+        "Triggering Event": "She opened her email to find another rejection letter from a prestigious journal. The lead researcher was someone she'd once called friend, now refusing her work with a dismissive sentence: \"Not novel enough.\" Her husband's face flashed in her mind, his killer still free. She slammed her laptop shut, venom coursing through her veins.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I mean, what does he know about 'novel'? He's probably just jealous that I'm onto something big here. My heart's pounding like I've been betrayed, so it must be true, right? It's not like he's some genius who's spent his life in academia while I've been busting my ass on this project. And now my husband's killer is still out there because of people like him! Fuck this, I'm done with these stuffy journals anyway.\""
+    },
+    {
+        "Triggering Event": "After a grueling 12-hour shift, he walked into their apartment to find it eerily silent and empty. His partner's usual cheerful greeting was nowhere to be heard. Instead, he found a hastily scribbled note on the kitchen counter: \"Working late. Didn't want to wake you.\" He felt his stress levels spike as he imagined the pile of dishes left unwashed, the laundry undone, and the weekend plans he'd been looking forward to, now likely ruined.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings and thoughts upon arriving home from a long shift to find an empty apartment and a note from your partner.\n\n**Text:**\n\n*Fuck me*, it's like a ghost town in here. Again! I swear, this is *always* happening. Every damn time I pull a late one at work, she's off goddamn God-knows-where, leaving this place like a fucking morgue. It's never just one night, no, it's like her new norm or something.\n\nLook at this shit! A note? Really? \"Working late\"? That's what they're calling it now? I should've known better than to expect anything else. This is *never* how it was supposed to be. We were supposed to be in this together, not fucking ships passing in the night.\n\nAnd look at this place! It's a goddamn disaster zone. Dishes piled high like Mount Ever-fucking-est, laundry all over the floor - untouched, of course. This is *always* how it goes when I'm not around to keep an eye on things. Whole fucking weekends ruined because we're playing catch-up on life's little chores.\n\nIt's like she's forgotten what it means to be a team. It's never just one thing with her anymore, it's like the whole damn world revolves around her goddamn job. And me? I'm just left here to pick up the fucking pieces. This is *never* how it was supposed to be."
+    },
+    {
+        "Triggering Event": "In his cluttered home office, he stumbled upon an old photograph tucked behind the printer. It was them, years ago, before the silence set in. Her smile, so wide and carefree, now echoed with unspoken words left unsaid. He felt the familiar pang of guilt as he realized he hadn't called her on her birthday last month.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe the scene from his perspective as he looks at the photograph, feeling guilty about forgetting her birthday.\n\n**Text:**\n\n\"Shit, it's been ages since I last saw this pic. We were so happy then, weren't we? Look at her smile, man, it could light up a whole room. Now it's just... gone. Just like our talks, our laughs. All because of me. I didn't call her on her birthday. Again. What kind of brother does that make me? A shitty one, that's what. Either you're there for them, or you're not. And I wasn't. Not again.\""
+    },
+    {
+        "Triggering Event": "At 3 AM, she heard a faint creak outside her study door. She froze, heart pounding. Last week's break-in at her colleague's home flashed through her mind. She grabbed her phone, hands trembling, and dialed the police non-emergency number, whispering her address into the receiver. As she waited in the dark, she could've sworn she heard footsteps echoing down the hall.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a single mother living alone with your teenage daughter. You've always been cautious about security since that terrifying night when you heard noises outside your study door.\n\n**Text:**\n\n\"I'm so sick of this shit! It's 3 AM again, and I can't sleep. Every creak in this damn house sounds like a burglar breaking in. Last week, it happened to Lisa down the street - they stole herTV and God knows what else. I swear, if those fuckers try that here, I'll skin them alive! My daughter's asleep, and I'm not letting anyone put her in danger. I've called the cops three times now for these 'noises.' They say it's just the house settling, but how can they know? They weren't here when I heard those footsteps last night. Fuck, why won't they take me seriously? It's not like I'm some paranoid nutjob!\""
+    },
+    {
+        "Triggering Event": "He woke early, the house silent except for the ticking clock. His partner's side of the bed was empty, the sheets cool to his touch. He found her in the kitchen, hunched over her laptop, her face illuminated by the harsh glow of the screen. She didn't look up as he entered, her fingers clicking away, a soft sigh escaping her lips every few minutes. The air felt thick with tension, each breath heavy with unspoken words. He poured himself a coffee, the bitter smell filling his nostrils, then leaned against the counter, watching her. After what felt like an eternity, she finally glanced up, her eyes rimmed red. \"I'm leaving today,\" she said, her voice barely above a whisper. His heart sank as he realized this was not just another business trip.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "I always wake up before her, you know? It's like our little routine, our thing. She's supposed to be there, warm beside me, not down here, all consumed by that damn laptop. She shouldn't have to work this hard, this early. We're supposed to have breakfast together, chat about nothing, laugh a little. That's how it's supposed to be. But today... today it's just cold sheets and her hunched over like she's carrying the weight of the world on those shoulders that aren't even hers to carry. She shouldn't be leaving again, not so soon. Not ever. We're supposed to be together, here, now. Not her off somewhere else, me left behind with nothing but this bitter coffee and a heart full of... full of something I can't quite name yet. It's not right, none of it is right. She shouldn't have to go. And I sure as hell shouldn't feel like this."
+    },
+    {
+        "Triggering Event": "He found an unopened letter from her tucked behind their shared bookcase, postmarked two months ago.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:** Describe his immediate reaction upon discovering the letter.\n\n**Text:**\n\n\"I found that damn letter today. Hidden behind our bookcase like it was some secret. She hadn't bothered to tell me about it, not even a word in two freaking months! I mean, what's that all about? It's not like she doesn't know how much mail goes missing around here. She could've at least said something. Now I'm supposed to just pretend I didn't see it? Hell no, I won't have her making me the idiot here. This is on her, not me.\""
+    }
+]

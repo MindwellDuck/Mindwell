@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She noticed an empty chair at their usual table during lunch hour.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "It’s possible that someone forgot to sit down for lunch, so I’m just going to ask her where she is. What if she had already eaten there and didn’t want me to sit down? Or maybe she was just in a hurry because she has another class soon? It could be either way, but I’ll still check with her anyway. Maybe she's really busy today and doesn't have time to talk right now. If she wasn't there, it might mean she's sick, or maybe she's avoiding me because of some past argument between us. So what if she just decided to skip school today?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe woke up early, the sun barely a whisper in the sky. Today was their anniversary. She reached for his side of the bed, but it was cold and empty. She had expected the grief to lessen with time, but as she sat alone at breakfast, the untouched chair across from her seemed to taunt her with its emptiness. The clock ticked on, each second a reminder of another year without him.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She wondered what would have happened if he were still there, if they could have continued their life together. Would she wake up to a gentle kiss on the forehead instead of the chill of an unoccupied pillow?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 3 PM, journalist Sarah sits at her desk, phone ringing off the hook with requests from editors for updates on breaking news. She snaps, \"I've told you, I'm still waiting for confirmation!\" as another reporter asks if she's \"gotten lazy\" since they haven't heard from her yet today.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Sarah felt like she was going crazy when she snapped at that reporter. It wasn't even her fault; she had been working non-stop all day, trying to meet tight deadlines while dealing with so many stories. But somehow, in her head, it was like, \"What's wrong with me? Why can't I just work?\" She didn't realize how much pressure she'd put on herself until now."
+    },
+    {
+        "Triggering Event": "A customer, around her age, tries on a dress she loved wearing on her wedding day. She leaves the fitting room laughing with her friends, oblivious to the woman watching them from behind the counter, her grip tightening around the security tag remover in her hand.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "My sister looked like such an idiot when she tried that dress on. I mean, who does that? And then she had the nerve to laugh with her friends like they were having the time of their lives. It was so pathetic. I bet she's just insecure about being single again. She doesn't deserve to be treated well anyway; it's clear she'll never find someone else. Why would anyone want to date her? This is why I'm glad I married young - if I'd waited any longer, I'd have ended up alone too."
+    },
+    {
+        "Triggering Event": "After decades of dedicated service, he opened his locker to find a memo stating that due to budget cuts, his position at the local retail store would be eliminated in two months. He sighed heavily, disappointment weighing down each breath as he glanced at the faded photograph of him and his wife on their wedding day, now tucked away among the cluttered shelves of his now-redundant workspace.",
+        "Sex": "Male",
+        "Age": 65,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "This is my life. I’m just another forgotten cog in the machine, left behind by those who don’t care about the people they’ve wronged. My job was more than just an income; it held memories—memories of family vacations, birthday celebrations, first steps, and milestones we shared together. The countless hours spent sweeping floors, restocking shelves, and helping customers became moments I cherished, reminding me of the importance of every single task, no matter how small. But now, with this decision, it’s all being erased. What’s the point? Why bother? Life doesn’t seem worth living anymore."
+    },
+    {
+        "Triggering Event": "He sat alone in their shared apartment, his uniform still damp from the hospital's harsh fluorescent lights. The clock ticked past midnight; she hadn't called again today. He looked at her photograph on the mantel, smiling back at him from a happier time. His eyes welled up as he recalled their last argument, echoing bitterly in his mind. He picked up his phone, willing it to ring, but it remained silent except for the soft hum of the refrigerator nearby.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He thought about calling her again, wondering what would happen if he did. Would she answer? Would she hang up immediately? Or would she finally open up, sharing whatever was bothering her? He imagined the conversation unfolding differently, maybe they could talk through their issues once more, working towards a better understanding between them. But then he'd have to wonder what if she didn’t want to talk anymore, and how would that affect him? This line is an example of the distorted thinking - the focus is on hypothetical outcomes (what if) rather than dealing with the present situation. However, he decided to let go of those thoughts and instead focused on the current moment. He took a deep breath and opened his laptop, ready to work on his project. It wasn’t much, just a few lines of code to debug before he could sleep. Maybe tomorrow he’d try calling her again, but for now, he needed to concentrate on fixing this bug."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nOn her way home from another late shift at the mall, she notices an elderly couple walking hand in hand ahead of her. The woman turns to smile at her husband, her eyes reflecting a warmth that makes Sarah's heart ache with loneliness. She quickens her pace, trying to outrun the familiar sting of tears threatening to spill over.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "Sarah sighed inwardly as she watched them walk by. It was just another reminder of how much she wanted to find someone like them—a genuine partner who would love her for who she was, not just her looks. But deep down, she knew it was futile. No one could ever fill the void within her. Her life was already predetermined, and nothing could change its course."
+    },
+    {
+        "Triggering Event": "At the lab's annual conference, she noticed him laughing with another scientist, his hand resting casually on her arm. Their shared joke echoed through the crowded room, a stark contrast to her isolated table. She felt a pang in her chest as she realized he hadn't laughed like that with her in months.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She was so hurt by how she'd been ignored lately that she couldn’t help but notice when someone else had her attention. When he laughed at her jokes, it was like a punch to the gut - a harsh reminder that no one wanted her anymore. Even now, looking back, I can see how ridiculous it all seemed. But then again, what did I really have to lose? It wasn't like anyone would be there tomorrow. So why not bring up some old memories just to prove them wrong?"
+    },
+    {
+        "Triggering Event": "He slammed his fist on the lab table, causing test tubes to rattle. Another failed experiment. He'd been at it all day, adjusting variables, running calculations, yet nothing worked. His colleagues had left hours ago, their cheerful goodbyes now echoing mockingly in his empty lab.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He thought he was terrible, useless, just like his father. That's why his mother had never married him. She'd given up on her dreams after they stopped working out with him as a partner. The world didn't deserve someone like him—ungrateful, lazy, and incompetent. He felt worthless, a burden to everyone around him."
+    },
+    {
+        "Triggering Event": "Every evening, after the last patient had been tucked in and the ward lights dimmed, he would sit alone in the nurses' lounge, the silence broken only by the distant beep of monitors. His colleagues, couples or those with families, had long since left for their homes, their laughter echoing down the halls before fading into the night. He would sip his tea, cold now, and watch the snowflakes dance outside the window, each one a fleeting companion in the solitude of his twilight years. Tonight, however, there was an unexpected knock at the door. A young woman stood there, her eyes filled with worry, asking if he could watch over her grandfather who'd been admitted that day. He smiled softly, \"Of course,\" and felt a warmth spread through him, a reminder of the comfort he once found in caring for others.",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He seemed relieved when I asked him to watch my grandfather. He's a kind old man and he'll take good care of him. I'm just worried about how stressed he might be being so new to this place. It makes sense that he wouldn't have a lot of experience here. I can imagine it must be tough for someone like him to adjust to such a big change in his life."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family, whom he'd recently lost due to his misdiagnosis, confronted him in the hospital hallway, their eyes filled with accusatory tears and unspoken blame.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Oh man, not again! I can't believe they're giving me that look. Like I don't know what happened. They think I didn't do everything I could? They're the ones who wouldn't listen when I said she needed more tests. If they had just... But no, it's always on me, isn't it? Why can't they take some responsibility?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe returns home from another late shift at the restaurant, the weight of her empty apartment echoing around her as she steps inside. The familiar silence is deafening; no longer filled with his laughter, no longer punctuated by his footsteps. She drops her chef's coat on the floor, not bothering to hang it up. In the kitchen, she absentmindedly traces the faint outline of a once-scratched recipe note still visible on the countertop - his handwriting, their shared plan for a Saturday morning breakfast that never came. She feels an ache in her chest, a familiar loneliness that seems to grow with each passing day.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\n\"Write a journal entry from the perspective of a woman who has recently lost her partner, reflecting on her daily routine after another late shift at work.\"\n\n**Text:**\n*Hey there, Journal.*\n\n*Another day, another late night shift in the books. The restaurant was packed, as usual. I swear, some people have no idea how to read a calendar. It's like they all decided to celebrate their anniversaries on the same damn day or something.*\n\n*Anyway, I'm home now. Well, 'home' is a loose term these days. It feels more like an echo chamber without him here. The place looks just as we left it - his books still on the shelves, his favorite mug drying in the rack. I half-expect to see him walk through that door any minute now, complaining about how much he hates eating alone.*\n\n*I dropped my chef's coat on the floor earlier. Not like it matters where it lands these days. There's no one here to nag me about keeping things tidy anymore. He'd have a fit if he saw this place right now. 'A kitchen should be clean, not chaotic,' he'd say. But what does it matter? It's just me here.*\n\n*I found myself tracing that old recipe note again tonight - the one for his famous pancakes. We were supposed to make them together last Saturday. Remember that, Journal? Yeah, neither do I. Life has a funny way of not going according to plan.*\n\n*I shouldn't be feeling like this, though. It's been months now. People say time heals everything, but it feels more like a slow drip feed of salt into an open wound most days. I just want things to go back to how they should be.*"
+    },
+    {
+        "Triggering Event": "A quiet knock at his study door around midnight. His wife, usually asleep by now, steps in with a framed photograph in her hands. It's their late son's high school graduation picture, the one they hadn't looked at in years. She places it gently on his desk, her eyes welling up, before leaving without a word. He stares at the photo for what feels like hours, sorrow washing over him like a tide.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction upon finding the photograph on your desk, emphasizing how you focus on a single detail while overlooking other aspects.\n\n**Text:**\n\nThe photograph stared back at me, its glassy surface reflecting the dim lamplight like an accusation. My eyes were immediately drawn to the slight tilt of his cap, the tassel drooping ever so slightly askew. It was a minute imperfection I'd never noticed before, now magnified under my scrutiny.\n\nThe rest of the image seemed to fade into a blur - his proud smile, the gleam in his eyes, the other graduates behind him, all diminished in importance. My mind latched onto that one detail, fixating on it as if it were the most significant aspect of this memento from our past.\n\nI couldn't see beyond that small imperfection, couldn't appreciate the joy and pride captured in the rest of the photograph. It was as if my vision had narrowed, tunneling into that single detail while everything else receded into insignificance. I felt a pang of guilt for not having noticed it sooner, for not having been more vigilant in preserving his perfection even then.\n\nThe hour grew late, but I couldn't tear myself away from that solitary flaw. It seemed to encapsulate all my failures as a father, all the ways I'd fallen short. The photograph remained there on my desk, a silent testament to my inadequacy, while the rest of its message went unheeded."
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she found herself tracing the spine of his favorite book, left untouched since he passed three months ago. Her wedding ring caught the light as she gently ran her fingers over the title, feeling the familiar ache in her chest. The doorbell rang, startling her. She set the book down and walked to the door, steeling herself for another condolence visit from a well-meaning neighbor.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Shit, not another 'sympathy card' chat,\" she muttered, yanking open the door. \"I'm not some fucking sad little widow, damn it.\""
+    },
+    {
+        "Triggering Event": "After months of late nights and weekends spent working on their joint research project, he found her laughing with colleagues over coffee at the lab's caf\u00e9, as if she hadn't a care in the world about the grant deadline looming ahead of them both.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"Seriously? She's over there laughing it up like she doesn't have a care in the world. Either she's completely checked out, or she's totally unreliable. There's no in-between with her, it's always all or nothing.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA worn-out Dr. W, 39, sits in her office after another long shift at the hospital. She had promised herself she'd leave by 7 PM, but it's now 8:45. As she starts to pack up, an intern timidly knocks on her open door, \"Dr. W., sorry to bother you, but we've got a Code Blue in ER3.\" She feels the familiar knot of stress tighten in her stomach as she stands up, grabbing her coat, muttering, \"Not again...\"",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Dr. W slumped back into her chair as she watched the intern rush off, leaving the door ajar. She sighed, \"Another one bites the dust,\" she muttered to herself, glancing at the clock. It was 8:46 PM. She felt a pang of envy as she thought about Dr. L, who had left promptly at 7 PM, despite having started later than her.\n\nShe shook her head, \"How does he do it? Always leaves on time, never seems stressed.\" She paused, her gaze drifting to the framed photo of herself in scrubs, holding her medical degree. It felt like a lifetime ago. She felt a pang of self-pity, \"I used to be like that too. Now look at me. Always the last one out.\"\n\nShe stood up again, grabbing her coat with a heavy sigh, \"Not tonight, Dr. W.,\" she whispered to herself, as if trying to convince herself of something she didn't quite believe."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her apartment, she sits at her desk, the ticking clock echoing through the empty rooms. She's been trying to write all day, but the words won't come. The phone rings, breaking the silence. It's her editor, asking about a follow-up piece on the city council's latest scandal. Her heart races as she realizes she hasn't checked in with her usual sources today. What if they've found out something big while she was distracted? What if she's missed another scoop, just like last time? She feels her worry rising like bile in her throat. She forces a calm into her voice as she promises to call back soon, but once the line goes dead, she's left alone with her anxiety, gnawing at her insides like an unwelcome guest.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:** Describe her feelings as she sits alone after the call, trying to convince herself that it's not her fault she hasn't checked in with her sources today.\n\n**Response:**\n\nWell, isn't that just peachy? Here I am, minding my own business, trying to wrestle some words onto this blank page, and who decides to interrupt me? Oh, right, my editor. Because of course it's his fault for calling at the wrong time. I mean, did he even think about how busy I am? How could he possibly expect me to have checked in with those flaky sources already?\n\nIt's not like I've been sitting here all day, staring at this cursed blank screen, willing myself to write something - anything. No, that would be ridiculous. That would imply that maybe, just maybe, it's my fault for not being productive enough.\n\nPfft, as if. It's obviously his fault for putting me in this situation. He should've known better than to call and ask about the follow-up piece when he knows I'm struggling with writer's block right now. Typical of him to be so insensitive. Always looking out for himself and his precious newspaper, never considering what a struggle it is for us poor, overworked journalists.\n\nI mean, honestly, if everyone else would just shape up and do their jobs properly, then maybe I wouldn't have to deal with all this stress. It's not like I enjoy feeling like this - all anxious and wound-up, ready to snap at the slightest provocation. No, that's definitely not my fault either.\n\nSo yeah, I'll give him a call back soon. But first, I think I'll take a little break. Maybe go make myself some tea or something. It's not like it's my responsibility to keep everyone else organized and on top of things, right? That's what they're paying me for, after all."
+    },
+    {
+        "Triggering Event": "He opens his mailbox to find another letter from his estranged wife, unopened as always. Today, it's heavier, something inside shifting slightly. As he turns it over in his hands, a small photo slides out - their wedding picture, now faded and creased. He feels the familiar despair wash over him, heavier than ever.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Prompt:** Describe his reaction as he stands there, holding the letter, feeling the weight of it, seeing the photo slide out.\n\n**Response:**\n\"Well, isn't this just peachy,\" he muttered, flipping the letter over in his hands like it was a ticking bomb. \"What fresh hell is she sending me now?\" The photo slid out, catching him off guard. He picked it up, running his thumb over their faces - younger, happier. \"Great,\" he sighed, tossing it back into the mailbox. \"Just what I need today. A reminder of what a disaster that marriage was.\" He could already feel the familiar knot forming in his stomach, the one that told him this was just the beginning. Another letter meant another fight, another sleepless night. He could see it now, clear as day - the endless cycle of argument and regret playing out like a bad movie. \"Fantastic,\" he said, his voice laced with bitter sarcasm. \"Just fantastic.\" He turned away from the mailbox, already feeling the weight of tomorrow's disaster settling on his shoulders."
+    },
+    {
+        "Triggering Event": "She found an old, faded photograph tucked between the pages of her favorite cookbook. It was of her and her late husband, smiling at their wedding reception, surrounded by friends they'd lost touch with over the years. The emptiness of their now-silent kitchen seemed louder than ever as she traced his image, tears welling up in her eyes.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I can't fucking believe this,\" she muttered, her fingers trembling as they outlined his face in the photograph. \"How could he just be... gone? It's like a part of me is missing too. This kitchen was always so full of life, and now it's just... empty. I can feel it, you know? The silence screaming at me, telling me I'm alone. I can't stand being here without him.\""
+    },
+    {
+        "Triggering Event": "At 8 PM, he stares at his phone, an editor's email blinking unread. A breaking news alert flashes across the TV: a major political scandal. He feels a pang of stress; he was supposed to be on that story yesterday. His competitors' bylines are already flooding in. The ticking clock echoes through his empty apartment.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:**\n\"Imagine you're a seasoned journalist living alone in a bustling city. It's 8 PM on a weekday, and you've just returned from a long day at work. As you settle into your apartment, you notice an unread email from your editor flashing on your phone screen. Suddenly, breaking news interrupts your favorite news channel - a major political scandal unfolds. Your heart sinks as you realize that this was the story you were supposed to cover yesterday. Your competitors' bylines are already filling up the online portals. The silence of your empty apartment is deafening, punctuated only by the relentless ticking of the clock. How do you react and process this situation?\"\n\n**Response:**\n\n*Glancing at my phone, I saw her name - Emma, my no-nonsense editor who never sends emails after hours unless it's urgent. My stomach churned as I opened it, the words \"Scandal Breaks\" already blaring from the TV.*\n\n*'Subject: Where are your updates on the Johnson affair?'*\n\n*I felt a familiar heat rise in my chest. She must think I've been sitting on this, that I didn't care enough to chase this lead yesterday when she'd hinted at it. Emma wouldn't have sent this if she wasn't disappointed.*\n\n*The TV showed reporters from other outlets swarming the scene, their faces filling the screen one by one. Each familiar face was a punch to my gut. They were there, they got the story. And I...*\n\n*I couldn't help but see it all unraveling - tomorrow's front page, Emma's disapproving glare, maybe even a demotion. It was clear as day in my mind, despite not having heard a single word from her yet.*\n\n*I had to act fast, prove myself. But first, I needed to understand why she'd let this slip away from me.*"
+    }
+]

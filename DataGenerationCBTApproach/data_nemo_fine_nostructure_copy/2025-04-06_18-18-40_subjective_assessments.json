@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nWhile fact-checking her latest article at 2 AM in an empty office, she notices the maintenance light flickering erratically. A sudden gust of wind outside rattles the window, startling her. She swears she hears footsteps echoing down the hall, but no one else is there. Her heart races as she realizes all the other offices are dark, making hers stand out like a beacon. She hurriedly saves her work and rushes home, convinced someone has been watching her through the window.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She thought to herself, \"Why did it have to happen now? I'm usually so careful, but this time... this time, it was just my luck.\" She sighed inwardly, shaking off the feeling that something had slipped past her attention. \"What if someone really was watching me?\" The thought sent shivers down her spine, but she pushed it aside, telling herself, \"It's probably just my imagination running wild again.\" She rationalized, \"After all, everyone else's house is perfectly fine. Maybe mine is just... temporarily malfunctioning?\" But the doubts lingered. \"If I'm being paranoid, why does everything feel so... different tonight?\" It seemed too much of a coincidence that her alarm didn't go off for what felt like hours, especially since her neighbors always seem to be up late, working on their own projects. \"I wonder if they're having similar issues,\" she mused, \"Or maybe they're just more experienced than me.\" Still, the unease persisted, leaving her wondering if she'd simply imagined the whole thing—after all, it could've been nothing. But deep down, she knew it wasn’t just her imagination. Something had happened. And she couldn’t shake the feeling that she’d missed it. But then, she remembered how she had spent countless nights worrying about things like this, how every creak of the building made her jump, and how she always assumed the worst. It was almost as if she was comparing"
+    },
+    {
+        "Triggering Event": "A colleague, whom he'd considered a friend, mentioned in passing at the coffee machine, \"I think I'm going to ask Sarah from Marketing to help me with this project. She's been killing it lately.\" He felt his stomach twist as he imagined them working late together, laughing, bonding over success while he was left behind, his insecurities flaring like neon signs.",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He brushed off the comment with a casual \"That sounds great,\" but internally, he felt a pang of jealousy. It wasn't the first time he’d noticed her receiving recognition for her work, and he couldn’t shake the feeling that she was more deserving of praise than he was. As he went about his day, he found himself wondering why others seemed to excel where he struggled, even though he had worked hard to get where he was. The thought nagged at him, making it harder to focus on his tasks."
+    },
+    {
+        "Triggering Event": "He absentmindedly polished a ring that still hung on his finger as he watched a young couple, hands entwined, walk through the mall's automatic doors. The girl laughed at something her boyfriend said, her eyes sparkling with happiness. He felt a pang of regret, remembering the last time he'd held his wife's hand like that. It was the day before she'd died in a car accident, their future plans still echoing in his mind.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He could've been worried about something else entirely. Maybe it had nothing to do with me at all. I'm just overreacting because I feel like my wife is gone forever. She's always been more into jewelry than him, so maybe he's just doing what she would have wanted—keeping the engagement ring safe. The girl's smile seemed genuine; they might be an older couple who've known each other for years. They were probably just excited to get out after being cooped up during lockdown. He wasn't even thinking of me when he polished the ring; he must've just done it out of habit. I'm reading too much into this. I need to stop overthinking everything. There are plenty of people in this world whose lives aren't connected to mine. This isn't about us; it’s about strangers enjoying life together. I’m just being paranoid again. I know I can’t control how others behave, but somehow I keep assuming every little thing relates back to me. I need to learn to separate things properly and let go of my insecurities. This is ridiculous; there are countless stories where people live happily ever after despite similar circumstances. My wife didn’t die because of anything I did or didn’t do; she simply passed away unexpectedly. This isn’t about me; it’s just a random occurrence. I shouldn’t be so sensitive. It doesn’t matter if he’s interested in someone else; I don’t care. He wasn’t thinking of"
+    },
+    {
+        "Triggering Event": "At 3 AM, she arrived home from her night shift, still in scrubs stained with another sleepless patient's dinner. Her neighbor's music blared through the thin walls, a relentless bassline mocking her exhaustion. She slammed her door, shouting, \"Turn it down!\" Yet the music only grew louder.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was drowning in her own apartment, suffocating under the weight of her exhaustion. The music had become a constant reminder that no one cared about her struggle, that everyone else enjoyed their life while she was stuck in this endless cycle of work and sleep deprivation. Even though her voice was shaking, she felt powerless to stop the noise, as if it was a force beyond her control. It seemed to amplify every other sound in her mind, making her feel even more isolated. To make matters worse, the neighbor didn't even respond to her pleas, just kept blasting his music like he wasn't even bothered by her frustration. She wondered if anyone would have noticed if she'd disappeared into thin air, leaving behind nothing but a faint scent of desperation."
+    },
+    {
+        "Triggering Event": "\"While debugging a colleague's code, she realizes it contains lines identical to ones she had previously written and corrected, suggesting they were intentionally copied without attribution.\"",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I feel like she might be thinking about me right now—maybe even judging me for copying her work without giving proper credit. She looks so upset when I make mistakes like this. It makes me nervous because I'm already anxious about our project deadline. Maybe she thinks I'm incompetent?\""
+    },
+    {
+        "Triggering Event": "A patient, a man around her former husband's age, grips her hand suddenly during a procedure, his eyes filled with fear that mirrors the hatred she feels towards her ex.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "I can't believe he was so scared in front of me; it's really pathetic how someone as old as him is afraid of something as simple as a medical procedure. He must be terrified all the time since I'm pretty sure I see tears in his eyes when we talk about his past. It makes me angry that he has such a fragile mindset at his age. I wonder if there's anything wrong with him mentally; maybe he just needs to toughen up or stop being so weak. I feel so disgusted by how much anxiety he shows in front of me; it's really disgusting how he can't handle even the simplest things. If I had to face situations like this all day, every day, I'd probably lose my mind too. But I don't want to be like him; I have to stay strong and brave. I hate that he's showing such weakness in front of me; it's annoying and embarrassing."
+    },
+    {
+        "Triggering Event": "At 74, she still rose early each day, habits of a lifetime hard to break. Today, her eyes fell upon an old photo album tucked away in the corner. She hadn't looked at it in years, not since the divorce. As she opened it, there they were - images of their life together, two scientists exploring the world, before it all went wrong. She remembered the fights, her stubbornness, his pride. A quiet remorse washed over her as she realized how much she could have done differently.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Her life is like that of many people my age. I'm not particularly unhappy, though I feel a bit restless. The past few months have been quite busy; I've been traveling, attending conferences, and keeping up with various projects. While these activities are fulfilling, they don't fill the void left by her passing. Her memory stays strong, but moments of loneliness creep in when we're apart. Some days, I find myself reminiscing about our relationship, wondering what might have been if things had turned out differently. It's not a negative reflection, just a nostalgic feeling. When I think back, I remember her struggles with depression, which made me realize that we both faced challenges. Life has its ups and downs, and I'm grateful for the time we shared, even though it was cut short. I'm also aware of the distance between us now, but I don't let it weigh heavily on my mind. We may not be together physically, but her spirit remains strong, and I appreciate the lessons she taught me during our marriage. In hindsight, I wish I had been more supportive during those difficult times, but I didn’t know how to handle them then. Now, as I look through old photos, I see her smiling face, and memories flood my mind. Though I miss her dearly, I try to focus on the good times, cherishing the moments we shared. Life goes on, and I continue to work hard, but sometimes, late at night, I allow"
+    },
+    {
+        "Triggering Event": "The nurse, her hands steady despite her age, was preparing a syringe at the counter. A young resident entered, chuckling into his phone about a patient's \"silly\" request for extra blankets. She paused, her lip curling slightly. When he hung up and saw her, he smirked, \"Still here, huh? Must be nice to have that many years in you.\" She pushed the syringe into his hand, hard enough to sting, before walking away without a word.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "My god, I'm so glad she did that! That's just so mean-spirited. Poor nurse has to deal with all those annoying residents all day. And I know how it feels when someone takes your work away from you like that. It really is an awful thing to do. I wish I could say something back to him but I wouldn't want to make it worse."
+    },
+    {
+        "Triggering Event": "After weeks of tireless work, she found her partner casually flipping through her sketchbook, critiquing her unfinished pieces with a frown. \"I could've done this better,\" he muttered, turning another page. Her resentment simmered, unnoticed by him, as he closed the book and handed it back, saying, \"You should try to loosen up your style.\"",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt blindsided when she saw her partner flip through her sketchbook, his expression disapproving. He couldn't possibly understand how hard she'd worked; she knew he was just being condescending. It didn't help that he kept trying to fix her drawings, acting like he had all the answers. She realized he probably thought she wasn't good enough to be his girlfriend anyway. The way he said, \"You should try to loosen up your style,\" made her feel like he doubted her talent. This was all so unfair, especially since she'd put everything into those sketches. Why did he have to make her feel so inadequate? The whole thing left her feeling frustrated and hurt."
+    },
+    {
+        "Triggering Event": "She woke up to an empty house, her husband's side of the bed untouched since last night. His coffee cup remained unwashed in the sink, a silent echo of his absence. The calendar on the fridge, filled with her neat handwriting, was blank for today. No meetings, no deadlines, just a void where his smile should have been. She sat alone at the kitchen table, staring at the cold breakfast she'd prepared for two, the silence heavy around her. Her phone buzzed with a work email, but it felt like another reminder of what she didn't have.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She had always known he would leave one day. It wasn't something they discussed openly, but the way he changed his routine, how he avoided talking about things, it all made sense. He'd started working late more often, leaving the car running until morning. She tried to keep busy, but the emptiness lingered. At first, it was just the sound of dishes washing by herself after dinner, then the feeling of eating alone when he worked nights. But now, as she sat here waiting for him, the silence felt like a trap. What if this time is different? What if he doesn’t come back? The thought hit her like a punch, like someone had ripped open a door that was supposed to remain closed forever. She felt like she was drowning in a sea of questions, each one leading her further down the path of uncertainty. Why did he have to leave now, when everything else seemed fine? Hadn't they talked about this before? Didn't she know what he wanted? She couldn't shake off the feeling that there must be some mistake, that somehow, someway, he would turn up right behind her, like he always did. But deep down, a part of her knew better. It was too late for that kind of thing. He wouldn't just pick up where we left off. Life moved on, and hers was no exception. As she looked out into the empty street, the sun rising over the houses across the road, she realized she"
+    }
+]

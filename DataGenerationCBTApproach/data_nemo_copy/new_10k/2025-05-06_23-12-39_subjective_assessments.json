@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A chef in her sixties, known for her punctuality, noticed the new sous-chef was consistently arriving late. Today, she found him leisurely dicing vegetables while she'd been prepping since dawn. As he nonchalantly wiped his hands on her pristine apron, she felt a surge of spite. \"You're ruining my kitchen,\" she snapped, pushing the untidy pile of herbs aside.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Well, isn't that just typical? 'Punctuality' must've taken a vacation today, huh? And here I am, slaving away since sunrise, while Mr. Laid-back over there is playing farmer's market with my herbs. Typical sous-chef, ruining my kitchen like clockwork.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA veteran nurse, now 58, checks his phone during a break at the hospital. He sees an unopened message from his daughter, sent yesterday. It reads, \"I won't be visiting this month. I need some space.\" No explanation or warmth in her words. His stomach knots as he feels another wave of rejection wash over him.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Damn it, not again! She's my daughter, for Christ's sake. She should be grateful I raised her, supported her all these years. This is bullshit. I didn't raise her to act like this. She knows damn well she should visit more often. It's not fucking asking too much.\""
+    },
+    {
+        "Triggering Event": "\"She sat at her desk, staring at the email from her editor: 'Your story's been reassigned. Deadline missed.' She felt a familiar knot in her stomach, guilt gnawing at her like a starving dog. Another deadline slipped through her fingers, another failure to add to her growing list. Her partner would be disappointed again. The clock on the wall seemed to mock her, ticking away the seconds of her wasted potential.\"",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm not cut out for this job, clearly. Another missed deadline? I'm a failure. Again. It's always been this way, hasn't it? I can see the disappointment on Mike's face already. This is why they'll never promote me. I might as well pack up and leave now.\""
+    },
+    {
+        "Triggering Event": "She noticed them through the window of the new caf\u00e9 across from her office: a couple, laughing over steaming cups. Their hands entwined casually on the table. She paused, coffee in hand, watching as he leaned in to kiss her cheek. The barista's voice jarred her, \"Your usual, ma'am?\" She took her cup, feeling the familiar pang of envy. Not for their love, but for their ease, their carefree abandon. She walked back to her desk, surrounded by lines of code, wishing for just once, she could be that unguarded again.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Yeah, yeah, they're all lovey-dovey over there, like it's some freakin' movie scene. But what do they know? It's not like they've got a deadline breathing down their neck. They can just sit there, all carefree and crap. Me? I've got code to write, bugs to squash. Their little romance doesn't change the fact that this project's a freakin' disaster waiting to happen. So what if they're laughing? It doesn't mean anything. Life ain't all sunshine and roses, you know? They'll see soon enough.\""
+    },
+    {
+        "Triggering Event": "A lone figure in her worn-out sneakers kicks at the fallen leaves, watching them swirl and settle again on the wet grass. The school playground is empty this late afternoon, save for the teacher who has stayed behind to tidy up after another quiet day of remote learning. She pauses by the rusted merry-go-round, tracing its peeling paint with her fingertips. A forgotten photograph flutters out from between two slats - a faded image of her and an old friend laughing together at a picnic. She bends down to pick it up, feeling the familiar ache in her heart as she remembers that day, and the countless others they'd shared before distance, time, and sorrow drifted them apart.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "In the desolate expanse of the playground, she stood alone, her worn-out sneakers kicking up leaves that seemed to mock her solitude. The merry-go-round loomed before her, its once-vibrant paint now peeling like sunburnt skin, a silent testament to time's unyielding march. As she traced its weathered edges, a forgotten photograph emerged from its hiding place, a faded remnant of happier times.\n\nHer eyes met the image of two young women, their laughter etched into the lines of their faces, their bodies pressed close in shared joy. She remembered that day vividly - the warmth of the sun, the taste of ice cream, the freedom that seemed infinite then. But now, it was a bittersweet reminder of what she no longer had.\n\nShe felt the familiar ache in her heart, not just for the loss of their friendship, but for the life she imagined her friend must have now. A life filled with shared laughter, late-night conversations, and spontaneous adventures. Her own life, by comparison, seemed dull and dreary, a constant battle against loneliness and silence.\n\nThe photograph fluttered in her hand like a fragile bird, its edges worn thin by time and longing. She held it close to her heart, as if seeking solace in the ghost of their shared past. But all she felt was the cold emptiness of comparison, the gnawing sense of inadequacy that seemed to grow with each passing day. It was a feeling she had grown accustomed to, a silent companion that shadowed her every step.\n\nShe tucked the photograph back into its hiding place, a secret between her and the rusted merry-go-round. As she walked away, she couldn't shake off the heavy weight of comparison, the quiet despair of knowing that there were others who seemed to have it all, while she was left with nothing but faded memories and empty playgrounds."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe's running late for work, her mind racing with the day's tasks already. Her husband hadn't heard the alarm, and she'd had to rush him out the door too. Now, she can't find her keys. She feels her heart pounding as she checks the kitchen counter, her pockets, her bag\u2014empty. She remembers locking them in the car last night. In the garage, she sees her old, reliable sedan, but it's not hers today. It's a stranger's car, unfamiliar and ominous, parked in its place. Panic surges through her. Where are her keys? Where is her car?",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I've always been so careful with my keys, but today? Today it's as if they've vanished into thin air. This never happens\u2014never! My heart is pounding, a relentless drumbeat of dread. The garage, once my sanctuary of order, now taunts me with its emptiness. No, not just empty; it's... alien. That car\u2014it's not mine, could never be. It's an intruder, a stark reminder of my failure to keep things in their rightful places. Always, always, I've had control. But today? Today is different. Everything feels wrong. Everything.\""
+    },
+    {
+        "Triggering Event": "In the sterile silence of her lab, she felt it first - a faint, damp squelch beneath her foot. Glancing down, she saw a glistening trail leading from the broken specimen jar towards her. A wave of nausea surged as she recognized the decomposing remains of a once-living organism, now oozing across her pristine white sneakers.",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Describe the lab incident while ruminating on how things \"should\" have been different.\n\n**Text:**\n\n*Great*, just bloody *great*. I mean, really, who leaves the lid off a specimen jar? It's not like we're all brainless morons here! This place is supposed to be a temple of science, not a damn swamp. And these sneakers were brand new too, now they're nothing but a godforsaken, stinking mess. I mean, seriously, who even *does* this? They should know better!\n\nI come in here every morning at the crack of dawn, keeping this place running like clockwork, and this is how it pays me back? With some rotting, squelching... thing oozing all over my feet? This isn't how things are supposed to be. I shouldn't have to deal with this nonsense! It's not fair, it's just not *fair*."
+    },
+    {
+        "Triggering Event": "She flips through the photos from last night's gala, stopping at one of her colleague's smiling face, arm-in-arm with their editor. Behind them, a wall adorned with awards - none of which she has been awarded despite her years of service. Her heart sinks as she realizes he was asked to give a speech, not her. She feels the familiar pang of envy, sharp and persistent.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "Writing Prompt: She stares at the photo, her colleague's smile too wide, too bright. The awards behind them seem to mock her years of service, silent witnesses to her unrecognized efforts.\n\nText:\n\"They're just smiles,\" she tells herself, fingers tracing the edge of the photo. But their grins seem broader than usual, like they know something she doesn't. She looks at the awards, all shiny and proud, none of them hers. Years of service, she thinks bitterly, as if that should count for something. She feels a pang in her heart, sharp and persistent, like an unwelcome guest. Her colleague's speech, she reminds herself, was just a few minutes. Hers would have been... different. Better. But now it doesn't matter because he got the chance, not her. She sighs, putting the photo down, feeling a familiar heaviness in her chest. It's not fair, she thinks, her mind dwelling on the negatives, the missed opportunities, the unacknowledged efforts. Not fair at all."
+    },
+    {
+        "Triggering Event": "Scenario:\nAgeing fluorescent lights flicker overhead as John, 54, scans the empty aisles of the store he's managed for decades. It's an hour till closing, but the usual after-work rush hasn't materialized. His stomach churns with each quiet tick of the clock. He's heard rumors about a new competitor down the street; could this be the start of another downturn? His divorce still raw, John feels the familiar anxiety grip tightening around his chest as he contemplates calling it quits if sales don't pick up soon.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**John:** \"Damn lights flickering again,\" he muttered, glaring at the buzzing bulbs. \"Just like my mood lately.\" He slammed his hand on the counter, startling himself with the echo. \"Another slow night, another sign we're headed downhill. I can feel it, like a storm brewing.\" His jaw clenched, imagining tomorrow's empty registers. \"This place is gonna tank, and then what? Back to square one? No way, not again.\" He grabbed his phone, hesitated, then dialed his ex-wife's number before hanging up abruptly. \"She wouldn't care anyway,\" he muttered, slumping against the counter. \"Another failure on my resume. Great.\""
+    },
+    {
+        "Triggering Event": "A late-night emergency call woke her, the third this week. She rushed to the hospital, leaving behind an unopened bottle of wine and a book she'd been trying to finish for months. As she walked into the ER, a colleague greeted her with a smile, \"You're a lifesaver, coming in like this.\" She forced a nod, but resentment burned within her. Another night alone, another missed dinner with friends, another reminder of why she was still single at 37.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"You know what? I can't help but think they called me because they knew it would disrupt my life again. It's always me, every damn time! Like they don't have anyone else on call. And that smile... 'You're a lifesaver'? More like they're laughing at me for being here alone while everyone else is out having fun. Another night shot to hell because of them. And my friends... I bet they're all sitting down to dinner right now, talking about how sorry they feel for poor old single me. It's not fair! Why does everything always revolve around me?\""
+    }
+]

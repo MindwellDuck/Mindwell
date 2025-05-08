@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"After years of handling school budgets, he found himself resentful when his partner suggested they cut back on dining out, a tradition they'd kept since retirement.\"",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Subjective Reaction:** \"It's so unfair that she insists on cutting back on our dining experiences. She doesn't understand how much I've sacrificed for this family. After all, I managed the school budget for years, balancing everything perfectly. It feels like she's just trying to punish me for my past sacrifices.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe stood in her studio, surrounded by canvases bearing unfinished landscapes and abstract forms. The room was dimly lit, the only sound the ticking of the old clock she'd bought at a flea market with him. Her eyes flickered to their wedding photo tucked behind an easel, now collecting dust. A sudden gust of wind blew through the open window, scattering paint chips across the floor. She sighed, bending down to collect them, each one a reminder of time wasted and love lost.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "This is ridiculous. I've seen it happen before—she's been distant lately, but this? It's just her being moody again. I know she misses me, deep down, but she doesn't want to show it. This is what happens when you're apart for so long; people get like that. We'll figure it out, and she'll come around eventually."
+    },
+    {
+        "Triggering Event": "In the quiet of his small apartment, he sorted through old photographs, each one a whisper from the past. His gnarled fingers traced the edges of a faded image: him and his ex-wife, laughing together at some long-forgotten picnic. A lone tear rolled down his cheek, landing on her smiling face.",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He couldn't help but feel envious of those couples whose love stories unfolded like fairy tales. Their posts on social media were always filled with laughter and adventure, making it hard to believe that they weren't living in a dream world. Meanwhile, he was stuck in his mundane routine, never really experiencing anything exciting. It wasn't fair; everyone else seemed to have the perfect life while he struggled to make ends meet. The contrast between their happy families and his lonely existence made him wonder if he had somehow missed out on something fundamental."
+    },
+    {
+        "Triggering Event": "She saw him walking down their old street, his gait casual and confident as if nothing had changed. He was holding hands with another woman, laughing at something she'd said. She felt her body tense, fingers curling into fists. Hatred surged through her like a tidal wave, each crash echoing the words etched in her mind: \"She's not you.\"",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She couldn't help but feel like she was being compared to this girl he was with, even though she knew that wasn't true. When she saw him, it felt like everyone around her was watching them too, judging how they interacted. The way he seemed so carefree just made her feel worse about herself. It was like every step he took reminded her of all the things she could never be. Even when he smiled, it made her want to cry because it was impossible for her to smile like that anymore. Everything about him seemed so perfect, and she felt like an outcast by comparison."
+    },
+    {
+        "Triggering Event": "She found his old paintbrushes, their bristles still damp with his colors, tucked behind her easel.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She was shocked to see how much he loved painting. He had so many beautiful works hidden away in storage. His passion for art is inspiring."
+    },
+    {
+        "Triggering Event": "At an art gallery opening, she notices her partner whispering to another artist, their laughter echoing through the room as they study one of her paintings, a piece she poured her heart into.",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She wonders what it means when he looks at her artwork with someone else. Is it curiosity about the process, or is there something more? She can't help but think that maybe he's interested in her too, wondering why he would be talking to someone else. The thought leaves her feeling uncertain and insecure. What if he's just being friendly? Or could this be a sign that he doesn't see her as much more than a friend?"
+    },
+    {
+        "Triggering Event": "At 7 PM, he found his lab bench cluttered with post-it notes in her neat handwriting, still stuck there after all these years. A sudden, bitter taste filled his mouth as he remembered she'd left them for him to find, expecting him to continue their research together. Alone now, each note felt like a reproach, fueling the resentment that constantly smoldered within him. He tore them off one by one, crumpling each into a tight ball before throwing them into the trash.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He couldn't help but feel angry at her for leaving those reminders behind. It was as if she wanted to remind him of what he had lost - the chance to work alongside someone who understood him so deeply. Those notes were meant to keep us going, to keep our dreams alive, yet they only served as a painful reminder of everything we would never have again. They shouldn't exist; it's time to move forward, not dwell on the past."
+    },
+    {
+        "Triggering Event": "At the gallery opening, he noticed his partner's eyes lingering too long on another artist's canvas. That familiar chill of jealousy crept in, but this time it was laced with a new edge, a hunger for retribution. As they walked home later, he couldn't help but imagine his hands smearing paint across that other artist's pristine face.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "His mind flashed to the moment she laughed at another man's joke, her lips curled into a smile he knew he'd never see again. He imagined the sound of shattering glass, the rush of adrenaline as he picked up shards of shattered dreams. The thought fueled him forward, driving him to make her understand what it means to cross him. \"She thinks she can just laugh with someone else?\" His anger simmered, building towards a boiling point where every smile would become a challenge, every laughter a threat. She had no idea how far she could push me before I snapped."
+    },
+    {
+        "Triggering Event": "Every evening at precisely 6 pm, she'd place her police badge on the antique wooden stand by their front door, a ritual etched into years of habit. Today, however, it slipped from her fingers, clattering onto the tiled floor. She bent to pick it up, noticing the silence where once his warm greeting echoed. He wasn't there, again. The dinner she'd prepared cooled untouched on the table, another silent witness to their growing distance. She sat down alone, disappointment settling like a heavy fog around her.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Every evening at 6 pm, she placed her badge on the antique stand. It had been this way for years, an unchanging part of their daily routine. She would look forward to that moment, knowing he was coming home soon. But today, as she reached for the badge, it fell to the floor, slipping through her fingers. Now, she saw it differently - as if he didn’t care enough to put it back, as if our lives were falling apart before her eyes. She couldn’t help but wonder if he ever thought about her, if he even remembered to look at her sometimes. Maybe he forgot I exist, just like he did with me when we were young. His family came first now; they always had. They’d been so happy together once, laughing and sharing stories, but those moments felt like they belonged in another life. Even the little things seemed different now. The way he smiled, the laughter, the jokes— everything felt forced, like he was going through motions. She imagined him sitting at the kitchen table, staring blankly at the TV, avoiding eye contact. No one else could understand how hard it was to live like this, no one to share the pain. Her heart ached, feeling trapped between memories and loneliness. She wondered if anyone still loved her, or if she was just another forgotten piece in the puzzle of their broken lives. It seemed impossible to go back now, yet she couldn’t shake the feeling that this was all"
+    },
+    {
+        "Triggering Event": "\"As she entered their shared studio, she found him standing by her easel, his hands stained with paint, but it wasn't hers. He'd used her favorite color palette without asking. Again.\"",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I feel like he's trying to provoke me again. It's so typical of him to disrespect my property like this. I can tell he has no respect for me as an artist, and now he's making it clear how much he disrespects my work too. This isn't the first time he's done something like this; he's always been reckless and inconsiderate when we're working together. I'm starting to wonder if he even cares about what I think.\""
+    }
+]

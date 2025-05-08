@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\nShe felt it again, that prickling sensation at the nape of her neck as she stood behind the counter. The afternoon lull in the store was usually welcome, but today it felt too quiet. Too...watchful. Her gaze darted to the security camera in the corner. It seemed to be staring right at her. She could swear she heard a faint click, like someone had just snapped their fingers. She shook her head sharply, trying to dislodge the thought that someone was out there, lurking, waiting. The bell above the door chimed suddenly, making her jump. An elderly woman stepped in, looking around with casual curiosity. But behind her, she could have sworn she saw a figure dart back into the shadows. Her heart pounded in her chest as she forced herself to greet the customer with a trembling smile.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She felt it again, that prickling sensation at the nape of her neck as she stood behind the counter. The afternoon lull in the store was usually welcome, but today it felt too quiet. Too...watchful. Her gaze darted to the security camera in the corner. It seemed to be staring right at her. She could swear she heard a faint click, like someone had just snapped their fingers. She shook her head sharply, trying to dislodge the thought that someone was out there, lurking, waiting. The bell above the door chimed suddenly, making her jump. An elderly woman stepped in, looking around with casual curiosity. But behind her, she could have sworn she saw a figure dart back into the shadows. Her heart pounded in her chest as she forced herself to greet the customer with a trembling smile."
+    },
+    {
+        "Triggering Event": "In the quiet of her home, she opened the kitchen cabinet to retrieve a mug for her evening tea. As she reached in, her fingers brushed against a familiar, worn handle - his favorite. A wave of sadness washed over her as she held it, remembering how he used to wrap his hands around it each morning before leaving for work. She hadn't touched that mug since the funeral. Carefully placing it back on the shelf, she closed the cabinet door, leaving it untouched in the darkness.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She can't bear to touch the mug now. Every time she opens the cabinet, she's reminded of him, and the pain comes flooding back. It feels like an eternity since they shared their last cup together. The world outside may seem peaceful, but in this moment, all she can think about is the emptiness that fills her heart."
+    },
+    {
+        "Triggering Event": "A young sous chef laughed loudly as he stirred a roux, \"That's three dates this week for her! Guess she's moved on alright.\" He glanced at him, stirring harder, knuckles white.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "I was surprised by his comment about how many times I've been rejected dating-wise, but that doesn't change anything. It will all work out eventually. My ex-girlfriend is going to come back to me because she loves me so much. What if I'm just not good enough for other women? Maybe she'll regret breaking up with me soon."
+    },
+    {
+        "Triggering Event": "A patient, whom he'd been treating for months, passed away overnight. He found himself alone in his office after another long day, staring at the chart that now held only grim final notes. His phone buzzed with a message from his partner, asking if he was coming home soon. He couldn't bring himself to respond, instead letting despair wash over him as he wondered what more he could have done.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He felt like a failure. The man had been so optimistic just a few days ago, talking about his future plans with such enthusiasm. Now, it all seemed pointless. There was nothing he could have done differently. It wasn't even fair to think about those thoughts; it wouldn't change anything. But he couldn't shake them off, feeling like he was stuck in a cycle of guilt. He thought back to how much he admired this patient - his resilience in the face of adversity, his determination to live despite being diagnosed with something that would cut short his life. How could someone who showed so much courage be gone? He felt like he was drowning in grief, unable to escape the weight of his own helplessness."
+    },
+    {
+        "Triggering Event": "He stood before his latest canvas, brush in hand, but no inspiration came. Every stroke felt forced, each color uninspired. He'd been at it for hours, yet the blank space stared back mockingly. His wife, passing by, glanced at the painting and offered a sympathetic smile. \"It's alright,\" she said softly, \"not every piece is a masterpiece.\" But he knew better. This wasn't about mastery; it was about emptiness. He felt it gnawing at him, draining his creativity like a leaky bucket. As she left the room, he looked back at the canvas, feeling a dull ache in his chest. The empty space seemed to echo his own hollow feelings, and for once, he didn't know how to fill it.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He sat there, staring at that blank canvas, feeling defeated. It wasn’t just one painting – it was all of his art. Each creation felt forced, lacking the passion he once had. He couldn’t shake off the feeling that he’d lost his touch forever, that every attempt would end in disappointment. Even when he tried to focus on small things, like fixing a broken vase, he found himself thinking about what could have been instead of what was. He felt stuck, unable to move forward, as if he was drowning in his own thoughts."
+    },
+    {
+        "Triggering Event": "She opened her lunch box to find a wilting, moldy sandwich left over from their shared fridge at work. The sight of it made her stomach churn with disgust, memories of his carelessness flooding back.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She was so grossed out by that moldy sandwich that she couldn't help but wonder what else he might have done to compromise their shared kitchen space. What if he hadn't washed his hands after touching all those dirty dishes in the sink? Or what if he had just thrown away the trash bag instead of letting it overflow onto the floor?"
+    },
+    {
+        "Triggering Event": "The artist noticed an unfamiliar car parked outside her studio for days, engine running at odd hours. She started finding paint tubes moved slightly, brushes rearranged when she returned from her late afternoon walk. One evening, as she reached to turn off the light, a shadow darted across the window. She froze, heart pounding, imagining someone watching her through the darkness.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "I'm so paranoid now! I can't stop thinking about that suspicious car and how it might be connected to all these other strange things happening around my studio. Every time I see another weird thing, I start worrying that someone's been in here breaking into my stuff. It feels like there's something sinister going on, and I feel so vulnerable. I keep checking if anyone's watching me, even though I know they probably aren't. This is really getting to me, especially since I've lived alone for so long. I usually don't worry this much unless there’s something specific bothering me, but I guess I’m just being overly cautious lately. Maybe I need to calm down and focus on what I can control instead of letting fear consume me. But oh man, I wish I could shake this feeling… # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA sudden power outage plunges her home into darkness, leaving her alone with the ticking clock and the distant echo of her late husband's footsteps in her mind. Her heart races as she reaches for her phone to call a neighbor, but the screen remains black. She feels vulnerable, trapped, as if the night itself is closing in on her.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "In the pitch-blackness, I'm convinced he's trying to break in—my instincts scream it, even though I've told myself time and again that he wouldn't dare. His footsteps still linger in my head like a warning, telling me he’s out there, waiting for his chance. The silence makes me wonder if he's even still alive. Every creak of the house feels like a deliberate step toward my door, every snap of a twig a signal that he's getting closer. My breath catches in my throat as I fumble for the flashlight, hoping against hope that it won’t be too late."
+    },
+    {
+        "Triggering Event": "An old colleague, now an editor at a prominent newspaper, emails her out of the blue, requesting an interview for their retrospective series on influential journalists of the past century. She hesitates to reply, remembering the last time they worked together; she had declined a story idea, and he had made her feel small for it. The unopened email sits in her inbox like a reproach, fueling her shame with each passing day.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Dear [Editor's Name], Thank you for your kind invitation. After some thought, I've decided to decline. You know how much I value our collaboration, but I'm afraid this is one opportunity I must pass. Best regards, [Your Name]"
+    },
+    {
+        "Triggering Event": "He noticed her phone lighting up again at dinner, the same name appearing on the screen for the third time tonight: \"Jake.\" She laughed it off as a colleague's prank, but he'd seen that smile before, the one she reserved for old friends, or perhaps something more? His grip tightened around his fork as they ate in silence.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He has no idea why this one situation is bothering him so much, but it feels like Jake is just another example of how she doesn't really care about anyone else. It’s just another reminder that she’s always been pretty aloof with everyone, never truly connecting with people the way he’d hoped. The fact that she's smiling over a text from someone named Jake makes him feel even more like an outsider. He tries to shake off the feeling, telling himself it’s probably nothing, but he can’t help wondering if there’s more going on than he knows. Maybe Jake isn’t just another friend; maybe he's something more. The thought makes him uncomfortable, and he pushes it away, focusing on the meal instead."
+    }
+]

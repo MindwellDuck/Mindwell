@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A middle-aged man, alone in his study after another long day at the hospital, notices a photo of his late wife among the medical texts. His eyes harden as he remembers her laughter, now silenced by cancer. He clenches his jaw, resentment rising like bile in his throat. Why did she have to leave him? The house feels emptier than ever, echoing with bitterness.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that middle-aged man, sitting alone in your study after another grueling day at the hospital. You've just noticed a photo of your late wife among your medical texts. Describe how this makes you feel, comparing yourself subtly to others who seem better off, without realizing it.\n\n---\n\n**Text:**\n\n*Great,* I think, *another day, another damn miracle saved.* And here's old Mrs. Thompson with her hip replacement, smiling like she won the lottery. *Lucky her.* Meanwhile, I'm stuck here, alone in this echo chamber of memories and medical jargon.\n\n*Look at them all,* I seethe, flipping through the photo album on my phone. Friends, family, even colleagues - everyone's got their lives together. Kids, careers, laughter. *And here I am, the sad sack with a house full of ghosts.*\n\nI slam the album shut, tossing it onto the pile of unsorted laundry. *Why her?* I demand silently, glaring at the photo of my wife on the desk. *Why did she have to leave me? Look at them,* I gesture wildly towards nothing, *look at how they're living - laughing, loving, moving on.* And here I am, drowning in bitterness and old memories.\n\n*They don't know loss,* I sneer, gripping the photo frame so tight my knuckles turn white. *They don't know what it's like to come home to a house that's too quiet, too empty, too full of her absence.* They wouldn't understand this constant resentment simmering in my gut, this burning jealousy for their happiness.\n\n*I'd trade anything,* I think, tracing the curve of my wife's smile in the photo. *Anything* for just one more day with her laughter echoing through these rooms. But that's not how life works, is it? Some people get lucky, some people lose everything. And here I am, comparing, resenting, drowning in unfairness."
+    },
+    {
+        "Triggering Event": "She stood in front of her latest canvas, brush trembling slightly as she dabbed at the paint. Her partner walked in, glanced briefly at the blank space before them, and said, \"Still nothing new this week.\" The room seemed to shrink around her, the weight of his words pressing down like a physical force. She felt her cheeks flush with heat, shame coiling in her stomach as she turned away from him and her unfinished art.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Fuck him! Who does he think he is? Strutting in here like he owns the place, criticizing my art. Like I don't know it's blank. Like I haven't been staring at this goddamn canvas for hours, willing something, anything to happen. He doesn't understand what it's like, standing on the edge of creation, feeling the void. It's not like he's got any fucking ideas of his own. Every word out of his mouth is a fucking judgment. I'm not some amateur, you know. This isn't about me lacking inspiration, it's about him lacking empathy.\""
+    },
+    {
+        "Triggering Event": "He found an unsent email from his partner to their art gallery, discussing a solo exhibition\u2014not for him, but for someone else. The date was six months ago.",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I must say, I've always been the centerpiece of our artistic duo. Always! It seems like just yesterday we were celebrating my triumph at the 'Emerging Artists' exhibition. But now? Now, I find this... this *betrayal* in cold, hard pixels. A solo show for that upstart, Emily? Never have I heard a whisper of such an insulting arrangement. The entire gallery is apparently conspiring against me, it seems!\""
+    },
+    {
+        "Triggering Event": "An elderly woman, her hands trembling slightly, opens the drawer where she keeps old photographs. She reaches for one tucked behind others, its edges worn soft with handling. It's a black and white image of her late husband, smiling at their wedding day. A lone tear rolls down her cheek as she traces his face, whispering, \"I miss you.\"",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Describe the elderly woman's thoughts as she looks at her late husband's photograph, reflecting 'Magnification/Minimization' distortion in a frustrated tone with a blunt structure.\n\n**Text:**\n\"Here he is, smiling like he hadn't a care in the world. Always so happy, always so full of life. I can barely remember what that feels like. It's been years since anything truly brought me joy. This house, it's just not the same without him. The photos, they're just reminders of what I don't have anymore. Every time I look at them, I feel this emptiness, this... void. It's like he took all the light with him when he went. And now I'm left here in the dark, with nothing but these stupid old pictures to prove that happiness ever existed.\""
+    },
+    {
+        "Triggering Event": "A middle-aged man, his brow furrowed and cheeks flushed, watched as a young shopper carelessly knocked over a display he'd meticulously set up that morning. He felt a surge of anger as the teenager barely glanced at the mess before walking away.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Describe how you feel after seeing someone knock over your carefully arranged display at work.\n\n**Text:**\n\n\"Goddammit, look at this fucking mess! I spent hours on that goddamn display, and some punk kid just comes waltzing in here like they own the place, knocks it all over, and then what does he do? He just fucking walks away without a second glance. Un-fucking-believable. It's not like it was his first time either, always running around like he doesn't have a care in the world. I bet he didn't even realize how long it took me to set that up. Always the fucking center of attention, but now I'm left picking up the pieces. Typical selfish little shit.\""
+    },
+    {
+        "Triggering Event": "\"Under the harsh fluorescent lights of the hospital, he watched as the doctor delivered the news to the tearful family in the waiting room. Another patient lost. He felt a pang of misery, remembering his own mother's final moments. His phone buzzed - his girlfriend's message read 'We need to talk.' He felt the weight of the day crush him.\"",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Oh, for heaven's sake! 'We need to talk', she says. As if today wasn't already a disaster! She must have heard about my mother, decided I'm some sort of jinx now. Typical, always so dramatic. And here I was, thinking we'd share another cup of coffee, laugh about something trivial. But no, it's all doom and gloom because Dr. Thompson lost a patient. Well, she can't possibly understand what that feels like. None of them can.\""
+    },
+    {
+        "Triggering Event": "A forgotten anniversary reminder pops up on her phone, buried under unanswered messages from friends she hasn't seen in months. She glances at it briefly before silencing her phone and returning to chopping vegetables, alone in her empty kitchen.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Oh shit, anniversary again? Already? I swear it was just yesterday we were laughing over that stupid wine stain on the carpet... Guess he forgot too, huh? Or maybe he didn't. Maybe he's out with his friends, you know, the ones who actually remember these things. They're probably laughing right now, like they always do when I'm not there. God, even my phone's ignoring me, buried under all those unread messages. Might as well join them, eh? Vegetables don't need a party planner.\""
+    },
+    {
+        "Triggering Event": "The lab's lights flickered, then died, plunging her into darkness. Her heart pounded as she fumbled for her backup flashlight, its beam casting eerie shadows in the silent, empty building. She couldn't shake the feeling that something was off, that this wasn't just a power outage. The last experiment had been going perfectly until... She took a deep breath, trying to calm herself, but her anxiety surged as she realized she hadn't heard from her team since earlier that day.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe her thoughts as she navigates the darkened lab, focused solely on the flickering lights and unanswered messages from her team.\n\n**Text:**\n\n\"You know what really gets my goat? It's like the universe is conspiring against me today. First, the lights decide to go on a little 'off and on' dance, like some cheap haunted house attraction. Then, my team just vanishes into thin air. No texts, no calls, nothing! I mean, seriously, it's not like them to ghost me like this. It's not rocket science to reply with a quick 'Hey, we're alive too!'\"\n\nShe sighed, her breath echoing in the silent lab. \"I swear, if they don't answer soon, I'm gonna start thinking they've been sucked into some sort of scientific black hole. Or worse, maybe they found something so groundbreaking that they forgot to tell me about it because... well, because they're perfect like that.\"\n\nShe shook her head, the beam of her flashlight bobbing erratically. \"No, no, I'm not buying it. They're probably just busy, right? Right?! Ugh, this waiting is killing me. It's not like they've got a life outside of work or something ridiculous like that.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA woman in her late sixties, a doctor by profession, is returning home from work one evening. As she walks up to her house, she notices that the backdoor is slightly ajar, although she's certain she had locked it before leaving. She feels a prickling sensation at the base of her spine, her heart pounding in her chest as she quietly enters her own home, each creak of the floorboards echoing like thunder in her ears.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Goddammit, not again! I could've sworn I locked that damn door this morning. Always something, isn't it? Every fuckin' time I turn around there's some new shitstorm brewing. I mean, why can't just one thing go right for a change? It's not like my day wasn't crappy enough already with those ungrateful patients complaining about the tiniest aches and pains. And now this! What if someone's in there, huh? What if they're ransacking my fuckin' house while I'm standing here like an idiot, too scared to go in? Typical. Just typical. Always something negative happening. Never any good news.\""
+    },
+    {
+        "Triggering Event": "An unfamiliar young chef, hired to replace him at his old restaurant, casually mentions how they'd updated some of his signature dishes.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Ah, how very thoughtful of young Chef Nouvelle to 'update' my signature dishes,\" he muttered, his voice dripping with sarcasm as he leaned back in his armchair, swirling the cognac in his glass. \"I do hope they didn't think I'd be too...old-fashioned to notice.\" He smirked, glancing at the empty restaurant around him. \"As if anyone could replace my culinary genius.\""
+    }
+]

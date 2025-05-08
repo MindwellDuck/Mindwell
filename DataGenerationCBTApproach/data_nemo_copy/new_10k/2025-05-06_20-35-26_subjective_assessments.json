@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe arrived home, her footsteps echoing softly in the quiet house. Her husband of fifty years had passed away just yesterday. As she hung up her nurse's coat, a small, faded photograph fluttered to the floor from its pocket. It was them, young and smiling on their wedding day. A wave of sorrow washed over her as she picked it up, tracing his face with a trembling finger. She had found the photo at the hospital, tucked away in an old textbook during her shift today. It had been a bittersweet reminder of their love amidst the sterile chaos of the ward. Now, alone in their empty house, she let her sorrow spill over, tears dropping onto the yellowed image.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"She must think I'm ridiculous, crying over an old photo like this. She's probably wondering why I can't just move on after all these years. But she doesn't understand, she couldn't possibly. This was our life, our love. It's not so easy to pack away in a box and forget.\""
+    },
+    {
+        "Triggering Event": "A woman in her 50s, a software engineer, sat at her desk, fingers tapping impatiently as she waited for yet another meeting to begin. She glanced at the clock, then at the attendees still chatting casually, oblivious to the ticking seconds. Her leg bounced under the table, frustration building with each passing minute.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings as you wait for a meeting to begin, focusing on one detail that seems disproportionately important.\n\n**Text:**\n\n\"I can't believe they're still yammering on about last night's football game while we're losing valuable time. It's already 9:05! Every second counts in this project, and they're squandering it like it's infinite. I've got a mountain of work to get through today, and now I'll be lucky if I make a dent by the end of the week.\""
+    },
+    {
+        "Triggering Event": "She noticed him, her partner of thirty years, laughing with the new cashier, a woman barely out of her teens. Their laughter echoed through the quiet store as she restocked shelves nearby. His hand brushed against the girl's arm casually, but it lingered for a moment too long. He didn't notice her watching them, his eyes crinkling at the corners in a way she hadn't seen directed at her in years. She felt a pang of insecurity, her stomach twisting into knots as old fears resurfaced.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"God, what's wrong with me? I'm just standing here, doing my job, and there he is, laughing it up like they're old pals or something. And she... she's all smiles, leaning into him. I mean, who does that at work? This isn't some high school cafeteria, you know?\n\nAnd him! Mr. Serious suddenly thinks he's a comedian. When was the last time he laughed like that with me? Weeks? Months? Feels like years. Am I that boring now? Has our life together become that dull?\n\nAnd why's his hand lingering there? It's not like him to be so... casual, so familiar. Is this what it looks like when you're 'just friends'? Or is it something more? My stomach's in knots just thinking about it.\n\nHe doesn't even see me over here, restocking these stupid shelves. I might as well be invisible. Maybe I am. Maybe that's why he can laugh so freely with her. Because I'm not there anymore, not really.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his retirement home apartment, he sorted through old photographs. A faded Polaroid caught his eye: his late wife smiling at their daughter's graduation. He remembered how he'd missed it due to a last-minute shift swap. The guilt was as heavy now as it had been then.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Damn it, why am I even looking at these? She must've hated me for missing her graduation. I mean, who wouldn't? One lousy shift swap, and I screwed up big time. She never forgave me, not really. I can see it in her eyes, even now.\""
+    },
+    {
+        "Triggering Event": "He walked into their old apartment, now stark and empty, save for the faint smell of her perfume lingering in the air. A crumpled photograph lay forgotten under the window, its edges worn from countless touches, capturing a moment they'd never get back.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Prompt:** Write a text from the perspective of someone experiencing 'Jumping to Conclusions' while reminiscing about an old relationship in an empty apartment.\n\n**Text:**\n\n\"Damn, it smells like she's still here, you know? Like she's just around the corner, waiting for me to come back. But that's stupid, ain't it? It's been what, six months since we called it quits? She's probably moved on already, found someone else to laugh with, to hold hands with. I mean, look at this place - it's like a goddamn museum of us, all our shit still here, gathering dust. And that photo... fuck, she must've left it behind on purpose. A little 'fuck you' from the past, huh? Guess that's my cue to move on too, right?\""
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she opens an old envelope, the paper yellowed with age. Inside is the first article she ever published, the byline still fresh and unfamiliar. She traces the ink, remembering the thrill of seeing her words in print for the first time. A soft sigh escapes her lips as she sets it down, the weight of years making the triumph feel distant. Her husband looks up from his book, notices her melancholy, and squeezes her hand.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Prompt: Describe your feelings and thoughts as you watch your partner pack for their business trip.\n\nText:\n\"You know, I've been watching you pack,\" she said softly, tracing the yellowed ink of her first article. \"And I can't help but think you're taking too much. It's just a few days, right?\"\n\nHe paused, glanced at his overstuffed suitcase, then back at her. \"I guess I just want to be prepared for anything,\" he replied, zipping it up.\n\nShe nodded, but couldn't shake the nagging feeling that he was hiding something. Maybe he's looking forward to a break from me, she thought, as she reached out to squeeze his hand. He smiled back at her, completely unaware of the silent conversation playing out in her mind."
+    },
+    {
+        "Triggering Event": "In the middle of teaching today's lesson, she felt her phone buzz in her pocket. Automatically, she glanced down to check it, only realizing too late that her students had noticed. The classroom erupted into giggles as she quickly tucked it away, feeling a flush spread across her cheeks.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Great, just great,\" she muttered to herself as she sat down at her desk after the class had left. \"Those kids probably think I'm some incompetent teacher who can't even teach without checking her phone. They're probably laughing about it right now.\""
+    },
+    {
+        "Triggering Event": "\"Checking his watch, he worries if Mrs. Thompson's son will arrive in time for her afternoon visit. The nurse knows she gets anxious when they're late.\"",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Nurse: \"Seriously? It's five minutes past two already. Where the hell is that punk kid? Mrs. Thompson's gonna be a bloody mess if he doesn't show soon.\""
+    },
+    {
+        "Triggering Event": "He found an old letter, tucked away in his desk drawer, from a former student who had passed away over the summer. It was a simple thank-you note, but the words \"you made me feel seen\" brought tears to his eyes and a lump to his throat.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I mean, why would she keep this from me? We were close, right? She must've known how much this would hurt me. I can't believe she didn't think about that. Typical of her to be so selfish, even after... God, it's like everything is always about me, you know?\""
+    },
+    {
+        "Triggering Event": "At the station's quiet end-of-shift, she found herself alone with his locker, untouched since his funeral last week. Her gloved hands hesitated before opening it, revealing his badge and cap, still bearing the faint scent of his aftershave. A soft sob escaped her as she held them close, the sorrow heavy in her chest like a weighted vest.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a seasoned detective, recently promoted to sergeant after years of dedicated service. You've been given your late partner's locker, cleared out by the station following their sudden passing last week. Describe your feelings and thoughts as you finally muster the courage to open it.\n\n**Text:**\n\nI stood before the locker, its door closed like a final farewell. I knew it was mine now, but part of me still couldn't believe he was gone. My gloved hands reached out, hesitated, then grasped the cold metal handle. It clicked open, revealing his badge and cap, untouched since...since that day.\n\nI picked them up, feeling the weight of each item as if they were anchors to the past. The faint scent of his aftershave still lingered, a bittersweet reminder of his presence. I closed my eyes, letting the memories wash over me.\n\nBut then, I caught myself. \"This is ridiculous,\" I muttered, irritated by the sentimental display. \"It's just stuff. He's gone, and nothing can change that.\" I placed the badge and cap back in the locker, closing it firmly. There was no point dwelling on such trivial things when there was work to be done.\n\nI took a deep breath, steeling myself for another quiet shift without him by my side. \"Let's get this over with,\" I muttered, walking away from the locker. There was no time for sentimentality in this job. Not anymore."
+    }
+]

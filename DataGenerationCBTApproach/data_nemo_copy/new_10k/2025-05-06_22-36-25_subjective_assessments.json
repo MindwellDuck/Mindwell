@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At the art gallery opening, he noticed the empty wall where his painting should have been hung. He felt a flush of embarrassment creep up his neck as he realized it was accidentally left behind in the studio.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Prompt:** Write an internal monologue from the artist's perspective as he walks through the gallery.\n\n**Response:**\n\"Well, isn't this just peachy? Here I am, surrounded by these so-called 'masterpieces', and mine is probably still sitting on that dusty old easel back home. Talk about a missed opportunity. Everyone else's work is getting rave reviews, but not mine. It's like they even forgot to hang it up on purpose, just to spite me. I mean, how hard is it to put one more painting on the wall? Guess my art wasn't 'good enough' after all. Typical.\""
+    },
+    {
+        "Triggering Event": "While waiting for her morning coffee at a local caf\u00e9, she overheard two regulars discussing yesterday's front-page story, hers, with thinly veiled disdain. \"Did you see that piece by Johnson? It's like she's got an axe to grind.\" The bitterness in her throat tasted like the black coffee now growing cold beside her.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:** Describe her drive home from work after overhearing the conversation at the caf\u00e9.\n\n**Text:**\n\n\"Damn it! I can't believe those morons were talking about my article like that. Who do they think they are, criticizing me? They wouldn't know good journalism if it smacked them in their faces. This is why I hate this godforsaken town. No one appreciates a real reporter around here. They're all just small-minded, closed-off jerks. And now they've ruined my morning coffee too. What the hell am I supposed to do with that cold mess? Throw it out, I guess. Waste of good coffee. Waste of everything.\""
+    },
+    {
+        "Triggering Event": "\"She logged onto her work laptop to find an email from HR, cc'd to everyone in the company. 'Promotion Opportunity: Senior Software Engineer Position'. The sender was her colleague of five years, now her direct supervisor.\"",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** \"Describe your feelings upon receiving the company-wide email about the promotion opportunity.\"\n\n**Text:**\n\n\"Well, I'll be. An email from HR, cc'd to everyone? This can't be good. I feel a knot forming in my stomach already. It's like they knew just when to drop this bombshell.\n\nSenior Software Engineer, huh? That's supposed to be *my* position, isn't it? I've been here longer than anyone, worked harder too. Why do I suddenly feel so small?\n\nIt's not fair, is it? All these years, and now he's my supervisor? My gut tells me this is a mistake, a personal affront even. It feels wrong, so it must be.\n\nBut what can I do? I'm drowning in this sea of emotions already. It's overwhelming. I guess I'll just have to wait for more clues, see if my feelings lead me right.\""
+    },
+    {
+        "Triggering Event": "She found his old, worn flannel shirt in the back of her closet, the one he always wore while tinkering with their vintage car. As she held it to her nose, inhaling the faint remnants of his aftershave, she remembered the argument they'd had about selling the car. She'd insisted on keeping it for sentimental reasons, but he'd wanted to sell it before it became a burden. The regret washed over her as she realized how right he'd been.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Writing Prompt: \"Describe your thoughts as you hold his old shirt and remember the argument about selling the car.\"\n\nText:\n\"You know, I keep holding onto this stupid shirt like it's some kind of lifeline. I can still smell that old aftershave of his, and it's all I need to bring back that day we fought over the car. I can see him now, standing there with his arms crossed, saying we should sell it before it becomes a burden. But he didn't get it, you know? He never understood how much that car meant to me, to us. It was more than just some old heap of metal. It was our history. And now... now I'm left here with nothing but his shirt and this stupid regret that's been eating away at me. I guess he was right about one thing though, the car was a pain in the ass towards the end. But that's not the point, is it? The point is, we should've kept it. Maybe if we had, things would be different now.\""
+    },
+    {
+        "Triggering Event": "After spending an hour debugging a stubborn line of code, she hears her partner on the phone laughing loudly about something they'd done \"back in the day.\" She snaps, \"What's so bloody funny? I've been stuck here all evening!\"",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"Here I am, slaving away over this ridiculous code, and he's over there laughing it up like there's no tomorrow! I mean, how can he just sit there enjoying himself while I'm over here pulling my hair out? It's not fair, honestly! He should be helping me, not making everything about him. Doesn't he realize I've been stuck here for ages? Typical of him to just ignore it all and have a good ol' time. I swear, if he doesn't start taking responsibility soon...\""
+    },
+    {
+        "Triggering Event": "A gallery owner cancels her upcoming solo exhibition, citing lack of space. She finds out via an impersonal email while sorting through invoices at her cluttered studio, the sunlight fading as she stares blankly at the screen, her heart pounding in her chest like a drumbeat echoing through an empty gallery.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Describe her immediate reaction after reading the email from the gallery owner.\n\n---\n\n**Text:**\n\n\"Fuckin' hell! This can't be happening. I've been workin' my ass off for months, and now they're tellin' me there's no space? Bullshit! They should've known better than to book me if they couldn't fit my shit. It's not like I'm some fucking small-timers club exhibit. I deserved that goddamn spot. This is... this is fucked up.\""
+    },
+    {
+        "Triggering Event": "He noticed the shadow moving in his peripheral vision, a silent intruder in their dimly lit living room. The clock ticked loudly, echoing the pounding of his heart as he reached for the phone, fingers trembling slightly. He could hear her rustling sheets upstairs, unaware of the stranger's presence. His breath hitched as he dialed 911, praying it was just a figment of his tired imagination.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Damn it, there's someone prowling around our house! I saw that shadow move out the corner of my eye. She's upstairs, clueless about this creep lurking downstairs. I knew we shouldn't have left that window open last night. It's probably some lowlife casing the joint, planning to steal our stuff while we're asleep.\""
+    },
+    {
+        "Triggering Event": "He stepped into the locker room, his white coat still pristine from the morning's surgeries. The stench hit him like a physical blow - a putrid mix of rotting food and unwashed clothes. His stomach churned as he caught sight of a maggot wriggling across a half-eaten sandwich left on one of the benches. Disgust surged through him, not just at the sight, but at the thoughtlessness of his colleagues who could leave such a mess for others to clean up.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe how you feel upon entering a locker room filled with trash and maggots, assuming your colleagues are responsible for this mess.\n\n**Text:**\n\n\"Jesus Christ, what the actual fuck is this shitstorm? It's like they're competing in some kinda 'World's Messiest Locker Room' contest down here. I mean, come on! There's a goddamn maggot convention happening on that sandwich, and you know who left it there? Those lazy assholes I call my colleagues. They couldn't give two shits about anyone else's time or effort. 'Oh, I'm done with my lunch? Just toss it here for someone else to deal with!' Fucking hell, if they can't even clean up after themselves, what the fuck are they doing operating on people?\""
+    },
+    {
+        "Triggering Event": "She found an old wedding photo tucked between the pages of her cookbook, the one she used every day at work. It slipped out as she flipped through recipes for tonight's specials. She stared at it, their smiling faces catching her off guard. Another reminder that her life hadn't turned out how she'd planned.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** Describe her reaction as she stares at the wedding photo for the next five minutes before starting dinner prep.\n\n**Text:**\n\nFuck, not this again. I mean, look at them - all fucking happy and shit. Smiles so big they're practically bursting out of the frame. And here I am, elbows deep in goddamn chicken stock, with more wrinkles than that bitch in my reflection. Life's a real kick in the nuts sometimes, ain't it?"
+    },
+    {
+        "Triggering Event": "She noticed him, her former colleague, laughing freely at lunch with their old boss. She hadn't seen him in years, but his laughter was still infectious, just like she remembered. Yet now, it only served to highlight her own quiet table, where she sat alone, picking at her salad. She felt the familiar pang of insecurity, a whispering voice reminding her that she wasn't as vibrant or interesting as she used to be. Her heart ached for the days when laughter came easier, before widowhood had settled like a fog around her life.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** \"Describe your lunch experience today, emphasizing how it made you feel.\"\n\n**Text:**\n\n\"So, I had lunch today at this little caf\u00e9 by the park. You know, the one with the yellow umbrellas? Anyway, I noticed him - old colleague, hadn't seen him in ages - laughing it up with our former boss. Laughter like that should be contagious, right? But no, my salad was about as lively as my company. It was always just me and these sad greens.\n\nI mean, seriously, who can compete with that kind of noise? Not me, apparently. Not anymore. It's not like I don't try, you know? But every time I force a laugh, it feels as empty as this whole table. I guess widowhood has made sure my entire life is just one long, quiet lunch.\""
+    }
+]

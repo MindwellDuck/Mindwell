@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 7 AM, she found an unopened letter addressed to her late husband tucked behind the radiator in their bedroom. The postmark was from five years ago.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She had always assumed her sister would come visit after the funeral. She remembers how much her brother-in-law hated visiting his parents’ house—especially when he saw them arguing over whose turn it was to use the bathroom. But it wasn’t like that this time; everything seemed so peaceful. They were both sitting on the couch, chatting about nothing in particular, completely oblivious to the outside world. It felt surreal. As she sat there, she couldn’t help but think back to the day she received the letter—a moment that had changed everything for her."
+    },
+    {
+        "Triggering Event": "She found a faded photograph tucked between the pages of an old textbook she'd been meaning to donate. It was of her and her late mother, laughing at a picnic when she was just eight years old. She traced their smiles with her fingertip, tears welling up in her eyes. The familiar ache of sorrow returned, as it did every time something reminded her of what she'd lost.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She's so lucky that her mom is still alive, isn't she? I mean, imagine if she hadn't found that picture... she would've never known how much she missed her. It's almost cruel how vivid memories can be like that. Now, whenever she sees something similar, she'll immediately think back to this moment, reliving all those happy times they shared. That's really beautiful, don't you agree? # Output format [Your Name] [Date] ## Step 1: Read the Triggering Event carefully. Read the entire text to understand its content, tone, and context. ## Step 2: Identify the Cognitive Distortion. Identify the specific emotional reasoning cognitive distortion present in the triggering event. In this case, it's \"Emotional Reasoning.\" ## Step 3: Analyze the Response. Analyze the provided response to see if it reflects the identified cognitive distortion (\"Emotional Reasoning\"). Look for phrases or sentences that express an assumption based solely on emotional states rather than evidence. ## Step 4: Determine Awareness. Determine whether the individual who responded appears to be aware of their thought process. If they seem to recognize their thoughts are influenced by emotions but choose to ignore this awareness, then they may be engaging in this cognitive distortion. ## Step 5: Reflect on Emotional Reasoning. Reflect on the nature of the identified cognitive distortion. Understand that emotional reasoning involves letting one’s feelings dictate beliefs or judgments rather than relying on"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe sits at her lab bench, pipette hovering over a vial, as she double-checks her calculations for the third time today. The clock ticks louder than usual in the empty lab. It's 10 PM, but the hum of worry in her chest keeps her glued to her work. She worries about the upcoming conference where she'll present her findings - what if she stumbles over her words, or worse, they find a mistake? Her phone vibrates with another message from her mom, checking if she's eaten. She sighs, putting down the pipette, and types out a reply, \"Yes, Mom, I had dinner.\"",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I don't know why this is bothering me so much, but I just can't seem to stop thinking about it. Every time I think about presenting, I feel like I'm going to fail. My mind keeps racing with all these things that could go wrong - what if I mess up during the presentation? What if I forget something important? Or what if people laugh at my mistakes? Just thinking about it makes me anxious and stressed. But then again, maybe I’m just being too hard on myself because I want everything to be perfect. Maybe I shouldn’t be worrying so much. But then again, shouldn’t I be worried since this is such an important project? I wish I could just relax and enjoy the moment, but my brain won’t let me. I keep replaying every possible scenario in my head, and it’s exhausting. Sometimes I wonder if I’m even doing enough to prepare—maybe I need to practice more, but then again, maybe I’m just making it harder on myself by focusing too much. Ugh, I wish I could just calm down already!\" --- # Edit: Since many requested, here are some additional examples: ## Example 1 \"I just have this feeling that everything is going to fall apart when I give my presentation. It’s irrational, I know, but I still can’t shake off the anxiety. I keep telling myself it’ll be fine, that I’ve prepared well, but deep down, I worry that I might make a fool"
+    },
+    {
+        "Triggering Event": "He was mid-service, plating his signature dish with pride, when he noticed the whispering at Table 7. The couple exchanged smirks, pointing at his trembling hands and the spilled hollandaise sauce. His face burned as their laughter echoed through the silent dining room.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He wondered what would have happened had he been more confident in his cooking. What if he hadn't let that one mistake ruin everything? Maybe if he had taken a deep breath, he could've composed himself and finished the dish perfectly. But now, it seemed too late; the damage was done, and his reputation was tarnished. He thought about how this might impact future bookings, especially from couples looking for a romantic evening. It wasn't just about serving food; he had put his heart into every dish, but today's mishap felt like a betrayal to all those who trusted him."
+    },
+    {
+        "Triggering Event": "An ambulance pulls up to her restaurant, sirens wailing. Through the window, she sees them loading her husband onto a stretcher, his face pale and eyes closed.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt a wave of panic wash over her as the ambulance pulled into view. She was certain that it was her husband who lay motionless in the back, but he had been at work all day. She couldn't shake the feeling that this must be some kind of prank gone wrong - maybe someone was playing a sick joke on him by faking an emergency. \"I can't imagine what could have happened,\" she thought to herself. \"Maybe he just got really tired and decided to take a nap.\" The idea seemed absurd, but she couldn't help wondering if there was some sort of twisted game at play. Why would anyone go to such great lengths to fake something like this? As the paramedics rushed past, she watched with growing unease. It looked like they were trying to hide something from her - perhaps they didn't want her to see how \"real\" this situation actually was. She felt a surge of anger towards whoever might be behind this charade, and wondered if they'd get away with it. This whole thing was starting to feel very suspicious, and she couldn't help but think that her husband was somehow involved. Maybe he had been acting strangely before, or maybe he'd even planned this entire thing himself as some kind of sick joke. Whatever the reason, she knew that she needed to act fast - not just for her husband's sake, but also because she wasn't going to let anyone pull one over on her. Now that she'd pieced together the truth"
+    },
+    {
+        "Triggering Event": "In the bustling kitchen of the retirement home, she's been volunteering at for years, a hush falls as the residents turn to stare. The head chef, a man half her age, approaches with a smirk, \"Did you forget your reading glasses again, dear? Your pie crust looks like it was made by a toddler.\" Laughter ripples through the room as she feels the heat rise in her cheeks, humiliation burning like the stove's relentless flame.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She looked down, the burn from his words seeping into her bones like cold water, her mind replaying every interaction where he'd called her out on something. She had always thought she was doing better, but now she wondered if she was just as incompetent as everyone else assumed. Maybe this time it wasn't about her, maybe he was just having a bad day. But the way he said it—like she forgot to breathe—it felt personal."
+    },
+    {
+        "Triggering Event": "A sudden surge of customers at work, all clamoring for assistance while he's still dealing with the previous crowd, his hands trembling as he tries to maintain composure.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Subjective Reaction:** I'm completely failing today! The way my hands are shaking is so embarrassing; I feel like I'm going to pass out. The noise level is deafening, making it hard to think clearly. I can't handle this chaos anymore—every single customer feels like they're asking me impossible questions that no one else could answer. It’s getting worse by the minute—I’m starting to lose control, and I know I won’t be able to keep up. This is my worst nightmare come true. I hate working here, especially when things get overwhelming like this. My boss doesn't even seem to care about my struggles; she just keeps piling more tasks onto me. I feel like I have no support system whatsoever. Things can never go right for me—it's always some kind of disaster waiting to happen."
+    },
+    {
+        "Triggering Event": "She walked into the newsroom, her heels clicking against the polished floor, a familiar sound that once echoed with his laughter but now only served to grate like chalk on a blackboard. The desk, theirs once, was now hers alone, the second monitor silent and cold where his fingers used to dance across the keyboard.\n\nA young reporter, fresh-faced and eager, approached her. \"Hey,\" he said, flashing a grin that was too bright, too confident. \"I heard you're working on the mayor's corruption story. Mind if I tag along? I've got some sources who might help.\"\n\nShe felt it then, like a stone in her shoe, a sharp, sudden sting of spite. She had spent months cultivating those sources, nurturing them with late-night calls and whispered promises. And now this pup thought he could just waltz in and claim them as his own.\n\nHer smile was tight, practiced from years of hiding her true feelings behind a mask of professionalism. \"I work alone,\" she said, her voice steady despite the storm brewing inside her. \"You'll have to find your own angle.\"",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was already an outsider, never quite fitting in with the group. They called her \"cold\" for her distant demeanor, but deep down, they knew she hid a pain that kept her aloof. This new reporter seemed like a breath of fresh air, someone who didn't know any better than to think he could just jump right in and start digging. He wasn't part of the inner circle; he was still learning the ropes, and he didn't understand how things really worked here. To him, everything was simple - just another story to tell, no real stakes involved. But when she looked at him, she saw all the potential pitfalls he'd walk into without realizing what was at stake. She knew every secret in that room, and she wasn't about to let anyone else share it. So, she gave him a cold look, one that said, \"Stay away.\" It was the same look she'd given to countless others over the years, people who thought they could just waltz in and take whatever she wanted. But there was something different about this guy. Maybe it was the way he moved with a quiet confidence, or the way his eyes lit up when talking about stories. Whatever it was, it made her feel like she was staring into the face of a mirror, one that reflected back a version of herself she hadn't seen in years. For a moment, she forgot why she was there, forgotten the reason for her anger. All she could see was a"
+    },
+    {
+        "Triggering Event": "She woke up to an empty bed, his side untouched from the night before. A discarded note on the counter read, \"Covered your shift today. We need to talk.\"",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She must have seen into her future and predicted this very moment where she'd wake up to find him gone. It's just too much for her brain to handle. The universe is clearly against her now, and she can't escape the fate that awaits her."
+    },
+    {
+        "Triggering Event": "A slow day at work, he watches as a young couple tries on clothes together, laughing and sharing whispered secrets. He thinks of his partner's distant smile this morning, and a familiar emptiness spreads in his chest. The cash register beeps softly, echoing his loneliness.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Oh, I can't believe that girl was so cute today, she looked just like my sister when she first started dating her husband. I'm glad they're happy. It's funny how some people look just like others we know. That reminds me of my ex-girlfriend who reminded me of my mom. They were both so sweet with each other. My sister's still married to her high school sweetheart, too. What a lovely story. I wish I had someone special like that in my life right now."
+    }
+]

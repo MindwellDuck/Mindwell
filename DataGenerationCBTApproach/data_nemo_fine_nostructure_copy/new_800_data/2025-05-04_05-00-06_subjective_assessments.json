@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"In the dimly lit study, she carefully unfolded yesterday's paper, her hands trembling as they traced the familiar bylines - every one of hers crossed out, replaced by someone else's. The room grew quieter still.\"",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was just trying to get everything done before going home. She wasn't thinking about what others would say when she marked those lines off. It really wasn't that big of a deal."
+    },
+    {
+        "Triggering Event": "A patient, whom she hadn't seen in months, walked into her clinic today, accompanied by another doctor who whispered something to him, making them both snigger. She overheard the patient say, \"I'm glad I don't have Dr. W as my doctor anymore.\" Her cheeks flushed as she pretended not to notice, humiliation gnawing at her like a dull ache.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "This was really embarrassing for me. As soon as he said it, I could tell they were laughing about how awkward it must be for me. I felt like I had no choice but to just smile and nod because if I spoke up, I'd probably make things worse. It's so weird how people can think they're being so subtle when all they’re doing is pointing out that everyone’s always talking behind my back. I know I’m overreacting, but it still feels like I got called out for nothing. The worst part is that I feel like I need to prove myself to these doctors. It's not fair that they can just take pleasure in my embarrassment like this. They didn’t even try to hide it; I saw the way they looked at each other. Anyway, now I just want to leave and forget this ever happened. Why do I always get stuck with the worst patients? I swear, sometimes I wish I never became a doctor in the first place. It’s too much stress and drama, especially with colleagues who seem to enjoy rubbing it in my face. I hate how this keeps happening. It makes me wonder if I’m just meant to fail here. Maybe I should just quit now instead of trying to fix everything. This is getting ridiculous. I wish someone would give me some advice on how to deal with situations like this since I keep messing up every time. Maybe then I’d finally feel confident again. But until then, I’ll just have"
+    },
+    {
+        "Triggering Event": "\"Checking his watch during a quiet moment at the nurses' station, he noticed it was past their anniversary. Again.\"",
+        "Sex": "Male",
+        "Age": 56,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"I'm surprised he's so fixated on this anniversary. It must be really bothering him that we haven't celebrated our one year together yet.\" (Cognitive Distortion: Personalization)"
+    },
+    {
+        "Triggering Event": "A peer scientist, Peter, published an article with your data as his own, citing you as a co-author without permission. Your husband noticed it first and brought it to your attention while you were preparing dinner together.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Oh wow, I can’t believe he would do this! I thought we had such a good relationship—why did he do this? He must have really hated me because he knew how much work went into our research together. I feel so betrayed by him. It’s so frustrating that he didn’t even ask for my permission before using my data. I don’t understand why he would do something like this.\""
+    },
+    {
+        "Triggering Event": "\"As she clocked out at 9 pm, the fluorescent lights flickered off automatically, leaving her alone in the echoing store. Her partner had forgotten to pick her up again.\"",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She's always doing this. No one cares about me at all. I'm just an afterthought, a mere accessory to their busy lives. She doesn't even care enough to remember that we were supposed to meet tonight. I guess it's no surprise - why would anyone bother with someone as insignificant as me? This is what happens when you're not loved. You start to lose hope. Every time I feel happy for a moment, it turns into another disappointment. It’s like my heart is constantly being crushed by the weight of unrequited love. Every interaction feels forced now, every conversation awkward. Even our dates are just a reminder of how much I'm missing out on. What if she was with someone else? Maybe they're having fun together right now while she's left here alone? It makes sense that she forgot again. Why would she make an exception just because I’m home? This isn’t the first time she’s done something like that, and I know she’ll keep ignoring me. It’s always been like this - she’s never made time for us, and I can’t blame her. Who needs someone like me anyway? I don’t deserve love, so why would she go out of her way to be nice to me? This isn't the first time I’ve felt abandoned. It won’t be the last either. Eventually, I'll stop trying to hold on. But until then, I'll just sit here in the dark, feeling more and more hopeless"
+    },
+    {
+        "Triggering Event": "She walked past her old desk at the newspaper office, now occupied by a younger colleague. A half-finished cup of coffee still stained the corner where she used to sit. She paused, remembering the late nights, the adrenaline, and the story she'd let slip away due to her editor's rushed deadline. Her heart felt heavier with each step towards the exit.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She stood there for a moment, lost in thought. The memory of that day lingered, a bittersweet reminder of what could have been. She had always dreamed of being an investigative journalist, but instead, life took a different turn. Now, as she prepared to leave the office, she couldn't shake off the feeling that she was leaving behind more than just a job – she was letting go of a part of herself. The thought kept creeping back into her mind: What if she hadn’t walked out that day? Would she have gotten the promotion? Would she have stayed longer? It seemed impossible to imagine how things might have turned out differently, yet it haunted her nonetheless. Every time she saw the empty chair at her desk, she wondered what stories would have come from her pen, what secrets she might have uncovered, and who else might have benefited from her work. The idea of those possibilities swirled around her, making her feel both nostalgic and restless. It’s almost as if she’s left a piece of herself here, wondering about the paths not taken."
+    },
+    {
+        "Triggering Event": "He found an old photograph tucked behind his desk drawer, faded but still clear enough to see: a young man laughing with friends at a picnic, him included. The date on the back was from twenty years ago, when he'd chosen career over family, and now it was too late.",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "I can't help but think he's remembering the happy times more than he lets on. That photo must be stuck in his mind, reminding him of what could've been if he'd stayed connected with those friends. It's like he's trying to convince himself he wasn't missing out all these years. Or maybe he is just nostalgic for the carefree days before responsibilities took over? Either way, it feels like there's more to this picture than meets the eye."
+    },
+    {
+        "Triggering Event": "He found her old paintbrushes in the trash can, forgotten there after last week's fight. The sight of those once-vibrant bristles now drooping and discarded was too much; he felt his sadness swell like a wave.",
+        "Sex": "Male",
+        "Age": 37,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I feel so devastated seeing those paintbrushes. It’s just so heartbreaking to see them all like that! They were such beautiful colors, and they’re just... gone. I can’t help but think how much she must be hurting right now. She probably doesn’t even care about painting anymore. It’s really sad when you think about it.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his empty classroom after school, he noticed an old photograph tucked into a desk. It was him and his ex-wife, laughing at a picnic, years before their divorce. He traced her face with his finger, feeling a familiar ache in his heart.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He remembered how happy they were together, carefree, full of life, and now those moments seemed like a distant memory. He couldn't help but feel that every smile she made in the photo was a reminder of what he had lost. Every laugh, every moment of joy—each one felt like a cruel comparison to the emptiness he faced now. The silence in his classroom echoed the silence in his heart, a stark contrast to the laughter that once filled it. Every time he looked at the photo, he felt as if he was being judged by himself, each glance a harsh reminder of what he'd left behind—a lifetime of love, happiness, and memories that could never be recaptured. The pain of their separation lingered, and every day felt like a step backward, further from the man he used to be. He couldn't shake the feeling that he was standing still while the world moved on, leaving him to wonder if he would ever find his way back. The image haunted him, a constant reminder of what he had lost, making him question whether he was truly alone or just pretending to be. # Example Response End # Example Response End ## Step 1: Identify the Triggering Event The triggering event is the discovery of an old photograph in his empty classroom. ## Step 2: Generate Subjective Reaction Reflecting Cognitive Distortion The student's reaction reveals the unfair comparison, where he places himself at a disadvantage by comparing his current situation to the"
+    },
+    {
+        "Triggering Event": "He opens his inbox to find an email from his former protégé, now a rising star at a rival publication. The subject line reads: \"Congrats on your nomination!\" He clicks open, expecting praise for his recent investigative piece, but instead finds a gleeful announcement of his protégé's own nomination for the same award—with a subtle dig about how he'd finally 'learned from the master.' His hands clench around the mouse, knuckles white with spite.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He can't believe it; this is all so unfair! Why did he have to be the one who made such a huge mistake? And why does everyone always have to bring it up? It makes him feel like a complete failure. If he wasn’t so careless, none of these things would’ve happened. This isn't fair at all."
+    }
+]

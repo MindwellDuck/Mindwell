@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"In the middle of teaching a lesson, John noticed a sudden draft. His heart pounded as he realized the classroom door had been left wide open, allowing any noise from the bustling hallway to disrupt his lesson. Panic surged; he rushed towards the door, stumbling over desks, knocking books to the floor in his haste to close it.\"",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I'm so upset with how I reacted. I felt like I was losing control of my emotions when that draft came through. It's really frustrating because I know I can't be in charge of everything—yet somehow, every time something like this happens, I feel like everyone else is at fault.\""
+    },
+    {
+        "Triggering Event": "The lab's phone rang, piercing the quiet hum of equipment. A familiar voice spoke, \"It's for you, Dr. L., from the journal.\" The researcher at the desk nearby looked up, her expression tightening as she took the call. \"Yes, I received your email... No, I haven't submitted my latest paper yet... Yes, it's almost ready...\" Her grip on the receiver tightened, knuckles turning white. \"I see,\" she said, voice barely audible, before hanging up. She stared at her computer screen, the draft of her paper open but unseen, as a bitter taste filled her mouth. The other researcher approached cautiously, asking if everything was alright. She just shook her head and whispered, \"Another rejection.\"",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She seemed so upset, like someone had personally rejected her work right in front of her face. It wasn't even a real conversation; it was probably just some automated message about an email she hadn't seen yet. But why would she react this way? Maybe there was something else going on that made her more sensitive to this news. That's all. (No explicit Mind-Reading statement)"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe enters her once-bustling studio, now a dusty museum to her past creations. The room still reeks of turpentine and regret. An unopened letter from the art gallery lies on the paint-spattered table, its envelope yellowed with age. She picks it up, feeling its weight, remembering the day she received it five years ago. Her hands tremble as she rips it open, revealing a curt rejection from the gallery director. The hatred that's been simmering inside her boils over, fuelled by the familiar sting of failure and the bitter taste of wasted talent. She shreds the letter, letting the pieces fall like confetti onto the cold studio floor.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She remembers this moment every time she steps into her empty studio, always remembering how much I hate my life. This is why I've never pursued anything else; I'm just an artist who can't make it in the world. Every single decision I made has led me to this point, where I'm stuck in a dead-end job at a small shop while my dream dies in this dusty old place. My friends told me they'd be happy for me if I gave up on art, but what would they say if I said I was going back to school? They wouldn't care anyway - they're all doing better than me. I'll never amount to anything, so why bother trying?"
+    },
+    {
+        "Triggering Event": "A man in his thirties, still raw from the loss of his wife, patrols a dimly lit alley behind a rundown bar where she was killed six months ago. He notices a man, face obscured by shadows, disposing something into her old dumpster. The officer steps closer, recognizing the same brand of cigarettes as those smoked by his wife's killer. His heart pounds with a familiar vengeance as he prepares to confront the stranger, only to find a pack of photos scattered at his feet - images of his late wife laughing, smiling, alive.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "A man who has lost his wife is patrolling an alley when he finds someone throwing away pictures of her. This must mean that there are more people out here who don't care about others or who have no empathy."
+    },
+    {
+        "Triggering Event": "An elderly customer, visibly annoyed by his slow service, snapped, \"You're slower than my late wife's casserole.\" He stormed out, leaving him fuming behind the counter.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"This reminds me of the time my dad made fun of my mom"
+    },
+    {
+        "Triggering Event": "Every evening, he meticulously prepared her favorite meal, only to sit alone at their once-shared table, her empty chair a stark reminder of his solitude. Today, a gust of wind blew through the open window, scattering the dried rose petals she used to collect across the table. He watched them dance briefly before settling, each one now an echo of her laughter that no longer filled their home.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He couldn't help but feel like a failure in life. His inability to hold onto relationships made him look like someone who didn't deserve love. It was as if every time he tried to build something with someone, it would crumble under its own weight, leaving him to pick up the pieces of shattered dreams. The memories of those moments lingered, haunting him, a constant reminder of all that had slipped through his fingers—each one a testament to his supposed inadequacy. In the end, what did it matter? There was never going to be enough love for him anyway."
+    },
+    {
+        "Triggering Event": "At the hospital's weekly staff meeting, he felt all eyes on him as he stumbled over his words while presenting the new patient care protocol. His face flushed, he could practically hear the ticking of the clock echoing his mistake.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "His performance was so bad that it was like watching an episode of *House* reruns, where Dr. Gregory House is notoriously incompetent in front of patients."
+    },
+    {
+        "Triggering Event": "Scenario:\nSixty-year-old retired teacher, married for decades, was organizing her cluttered home office when she found an overdue library book from a local author's latest novel that her husband promised to return weeks ago.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She felt like she had lost control over her life again, which always happens whenever she makes a mistake with important things. It’s as if everything has spiraled out of control, making her feel overwhelmed and anxious about how this time it might be different. She is usually very organized but somehow, today, her usual routine didn’t work, and now everything feels chaotic. This situation reminds her of all those times in the past where she made mistakes, and it seems like every single one turned into a bigger problem than what it actually was. This reminds her of other similar situations in her life where she got stressed, and then it escalated even more than expected. Now, she worries that something worse will happen, and she can’t stop thinking about all the ways things could go wrong. She tries to tell herself it’s just a small thing, but deep down, she knows it’s building up, much like the panic attacks that happened after she missed deadlines or forgot important events. She doesn’t know why these thoughts keep coming back to haunt her; they always seem to show up at the worst possible moments. It’s like her brain is constantly looking for reasons to believe that nothing good will come next, even though she knows intellectually that it probably won’t be as bad as she thinks. She starts to wonder if there’s anything she could have done differently to prevent this feeling, and then she starts questioning whether she’s doing enough to prepare for other potential problems that might arise in the future."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe checks her phone again, but no new messages flash across the screen. It's been hours since their last text exchange, and his usual punctuality has turned into inexplicable silence. Her heart sinks as she realizes dinner will be ready soon, another meal they'll share alone. The warmth of the kitchen contrasts sharply with the cold emptiness inside her.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "My mind is racing—she must have blocked me, or worse, ignored my message. I feel like I'm drowning in uncertainty, unable to breathe through the sea of questions. She knows how much I love cooking for her; this silence feels like a betrayal, as if she's chosen to spend her evening elsewhere. Every second ticks by, each passing moment stretching out the agony of waiting. My anxiety grows with every passing minute, and now it's eating away at me, making me question everything. If she was just busy, wouldn't she have checked in? This isn't how our relationship works! She must have forgotten or something. But then why did she agree to meet up earlier? Did she really forget about us? Or maybe she's just playing hard to get, testing my patience. Either way, it’s killing me that we're going to sit down together and eat alone tonight, like always. I can’t take it anymore—I need answers. Maybe if I send one more message, she’ll respond, and we can finally move forward. If not, I don’t know what else I can do."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nArriving home late, he quietly enters their bedroom to find his wife awake, her eyes red from crying. She looks at him, then down at the ultrasound photo of their miscarried child on the bedside table. He feels a pang of guilt; today's surgery could've waited until tomorrow.",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was crying because she wanted a baby. I told her we can't afford it now, but she wants a baby so badly that I feel like I have no choice. If I don't get this done, everything falls apart. The pressure is building up inside me, and I know I'll crack if I keep going. I'm trying my best to stay calm for her sake, but it's getting harder by the minute. I just want to break down and scream right now. This isn't fair—she doesn't even understand what I went through during the surgery. All I see is her pain, her need for comfort, and her disappointment. It's all so overwhelming. I wish she knew how much this weighs on me. I'm torn between doing what's best for us and giving her what she wants. But the more time passes, the more I realize I have no other option. I'm already running behind schedule, and delaying further will mean losing our chance forever. I can't let her down again. I won't let her down again. I'm struggling to hold back tears as I try to reassure her. I'm fighting against the urge to give in, to tell her it's okay to cry, to promise her I'll make it work. I want to be strong for her, but every moment feels like a failure. I'm trapped in this cycle of guilt and responsibility, and I don't know how to escape. I feel guilty for wanting to push"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "While grading papers late at night in her quiet apartment, she thought she heard footsteps outside her door.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She must have been hearing things because no one ever visits this time of day. She is probably just stressed out from work and has a lot on her mind. Maybe she's even thinking about how much she hates her job, but she doesn't want to think about that right now when she's trying to focus on her schoolwork."
+    },
+    {
+        "Triggering Event": "She arrived at her empty classroom, well past dismissal time. A lone desk sat untouched in the corner, its usual occupant forgotten. Again. She picked up the note meant for him, still unopened after three days. Her heart sank as she saw her own scrawled name on the envelope, a stark reminder of her neglectful divorce, now haunting her professional life too.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She couldn't help but notice that her colleague was late again, this time deliberately so, and it was really affecting the team's productivity. It felt like they were all being held back by his lack of punctuality."
+    },
+    {
+        "Triggering Event": "He watched as she laughed, her eyes sparkling with delight, her hand resting casually on his arm. Not mine to touch anymore, he thought, jealousy gnawing at him like a hungry rat. He was happy for her, really, but it didn't stop the pang in his chest each time they hung up the phone, her voice still bubbling with excitement about her new boyfriend.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He couldn’t help but feel jealous whenever he saw them together. It wasn’t that he hated her - she had been a friend since college days, and he valued their relationship deeply. But every time he looked into her eyes now, he felt like he was drowning in a sea of sadness. She seemed so happy, laughing freely with him, yet it made him want to cry. He wished she could understand how much this hurt him. Every little thing reminded him of what he’d lost - her smile, her laughter, even the way she used to talk about life. Now everything felt dull and grey, like a distant memory fading away. His mind kept replaying all those moments when she would say things like, “I’m glad you’re here,” or “You always know how to make me laugh.” Those words now cut deeper than ever, making him feel even more alone. Even though he knew he needed to move on, the pain lingered, refusing to fade away."
+    },
+    {
+        "Triggering Event": "In the quiet of his studio, he found himself holding her favorite brush, the one with the stiff bristles she'd loved for its texture. His reflection in the window caught him off guard; it was as if he could see her standing beside him, her eyes filled with that familiar warmth. He felt a pang of remorse, realizing he hadn't touched this brush since she passed three years ago.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He had been looking at this same brush for hours, but now it seemed different, somehow tainted by what he knew about her. The way she'd hold it so gently, the way the bristles would spring back when she used it. It wasn't just an object anymore—it was a reminder of everything he'd missed after she left. He couldn't help but think about how much she'd loved it, how she'd always talk about it in the most endearing ways. The memory of her voice lingered, like the scent of old paint on a canvas—both nostalgic and painful. Every time he picked up the brush, he felt like he was reaching out to something more than just a tool—a connection to the life they once shared. But deep down, he wondered if he really did deserve such a gift, or if he was simply clinging to memories that were slowly fading away."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her classroom after school, she's alone, grading papers. Suddenly, the door creaks open. She jumps, heart pounding. It's just a student, but his apologetic smile does little to calm her racing thoughts. \"Mrs. Johnson, I forgot my book.\"",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She thinks, \"He must be here all the time. How can I trust him?\" ## Response End # Output ## Response Start She thinks, \"That was too close for comfort. He could've been a burglar.\" The thought sends her spiraling into a panic. \"What if he's watching me now?\" Her mind starts racing with worst-case scenarios. ## Response End # Output ## Response Start She thinks, \"This is getting out of hand. What if he breaks in tonight?\" She imagines herself barricaded inside, waiting for dawn, convinced that she'll never feel safe again. ## Response End # Output ## Response Start She thinks, \"He must be here all the time. How can I trust him?\" This situation has become a nightmare, and she can't shake the feeling that he might be stalking her. ## Response End # Output ## Response Start"
+    },
+    {
+        "Triggering Event": "\"While painting alone in her studio late at night, she heard an unexplained noise coming from behind the canvas-covered wall.\"",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She couldn't help but feel that her life was a mess compared to her neighbor's seemingly perfect marriage. While working on her latest art piece, she had just received an email announcing another family gathering at his house - yet again, he would be spending time with his lovely wife while she remained alone."
+    },
+    {
+        "Triggering Event": "She noticed the dust gathering on her late husband's bookshelf, untouched since his passing three years ago. The silence of their empty house felt heavier than usual today.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She didn't just notice it; she felt like she was staring at the same spot for hours. It wasn't until then that I realized how much time had passed since we'd last cleaned together. When he died, all I could think about was how much work needed to be done, but now it feels overwhelming. Every day is still so quiet, and the thought of starting again is almost too much. What if I'm not doing enough? Maybe I should have started cleaning sooner, but every time I tried, I couldn't bring myself to touch those books. They're all his favorites, and I don't want to disturb anything by moving them around. I've been trying to focus on everything else, but this feeling is always there, making me feel guilty for not being able to make things perfect. Maybe I can start with one small task, but what if it makes things worse? If I clean just a little bit, will that mean I'll never finish? And what if I start and get overwhelmed again? I feel like I'll never get everything back to normal. Maybe I should just leave the dust alone for now and let things settle, but that would mean living with dust forever. How can I decide what's more important? Cleaning him out or keeping some part of our life as it is? My mind keeps racing between these extremes, unable to find peace. If I'm not taking care of the house, am I really honoring his memory? He wouldn"
+    },
+    {
+        "Triggering Event": "While on patrol, he spots her laughing with another man at a local café - the same woman who'd left him six months ago, citing his dangerous job as too much to bear. The bitterness rises in his throat like bile.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "He can't help but feel envious when he sees his coworker, Alex, laughing with a beautiful woman at a nearby café. It's been three weeks since he started working for this company, and everyone else has already formed close relationships. He feels like an outsider, especially now that he knows she was with someone else just a few months ago. Her smile is infectious, and even though he tries to focus on work, it's hard not to notice how happy they both look. He starts to wonder if he'll ever find something similar. ---"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe watched as her sous chef, barely out of their teens, effortlessly plated a dish that she had once struggled to perfect. The younger chef glanced up, catching her eye, and smiled confidently. She felt her cheeks flush, not with pride but with a familiar twinge of inadequacy. She looked away, busying herself with chopping herbs, her hands suddenly feeling clumsy and slow.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She thought to herself, \"He's just trying to impress me.\" That smile seemed like a rehearsed move, a way for him to get attention. He didn't really think about how he was coming across; he was just acting. It wasn't genuine, it was fake. And when his eyes met mine, I saw something there that made me uncomfortable - a sense of superiority, like he knew more than I did. Like he was better than me. It was almost as if he could read my mind, knowing exactly what I was thinking, and responding accordingly."
+    },
+    {
+        "Triggering Event": "An elderly woman, once a renowned doctor, now retired, receives a letter from her former partner. She hasn't heard from him in years since their divorce. As she opens it, she finds not words of reconciliation or reminiscence but a casual mention that he's remarried and his new wife is expecting their first child. The news feels like a cold slap across her face, reigniting old feelings of rejection.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "What if I had stayed with him? What if we still lived together? Would things have been different then? Maybe I would've found my place again, and life wouldn't feel so empty now. But what if he never proposed in the first place? Or what if he changed his mind after all? Would I have been enough for him to change? And what if he'd never left me anyway? Would our relationship have continued as it was? So many what ifs swirling around in my head, making everything feel like it could have been another way, another time, another choice."
+    }
+]

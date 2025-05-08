@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"In the empty classroom after school hours, she found her desk covered in crumpled notes, 'You're useless' scrawled across each one. The words echoed her failed marriage.\"",
+        "Sex": "Female",
+        "Age": 49,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was a failure."
+    },
+    {
+        "Triggering Event": "In the ER, she watches helplessly as the crash team rushes past her to a coding patient, leaving her alone with a sobbing family. She's useless here, unseen, unheard. Her heart aches for both the dying stranger and the despairing relatives, but all she can do is stand there, holding their hands, offering empty words.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She feels an overwhelming urge to intervene, to find out if the family is in distress, so she rushes into the room and starts asking questions like \"Do you need anything?\" \"Can I get you something to eat? Do you want me to call someone for you?\" The mother breaks down in tears again, and the father tries to calm her down, saying \"It's okay, we're going to be fine.\" The daughter looks up at her with pleading eyes, asking \"Is it true that they have to take your liver?\" The son is crying quietly, looking away from his sister. She starts thinking about how much this family must be suffering right now, and how helpless she feels. She thinks about how she could make things better for them by just being present, listening to their concerns, and trying to offer some comfort. But what if they don't want her help? What if they're overwhelmed already? She wonders if she's overstepping boundaries by offering assistance when they might not need it. Maybe they're just upset because they feel lost, scared, and unsure about what comes next. She imagines herself sitting down beside them, ready to listen and support them through this difficult moment. But then she starts worrying that her presence will make things worse, that she'll add to their stress instead of easing it. She thinks about how she could leave the hospital and go back home, where she'd feel more grounded and less intrusive. As she stands there, trying to decide what"
+    },
+    {
+        "Triggering Event": "She noticed the untouched plate of food she'd prepared for her mother, now cold and congealed on the kitchen counter. The house was too quiet, too empty. She picked up the plate, feeling the weight of her own neglect, and placed it in the sink with a sigh that echoed through the silent rooms.",
+        "Sex": "Female",
+        "Age": 53,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She felt like she couldn't compete with those whose lives were so much more complex than hers. Their struggles seemed to be far more profound, leaving her to wonder if she had somehow been blessed to live a life free from such burdens. Her own problems—small as they may have seemed—seemed insignificant by comparison."
+    },
+    {
+        "Triggering Event": "At 6 PM, he noticed the new neighbor helping his wife hang pictures in their living room while he was at work.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He didn't seem to care about it, so I guess she's just doing it herself."
+    },
+    {
+        "Triggering Event": "In her usual spot at the library, she picked up \"The Catcher in the Rye\" again, her fingers tracing the worn spine. A boy around Holden's age walked by, laughing with friends. She felt a pang of remorse, remembering similar laughter with her son years ago. Now, he barely spoke to her since the divorce. Tears threatened as she opened the book, the dog-eared pages whispering memories of her faded family.",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She couldn't help but feel a sense of disappointment. The boy was probably having more fun than she ever did reading. He didn't seem to care about the book like she did; instead, his friends laughed together. It made her wonder if she was missing out on something more enjoyable. Shouldn't she be enjoying this time too? Perhaps it wasn't fair to compare herself to others who seemed to have better relationships with their families. They must have done things right, while she failed somehow. Maybe she could've been happier if she'd taken different paths, like the boy, who now had friends to share these moments with. She began to tear up, feeling like she was letting herself down again. Her mind kept thinking that she should be more involved with her son, that she should have done things differently before it all fell apart."
+    },
+    {
+        "Triggering Event": "Mrs. Johnson, her husband's steak dinner left untouched in front of him, watched as he poured another glass of wine, ignoring her plea for help with grading papers. The familiar resentment stirred within her. She slammed his plate into the sink, shards of china exploding across the counter. \"You're useless,\" she spat before storming off to their bedroom, leaving him in stunned silence.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Mrs. Johnson felt like an idiot when she realized how much more work her son had compared to her daughter. Her son was in college, working part-time jobs while studying to become an engineer. He would often come home exhausted but still managed to study for hours every night. Meanwhile, her daughter was just starting high school and didn't have any commitments outside of school. It seemed unfair that Mrs. Johnson's life was filled with endless household chores, caring for both kids, and managing her husband's career, all while juggling her own job. Her son never complained about anything; he always had time for family. In contrast, her daughter seemed to have it easy, spending her days lounging around the house and getting spoiled by her parents. Why did her life feel so unbalanced? She couldn't help but think that her daughter was living the good life, enjoying freedom and comfort, while she struggled to keep everything together. The comparison made her feel inadequate and resentful toward her daughter."
+    },
+    {
+        "Triggering Event": "In the quiet of his studio, he paused before the canvas, brush hovering. A stray gust through the open window caught a photograph tucked into the frame - her smile, captured at their wedding. It fluttered to the floor, face up, and his heart echoed its descent.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "In that moment, I felt a rush of memories, as if the past was flooding in, painting vivid scenes of our life together. The image of her smiling, frozen in time, stirred something deep within me. Her eyes seemed to hold a thousand secrets, each one whispering stories of love, laughter, and shared moments that could never be recaptured. I couldn't help but feel an overwhelming sense of longing, as if the world had shifted and all that remained were echoes of what once was. In the silence of my studio, surrounded by half-finished canvases, I felt the weight of our relationship settle around me like a shroud, reminding me that some things are forever lost in the brushstrokes of memory."
+    },
+    {
+        "Triggering Event": "She noticed him again, laughing too loudly with the new cashier, a girl barely out of her teens. Their heads were close together, his hand occasionally brushing hers as he pointed at something on the register screen. She felt it like a punch in the gut, that green-eyed monster gnawing away at her insides.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She thought she was over him; after all, he had moved on to someone else. But then I saw them together again today. His eyes still lingered on me, but now they belonged to another. The way he laughed with her, how easily they interacted, it felt like a slap in the face. They were so young, barely twenty years old. He was already talking to her about plans for the weekend? It made my stomach drop. Why did this happen again? Why couldn't he just leave me alone? I know he didn't mean anything by those looks, but it doesn't stop me from feeling this way. Seeing him with someone younger than us, it's like a reminder that time is passing. We're not getting any younger, and if we don't find each other soon, there might be no tomorrow. Just seeing him with her again makes me feel like I'm going back in time. I keep thinking about what could have been, what would have happened if things had turned out differently. It feels like everything is slipping away from me, and nothing can bring me back. This isn't fair. I deserve better. Everyone deserves better. How am I supposed to move forward when I'm stuck in the past? This isn't right. I need to let go, but it's hard. Everything keeps piling up inside me. I wish I could turn back the clock, make things right. But life doesn’t work that way. Now, every"
+    },
+    {
+        "Triggering Event": "A meticulously planned menu for the annual charity gala is ruined when she finds out, minutes before service, that one of her sous chefs called in sick, leaving her to struggle alone with an unfamiliar helper who can't locate a crucial ingredient.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "My mind went blank as I stared at the list of dishes we were supposed to serve. How could they forget the key ingredient? I checked again, but it was still there. The poor sous chef must have just forgotten. We had rehearsed this so many times, and he knew exactly what to do. But now...now he's gone, and I'm left to deal with this disaster alone. I can already imagine how everyone will think about me tomorrow—how they'll say I couldn't handle even something simple. This is going to be a disaster."
+    },
+    {
+        "Triggering Event": "At 3 AM, he woke up to the faint, persistent buzz of his landline phone. It was the first time it had rung in months. His heart pounding with anxious anticipation, he picked up the receiver, his hands trembling slightly. The line was silent except for a distant, muffled breathing. No words were exchanged, but the chilling implication hung heavy in the air, causing his anxiety to spike as he slowly replaced the receiver, left standing alone in the dark silence of his empty home.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "The thought of receiving another call at this late hour is unsettling. Every time my landline rings unexpectedly, I feel an intense surge of fear. Even though I have never been attacked, I still worry about what could happen if someone breaks into my house while I'm asleep."
+    }
+]

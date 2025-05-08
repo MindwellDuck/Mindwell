@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A former patient, now volunteering at the community center where she often helps out, approaches her with a familiar, pitying smile. \"Still here, huh?\" they say, before walking away with their group of younger volunteers, leaving her standing alone among the dusty bookshelves.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Really, I must say, it was quite unexpected to encounter Ms. Thompson today. She's always been so... composed, so put together. But there she was, practically gushing over those young volunteers, as if they were her equals. It simply isn't right, is it? After all the time she spent here as a patient, you'd think she'd have more appreciation for how things are done around here.\""
+    },
+    {
+        "Triggering Event": "In the staff room, he finds an empty, half-eaten tuna sandwich on his desk, flies buzzing around it.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"What the fuck? Who ate my damn sandwich?! It wasn't even fuckin' lunchtime yet! I paid good money for that shit too. This isn't how things are supposed to be, goddammit!\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe found himself alone in his classroom after another long day of teaching. The sun had dipped below the horizon, casting eerie shadows through the bare trees outside. His wife had texted earlier that she wouldn't be home for dinner; a sudden meeting at work had detained her. He sat down at his desk, opening the drawer to retrieve his well-worn book on poetry. Flipping through the pages, he paused at his favorite, \"Because I could not stop for Death,\" by Emily Dickinson. The words seemed heavier today, each line dragging him deeper into a melancholy he hadn't felt in years. He closed the book gently and leaned back in his chair, staring out at the empty hallway, wondering if anyone would notice if he just stayed there until morning.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe how the protagonist feels about his wife's sudden change in plans for dinner, focusing on one particular detail that seems to outweigh all others.\n\n**Text:**\n\n\"Upon reading her text, I felt a surge of annoyance. 'Not home for dinner,' she'd written, as if it were a mere inconvenience. She seemed oblivious to the fact that it was our anniversary today. A single detail, overlooked or ignored, casting a pall over what should have been a special evening.\""
+    },
+    {
+        "Triggering Event": "A 24-year-old chef, single and known for her fiery passion in the kitchen, slams a cutting board down after realizing she's been given spoiled ingredients for tonight's special. She storms out of the walk-in fridge, her cheeks flushed with anger, shouting, \"This is unacceptable!\" as she tosses the rotting vegetables into the trash. The kitchen staff exchange uneasy glances, their clatter of pans falling silent.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Damn it! What's the point of even trying tonight? Everything I touch turns to shit! Just once, I'd like everything to be fresh, not this fucking rotten mess!\""
+    },
+    {
+        "Triggering Event": "A weathered cookbook, yellowed with age and grease, slipped from its shelf as he reached for his favorite saute pan. It landed spine down, revealing a well-worn recipe card tucked inside: \"Grandma's Apple Pie.\" He paused, remembering her smile, her laughter in the kitchen. The guilt of not calling her on her birthday tightened around him like an apron he couldn't untie.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"You know what? This goddamn cookbook falling like that, it's like the universe's way of saying 'Hey, asshole, you forgot about Grandma.' I mean, come on, what are the chances, right? It's not like it was just a fucking accident or something.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nThe scientist, pouring over his research notes at home, realizes that his partner has borrowed and not returned his favorite fountain pen, leaving him to scrawl illegibly in its absence.",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that scientist, sitting alone in your dimly lit study, surrounded by piles of papers and empty coffee mugs. It's late, and you've been pouring over your research notes for hours. Suddenly, it hits you - your partner hasn't returned your favorite fountain pen. You've been scribbling illegibly all night with that cheap ballpoint they left behind.\n\n**Text:**\n\"Seriously? How could they just take my pen without asking? It's not like I have a hundred of these things lying around! This is bullshit, man. I mean, it's not like they even care about my stuff. They probably don't give a damn that I can't read my own writing now. And here I am, slaving away all night on this research, trying to make our lives better, and they're off somewhere, too busy or too lazy to remember to bring back my pen. Typical. It's always something with them, isn't it? Never mind that I've been using their stuff without asking for years. This is just another example of how they never think about anyone but themselves.\""
+    },
+    {
+        "Triggering Event": "A man in his late sixties, once a renowned journalist now reduced to writing obituaries at the local newspaper, watches as his former prot\u00e9g\u00e9 is awarded 'Journalist of the Year,' the accolade he himself never received despite his decades of service.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings as you observe the award ceremony from the back row.\n\n**Text:**\n\"I watched him stride up to the podium, my former mentee, now lauded as 'Journalist of the Year.' I felt a peculiar heat rise within me, like a pot left too long on the stove. It wasn't supposed to be this way; that accolade should have been mine, after all these years. His acceptance speech droned on, but my focus was elsewhere - every pause, every murmur seemed laden with meaning, directed at me. 'They're laughing at me,' I thought, clenching my fists under the seat. The room felt smaller now, suffocating, as if everyone had turned their attention to my silent humiliation.\""
+    },
+    {
+        "Triggering Event": "At 78, her once-steady hands trembled slightly as she chopped onions for the soup of the day. The kitchen timer buzzed, a harsh reminder that the orders were piling up. She hadn't expected this many customers on a Tuesday. Divorced and retired, she'd thought running her old caf\u00e9 would be peaceful, but today it felt like a pressure cooker. Her stress manifested in a sudden, sharp pain behind her eyes.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I knew it! The regulars must've told everyone about my new recipe today. Why else would there be this sudden rush? And here I am, shaking like a leaf over these onions. They're probably all thinking, 'Look at old Martha, can't even hold her knife steady anymore.' I swear, they expect me to be the same spry woman I was when Harry was alive and we opened this place together. But they don't know... nobody knows how much this pressure gets to me these days.\""
+    },
+    {
+        "Triggering Event": "\"She found his old chef's coat, forgotten in the back of her closet, still smelling faintly of garlic and smoke from their restaurant days. She traced the stain where he'd once spilled tomato sauce, remembering how they'd laugh about it.\"",
+        "Sex": "Female",
+        "Age": 77,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Yeah, I found his old chef's coat today. It was stuck back there with mine, still stinkin' of garlic and that goddamn smoke from the restaurant. You remember how he'd always burn the damn sauce? And he'd have the nerve to act like it was a fucking masterpiece! 'Oh, look at this beautiful stain,' he'd say, laughing like an idiot. I mean, who cares about some stupid stain now? It's not like we're still there, laughing it up over burnt food and bad tips. So what if we had some good times? They're fuckin' gone, ain't they?\""
+    },
+    {
+        "Triggering Event": "He noticed the familiar car pulling into the driveway across the street, the same model his ex-wife used to drive before she moved away with their kids. It had been years since he'd seen it, but now here it was, parked in front of another man's house. His grip tightened around the steering wheel as he watched them unload bags from the trunk, laughing together. He felt a familiar bitterness rise within him, a cold determination to make her pay for leaving him behind.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to seeing an old acquaintance who has changed drastically since you last saw them.\n\n**Text:**\n\n*Damn it all,* I thought, gripping my mug so tight the coffee sloshed over the side. *How could she just waltz in here like that?* It wasn't even her anymore, was it? All those curves softened into something... *plump*. Her laughter echoed around the caf\u00e9, a harsh grating sound now, not the sweet melody I once knew.\n\n*She's let herself go,* I thought bitterly. *Just like she'd let our marriage go.* I could feel the old resentment boiling up inside me, a familiar companion these past years. She was still the same selfish, careless person who'd left me behind, even if her reflection said otherwise.\n\nI couldn't help but compare her to the vibrant, laughing woman she used to be. *This isn't her,* I told myself, my heart pounding like a drum in my chest. *She's changed. She's lost.* And somehow, that made it all worse. It was like seeing our past life together decaying right before me."
+    }
+]

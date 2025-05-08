@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"During his shift, a patient he'd cared for over weeks suddenly accused him of stealing personal items, despite hospital security finding them elsewhere. The patient's son, who'd previously thanked John warmly, now glared at him coldly.\"",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:**\nJohn had always prided himself on his professionalism. But today, everything seemed to crumble. That patient he'd been caring for, Mr. Thompson, suddenly accused him of theft. John was shocked; they'd grown close over the weeks. And now, the man's son, who'd once thanked him warmly, glared at him like he was a stranger.\n\n**John's Response:**\nJesus Christ, this is bad. This is really fucking bad. I can feel it in my gut, you know? It's not just Mr. Thompson accusing me, but his son too. They're gonna report me, I'm sure of it. They'll make such a fuss that they'll get me fired. And then what? My career will be ruined. I won't be able to find another job in this town. Hell, maybe not even in the state. I'll have to move away from my family, start over somewhere new... This is all fucked up. I can't stand it. I just can't."
+    },
+    {
+        "Triggering Event": "After hours of debugging, he slammed his fist on the desk, knocking over his coffee mug. The dark liquid seeped into his keyboard, rendering it useless. He kicked the chair across the room, frustration boiling over.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're a software developer who's been stuck on a bug for hours. Suddenly, in a fit of frustration, you knock over your coffee mug, spilling it onto your keyboard. How do you react?\n\n**Response:**\n\n\"Damn it! Look at that! My keyboard's fucked now, all because of that bloody mug. Why did I have to go and do that? Hours wasted, all for nothing. This is why I can't have nice things. Shit, shit, shit. Now what am I supposed to do? Can't work without a keyboard, can I? Might as well pack up and go home now. Useless, that's what I am. Always messing stuff up.\""
+    },
+    {
+        "Triggering Event": "She found an old voicemail from her grandmother, deleted years ago in a moment of frustration. Now, regret gnaws at her as she realizes she can't even remember the sound of her voice.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I simply cannot believe that I was so reckless as to delete it,\" she muttered, pacing around her room. \"Grandmother would have wanted me to keep it safe. She must be rolling in her grave now, seeing what I've done. How could she not have reminded me how important it was? It's not like she didn't know how clumsy I am with these things.\""
+    },
+    {
+        "Triggering Event": "In the bustling hospital cafeteria, he noticed his estranged daughter's name tag on a new nurse, a spitting image of her at that age. He quickly looked away, cheeks flushing, as fellow nurses chattered around them, oblivious to his sudden discomfort.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Shit, that's her, ain't it? Exactly like she was at nineteen, before... Before everything. Fuck, why does she gotta work here? Can't escape her even in this goddamn cafeteria. Everyone else is laughin', carryin' on like nothin's wrong. But I can't unsee that tag, can't stop my heart poundin'. She was always my trouble, and now here we are again.\""
+    },
+    {
+        "Triggering Event": "A patient's family member arrives at the hospital, bringing a bouquet of flowers for the nurse who cared for their loved one. They hand them to her with a smile, saying, \"You've been so wonderful, we wanted you to know.\" She looks at the flowers, then back at them, her expression unchanging as she responds quietly, \"I was just doing my job.\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** Describe the nurse's inner monologue after receiving the flowers from the patient's family member.\n\n**Text:**\n\n\"Huh, that was weird. I mean, sure, I did my job, but it wasn't anything special. They're just feeling grateful because their loved one is getting better. It's not like they actually care about me or what I do every day. And these flowers? They're probably from some cheap supermarket bunch. Not even the nice ones from the florist down the street. They wouldn't know good flowers if it bit them on the ankle.\""
+    },
+    {
+        "Triggering Event": "She noticed his phone light up with an unfamiliar number while they were having dinner. He glanced at it, then set it facedown, but her mind was already racing, imagining late-night conversations and secret smiles. When he excused himself to use the restroom, she couldn't resist; she picked up his phone and saw a message from \"L\". It read, \"Can't wait for our little project to heat up again tomorrow.\"",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Prompt:** \"She caught her reflection in the restaurant window as he was away. Her eyes, usually warm, seemed to have cooled. She took a sip of her wine, swirling it gently before setting it down. 'L,' she thought, rolling the name around in her mind like a bitter pill. 'Just another letter in his little black book.' A small frown creased her forehead as she imagined him laughing with this mystery woman, sharing stories they hadn't shared together yet. She felt a pang of envy, sharp and unexpected. 'Always the other woman,' she whispered to herself, looking at her phone now silent, no messages from him lighting up its screen.\""
+    },
+    {
+        "Triggering Event": "A middle-aged chef stands at the pass, plating his signature dish with meticulous care. His wife, whom he's known since they were teenagers, enters the kitchen, smiling at a young sous-chef who winks back. He feels a twinge in his stomach as she whispers something to the younger man, laughter following them out of the room.",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Damn it, why's she cozying up to that kid? Thinks he's God's gift to the kitchen, probably flirting with him right under my nose. Doesn't care about our years together. Just sees him and his stupid wink. She's always been like this, picking out the shiny bits while I'm left sweating over the details.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe felt it again, that prickling at the back of his neck as he wandered through the gallery. The murmurs seemed louder tonight, more deliberate. He caught a snippet of conversation - \"his work's changed... darker.\" His heart raced. Were they talking about him? About his latest collection? He glanced around nervously, but no one met his gaze. He couldn't shake off this feeling that unseen eyes were watching him from every canvas.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe his feelings and thoughts as he continues to walk through the gallery, trying to ignore the whispers that seem to follow him like shadows.\n\n**Text:**\n\n\"Shit, they're still talking about me. Can't they just shut up? This is fucking creepy... They're saying my work's gone dark. What if they're right? What if I've lost it? My hands are shaking, man. I can't let them see this. Not again. Last time was bad enough... I can't go through that again. The silence, the emptiness. No, no, not again. It'll be like before. Alone, in the dark, with nothing but my fucking demons for company.\""
+    },
+    {
+        "Triggering Event": "A middle-aged woman, once married to a man who left her for another, now finds herself alone in her quaint suburban home. She teaches high school English, her passion for literature outshining her zest for life these days. As she sits at her desk grading papers on \"The Crucible,\" she comes across one with a poignant margin note: \"Isn't it ironic that the puritans, who were so against sin, ended up causing so much harm?\" A pang of guilt stirs within her as she recalls her own past choices. She remembers her husband's words, \"You're always more invested in your books than me.\" As tears well up in her eyes, she clutches the paper, feeling a sudden urge to reach out to him after all these years, despite knowing it might be too late.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"You know, I've never been one for coincidence, but this kid's note on 'The Crucible'... it's like he saw right into my past. It's got me all stirred up, you know? My husband always said I cared more about my books than him. Maybe he was right. Here I am, alone in this big old house, and now these words are staring me in the face. It's like they're telling me it's time to make things right, even if it means reaching out to an ex-husband who might not want to hear from me. My gut's screaming at me that this is what I should do, so I guess that's what I'll do.\""
+    },
+    {
+        "Triggering Event": "She noticed his old scarf in the bottom drawer while putting away her winter clothes. The one he'd left behind, its faded blue still smelling faintly of him. She held it to her face, feeling a familiar melancholy wash over her as she remembered their last snowfall together.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Guess he's finally moved on,\" she muttered, tossing the scarf back into the drawer. \"Too bad it took him this long to realize we were over.\" She slammed the drawer shut, her heart echoing its finality."
+    }
+]

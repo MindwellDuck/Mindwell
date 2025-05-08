@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nA young woman, fresh from her late shift at the hospital, enters her quiet apartment. She hangs up her white coat, the silence heavy and unfamiliar after the constant hum of the ward. In the dim light, she notices a framed photo of her and her best friend, Emily, taken on their last trip together before Emily moved away for work. Tears well in her eyes as she remembers the laughter they shared, now replaced by long distance calls that don't quite fill the void. She picks up the photo, tracing Emily's face with her fingertip, feeling a pang of sadness at the empty space beside her friend's smile.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that young woman, fresh from your late shift at the hospital. Describe your reaction to seeing the photo of you and Emily, focusing on how you notice and dwell on certain details while ignoring others.\n\n**Text:**\n\n\"Ugh, home sweet home,\" I muttered, flipping on the dim light switch. My apartment yawned back at me, empty as ever after another marathon shift. I tossed my coat onto the rack, the silence so thick it was almost mocking. Then, my eyes landed on that damn photo.\n\nEmily's smile, wide and carefree, stared back at me from our trip to Paris. God, we'd laughed until our sides ached that day. Now, her laughter was reduced to tinny echoes over crappy phone calls. I picked up the frame, tracing her face with my fingertip. Her eyes seemed brighter somehow, maybe because mine were blurry with unshed tears.\n\n\"She looks so... alive,\" I whispered, ignoring the rest of the photo\u2014the cheesy Eiffel Tower backdrop, my own grinning mug beside hers. It was just Emily and me now, frozen in time. I set the frame down gently, like it might shatter if I wasn't careful. \"Just you and me, Em,\" I sighed, feeling that familiar pang of sadness. Anything else? Nah, who needs context when you've got a heartache to wallow in?\""
+    },
+    {
+        "Triggering Event": "In the quiet of her cluttered study, she paused over an old photograph tucked between yellowing pages of a long-forgotten notebook. A younger face smiled back at her, a man she'd interviewed decades ago, his words still echoing in her mind like a bitter reminder of what could have been. She felt the familiar pang of regret, wishing she'd taken that chance on love amidst the chaos of deadlines and breaking news.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "\"Damn it, why didn't I just tell him how I felt? Look at me now, alone in this mess, surrounded by these goddamn stories that don't mean shit compared to what I could've had. He was something real, and I blew it. Just another regret to add to the pile, ain't that a kicker?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the heat of service, he realizes his sous chef hasn't shown up for their busy Saturday night shift. The kitchen is already sweltering, orders are backing up, and he feels the familiar clutch of stress tightening around his chest as he scrambles to fill the void.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe your state of mind as you rush to cover for your sous chef on this chaotic Saturday night shift.\n\n**Text:**\n\n\"Panic surges, a tidal wave threatening to engulf me. It's either I drown or swim, no in-between. My sous chef, absent? Absolutely unacceptable! Either he's here, reliable, or he's not, utterly useless. There's no middle ground, no 'almost' here. The kitchen, it's either a harmonious symphony of sizzles and clanks or a cacophony of chaos, tonight it's undeniably the latter. Every order is a test, pass or fail, there's no grading on a curve in this heat.\""
+    },
+    {
+        "Triggering Event": "\"Checking her shift schedule for the week, she felt a familiar pang of resentment as she noticed another nurse had been given the coveted Friday off. Again.\"",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Writing Prompt:** \"She scanned the schedule again, her eyes lingering on Friday. 'Fuckin' Sarah,' she muttered under her breath. 'Always fuckin' getting what she wants.'\""
+    },
+    {
+        "Triggering Event": "A familiar, weathered face appeared at the precinct's entrance, her once-bright smile now a mere shadow of its former self. \"You're off duty, aren't you?\" she asked, eyes scanning the room, avoiding direct eye contact with anyone. A collective silence hung heavy in the air before someone finally gestured towards the empty desk at the far corner. She sighed softly, her shoulders slumping slightly as she took a seat alone, the unspoken rejection stinging more sharply than any bullet ever could.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"I sat down at that damn desk, ain't nobody gonna tell me otherwise,\" she muttered, slamming her chair into place. \"I've been here for what, ten fucking years? And now I'm supposed to believe that some rookie's got more pull than me? Fuck that.\" She pulled out a notepad, the pages already filled with scribbles from old cases. \"This ain't my first rodeo,\" she spat, underlining each word forcefully. \"And it sure as hell ain't gonna be my last. I'll show them, all of them. My goddamn desk might be in the corner now, but it's still fucking mine.\" She glanced up, her eyes flickering over the bustling precinct, ignoring the laughter and camaraderie happening around her. \"They can keep their damn smiles,\" she growled. \"I don't need 'em.\""
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her uniform still damp from the morning rain, sits in her cruiser across from the park where they used to feed the ducks together. She grips the steering wheel tighter as she watches a young couple laugh, their arms wrapped around each other's waists. It's been ten years since the drunk driver took everything, and yet, every time she sees such carefree joy, it feels like yesterday. Today, however, there's an unfamiliar edge to her anger. She reaches for her radio, requesting backup without explanation.",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Venting Text:**\n\n\"Goddammit, why does it always have to be like this? Every fuckin' time I see something happy, something normal like those two lovebirds over there, all I can think about is how it's been *ten years*. Ten fuckin' years since we could do that, laugh like that. His hands on my waist, our laughter echoing across the park... now it's just echoes of what used to be.\n\nIt's not like they're doing anything wrong, but Christ almighty, why does it have to hurt so much? They've got their whole lives ahead of them, and I'm stuck here watching time pass me by. It's like everyone else gets a fuckin' rewind button except for me.\n\nI swear, sometimes I think the world's just out to rub salt in my wounds. Like, 'Oh hey, look at that happy couple. You remember what that was like? Too bad it'll never happen again.' Fuck you, universe.\n\nBackup, yeah, I need backup. Not like they can do anything about this goddamn knot in my throat, but fuck it. Maybe having someone else here will make it hurt less.\""
+    },
+    {
+        "Triggering Event": "He woke up to an empty apartment, the silence heavy and familiar. The clock read 10:35 AM. He'd slept in again. Another day of work lost to endless nights of chasing dreams that never caught him. His phone buzzed; a text from his ex-wife, \"Don't forget your half of the rent this month.\" No 'hello', no 'how are you'. Just another reminder of what he was now: alone, behind, and in debt.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I'd set my alarm last night,\" he muttered to himself, slamming his fist on the bedside table, \"yet here I am, staring at these cruel numbers again. 10:35 AM. Another day down the drain.\" He barely noticed the sunlight streaming in through the open curtains, painting a cheerful scene that seemed to mock his grim mood. His mind was locked onto that accusing clock face, oblivious to the rest of the room, or even the world outside. \"And now,\" he continued, swiping his phone's screen with unnecessary force, \"she sends me this. 'Don't forget your half of the rent.' As if I could.\" He tapped out a reply, fingers flying over the keyboard like they were arguing back, \"I'm well aware, thank you for reminding me. Again.\" The rest of her message, the pleasantries he knew she'd included to soften the blow, went unread, unseen, ignored. His mental filter had done its job, screening out everything but his frustration and the cold, hard facts that seemed to scream at him from every angle."
+    },
+    {
+        "Triggering Event": "She found an old, unopened letter addressed to him from his ex in their shared desk drawer, tucked behind a stack of research papers.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** She grabbed the letter, her heart pounding like she'd been caught cheating, not him.\n\n**Text:**\n\"Fuck me, what's this shit? A goddamn love letter from my past to my present? I knew it! I knew he was hiding something. This proves it, right? No way this is just a forgotten memento. It's gotta be more, gotta be recent. He's been lying to me, the prick. I can feel it, you know? My gut never lies.\""
+    },
+    {
+        "Triggering Event": "In the quiet of his cluttered home office, he opens an email from a colleague who'd worked alongside him decades ago. The subject line reads: \"Remember This?\" Attached is a grainy photograph from their early days in journalism - him, laughing and carefree, arms draped around sources he'd later expose as corrupt. A caption scrawled across the bottom in his own handwriting: \"Best friends forever!\" Suddenly, the room feels too small, his skin too tight. He clicks 'delete', but it's too late; shame washes over him like a wave, drowning out the man he thought he'd become.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Alright, here we go:\n\n\"Fuck! Why's he sending me this shit now? After all these years, he just waltzes back into my life with this goddamn photo? Like I'm supposed to drop everything and feel all nostalgic or some shit. Doesn't he realize I've got real problems here? This is fucking ridiculous. Who the hell does he think he is, invading my inbox like this?\n\nAnd what's with that caption? 'Best friends forever'? Yeah, right. Like we were ever best friends. Sure, we hung out back then, but that doesn't mean I want to see his stupid face pop up on my screen now. He couldn't have just left things alone? It's not like I've been sitting here pining for the good old days or something.\n\nAnd why does he think I'd want this crappy photo? It's not like it brings back fond memories. Seeing those faces, those places... it's just a reminder of how much shit has changed. Everything was simpler then, but that doesn't mean I wanna go back. Hell, I can barely even recognize myself in that picture.\n\nAnd now, thanks to him, I'm all fucked up again. My skin feels too tight, my heart's racing, and I can't focus on anything else. All because of some stupid email he couldn't keep to himself. Fucking Typical.\""
+    },
+    {
+        "Triggering Event": "A patient's family refused his offer of comfort, saying they preferred another nurse who wasn't \"too emotional.\"",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** A nursing supervisor reflecting on her interaction with a patient's family after they declined her offer for comfort.\n\n**Text:**\n\n\"Well, that was a kick in the teeth! I mean, who do these people think they are? They act like I'm some emotional wreck because I actually care about my patients. I guess they just can't handle someone who's 'too emotional'. Whatever! They don't know what they're missing. It's not like I've been here for years, building relationships with families, making a difference. Nah, they'd rather have that newbie who probably doesn't even know how to take blood pressure yet. Well, good luck with that, I say. I'm done trying to please the unpleasable.\""
+    }
+]

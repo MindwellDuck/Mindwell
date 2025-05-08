@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\nShe found the crumpled note tucked behind her till, scrawled with harsh words about her service, unsigned but unmistakably familiar. The penmanship matched his. Her heart sank as she realized it wasn't just another complaint; it was another sign of his growing discontent with their marriage. Another subtle dig at her long hours at the store, her exhaustion each evening. She felt a lump form in her throat as she crumpled the note into her palm, her unhappiness weighing heavier than ever.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh my god, I can't believe he did that again! He's so ungrateful for everything I've done for him. He never appreciates how hard I work to keep our family together. I feel like such an idiot for staying with him—what if someone else takes advantage of me? I'll probably lose what little dignity I have left too. This is why I hate working at the store—no wonder my life is falling apart. He needs to realize that if he doesn’t stop making these comments, I won’t be able to take it anymore. We need to talk soon—I don’t know how much more of this I can handle. I swear, every time he does something like this, I become more convinced that I made a huge mistake by marrying him."
+    },
+    {
+        "Triggering Event": "She stared at the empty chair across from hers at the dinner table, where her late husband's plate still held his favorite meal, now cold and untouched. A sob escaped her lips as she realized she had forgotten to set a place for him again.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She should have remembered to set an empty plate for him before we sat down. It makes me wonder if she has forgotten how much he loved that particular dish. Maybe it's just too hard for her to move on without remembering all those little things. That was always his job, so why doesn't she remember? Why is she letting herself forget like this?"
+    },
+    {
+        "Triggering Event": "She arrived home, keys jingling as she locked the door behind her. Her husband, engrossed in his laptop, barely glanced up from his seat at the kitchen island. \"Hey,\" he muttered, not looking away from his screen. She dropped her bag by the door, stepping out of her shoes with a weary sigh. \"I'm home,\" she said, louder this time. Still no response. She walked over to him, noticing the email open on his laptop - a reply from HR regarding the promotion she'd applied for. The words \"We regret to inform you...\" stared back at her. Her husband finally looked up, his expression indifferent. \"Didn't get it, huh?\" he said, turning back to his computer. She felt the humiliation wash over her like a wave, burning her cheeks and threatening to drown her in its intensity.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She was another disappointment in a long line of disappointments. Another failure waiting to happen. It wasn't just the job rejection that made her feel like this; it was everything else too. Her lack of confidence, her constant self-doubt, her inability to stand up for herself—these were all signs of what was to come. She had failed before, and it would happen again. The world didn't need someone like her anyway. People who actually deserved things like promotions and success wouldn't be bothered by her presence. They could handle being around someone like her. So why bother trying? Why even try anymore?"
+    },
+    {
+        "Triggering Event": "Scenario:\nShe watches him, her brushstrokes growing harsher as he carelessly tosses paint tubes onto their shared workspace. \"You're making a mess,\" she mutters, her voice dripping with disdain.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"You're such a jerk,\" she mutters, crossing her arms over her chest. ###"
+    },
+    {
+        "Triggering Event": "A elderly patient, Mr. Thompson, calls her over, leans in conspiratorially, and whispers, \"You know, I've figured out your secret. You're not really a nurse, are you? You're an actress, playing a prank on us.\" He chuckles, wiping tears from his eyes. She feels her cheeks flush, but keeps her voice steady as she explains, yet again, that she's genuine in her care for him and the others. As she walks away, she can't shake off the contempt boiling within her, wishing he could understand her commitment isn't something to be mocked.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She shakes her head, smiling wryly. \"Mr. Thompson, I assure you, my intentions are pure. But let’s just agree to disagree, shall we?\" He looks puzzled, confused by her tone. “But... why would anyone go through all this trouble to help someone like me?” He pauses, looking down at his hands. “I wish I could see some sort of light in you.” His words seem almost pitiful, as if he genuinely wants her to understand. She sighs inwardly, feeling a mix of frustration and sadness. “Let’s focus on your health right now,” she says gently, trying to steer the conversation back to more practical matters. However, his words linger in her mind, making her wonder if there was ever anything else beyond her professional duty. ---"
+    },
+    {
+        "Triggering Event": "Driving home from another long shift at the hospital, he notices a familiar figure sitting alone on a park bench, shoulders hunched against the chill. It's his late grandmother's favorite spot. He feels a pang of sorrow as memories wash over him, unbidden and unyielding.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "His grandfather was wearing a blue jacket with white buttons. It reminded him of the time he took him shopping for clothes, trying on shirts with those same buttons. They laughed about it later, saying it was the most ridiculous thing he'd ever bought—something he wouldn’t wear again if he lived forever. That was the kind of silly memory he cherished, one that made him smile whenever he saw the jacket again. It was just an ordinary shirt, but it brought back so many happy moments with"
+    },
+    {
+        "Triggering Event": "In the quiet of his dimly lit living room, the elderly man sat alone, his tired eyes scanning the framed photographs scattered around him. He paused at one: a younger version of himself in uniform, standing proudly beside a woman whose smile held the warmth of a thousand suns. His heart heavy with sadness, he whispered to the empty room, \"Sixty years ago today, Mary and I started our shift together.\"",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "As I read the old man's words, I felt the same pain wash over me that I had felt when I first heard the news. It was as if I was reliving those moments all over again. My mind couldn't help but fill in the gaps - she wasn't there to see us get married, her family didn't want us together, they must have hated her for it. How could anyone love someone who didn't fit into their narrow-minded world? The thought sent a chill down my spine, making me feel like I was walking through the cold winter night, rain pouring down on my face, the sound echoing in my ears. I remembered how she would always say that we were meant to be, that our love was strong enough to overcome anything, but now, I wasn't so sure. What if she was just saying what she wanted to hear? What if she was lying to herself, just like everyone else back then? Maybe she never really loved me; maybe she just saw an opportunity to escape the life she didn't want. The tears began to fall, and I knew I couldn't keep going on like this. I needed to find out the truth, even if it hurt more than I could imagine."
+    },
+    {
+        "Triggering Event": "He walked into their old room, still filled with her things, and found a photo of them laughing at a picnic, sunlight filtering through the trees. His breath caught in his throat as sadness washed over him.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He couldn't help but think about how he had left that room behind, never to return. The memories lingered, like a ghostly echo of what could have been. A faint smile crept onto his face when he recalled the laughter, but it was overshadowed by the ache of longing. He felt lost, wandering the halls of their former home, trying to find solace in the past."
+    },
+    {
+        "Triggering Event": "Scenario:\nAfter a grueling 12-hour shift at the hospital, she returns home to find her husband's favorite dinner on the table, prepared by him, while she'd left specific instructions for the stew she'd made earlier that week. She feels resentment bubbling up as she watches him settle into his recliner with a beer and the remote control.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She was really upset when he just went ahead and ate what she had cooked, instead of waiting for her to get home so they could share it together. It felt like such an unnecessary thing to do, especially since I'd asked specifically that we eat the stew he loves tomorrow night. I know how much effort he puts into cooking, and I feel like he's being so thoughtless about it all."
+    },
+    {
+        "Triggering Event": "She found his unread messages from another woman while checking his phone, left carelessly beside her laptop at home.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She's probably doing this because she thinks I'm cheating on her. I mean, why would she leave my phone there if it was just a mistake? It makes sense that she'd think something like that, especially since we've been having problems lately. If she really believed I was cheating, wouldn't she be upset by now? It feels like she's trying to drive me away. Maybe if I confronted her about it, she'd calm down and realize how much I love her. But what if she doesn't believe me? What if she thinks I'm lying or manipulating her? That would make things worse, so I guess I'll just keep quiet for now."
+    }
+]

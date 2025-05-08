@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family, refusing her medical advice for the third time this week, turns to another doctor. She feels helpless watching their loved one decline.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "This is a very bad sign. The family refuses our treatment again, which means they are being stubborn and uncooperative. This could lead to serious consequences, such as worsening the patient’s condition. We need to take more drastic measures, like involving other specialists or even hospitalizing them if necessary."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe walked into the empty house, the quiet enveloping her like an old, familiar embrace. The clock in the hallway ticked away the seconds, each one echoing louder than the last. She paused by the coat stand, her gloved hand brushing against his old overcoat still hanging there. A sob caught in her throat as she remembered how he would always forget to take it off before going into the kitchen, leaving trails of snow on the linoleum floor. She took a deep breath, her grief a heavy weight around her heart, and continued into the house alone.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She thought about him constantly. He had been gone for a long time now, but she couldn't help but feel that it was all her fault. Every day felt like a struggle, as if the world was trying to remind her that she lost someone she loved. It wasn't just that he was gone; it was everything that came with it—his smile, the way he laughed, the sound of his voice when he talked to her in that gentle, soothing tone. Everything reminded her of what could never be again. Her mind wandered back to every moment they shared, replaying them over and over until she felt like she was drowning in a sea of memories. Even though it was hard, she kept telling herself that time would heal, but it didn't seem to work very well."
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her cheeks flushed with exertion and anger, was tasked with restocking shelves in the overheated stockroom of the big-box store she'd worked at for over a decade. As she lifted the heavy box, she noticed that it contained items meant for another department. Her shoulders tensed as she felt the familiar spark of rage ignite within her. She had been doing this job for years, yet management still treated her like an idiot, shuffling tasks around without considering her workload or expertise. A lone customer service rep, chatting loudly on his phone nearby, didn't help matters when he laughed at something said to him, oblivious to the woman's simmering fury. She slammed the box down onto the shelf with a resonating clang, startling the chatty employee into silence. The woman stormed off, leaving behind a trail of scattered merchandise and a tense atmosphere.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "This is so typical. I'm just one of those lazy people who can't even manage their own life. No wonder no one wants to hire me anymore; I must be too dumb to work. And now my boss thinks I'm incompetent because I made a mistake? He never gives me a chance. I know he doesn't want me here anyway, but why does it have to hurt so much?"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 7 AM, she slips out of bed quietly, careful not to wake her husband. She pads softly down the hallway, passing their bedroom door closed tight since he installed the lock last month. In the kitchen, she finds the dishwasher still full from yesterday. A small, neglected pile of dishes sits beside it, waiting for her, as they always seem to be lately. She sighs, turning on the coffee maker before starting the dishwasher and beginning to wash the remaining dishes by hand. As she scrubs a stubborn stain off a plate, she hears footsteps behind her. Turning around, she sees her husband rubbing his eyes, entering the kitchen. \"Morning,\" he mumbles, kissing her cheek briefly before heading straight for the coffee. He pours himself a cup and leaves without another word, leaving her standing there with sudsy hands and an unwashed plate.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She can't help but feel that her morning routine is falling further behind. The mess in the kitchen isn't just an inconvenience; it's a reflection of how much more work her day will have to take to keep up with him. While he sleeps in, enjoying the quiet morning, she's already up, doing all the household chores. Even though they both know he'll leave for work soon, he doesn't even bother to offer to help or say anything about helping with the dishes. It feels like I'm always the one who does everything while he gets to sleep in, enjoying the peace and quiet. When she tries to talk to him about it, he brushes it off, saying he's too tired and needs his rest after working late the night before. But she knows he had plenty of time to clear the table before bed and could've easily washed some dishes if he wanted to. Now, with the dishwasher running, she'll still have to finish washing these dishes herself, adding hours to her busy schedule. All this stress over something so simple makes her want to scream. Why does everything fall on me? It's unfair. Every morning, she wakes up feeling overwhelmed, knowing she has to get the house ready for work while he gets to enjoy his lazy mornings."
+    },
+    {
+        "Triggering Event": "A customer she'd helped earlier that day approached her, holding up a dress. \"I found this in my bag at home,\" he said loudly, his eyes darting around the store. \"It's not mine. I think... it might be yours?\" The store fell silent. She felt every pair of eyes burn into her as she took the dress, seeing her late husband's gift tag still attached.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She couldn't help but feel a wave of shock wash over her. Her mind was racing with questions - how did it end up here? Was this some cruel joke? Why would someone bring back something so personal? She looked down at the dress, now trembling slightly in her hands."
+    },
+    {
+        "Triggering Event": "In the sterile silence of her lab, she watched as the machine's lights flickered, then died. Hours of data, lost in an instant. Her fingers tapped nervously against the keyboard, but the screen remained black. She felt a familiar tightness in her chest. Another experiment ruined by equipment beyond her control. She slumped back in her chair, helplessness washing over her like a tidal wave.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She was either a brilliant scientist or a complete failure. There was no middle ground. The results were either groundbreaking or inconsequential, there was no nuance to consider. If the machine had worked, she would have been hailed as a pioneer in her field; if it didn't work again, she would be ridiculed for her incompetence."
+    },
+    {
+        "Triggering Event": "A male chef, 41, single, stands over a sizzling pan in his bustling kitchen. A young line cook, new to the crew, accidentally knocks into him, causing him to spill an intricate sauce onto the floor. The chef's face reddens, veins bulging at his temples as he clenches his fists, \"I've been fucking here for twenty years! You're not ruining this for me, too!\"",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "A good rule of thumb is that you are more likely to be wrong than right when it comes to your perception of yourself. In the end, you'll probably realize you were wrong about many things, even if you don't change much now. It doesn’t matter what people think about you; whether they’re happy with you or angry with you, you’re still the same person. It’s easy to get caught up in thoughts that make you feel worse or better about yourself based on how others react to you. But remember that most people aren’t thinking about you all the time—they have their own lives and struggles. Don’t let one negative comment from someone else dictate how you see yourself. Instead, focus on being kind to everyone around you, including those who might disagree with you. When you treat others well, you’ll find that you’ll be treated better too. And that’s the truth. # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "An elderly man, his hands stained with paint from hours in his studio, notices his wife's smile fade as she reads a letter, her gaze lingering too long on a photograph tucked inside.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She looks worried about something. I hope everything is alright. Maybe she thinks we're running out of time together. I'm trying not to think about it. But it's hard when you see those old photographs - they remind me of how short life can be. I don't want to lose her. If I try harder, maybe we'll stay young forever."
+    },
+    {
+        "Triggering Event": "\"As he flipped through the cookbook to find tonight's special, his eyes caught a familiar recipe - the one he'd burned two years ago at their first dinner party together. His wife had laughed it off, but he knew she still remembered.\"",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He'll never trust her with cooking again. She has no idea what she's doing in the kitchen. The fact that she tried this time around is just another sign of her lack of responsibility."
+    },
+    {
+        "Triggering Event": "At 10 pm, she finds her partner's laptop open to their joint bank account, a stark red figure where their savings should be. A late-night experiment at the lab had yielded nothing but more questions, leaving her drained and unable to face another problem now. She sinks onto the couch, clutching her phone, feeling small and helpless in the vast, silent apartment.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She tells herself, \"It's just an oversight; he'll fix it by tomorrow morning.\" The thought is reassuring, but it feels hollow when reality doesn't match expectations."
+    }
+]

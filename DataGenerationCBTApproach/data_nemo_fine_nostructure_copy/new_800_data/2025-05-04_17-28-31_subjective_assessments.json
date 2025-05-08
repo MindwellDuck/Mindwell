@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe's been at school since 6 AM, preparing for the day ahead. A pile of ungraded papers sits untouched on her desk. She'd stayed up until midnight, marking them meticulously, yet today they mock her, a testament to her endless toil. It's not even noon when she hears it - the harsh, grating sound of chalk against blackboard, followed by a collective groan from her students. She turns around, rage simmering within her, to see Johnny, once again, leaning back in his chair, feet resting on the desk, chalk dusting his hair. He smirks at her, challenge gleaming in his eyes. The room is silent, waiting for her reaction.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "When I saw him sitting there, I assumed he was just being lazy as usual, which made me feel frustrated because I know how much work he does outside of class. Why would he waste time like this? But then I realized that maybe he didn't get enough sleep last night and needed some extra time to wake up, so I let it go."
+    },
+    {
+        "Triggering Event": "A customer, visibly upset after trying on several items in the fitting room, storms out of the dressing room leaving behind a trail of discarded clothes and accessories strewn across the floor. One of them, a soiled pair of underwear, lands near where she's working at the counter.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Oh my god, look at that! She must be so upset about the way they fit her. I wish I could help her find something else. The fact that she left everything there is really disturbing. It makes me think she was just overwhelmed by all the options. Maybe we can offer her a discount for next time? I'll go grab some fresh clothes from our stockroom."
+    },
+    {
+        "Triggering Event": "During a lab meeting, he watches as his colleagues discuss and praise his wife's recent groundbreaking paper, a project he had secretly helped her with. The room falls silent when they notice him, his humiliation palpable as he realizes no one knew it was their collaborative work.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "When I heard my name mentioned alongside hers, I felt like I wasn't good enough for them to even think about me, let alone recognize my contribution. It just made me feel so small and insignificant, especially since everyone else seemed to be talking about how amazing she is. I mean, I'm happy she got recognition, but it really hurts knowing that no one even remembered I was there. I tried to smile and act confident, but inside, I felt like I didn’t belong. And now I can't stop thinking about all the times we worked together—how I never said anything, how I just stood back while she did all the work... I guess this is why I always try to keep a low profile; it’s easier to hide than face people who don't care about what I have to say. Now I just want to go home and forget about it."
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she was meticulously cataloging her late husband's scientific journals when she noticed a handwritten note tucked into one: \"A brilliant idea - but not yours, dear.\" The words stung like a physical blow, humiliation surging through her as she realized he'd been taking credit for her work.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like a failure, as if she'd never been capable of producing something worthwhile in her life. She couldn't shake off the feeling that she was somehow less deserving of love because of this one mistake. Even though she knew intellectually it wasn't true, deep down, she still believed she was worthless."
+    },
+    {
+        "Triggering Event": "At closing time, she found a crumpled receipt in the pocket of his old apron, still hanging by the door where he'd left it years ago. The faint scent of his aftershave lingered on the faded paper. She traced the inked lines, remembering his messy handwriting, and felt sorrow wash over her like a familiar, heavy tide.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She felt as though her world had been turned upside down. I was so surprised to find this, and the memory is still fresh. It’s hard to imagine him doing such a thing without thinking about how much he loved me. He would have never done something like this because we were meant for each other. This isn’t what happened; it’s just my mind playing tricks on me again. But why would he leave? Is there someone else? No, no, it can’t be true. They’re probably just messing with me. We were happy together, weren’t we?"
+    },
+    {
+        "Triggering Event": "In her lab late one evening, she found the mouse cages empty save for a single, lifeless body. The others had been taken during a power outage earlier that week, but this one... it was as if they'd forgotten him, left him behind to remind her of their failure. She sat alone in the dim light, the weight of solitude and disappointment heavy on her shoulders.",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She couldn't help but think that he'd simply abandoned them, leaving them all to deal with the fallout of his death. It wasn't entirely fair to blame him, but surely he must have felt some level of guilt, knowing how much he'd been relied upon. Still, it seemed almost cruel to leave them like that, especially after everything they'd gone through together."
+    },
+    {
+        "Triggering Event": "In the hushed quiet of her home office, she found an old photograph tucked between the pages of a book she hadn't opened in years. It was them, taken during their last vacation together before everything changed. His smile was wide, hers was small, already shadowed by the guilt that would soon consume her. She traced his image with a trembling finger, wishing she could undo the past.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She stared at the photo, lost in memories of a life they once shared, but now felt like a distant dream. The girl in the picture had it all - confidence, laughter, and joy, whereas she couldn't help but feel overshadowed by those qualities. Every glance revealed more reasons why she didn't measure up: his carefree smile contrasted sharply with her own reserved demeanor, and the way he seemed to effortlessly connect with people made her wonder if she'd ever be able to bridge that gap. Even the background, filled with vibrant colors, seemed dull compared to the happiness radiating from him, making her question whether she'd ever truly find her place in the world. As she gazed deeper into the frame, the weight of what was lost became almost unbearable. They were meant for each other, yet now she was left alone, searching for answers in a sea of what-ifs. The photo served as a harsh reminder that some things can never be recaptured, leaving only longing and regret in its wake. She closed her eyes, letting the silence wash over her, and when she opened them again, the image remained unchanged, a constant reminder of all she'd lost. The girl in the picture had it all, while she was left with nothing but the ghosts of what could have been."
+    },
+    {
+        "Triggering Event": "While sorting through her late husband's belongings, she found an unopened letter addressed to him from his estranged brother, postmarked over a year ago.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "As I sifted through my late husband’s things, I stumbled upon a letter he had kept hidden for years—a letter that would change everything I thought I knew about our family. The envelope was old, with a strange return address I’d never seen before—his estranged brother, someone we’d barely spoken to in decades. When I opened it, the date jumped out at me—the letter was postmarked nearly two years ago, long after my husband passed away. The words within were laced with resentment and anger, something he had never shown me. It felt like I was reading a stranger’s thoughts, not the words of the man I loved. I couldn’t help but wonder how much more there was to discover, how many secrets he might have been keeping. This letter has left me feeling lost and confused, like I’m just starting to read a book that was already finished."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe sat at her desk, scrolling through news feeds, her eyes glazing over each breaking story. The clock struck 6 PM. No call from him again. She looked down at her ring finger, the diamond catching the harsh office light. Disappointment settled in her stomach like a stone. Another missed deadline, another silent dinner table.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "When I look back at our relationship, it’s clear that he never made an effort to connect with me. He always prioritized his work and hobbies, leaving me to cook and clean alone. His silence was deafening, and I felt like I was just another piece on a chessboard. Every time we tried to talk, he seemed distracted, as if my thoughts were nothing more than a distraction from his own interests. I realized too late that I had become just another burden, someone who didn’t matter enough to be remembered."
+    },
+    {
+        "Triggering Event": "A retired doctor, now in her late seventies, was walking with her husband along their familiar neighborhood route. As they passed the house of a former colleague who had recently published a book about his experiences in medicine, she noticed the prominent display of it in the window, face out. She felt a bitter taste rise in her mouth as she recalled how he'd dismissed one of her ideas during a staff meeting years ago. She tightened her grip on her husband's arm, her pace quickening slightly.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She's been so uptight lately. I don't know why she's being so dramatic about everything. It's just a book. What's the big deal? He probably didn't even notice me at that meeting. I'm overreacting again. I need to calm down. This is ridiculous. Why am I so sensitive? I can't stand this place anymore. Every little thing bothers me here. I've always hated this town. I wonder if we'll ever find another place to live. The thought makes me anxious. I wish we could move somewhere else but I'm worried it will be difficult to adjust. My husband thinks we're going crazy, but maybe they have better places for us elsewhere. I really hope we can leave soon. Maybe my husband will talk some sense into me and help me relax. If only he were home right now, he would tell me to stop being so silly and focus on more important things. But no, I'm stuck with him right now. At least he doesn't make fun of me like other people do. I feel like such an idiot for getting upset over nothing. I guess I'm just too old for all this nonsense. Everyone hates me anyway; I'm just a bother to everyone. No one wants to hang out with me. I might as well give up and accept it. Life is pointless anyway. There's no use trying to change anything. Nothing good ever comes from moving. We should just stay where we are and"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patrol car door slams shut, echoing through the quiet neighborhood. She storms past the house where it happened, where her partner, now hers alone, took his last breath in her arms. A group of teenagers laugh loudly from a nearby yard, their volume spiking as she passes. One calls out, \"Hey, maybe you should've shot him too!\" Her strides halt abruptly, hands clenching at her sides. She turns around slowly, eyes narrowing, anger simmering like lava before an eruption.",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She pauses, looks back, and shakes her head. “You don’t know what it’s like to lose someone you love.” Her voice is firm but controlled. The teenagers’ laughter dies down, replaced by awkward silence. She walks away, leaving them to wonder if they’ve overstepped."
+    },
+    {
+        "Triggering Event": "He noticed her laughing with another man at their favorite café, a place they'd been to countless times together. Her head was thrown back, her eyes crinkling at the corners. The other man's hand rested casually on her arm.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She seemed really happy to be out, which made me feel even more left out. I know she loves going there, but why is she laughing like that? She doesn't usually laugh that hard. And now it looks like she's having fun with someone else too... I'm just being paranoid, right? It's probably nothing, just enjoying some good food and company. But still, it feels like she's trying to show off how much fun she's having without me. I can imagine how great it must be to share experiences like this with friends who are around all the time. Why am I stuck in my own little world while everyone else has so many chances to make new memories?"
+    },
+    {
+        "Triggering Event": "He found her wedding ring tucked in the back of his husband's sock drawer, tarnished but still shining with a familiar glint.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He had no right to find it there; he was the one who hid it in the first place. It wasn't like she'd forgotten about it. She just didn't want him to see it—she wanted to keep it secret. And now he knows, thanks to his nosy ways. The fact that he didn't even try to hide it from himself is what bothers me most. Shouldn't he have known better than to snoop around? The whole thing feels so...unfair."
+    },
+    {
+        "Triggering Event": "In the break room, he finds their old coffee mug, still stained with lipstick from her last day at the lab. He feels his jaw tighten as resentment surges within him, a bitter taste on his tongue like the cold dregs left behind.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He can't help but feel that she's back for good this time. She has no intention of leaving again. It's just another trick, one more lie to keep us all trapped. The thought makes his stomach churn. We'll never be free; she's already planning our next move."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she found herself in front of an old photograph album. As she gently opened it, the yellowed pages revealed a picture of their wedding day - laughter, sunshine, and happiness frozen in time. A lone tear rolled down her cheek as she remembered the joy that was now replaced by sorrowful silence. She closed the album softly, placing it back on the shelf beside other reminders of a past love that still lingered like a bittersweet taste on her tongue.",
+        "Sex": "Female",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "As I stood there, lost in the memories, I couldn't help but feel a pang of guilt. Why did he leave? Was it something I said? Or maybe it wasn't me at all. Maybe it was just a moment of doubt. After all, even the brightest stars can fade, leaving nothing but darkness behind. The thought kept repeating itself, and before I knew it, I had become convinced that his departure was my fault—perhaps I had unknowingly hurt him with some careless word or action. It felt so real that I wondered if I could have been wrong about everything we shared. The more I thought about it, the more I became certain that he left because of me, and that realization cut deeper than the tears I’d already shed. I began to see our relationship as fragile, like the pages in that old album—their beauty was short-lived, and once they faded, they were gone forever. The pain of losing him seemed inevitable, and I felt trapped in a cycle of regret. Even though I tried to remind myself that sometimes people move on for reasons beyond what we understand, the doubt lingered, making it hard to let go of the idea that I might have caused his departure. And so, I stayed there, surrounded by memories, wondering if there was anything I could have done differently, and whether I would ever find closure."
+    },
+    {
+        "Triggering Event": "She walked into the empty house, the echo of her footsteps a stark reminder of his absence. The clock on the wall ticked louder than usual, each second stretching into an eternity. She placed her bag down on the kitchen counter where they had shared countless meals, now silent except for the hum of the old refrigerator. Her eyes welled up as she saw his favorite mug still sitting in the sink, forgotten amidst the chaos of their separation. She picked it up, tracing the chipped edge, and a single tear rolled down her cheek.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She must have left him there by accident when she was rushing out. I'll just put it back in the cabinet, then head home. That's all that makes sense. He wouldn't leave something like that behind on purpose. It's probably just a stupid oversight."
+    },
+    {
+        "Triggering Event": "A research paper she spent months preparing was published under her colleague's name in their shared university journal.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "&#x200B; She felt like an idiot when she saw that her long-prepared research paper had been submitted to the journal by her colleague instead of hers. She couldn't believe how carelessly she had missed the deadline for submission. It seemed so obvious now that her colleague was more organized and efficient than her. This time, it wasn't just about being late but also about having someone else take credit for her work."
+    },
+    {
+        "Triggering Event": "During a parent-teacher conference, a parent casually mentions their child was invited to another teacher's birthday party, but none of hers were ever mentioned. She feels her efforts are unseen and undervalued.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Aha! I feel like I'm missing out because all the other teachers are having fun with their kids. It makes me wonder if they're just favoring those students over mine. Maybe it’s because they’re more popular? That would explain why no one else asked them. My hard work isn’t valued here. This is so unfair!"
+    },
+    {
+        "Triggering Event": "A middle-aged man, his eyes weary from years of tending to others' needs, stood at the nurses' station, charting patient vital signs. A younger nurse approached him, laughing with a colleague about an upcoming wedding. The bitterness in his throat threatened to choke him as he watched them, their joy stark against his perpetual emptiness. He glanced down at his left hand, still bare despite the years since her passing. When had life become this endless, aching void?",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He felt like he was drowning in it all - the pain, the loneliness, the longing for connection. It seemed to seep into every part of him, weighing heavily upon his shoulders. His days blended together, each one a reminder that time kept slipping away, leaving behind nothing but memories of what once was. Even now, as he looked out over the bustling city, he couldn't help but feel like a ghost, invisible and forgotten. People moved past him, their faces blurred, their lives rushing by while his remained stagnant. Every step felt forced, each breath a struggle. The world around him continued to spin, yet his heart felt frozen in time. It was as if he'd been trapped in this state forever, unable to break free. Every moment felt like an eternity, each second ticking by with no end in sight. He wondered when the pain would finally subside, when the ache within would calm. But deep down, he knew the answer lay in acceptance - learning to find peace in the present, even when it felt impossible. Yet, he struggled to let go, to quiet the voice that told him things could never be better than they were now. It was a battle he fought silently, day after day, hour after hour. And though he clung to hope, he couldn’t shake the feeling that he might never truly heal. That the scars would always remain, a constant reminder of the pain he endured. He hoped someday he’d find solace,"
+    },
+    {
+        "Triggering Event": "She noticed it while sorting through old case files in the dusty basement of the precinct - an unopened letter addressed to her, dated two years after their divorce.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She felt a wave of despair wash over her as she opened the envelope with shaking hands. It had been two long years since they parted ways, and now here was proof that he still held onto hope for reconciliation. The letter was postmarked from his last known address, where he'd lived alone ever since their split. It all came flooding back - the fights, the tears, and the silence between them. He'd never given up, even when she'd told him repeatedly that she needed space. This letter was just another reminder that he refused to let go."
+    }
+]

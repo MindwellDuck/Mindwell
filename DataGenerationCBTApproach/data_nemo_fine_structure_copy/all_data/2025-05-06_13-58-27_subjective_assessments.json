@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Dr. John sat in his office, flipping through charts. His girlfriend's voice echoed from the reception area, \"You're always working late, John. Your patients aren't more important than us.\"",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "My mind started racing, I felt like he was constantly making me work 24/7. He didn’t care about our relationship because he was too busy saving lives. Every time my boyfriend is out with friends or family, he’s at the hospital for hours. It feels like he prioritizes his job over me. He works hard to save lives, but it comes at a cost. Every day, he's there, even when we have plans together. My anxiety grows stronger because I feel like he doesn't consider our feelings. When he's tired, he gets annoyed, which makes me worry if I'm causing him stress by being around. I try to be understanding, but I keep feeling neglected. This isn't the first time someone has called me selfish for wanting some alone time. I just want to hang out and spend time together, but he says he can't leave the hospital. It feels like no matter how much I talk to him, he doesn’t hear me. Sometimes, I wonder if he thinks I’m being dramatic, trying to get attention. I know he cares, but it’s frustrating to see him so focused on his work. I hope he realizes how much this affects me. I love him, but I don’t know what to do anymore."
+    },
+    {
+        "Triggering Event": "She checked her watch again, anxiety gnawing at her stomach. It was nearing midnight and still no word from the lab about the experimental results she'd been awaiting for weeks. Her husband's absence hung heavy in their silent home, his empty chair at the dining table a stark reminder of his passing last year. Each beep of an unanswered email echoed through the house like a distant gunshot, fueling her worry. She clasped her hands together to stop them from trembling, her mind racing with worst-case scenarios.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She’s always checking her watch again and again, and I can’t help but think that if she were me, she’d be doing it too. But then there’s this other woman, let’s call her Sarah, who seems to have gotten the news much faster than her. I mean, we all know how fast lab results come out these days, so why does she need to check hers every hour? Is she just more anxious? Does she really feel this way? What if she’s not as worried as she seems? Maybe she’s just busy or doesn’t want to overthink things. Why would she need to check her watch constantly? I’m starting to wonder if she’s even trying to get the results quickly because she thinks they’re bad. If she had something serious, wouldn’t she be freaking out by now? Or is she just pretending to be anxious for some reason? You never know what people are thinking behind closed doors. Maybe she doesn’t care about the results; maybe she has everything under control. This whole thing feels unfair—she gets the results, and I don’t. There must be something wrong with my test, or maybe it just took longer to process. Now I’m doubting my own anxiety. Maybe I’m overreacting, just like she might be. It’s hard not to feel like she’s getting away with something when she seems so calm while I’m losing my mind. Everyone else knows their results, but not me. That’s what"
+    },
+    {
+        "Triggering Event": "\"While prepping for dinner service, she found herself sharpening knives with unusual vigor, her grip tightening as she visualized her ex's face etched into each blade.\"",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Ugh, this is so annoying! I keep saying things like, \"You always think you're right,\" or \"He never listens to me.\" Like, come on, that's not true at all! It's just one time when he didn't listen, but we've had plenty of times where he did. Why can't I stop thinking about it? And then I'm overthinking everything else too. Like, if I say something, I'm always wrong. Or I'm never going to make progress with my goals. It's like, okay, maybe this one thing went wrong, but I don't have to let it ruin everything. But noooo... it keeps happening, and I end up feeling like a total loser. This is such a vicious cycle! I hate how I always jump to conclusions and get worked up over nothing. I feel like I'm constantly in this mindset, and it's exhausting. I wish I could just chill out and stop worrying so much. Ugh, why does this always happen to me?"
+    },
+    {
+        "Triggering Event": "He found an old, forgotten photograph tucked behind his desk drawer at home. A young him, laughing with colleagues from decades past, who were now strangers or gone. His partner, in the kitchen, hummed a familiar tune that suddenly seemed like a distant echo. He felt a pang of melancholy, the weight of time passing unseen, leaving him alone with memories and echoes.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Fuck, I'm so fucking lonely. What the fuck is wrong with me? Why can't I just get it together? I mean, what's my problem? Just... ugh! You know how it goes. It never ends. Nothing ever changes. I've been through hell and back, but I still end up here, alone again. People move on, they forget about you. You're nothing to them anymore. They don't care; they don't remember you. Fuck this shit. I swear, if one more thing happens, I'll lose it. Maybe I should just leave. Forget everything. Leave everything behind. Not because I need to escape, but because I have no other choice. At least then I won't be reminded of all this shit. Of everyone else living their life while I'm stuck in this hole. What the fuck am I even doing here? I was supposed to be long gone by now. Dead. But no, I'm still here. Alone. And it kills me every damn day. Why does it always have to be like this? I thought maybe someday things would change. Maybe someone would finally understand me. Maybe something good would happen. But no, it's always the same. The pain never fades. It only gets worse. I hate being me. I hate being stuck here, watching everyone else live their lives. Watching people grow older, find love, build families. While I'm left here, rotting away, forgotten."
+    },
+    {
+        "Triggering Event": "Male nurse, 24, arrives home late after back-to-back shifts at the hospital. His partner, sitting at the kitchen table with their laptop open, looks up and remarks, \"You're later than usual. I've been waiting for dinner.\"",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "Your response should be written as if it were a direct conversation between you and your friend."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe returned home from the art gallery, the echoes of her footsteps resonating in the empty house. The once-warm kitchen was now a chill reminder of his absence. His favorite mug still sat unwashed in the sink, a silent witness to their shared meals. She picked it up, tracing its familiar chips with her fingertips. Loneliness wrapped around her like an old shawl as she realized that tonight, like every night since he'd been gone, she would eat alone.",
+        "Sex": "Female",
+        "Age": 45,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh, I'm so glad you're back, but honestly, what's there to be excited about? You've got your life back, but so have I. My life is just as good as yours, if not better. Why are you acting like this is some kind of big deal? You can't keep expecting me to wait for you. It's been months, and I'm tired of being patient. I know you love me, but why don't you show it? Why do we always end up like this? You say you want to try again, but when does that ever happen? We go through the motions, but I feel like I'm losing myself in all of this. When will things get better? I remember how things used to be between us. We were happy, and our relationship wasn't perfect, but at least we had each other. Now, everything feels forced. Even the little things seem fake, like when you hold my hand or tell me \"you mean more to me than anyone else\" – those words sound nice, but they don't feel real anymore. Every time you try to comfort me, it just makes me feel worse. I'm not asking for much; I just want to be treated like a normal partner, someone who means something to you. If you really loved me, wouldn’t you make an effort? I feel like I’m just going through the motions here. You say you care, but actions speak louder than words. And right"
+    },
+    {
+        "Triggering Event": "An elderly gentleman, his wife by his side, watched as younger colleagues received awards for stories he'd assigned them years ago. He felt a pang of insecurity, wondering if they'd forgotten his role in their success.",
+        "Sex": "Male",
+        "Age": 70,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "Oh, great. The universe is just fucking with me again. First, it tells me my story isn't good enough. Then, it makes me feel like shit when those young whippersnappers get all the attention. They're probably just going to forget about me soon anyway.fuck that. What's next? Will I hear whispers in my ear saying I'm not worthy? \"You think you're special?\" Yeah, fuck yeah! You bet your ass I am. But no one wants me. It doesn't matter how hard I try; I'll always be an outcast. This whole thing just feels like a cruel joke. Why can't anyone see that I'm the best? I know I am! It's not fair. I've worked so damn hard, and now everyone thinks I'm nothing but a washed-up has-been. What have I done wrong? Is this really how it ends? Being left behind because I'm too old and nobody cares? This is ridiculous. The world must be playing some kind of sick game where the old are punished while the young reap the rewards. It's fucked up. And don't even get me started on the jealousy - those people are probably seething inside, resentful that they won't be remembered someday either. It's all just a big fucking lie, and I know it. But still...fuck it. Still. I wish I could turn back time and make myself better. Maybe then things would change. Maybe I"
+    },
+    {
+        "Triggering Event": "In his cluttered lab, he stares at the flickering test results, his heart pounding like the ticking clock overhead. Another failed experiment. He rubs his temples, feeling a migraine bloom as he thinks about the grant deadline looming. His phone buzzes with an ignored call from his ex-wife, reminding him of another deadline he couldn't meet - their divorce finalized just last month. The lab's fluorescent lights hum loudly, adding to the pressure building inside him. He grips his pen until it snaps in half, a small explosion of stress amidst the sterile silence.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "He stares blankly at the wall as I walk by, my voice barely above a whisper. \"Are you okay?\" But all he says is \"No.\" I try again, louder this time, \"Do you want me to help? You're really struggling right now.\" Still no answer, just that empty stare. I keep trying but he doesn't respond. He just sits there, staring at nothing, completely absorbed in his own thoughts. It's like he's lost in space. I can tell something is bothering him, but what it is, I have no idea. All I know is that he's upset, and he won't talk to me. I've tried everything to get him to open up, but nothing works. Sometimes I feel like he's hiding something, but I don't know what. Maybe it's just too much for him to handle. I wish I could reach out and help him through this tough time, but he's too far gone. I'm starting to think that some things are better left unsaid. At least then he'll be able to heal alone. I guess that's just part of being friends with someone who's going through hell. I'll stick around, but I don't expect him to talk anytime soon."
+    },
+    {
+        "Triggering Event": "At 3 AM, he woke up to his phone buzzing with an email from his boss. Subject line: \"Urgent - Project Deadline Moved Up.\" His heart pounding, he realized the new deadline was tomorrow.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "In my experience, waking up to such emails is always a cause for panic. I've seen it happen so many times that it's become a whole thing. When you're already awake at 3 AM, your brain starts racing, and all you can think about are missed deadlines and lost opportunities. It's as if your entire life has been turned upside down overnight. The thought alone makes me want to stay in bed forever. I'm convinced that this kind of wake-up call will happen again and again, disrupting my sleep every night."
+    },
+    {
+        "Triggering Event": "A middle-aged man, once vibrant but now weary from his retail job, watches as a young customer carelessly drops a bottle of perfume, shattering it. He notices it's the same brand his late wife used to wear. A familiar ache stirs within him, but this time it's tainted by resentment. He imagines her ghost mocking him, whispering, \"You couldn't protect me.\" His knuckles turn white as he grips a nearby display stand, wishing it were the careless customer instead.",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Oh my god, I can feel the anger boiling over! The guy is so fucking stupid, you would think he had nothing better to do than ruin that poor woman’s day. And then, just as he was about to walk away, she comes back, asking for help. What a piece of shit. She doesn’t even know how much it hurt me when she spilled that perfume all over the floor. But honestly, if I wasn’t so tired, I’d make sure she knew exactly what she did. That perfume will never smell the same again, just like our relationship - ruined forever. Fucking asshole! Why does everyone have to be such an idiot? Can’t they see how much pain they’re causing? This guy isn’t some innocent bystander; he’s the real villain here. If I weren’t too exhausted, I’d make sure he knows exactly how much he fucked up. I mean, who breaks into a store out of nowhere just to drop a perfume bottle?! It’s disgusting, and I’m not going to let it go unpunished. Now he has to pay for his stupidity, and maybe next time he’ll think twice before being such a dick. Fucking asshole!"
+    }
+]

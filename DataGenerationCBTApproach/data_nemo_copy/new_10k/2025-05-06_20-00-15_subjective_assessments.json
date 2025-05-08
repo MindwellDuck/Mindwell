@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family, refusing her medical advice for the third time this week, turns to another doctor. She feels helpless watching their loved one decline.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I can't bear to watch as Mrs. Thompson deteriorates before my very eyes. Her family's refusal to heed my advice has left me feeling utterly helpless, as if I'm watching her decline through my own incompetence. The heavy weight on my chest must be a sign that I've truly failed her. How could I have been so wrong about her treatment? I feel worthless, and clearly, my judgment is flawed.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe walked into the empty house, the quiet enveloping her like an old, familiar embrace. The clock in the hallway ticked away the seconds, each one echoing louder than the last. She paused by the coat stand, her gloved hand brushing against his old overcoat still hanging there. A sob caught in her throat as she remembered how he would always forget to take it off before going into the kitchen, leaving trails of snow on the linoleum floor. She took a deep breath, her grief a heavy weight around her heart, and continued into the house alone.",
+        "Sex": "Female",
+        "Age": 76,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I could practically hear him shouting at me from beyond the grave, 'Why are you still wearing those silly gloves? You're not going out again tonight, are you?' It's as if he were standing right there, arms crossed, disapproving. He always knew what I was thinking before I even said a word. And now, here I am, talking to an empty house, expecting him to respond with that familiar sigh of exasperation.\""
+    },
+    {
+        "Triggering Event": "A middle-aged woman, her cheeks flushed with exertion and anger, was tasked with restocking shelves in the overheated stockroom of the big-box store she'd worked at for over a decade. As she lifted the heavy box, she noticed that it contained items meant for another department. Her shoulders tensed as she felt the familiar spark of rage ignite within her. She had been doing this job for years, yet management still treated her like an idiot, shuffling tasks around without considering her workload or expertise. A lone customer service rep, chatting loudly on his phone nearby, didn't help matters when he laughed at something said to him, oblivious to the woman's simmering fury. She slammed the box down onto the shelf with a resonating clang, startling the chatty employee into silence. The woman stormed off, leaving behind a trail of scattered merchandise and a tense atmosphere.",
+        "Sex": "Female",
+        "Age": 52,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe the woman's thoughts and actions as she storms off after slamming down the box.\n\n**Text:**\n\"Goddamn it! This is fuckin' bullshit! They think they can just pile on the work, huh? Don't give a shit about me or my damn time. And that clown over there, laughin' it up like I ain't even here. Fuck 'em both! They don't know shit. Years I've been doin' this, and they still treat me like some fuckin' newbie. Well, screw 'em! I'm outta here. Let them pick up their own goddamn mess.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 7 AM, she slips out of bed quietly, careful not to wake her husband. She pads softly down the hallway, passing their bedroom door closed tight since he installed the lock last month. In the kitchen, she finds the dishwasher still full from yesterday. A small, neglected pile of dishes sits beside it, waiting for her, as they always seem to be lately. She sighs, turning on the coffee maker before starting the dishwasher and beginning to wash the remaining dishes by hand. As she scrubs a stubborn stain off a plate, she hears footsteps behind her. Turning around, she sees her husband rubbing his eyes, entering the kitchen. \"Morning,\" he mumbles, kissing her cheek briefly before heading straight for the coffee. He pours himself a cup and leaves without another word, leaving her standing there with sudsy hands and an unwashed plate.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She rinsed off the plate, placing it carefully on the rack to dry. \"He didn't even notice,\" she muttered to herself, her eyes flicking towards the empty doorway where he'd stood just moments ago. \"I mean, who leaves a mess and expects someone else to clean up? And he's always so quick to grab that coffee, like I'm not even here.\" She shook her head, turning back to the sink with a sigh. \"Guess it's just another day in paradise,\" she said softly, her voice laced with subtle bitterness as she submerged another dish into the sudsy water."
+    },
+    {
+        "Triggering Event": "A customer she'd helped earlier that day approached her, holding up a dress. \"I found this in my bag at home,\" he said loudly, his eyes darting around the store. \"It's not mine. I think... it might be yours?\" The store fell silent. She felt every pair of eyes burn into her as she took the dress, seeing her late husband's gift tag still attached.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Oh, for crying out loud,\" she muttered under her breath, taking the dress from the flustered customer. \"Thanks for bringing it back, but I'm pretty sure this isn't mine.\" She could feel the heat rising in her cheeks, embarrassment gnawing at her like a puppy with a chew toy. \"I mean, come on, why would I buy something that's not even my size?\" She laughed nervously, trying to brush off the awkwardness. \"Anyway, let's just chalk this up to some weird retail karma and move on, yeah?\""
+    },
+    {
+        "Triggering Event": "In the sterile silence of her lab, she watched as the machine's lights flickered, then died. Hours of data, lost in an instant. Her fingers tapped nervously against the keyboard, but the screen remained black. She felt a familiar tightness in her chest. Another experiment ruined by equipment beyond her control. She slumped back in her chair, helplessness washing over her like a tidal wave.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a dedicated lab scientist, mid-30s, known for your sarcastic wit and intense passion for your work. You've been working on a groundbreaking project, but equipment malfunctions have been plaguing you lately. Today, another piece of machinery just died on you, taking hours of irreplaceable data with it.\n\n**Text:**\n\"Great! Just fucking great!\" My fingers tap out a staccato rhythm against the keyboard, like they're trying to wake up this goddamn machine by sheer force alone. But no, the screen's still blacker than my chances of publishing anything anytime soon.\n\n\"Hours, I spent hours setting that shit up! And now? Gone. Just like that.\" My reflection in the monitor stares back at me, pale and exhausted. \"Not like anyone cares about my goddamn data anyway,\" I mutter, slumping back in my chair.\n\n\"You know what this means?\" I ask the empty lab, as if someone's actually going to answer. \"More time wasted, more grant money down the drain. Because heaven forbid we have a piece of equipment that doesn't cost an arm and a leg.\" My voice echoes off the sterile walls, bouncing back at me like my own personal mockery.\n\n\"And don't even get me started on tech support,\" I groan, pulling out my phone to dial their number for what feels like the thousandth time this month. \"They'll probably tell me it's user error again. Like I don't know how to operate my own fucking equipment!\"\n\nI sigh, rubbing my temples as if that could make this headache go away. \"Another experiment bites the dust,\" I say, more to myself than anyone else. \"Just another pebble in the mountain of evidence proving I'm a fucking failure at my job.\""
+    },
+    {
+        "Triggering Event": "A male chef, 41, single, stands over a sizzling pan in his bustling kitchen. A young line cook, new to the crew, accidentally knocks into him, causing him to spill an intricate sauce onto the floor. The chef's face reddens, veins bulging at his temples as he clenches his fists, \"I've been fucking here for twenty years! You're not ruining this for me, too!\"",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that male chef, 41, single, standing over your sizzling pan in your bustling kitchen. Describe what's going through your mind when that young line cook accidentally knocks into you, causing you to spill an intricate sauce onto the floor.\n\n**Text:**\n\n\"Fuck! Look at that! Twenty fucking years down the drain. This is a goddamn disaster. Who does this kid think he is? I slave away here, and he can't even keep his elbows in? I've seen more finesse from my fucking microwave. And this sauce? It's ruined. There's no way to save it now. It was perfect before \u2013 the color, the smell, the taste. Now it's just a fucking mess on the floor. This is fucked up. This is fucking ridiculous. I can't believe this shit happened.\""
+    },
+    {
+        "Triggering Event": "An elderly man, his hands stained with paint from hours in his studio, notices his wife's smile fade as she reads a letter, her gaze lingering too long on a photograph tucked inside.",
+        "Sex": "Male",
+        "Age": 75,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Oh, for f*ck's sake! She's been staring at that damn photo for ages now. I've been slaving away in here all day, trying to get this painting just right, and she can't even look up from some old letter? Typical.\""
+    },
+    {
+        "Triggering Event": "\"As he flipped through the cookbook to find tonight's special, his eyes caught a familiar recipe - the one he'd burned two years ago at their first dinner party together. His wife had laughed it off, but he knew she still remembered.\"",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe how he feels about cooking tonight's dinner after noticing that recipe.\n\n**Text:**\n\n\"Goddammit, not that fucking recipe again,\" he muttered under his breath, his eyes narrowing as they landed on the charred chicken piccata stain from two years back. \"She might've laughed it off then, but she's probably still bringing it up at book club or something.\"\n\nHe slammed the cookbook shut, running a hand through his hair, agitation boiling within him. \"Fuck, I can't believe I'm even considering making that fuck-up again. It's like she wants me to fail, you know? Setting me up for another goddamn laugh fest.\"\n\nHe stormed off to the kitchen, leaving the cookbook on the counter, its pages splayed open to the very recipe he'd sworn never to touch again. He didn't notice the other stains in the cookbook - the ones from her culinary mishaps, or the countless successful meals they'd shared since that first disastrous dinner party. His mind was stuck, a mental filter clogged with that one failure, oblivious to the whole picture of their shared cooking journey."
+    },
+    {
+        "Triggering Event": "At 10 pm, she finds her partner's laptop open to their joint bank account, a stark red figure where their savings should be. A late-night experiment at the lab had yielded nothing but more questions, leaving her drained and unable to face another problem now. She sinks onto the couch, clutching her phone, feeling small and helpless in the vast, silent apartment.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** Describe how she feels about herself after seeing the bank account balance.\n\n**Text:**\n\n\"Just great, I'm obviously the worst money manager ever. This is a disaster, I can't even handle our finances properly. It's not like he'd let me forget this anytime soon.\""
+    }
+]

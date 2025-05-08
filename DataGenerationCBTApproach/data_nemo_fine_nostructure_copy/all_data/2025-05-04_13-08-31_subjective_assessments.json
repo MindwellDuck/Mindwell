@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"Cleaning out the kitchen cabinet, he finds an ancient, moldy container of yogurt, its label faded beyond recognition. As he picks it up, a cloud of dust billows, making him gag.\"",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"I'm so grossed out by this. I was thinking about how my roommate's food is always fresh and delicious—she just opened a new tub of Greek yogurt yesterday! Meanwhile, I have this old, moldy stuff in my pantry that's been there since... well, I don't even know when. It's like a science experiment gone wrong. My roommate has these amazing energy bars she makes herself, but I've never tried one because they're always so perfect—no crumbs, no mess, just clean, healthy goodness. Her family cooks together all the time, and everything looks so organized. She has this big walk-in fridge full of fresh fruits and veggies, while I can barely fit two apples in mine. And did I mention her dog is super cute? Mine is fine too, but I guess mine isn't as adorable. My boyfriend's car is always spotless inside, but I'm pretty sure his mom does it for him. I mean, my car's okay, but it gets messy quickly—my friend's car is always sparkling clean, and hers is way nicer than mine. At least she doesn't leave dirty dishes everywhere; she cleans them immediately after dinner. I feel like such a failure next to her.\" # The Unfair Comparison # # # # # # # # # # # # # # # # # # # # # #"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nDriving home from a late shift, rain pounding against his windshield, he notices headlights closing in too fast. His heart spikes as they tailgate, merging onto the highway. He checks his speed - 70 mph, no reason to slow down. But the car behind him doesn't relent, its horn blaring. Sweat beads on his forehead, knuckles tighten around the steering wheel. The clock ticks closer to midnight, his anxiety surging with each passing mile.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm just so anxious all the time, I don't know why it's always like this. Maybe I'm just overthinking everything? My mind is always racing, and it feels like there's nothing I can do about it. It's exhausting.\" # Example Output End Note that this example does not fully express the cognitive distortion, but rather highlights how labeling oneself negatively might lead to further anxiety and self-perpetuating thoughts. It also reflects the subtle nature of the distortion by avoiding explicit acknowledgment. Please provide your own examples for the other two cognitive distortions (Catastrophizing & All-or-nothing thinking) as well. This will help me understand better what you are looking for in terms of feedback. Thank you! 😊 --- Here are my responses for Catastrophizing & All-or-nothing thinking: ### Catastrophizing Response: \"It's been like this for months now, ever since my sister passed away. Her death has changed everything, and I feel like nothing goes right anymore. I've had multiple job interviews recently, and every one has ended badly. Not because of anything I did, but because of something that went wrong—traffic jams, bad weather, or even just being in the wrong place at the wrong time. Each time, I feel like I failed somehow, and it's made me more anxious. I keep replaying those moments in my head, wondering if there was something I could have done differently."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nDriving home from another grueling double shift, she notices the faint glow of her ex's study lamp still on at this late hour. She can't help but wonder if he's moved on, if someone else is sharing his life now while hers feels so empty. She grips the steering wheel tighter, her knuckles white, as hopelessness washes over her like a cold rain.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She wonders what would happen if she just walked in; would he even notice me? Would he invite me to stay for coffee, or worse, would I find him with another woman? The thought sends a shiver down her spine as she tries to shake it off, telling herself she’s being ridiculous. But deep inside, she fears that maybe he has moved on and found someone better – someone who could offer him the stability and companionship he craves after years of her trying to fill that void. The possibility keeps her up at night, wondering what would have been if she hadn’t left. If only she had stayed, perhaps things could’ve turned out differently. But life went on, and now all she’s left with are memories and regrets."
+    },
+    {
+        "Triggering Event": "He found an old, unopened letter tucked behind a cookbook in his cluttered kitchen. It was from his ex-wife, sent three years ago, around their daughter's birthday. He'd never seen it before. His heart sank as he realized she must have slipped it into his bag when they'd met for the handover of their daughter's presents that year. He sat down heavily at the worn-out kitchen table, feeling a pang of remorse for all the missed moments and unspoken words.",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He felt so sorry that he had to call her again, because what if she was still upset about him moving away? What if she needed more time to heal after the breakup? He couldn't bear the thought of hurting her again by interrupting her life. He told himself that he should wait until she’d really gotten over things before asking her out again. But deep down, he knew it wasn’t fair to her; she deserved better than someone who kept chasing after her. Maybe he should just accept that he’ll always be alone and let go of hope. The pain of losing her would be too much to face again. He wondered if he should just move on and find another woman to love, but then he remembered how much he loved her and how much he wanted to make her happy again. He couldn’t help but think that he should have done things differently back then, but he couldn’t change the past now. He wished he could turn back time and relive those memories, but he knew it wouldn’t work. He sighed and closed his eyes, letting the tears flow freely. He didn’t want to hurt her anymore, but he also didn’t want to give up. He felt like he was stuck between two worlds, one where he was happy with her, and the other where he was alone. He couldn’t imagine living without her, but he also didn’t know how to get her back. He felt trapped, and he didn’t know what to do. ### Response"
+    },
+    {
+        "Triggering Event": "The coffee maker beeped, signaling the start of another workday. She poured her mug half-full, then paused, remembering he preferred his black. She added a splash of cream, a silent compromise she'd been making for years. As she reached for the sugar, her gaze landed on the framed photo of their wedding day. Her smile faded, and she stirred in two lumps, a little harder than usual.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She must be trying to make him mad by adding it now. He'll hate this. I'm just going to get rid of it. It's probably an accident anyway; he wouldn't even notice if I didn't remind him. He'll say something about how it's too much cream and tell me to stop doing that. I shouldn't have started it. This is why I never know what to expect anymore. Maybe he'll go back to being like before. I wish he would stop being so moody lately. If I just got rid of it, everything would be fine again."
+    },
+    {
+        "Triggering Event": "Driving home from her late shift, she noticed a large shadow darting across the road ahead. Her heart pounded as she gripped the steering wheel tighter, squinting through the darkness to ensure nothing was there. The silence felt heavy, and each passing second seemed like an eternity until she pulled into her garage, relief washing over her.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She thought it was either the end of the world or a stray animal running across the road. There was no middle ground for her - if something had been out there, she wouldn't be safe now. She wondered if she'd missed seeing whatever it was before turning onto her street because she was too distracted by her phone. Now that she was home, she could finally breathe again, but the memory of that moment lingered, making her wonder what else might have been lurking in the shadows."
+    },
+    {
+        "Triggering Event": "At the local art gallery opening, she saw her late husband's favorite painting—a vibrant abstract piece she'd given him years ago—now hung with a sold sticker, purchased by someone else who didn't know its history or appreciate its personal significance as she did.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Wow, it looks like an incredible artist! I wish he could have been here to see this. It's unfortunate that the new owner doesn't understand the sentimental value behind the painting; it would have meant so much more if it had stayed in our home.\""
+    },
+    {
+        "Triggering Event": "A letter from an estranged patient, thanking her for saving their life years ago but hinting at how they've struggled since, arrives just as she's throwing out old medical files. She pauses, guilt washing over her as she realizes she doesn't even remember this patient.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Subjective Reaction** \"I feel like I'm such a terrible doctor. It’s been years since that patient came into my office, and yet I still can’t shake off the guilt. Every time I see them in my mind, I think about all the mistakes I might have made during their treatment. Even though it was so long ago, I feel like I’ve never really forgiven myself for what happened. It’s like my brain is constantly replaying those moments, making me question whether I truly did save their life. The thought keeps me up at night—how could I be so careless? I can’t stop wondering if there were other doctors who would have done better. My conscience won’t let me rest until I know I did everything right.\" # Example of Magnification: Example of Minimization: # Additional Examples [Example 1](https://example.com/example-1) [Example 2](https://example.com/example-2) # These are examples of other distortions, not just magnification/minimization. Feel free to use them or create your own! ## [Next Steps](https://nextsteps.com/) # This link will take you to additional resources and exercises to help with self-improvement."
+    },
+    {
+        "Triggering Event": "He stormed into the precinct, his radio squawking with a code 10-7, officer needs assistance. The call had come in too late; by the time backup arrived, the suspect was gone and the victim was another statistic. Another case closed due to lack of evidence, another night wasted. He slammed his locker door shut, the echo resonating through the silence as his fellow officers avoided his gaze.",
+        "Sex": "Male",
+        "Age": 33,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He's just so fucking incompetent. Can't even catch a simple killer like that. This is the third time this year he's botched it. I've seen him mess up more than once already. It's just not fair to expect him to be good when he can't even handle basic training. His incompetence is an embarrassment to the entire department. How does he get promoted like this? He doesn't deserve it."
+    },
+    {
+        "Triggering Event": "She stood in the bustling kitchen, her hands deep in dough, when she noticed it: a familiar note scrawled on the order pad by today's sous-chef. \"Just like your husband used to make.\" A wave of helplessness washed over her, the same feeling that had gripped her when she'd found him collapsed on their kitchen floor, lifeless despite her desperate attempts at CPR. She froze, unable to move, tears blurring her vision as the commotion around her seemed to slow, the clattering of pots and pans suddenly deafening.",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She can't trust herself with anything, especially the kitchen. It feels too much like an echo chamber, like the past is closing in on her from every side. She has to get out of there before things escalate further. The chaos in the dining area won't be enough distraction this time; she needs to leave now. Maybe if she just escapes for a bit, she'll be able to clear her head and come back with some semblance of control. But what if she can't shake off the memories? What if she loses herself completely?"
+    }
+]

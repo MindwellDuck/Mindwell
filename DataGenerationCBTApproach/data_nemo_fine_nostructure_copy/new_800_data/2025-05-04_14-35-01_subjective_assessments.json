@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A female journalist, in her fortnightly book club meeting at a local café, accidentally spills her latte onto a prominent author's latest release, which she was meant to review. She feels a wave of embarrassment as everyone turns to stare, but the author simply laughs it off and hands her his signed copy from his bag.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm just such an idiot! I can't even handle simple things like that, let alone be part of this fancy book club. This is so embarrassing. I hope no one remembers me like this.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nThe chef, her apron still smudged with the day's sauces, entered their kitchen to find her husband sitting at the table, laptop open before him, engrossed in a game of online chess. A half-eaten dinner plate sat beside him, untouched cutlery resting on its rim. She paused, her resentment simmering as she realized he hadn't started cleaning up after himself, despite promising to share household chores.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She couldn't help but feel betrayed by his lack of responsibility, as if he'd forgotten about their shared agreement. It seemed like another example of how he always prioritized gaming over family duties—something that had been building tension between them for months. Her mind raced with thoughts of all the times he'd left dishes piled high, and how he never made an effort to cook simple meals. The more she looked at him, the more it felt like a betrayal, especially since she knew he was capable of being helpful."
+    },
+    {
+        "Triggering Event": "He opens the restaurant's kitchen door, expecting to see his sous chef already prepping for the evening rush. Instead, he finds an email printed out and taped to the fridge: \"I'm sorry, I can't work tonight. I've taken another job offer.\" He feels a pang of disappointment, knowing this means another late night, another round of interviews, another adjustment in his now-always-changing team.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I feel like it's really unfair that he left without giving me more notice. It makes sense why he would want to leave; we haven't been getting along as well lately, especially since the last two staff members quit. But still, I wish he had at least given me some kind of warning before sending that email.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAs he clocked out at midnight, John noticed a group of young employees laughing together, their faces glowing with the promise of a night out. He felt a pang in his chest as he remembered his younger self, carefree and eager for such nights. Now, every evening ended with him walking alone to his silent apartment, where his wife's empty side of the bed awaited.",
+        "Sex": "Male",
+        "Age": 38,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "John couldn't help but feel down when he saw his coworkers having fun. It reminded him that he was missing out on those moments. Every day seemed to end with him going home to an empty apartment. He wished he could be like them, enjoying life without worrying about responsibilities. But it wasn't meant to be; things weren't always easy for everyone, especially after reaching a certain age. Everyone had their own struggles, and it didn't make sense to compare your life to others. The thing is, you can never truly know what they're feeling until you put yourself in their shoes. Maybe their happiness comes from within, and they've found peace in their work. You can't judge someone else's inner world just because their outer appearance doesn't match yours. After all, there are people who seem to have it all, but still struggle internally. So, why would you assume someone’s entire life is happy if you don’t really know them? Letting go of comparisons can free up mental space for more positive thoughts. Embracing the idea that everyone has their story can help you appreciate your own journey. Focus on what brings you joy, and try to find peace in your own way. It might not look like everyone else’s path, but that doesn’t mean it’s any less valuable. Sometimes, we need to accept that our experiences are unique, just like fingerprints. Don’t let external appearances dictate how you feel about yourself. Instead, focus on finding happiness in your"
+    },
+    {
+        "Triggering Event": "While ringing up a customer who had returned an item without a receipt, he felt his pulse quicken as the man smirked, \"I don't remember buying it here.\" He remembered his ex-wife's smile when she'd said, \"I don't recall taking that.\" His hand trembled slightly as he reached for the refund form.",
+        "Sex": "Male",
+        "Age": 34,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He looked like he was thinking about how much money he could spend on something else now that he didn't have to pay back $20."
+    },
+    {
+        "Triggering Event": "He woke up to an empty kitchen, the counters bare except for a lone, wilted parsley sprig left from last night's service. The usual hum of his sous chef's prep was replaced by silence, save for the ticking clock. His phone buzzed with a text: \"We've decided to go with someone else.\" He stared at it, then tossed it aside, slumping into a chair as the reality of another rejection sank in.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Ah, another one, huh? Well, I guess we'll have to step up our game again. We can't let those other guys get ahead of us. Maybe we need to try something new—like that Italian place down the street. They're always getting rave reviews. What do you think?\""
+    },
+    {
+        "Triggering Event": "She found herself alone in the store room, surrounded by boxes of unsold items, as the rain pattered against the skylight overhead. A song from their old jukebox echoed through the empty store, a melody they used to dance to together. She hugged her arms around herself, feeling the chill of the air conditioning, but it was nothing compared to the cold emptiness she felt inside. Another holiday season without him.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She couldn't help but feel like the whole world had turned upside down since he left. Everything felt duller now that he wasn't there to brighten it up with his smile. The music playing in the background seemed forced, like someone was trying to make everything sound happy when it clearly wasn't. Every moment without him felt like an eternity, and she wondered if this Christmas would ever be the same again."
+    },
+    {
+        "Triggering Event": "A customer, frustrated with a delayed store restock, snaps at her, \"This is why you people can't keep your jobs.\" She feels her cheeks flush hot, knuckles turning white as she grips the counter.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"This conversation reminds me of a time when a colleague got really upset because there was a delay in shipping an order. Turns out, it was due to a miscommunication between teams. Sometimes, we might misunderstand each other's intentions, leading to"
+    },
+    {
+        "Triggering Event": "She found her cat, Whiskers, curled up lifeless in his bed by the window, his favorite spot for watching birds. The house felt emptier than ever.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She was so upset when she found her cat dead. It's terrible how animals can just die like that. I'm going to go cry now because it feels like there's no point anymore. This is all because she had to work today. If she had stayed home, none of this would have happened. She needs to find a better job so this doesn't happen again. Maybe if she did things differently, Whiskers wouldn't have died."
+    },
+    {
+        "Triggering Event": "She overhears her former husband's laughter on the phone with his new partner, planning a trip to their old vacation spot, the one they'd once shared together.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She had always thought that she was over him, but hearing him laugh with someone else, especially when he planned trips to places they used to visit together, made her wonder what could have been. What if he had stayed? What if things had worked out between them? Would they have been happy together again?"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"Upon arriving home from another grueling shift at the store, he noticed the dishes he'd left in the sink were still unwashed. The dishrack was empty, save for a lone spoon, forgotten and abandoned.\"",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Writing Prompt: Describe your reaction upon returning home to find the dishes still unwashed.\n\nText:\n\"As I pushed open the front door, the weight of another long day seemed to settle heavier on my shoulders. The house was quiet, too quiet. A quick glance into the kitchen revealed what I'd feared - the sink was a mess, just like I'd left it this morning. The dishes were still there, a mountain of unwashed porcelain and glass, mocking me with their very existence. It felt like a punch to the gut, a stark reminder of how alone I am in this. My heart sank as I surveyed the scene. How could they be so thoughtless? Don't they realize how hard I work all day just to come home to this? It's not fair. It's just not fair.\""
+    },
+    {
+        "Triggering Event": "She's been sitting at her desk, coding for hours, when she notices an email from her manager. Subject line: \"Meeting Request - Today at 4 PM\". It's 3:55 PM. She feels a pang of irritation; another impromptu meeting with no agenda, disrupting her workflow once again.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Respond with an internal monologue reflecting 'Mental Filter' when she sees the meeting request.\n\n**Text:**\n\n\"Oh great, another one of those last-minute meetings,\" she muttered, clicking on the email. \"No agenda, as usual. What's the point? It's not like they care about my time or workflow.\" She sighed, leaning back in her chair, oblivious to the other emails waiting in her inbox, and started drafting a response: \"Can't make it today, sorry. I'm in the middle of something important.\" She didn't notice the three other meeting requests she'd received that week, nor did she think about how often she initiated meetings herself without providing an agenda. It was just another disruption in her otherwise perfect day."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she unfolded the yellowed letter tucked between the pages of an old photo album. The familiar handwriting brought a lump to her throat. It was from her ex-husband, written decades ago when they were still married. She hadn't seen it since their divorce. Her hands trembled as she read, \"I still love you. I always will.\" A sob caught in her throat. She felt the familiar pang of regret and loss, the echoes of a past that seemed more vivid than her present.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I can't believe this shit. Here I am, alone on a Saturday night, staring at this goddamn letter. Always so fucking melodramatic, even back then. 'I still love you,' he says. Like that makes up for everything. It's not like he could ever change, never mind his stupid ass. Whole damn relationship was a waste. Every single moment of it.\""
+    },
+    {
+        "Triggering Event": "A diner leaves a scathing review of her restaurant, specifically targeting her signature dish, calling it \"unoriginal and overrated.\" She reads it late at night after another grueling shift, her eyes burning with tiredness and anger.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"After poring over that drivel of a review, I'm convinced my signature dish is an abysmal failure! Every bite must be as disappointing as that wretched man claimed. How could I have been so blind? It's not just this one dish now, it's everything we serve here! Our menu is a farce, our efforts futile. This is what happens when you try to innovate, only to be met with such ungrateful criticism. Always misunderstood, never appreciated!\""
+    },
+    {
+        "Triggering Event": "As she mixed her paints, the once vibrant colors now seemed dull and lifeless. She had ignored his calls all week, too consumed by her art to bother with small talk. Today, however, his voicemail was different; it was laced with worry, with a hint of disappointment. A guilt-ridden shiver ran down her spine as she realized he'd been trying to reach her about their anniversary dinner plans.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're an artist named Cassandra who has been so engrossed in your latest painting that you've neglected to return your partner's calls all week. Today, however, their voicemail sounds different, laced with worry and disappointment. As you mix your paints, the once vibrant colors now seem dull and lifeless. Write down how you feel about this situation, using blunt language and a venting tone.\n\n**Text:**\nGoddammit, I knew something like this would happen! All week I've been so deep into my painting, and now look at me - knee-deep in fucking regret. His voicemail today was like a punch to the gut, all worried and disappointed. I can just picture it now: him sitting there, waiting for me to call back, getting more annoyed by the minute. And for what? Because I've been too busy chasing some stupid muse? Fuck me, this anniversary dinner is going to be a disaster. I can see it already - the tense silence, the forced small talk, the godawful tension hanging in the air like a thick fog. I should just cancel the whole thing now and save us both the misery. But no, I'll probably go through with it anyway, because that's what I do - I charge headfirst into shitstorms and hope for the best. What a bloody waste of time and energy."
+    },
+    {
+        "Triggering Event": "After a long day of surgeries, Dr. H returns home to find his wife quietly packing a bag. She turns to him, tears in her eyes, and says, \"I'm going to stay with my sister for a while. You've been so distant lately, ever since... you know.\" He feels a pang of guilt as she walks out the door without waiting for a response.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Venting Text:**\n\n\"Well, that's just fucking great! All I do is bust my ass at the hospital all day, saving lives left and right, and this is how I'm thanked? She's acting like I've been ignoring her for years, not just... you know, focusing on work a little more. And now she's packing up to leave? Drama queen much?\n\nI mean, it's not like I haven't been trying. I've been exhausted, yeah, but who isn't after a day of surgeries? And sure, I might have snapped at her once or twice, but that was just... you know, pent-up stress. It's not like I've been doing this on purpose.\n\nShe's making it sound like our marriage is some kind of dumpster fire, when really, it's just... it's just a little rough patch. A tiny blip in the radar. So what if we haven't had sex in a month? That doesn't mean I don't love her anymore. She's blowing this whole thing out of proportion.\n\nGod, I can't believe she's actually leaving. Over this? It's not like I've been having an affair or something. And now she's going to stay with her sister? Great, just great. Like that won't cause more problems down the line.\n\nYou know what? Maybe it's for the best. At least this way, she can see how much better off she is without me around. Not that I'm saying she's better off... you know, totally. But still, maybe this little break will do us some good. Yeah, that's it. A little perspective never hurt anyone.\""
+    },
+    {
+        "Triggering Event": "A lone email arrives in his inbox, from an editor he hasn't heard from in years. Subject line: \"Your Story Deserves Better\".",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a 35-year-old freelance writer, struggling to make ends meet. You've had some success years ago but have been experiencing a drought lately. Describe your immediate reaction upon receiving an email from an old editor with the subject line \"Your Story Deserves Better\".\n\n**Text:**\n\n*Fuck me*, I thought as I opened the email. *I knew it was too good to be true.* The last time this editor, Maria, had contacted me, she'd rejected my piece so harshly that I'd sworn off submitting to her again. *Probably wants me to rewrite something from a decade ago,* I grumbled inwardly.\n\n*Your Story Deserves Better.* Yeah, right. I could almost hear the condescension in her words. Like she thought she knew better than me about my own writing. *She probably just wants free content for their next issue,* I muttered, clicking on the email with a heavy sigh.\n\n*Hey Maria,* I typed out, my fingers hovering over the delete key. *What's up?* No way was I going to make this easy for her after all these years of silence."
+    },
+    {
+        "Triggering Event": "A middle-aged man, rushing home from work late one evening, notices his usually well-lit house appears dark and quiet. His heart quickens as he approaches, remembering he'd asked his wife to leave the porch light on before her book club meeting. He fumbles for his keys, dropping them in the darkness. As he reaches down to pick them up, he hears a faint, unfamiliar noise coming from inside. His breath hitches, fear gripping him as he wonders if she's home at all.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:**\nYou're a middle-aged man, rushing home late from work one evening. As you approach your house, it's unusually dark and quiet. You remember telling your wife to leave the porch light on before her book club meeting. Your heart races as you drop your keys in the darkness, picking them up with trembling hands. A faint, unfamiliar noise echoes inside. What's going through your mind?\n\n**Text:**\n\"Oh God, she must've forgotten... No, not again. I can't believe it. She always says she'll remember, but she never does. I'm such a fool to trust her. This is just like that time with the dinner party. Always so unreliable. What if something's happened? What if she's not even home? She probably lost track of time, chatting away with those stuck-up book club ladies. I can't believe this. It's always something with her.\""
+    },
+    {
+        "Triggering Event": "He was three minutes late for their Zoom meeting, which never happened. His wife's worried face filled the screen, her voice tinny and distant as she said, \"The kids are asking when you'll be home.\" His chest tightened. He couldn't remember if he'd turned off the stove this morning.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Oh great, three minutes late and she's already panicking,\" he muttered, scrolling through his phone for the tenth time to check if he'd turned off the stove. \"I swear, it's not like I was out partying all night. Three minutes, really? Guess that's what happens when you're married to a worrywart.\" He leaned into the camera, rolling his eyes exaggeratedly. \"Sorry, honey, did the world stop spinning because Daddy was three lousy minutes late?\" His voice dripped with sarcasm, but his heart continued to pound in his chest, echoing his wife's anxiousness across the miles."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her empty house, she hears a sudden creak from the attic, echoing through the silent rooms like an abrupt whisper. Her heart pounding in her chest, she reaches for the flashlight by her bed, its beam flickering as she climbs the stairs, each step echoing her racing thoughts. The attic door groans open, revealing shadows dancing eerily in the dim light. She takes a deep breath, stepping inside, her fear palpable with every cautious move.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"I'm not some jumpy teenager anymore,\" she muttered, her breath misting in the cold attic air. \"It's probably just a mouse or a loose board.\" But her heart thudded against her ribs like a trapped animal, and her hands trembled as she swept the flashlight across the dusty floor. She sighed, annoyed at herself for feeling afraid, but every shadow seemed to whisper 'danger', making her tense with dread. \"This is ridiculous,\" she grumbled, but her steps were slow, her body already preparing to flee if something moved in the dark."
+    }
+]

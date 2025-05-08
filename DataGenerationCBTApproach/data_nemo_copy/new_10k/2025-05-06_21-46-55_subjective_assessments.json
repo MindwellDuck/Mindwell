@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 6 PM, she flops onto the couch beside her husband's empty side. The TV news plays in silence; she couldn't bear hearing it aloud today. She stares at the framed wedding photo on the mantel, their smiles now bittersweet memories of a time when hope was still abundant. Her eyes flicker to the stack of unopened letters from editors who've stopped returning her calls. The hopelessness settles heavier in her chest, like a weight she can't shake off. Another day without work, another night alone. She wonders if anyone will even notice if she turns off the light and doesn't get up tomorrow.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:** Describe her thoughts as she stares at the unopened letters from editors.\n\n**Text:**\n\n\"You know what, fuck those editors,\" she muttered, tapping her fingers against the stack of letters. \"Who do they think they are, ignoring my calls? It's not like I'm some nobody trying to break into this industry.\" She crossed her arms, leaning back into the couch cushions. \"If they can't see my talent, that's their loss. They're just a bunch of stuck-up snobs anyway.\" She huffed, turning her attention back to the silent TV, where the news anchors seemed to be laughing at her misfortune."
+    },
+    {
+        "Triggering Event": "At 7 pm, he noticed an old photograph tucked behind his monitor. It showed him and his estranged brother laughing at a camping trip decades ago. The sight of it made him pause, realizing how much time had passed since they'd last spoken, let alone seen each other. A wave of regret washed over him as he wondered where the years had gone, and what might have been if he'd reached out sooner.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "In that instant, it struck him like a punch to the gut - not just the memory, but the brutal truth that their bond had been left to rot. Always, he'd thought, they'd been inseparable, two halves of a whole. Now, here he was, staring at this goddamn photograph, and all he could see was what wasn't there anymore. Never again would they share laughter like that, never again would they sit around a campfire without the ghosts of years' worth of silence between them. He felt sick, the weight of it crushing him. It was as if their entire lives had been leading up to this moment, and he'd missed his chance to make things right."
+    },
+    {
+        "Triggering Event": "She overhears an old colleague whispering to another nurse about how she's \"never been married, always putting work first.\" She feels her cheeks flush, her heart pounding in her chest as she realizes they might be talking about her.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"I'm not just some spinster, alright? Just because I haven't got a ring on my finger doesn't mean I don't know how to have a life! They're probably talking about someone else anyway. Always putting work first? Who even says that anymore? It's not like I have a choice. Either way, it's none of their business.\""
+    },
+    {
+        "Triggering Event": "A young woman in her twenties, dressed in a lab coat, watched as a colleague, barely older than herself, was presented with an award for their work in astrophysics. She felt a pang of envy as the room erupted into applause, her own achievements fading into insignificance in that moment.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:**\nDescribe how you feel when seeing your colleague receive an award, focusing on your thought process as you watch the event unfold.\n\n**Text:**\n\n\"I mean, who does he think he is? Getting an award for that? I've been here just as long, put in just as much work. But nooo, it's always him in the spotlight. Typical. Probably slept his way to the top too. I bet if I looked into it, I'd find something shady. I mean, who even nominates these people? It's a joke, right?\""
+    },
+    {
+        "Triggering Event": "She opened her lunch box in the lab, revealing mold growing on her sandwich.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a meticulous lab assistant, known for your punctuality and attention to detail. You've prepared your lunch the night before, following your usual routine. Describe your reaction upon discovering mold on your sandwich during your lunch break in the lab.\n\n---\n\n**Response:**\n\nUpon opening my lunch box, I was met with an unmistakable sight: a greenish fuzz sprawling across what should have been pristine bread. My stomach churned as if personally offended by this transgression against my culinary expectations. This is unacceptable! I took great care to prepare this sandwich last night, ensuring fresh ingredients were used. It should not be ruined by some microscopic invaders.\n\nThis was supposed to be a simple pleasure amidst the day's lab work. Now, it's tainted. The lab should be a place of sterile precision, not fungal proliferation. My colleagues around me continue their tasks, oblivious to this injustice. They shouldn't be so nonchalant about such an affront!\n\nI've always prided myself on my discipline and attention to detail. This lapse is inexcusable. It's as if the very rules I live by have been violated. This should not have happened! Now, I'm left with either a moldy sandwich or an empty stomach for the rest of the day. Unacceptable indeed!"
+    },
+    {
+        "Triggering Event": "He was hunched over his keyboard, lines of code scrolling past like ticker tape. A notification popped up: another 'Happy Anniversary' message from a colleague, the fifth today. He felt his jaw clench, teeth grinding. Not again. He slammed his fist on the desk, shaking the monitor. The room fell silent.",
+        "Sex": "Male",
+        "Age": 25,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're at work, engrossed in a task that demands your full attention. Suddenly, an interruption occurs, one that seems insignificant to others but feels monumental to you. How do you react? Remember, you must demonstrate 'All or Nothing Thinking' subtly and maintain a formal yet anxious tone with mild intensity.\n\n**Text:**\n\n\"Really, another one?\" I muttered under my breath, the notification's cheerful greeting mocking me from the corner of my screen. \"Five times in a row now, can't they see I'm busy? It's not like today is special or anything.\" My fingers tightened around the mouse, clicking it aggressively as if to silence the relentless stream of messages. \"It's either you're working or you're celebrating,\" I grumbled, \"there's no in-between here.\" The room seemed to still, a testament to my sudden outburst, yet I was blind to the nuance between the two extremes I'd just drawn. After all, in my mind, it was always one or the other; today, it just happened to be 'working' at an extreme level."
+    },
+    {
+        "Triggering Event": "He woke up to the buzzing of his phone at 3 AM. It was an email from work, subject line: \"Urgent: Server Down, Your Input Needed\". His heart pounding, he rushed to his laptop, fingers trembling as he logged in, hoping it wasn't another all-nighter.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Writing Prompt:** Describe his reaction to the email after opening it, reflecting 'Jumping to Conclusions'.\n\n**Text:**\n\n\"Well, isn't that just peachy? 'Your Input Needed', huh? I bet they've already done all the heavy lifting and now they're expecting me to hold their hands through the finish line. Typical. Might as well kiss my beauty sleep goodbye.\""
+    },
+    {
+        "Triggering Event": "She found an unopened letter from her ex-husband tucked behind their old wedding photo, still unpacked in her cluttered studio.",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I mean, what's the fucking point? Every time I think I'm done with him, another goddamn reminder pops up. It's like he's haunting me, always leaving unfinished business. And here I am, stuck in this cluttered shithole, never able to move on completely.\""
+    },
+    {
+        "Triggering Event": "He found a paintbrush on his canvas, untouched by him, its bristles stiff with dried pigment - her color, not his.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're an artist who takes pride in maintaining control over every aspect of your art process. You've spent hours meticulously preparing your canvas for today's session, when suddenly you notice a paintbrush among your tools that you don't recognize.\n\n**Text:**\n\n\"Upon examining the foreign object, I couldn't help but feel a surge of irritation. How dare she! This is my workspace, my sanctuary from the mundane world outside. Her intrusion was as glaring as the dried pigment caked onto those stiff bristles. It's not just about the brush itself; it's the principle of the matter. Every stroke I make is deliberate, a reflection of my meticulous nature, and here she is, leaving her careless mark on my canvas, tainting my process. I suppose I shouldn't be surprised, though. She's always been so thoughtless, so reckless with her art. While I labor over every line, she splashes colors around like some sort of wild animal. And yet, everyone fawns over her 'passion' and 'spontaneity.' Meanwhile, my work is just... 'safe' and 'boring,' I suppose.\""
+    },
+    {
+        "Triggering Event": "\"Checking his work email after dinner, he finds an unopened message from his boss, sent at midnight last night: 'We need to discuss your recent performance.'\"",
+        "Sex": "Male",
+        "Age": 45,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "**Prompt:** \"Sitting there, glaring at that fucking email from Mike, like it's some kinda late-night party invitation. Midnight? Who the hell works at midnight?\"\n\n**Text:** \"Christ, this can't be good. 'Recent performance'? Fuck, I've been slaving away here, pulling overtime left and right. But no, Mike had to send this shit at midnight. Like he's making some fucking statement, you know? 'I work harder than you.' Bull-fucking-shit. I'm busting my ass here, and he's sending emails like it's a goddamn challenge.\"\n\n\"Probably got some hotshot intern drafting his messages now. 'Oh, let me just forward this to John, he'll take care of it.' Fuck that. This is my shit too. I'm not some fucking intern, you know? But does Mike ever acknowledge that? Nooo.\"\n\n\"I bet if I checked Tim's inbox right now, it'd be all sunshine and roses. 'Great job on the Smith project!' 'Looking forward to your ideas at tomorrow's meeting!' Fuck, even my emails from Mike are all 'We need to discuss...' and 'Let's touch base...'. What a crock.\"\n\n\"Fine, I'll play his game. I'll open this fucking email at 11 PM on the dot. Show him I can work harder than some damn intern too.\""
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe stirred her coffee absently, the spoon clinking against the porcelain long after she'd stopped stirring. The lab was quiet this time of day, most of her colleagues already tucked into their families for dinner. She looked up at the clock, the hands ticking steadily towards 7 PM. He should have been here by now.\n\nHer phone remained silent, no buzz or vibration to announce his arrival. She'd left him a voicemail earlier, her voice barely above a whisper as she asked him to pick up some milk on his way home. It was their staple for breakfast, but it was running low, just like their conversations had been these past few weeks.\n\nShe felt the familiar knot tighten in her stomach as she considered the possibilities. Maybe he'd lost track of time, buried deep in his own work. Or maybe... She pushed that thought away, focusing instead on the rhythmic ticking of the clock. But each tick echoed louder than the last, amplifying her worry.\n\nJust then, the door creaked open. She looked up, hope flickering in her eyes, only to be met with the janitor's apologetic smile. \"Sorry, ma'am,\" he said softly, \"I didn't mean to disturb you.\" As the door clicked shut behind him, she felt the hope fade away, replaced by a familiar, gnawing emptiness.\n\nShe returned to her coffee, now cold and unappealing. The lab felt colder too, the hum of machinery no longer comforting but isolating. She sighed, pushing back from her desk, the wheels of her chair squeaking softly in protest. Another late night awaited, another silent dinner for one.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She felt like a failure, stuck in an endless loop of waiting and disappointment. Her life seemed to be falling apart, piece by piece, like the broken cup on her desk. She couldn't help but wonder if anyone would even notice if she disappeared."
+    },
+    {
+        "Triggering Event": "After closing up the store, he found the lost wallet from earlier in the day tucked behind the cash register. It was his regular customer's, the elderly man who always thanked him with a warm smile. He'd been so busy today, he hadn't noticed it missing until now. As he drove home, the weight of his negligence pressed heavily on him. He could see the disappointment in his wife's eyes when he confessed that he'd lost something precious to their kind customer. His remorse grew heavier with each mile.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He just didn’t care enough about his customers’ belongings. This is why he’s always late to work. If he were more responsible, he wouldn’t have lost that wallet in the first place. The way he’s always rushing through tasks shows how little he values other people’s property. Now he has to deal with the consequences of his own laziness. This isn’t surprising; after all, this man never does anything right. He probably doesn’t even know how much that customer was hurt by losing his wallet. Maybe he doesn’t even feel sorry about it. That would explain why he hasn’t returned it yet."
+    },
+    {
+        "Triggering Event": "At 6 AM, she entered the kitchen to find remnants of last night's takeout scattered across the counter, flies buzzing around the decaying food. Her partner had left for work hours ago, leaving behind this mess. She felt her stomach turn as she reached for a trash bag, her gloves barely protecting her from the grimy touch of discarded chopsticks and congealed sauces. The smell was overwhelming, a putrid mix of expired soy sauce and rotting vegetables. Her disgust was palpable; after decades of caring for patients in pristine hospital environments, this level of carelessness felt like a slap in the face.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She can't believe he would leave such a disgusting state. It's so out of character for him to be so careless with our home. I feel betrayed by his thoughtlessness. He must have been too busy to even think about cleaning up after himself. This is really disappointing; we're supposed to be a clean couple. She feels disrespected by his apparent lack of consideration for cleanliness and organization. His behavior suggests a complete disregard for personal space and boundaries. I am very disappointed in him."
+    },
+    {
+        "Triggering Event": "A middle-aged man, still in his uniform, sits alone at the bar after his shift. The bartender slides him another drink, eyeing the empty stool next to him. \"Another one for the road, Officer?\" he asks, a hint of familiarity in his voice. The man nods, but his grip tightens around the glass as he notices a young couple laughing nearby, their hands entwined. His gaze lingers on her wedding ring, a bitter taste rising in his throat that has nothing to do with the whiskey.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "He's either a good cop who genuinely cares about everyone, or he's a misogynistic pig who thinks women are inferior, only interested in hitting on waitresses. There's no room for subtlety; they're either one or the other. He can't be both. The thought makes me sick. I feel like I've been punched in the gut. It's just so... wrong. How can someone be capable of such cruelty? They must be a monster. No wonder she wears it like it's a badge of honor - she doesn't want anything to do with him. She's better off without him, and he deserves to rot in hell for what he did to her. I'm just glad I don't know where she is now, probably somewhere safe, far away from this asshole. This is all too much. I need to get out of here before things escalate further. ---"
+    },
+    {
+        "Triggering Event": "At the art gallery opening, she overheard a patron whispering to her friend, \"It's all so... childish.\" She felt the heat rise in her cheeks as she realized they were looking at one of her paintings.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She felt like she'd been punched in the gut when someone said that. It wasn't just that it was childish; it was a personal attack. The way they spoke, with such disdain, made her feel like she'd failed somehow."
+    },
+    {
+        "Triggering Event": "After a long day of dealing with rude customers, she returned home to find her partner hadn't done the dishes from breakfast. She had specifically asked them to be done before she got back. Seeing the dirty plates and cutlery strewn across the sink, she felt her face grow hot, her hands shaking as she slammed the door behind her.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She's so insensitive and uncaring about my needs. I always tell him what to do, but he never does it. It’s like he thinks he can just ignore me because we’re in a relationship and I don’t care. This is exactly how everyone feels when they see this kind of behavior from someone they love. People are going to start calling her names, and she’ll become the laughing stock of our friends and family. He doesn’t even deserve to live with such an amazing woman who has to put up with his lack of responsibility every single day."
+    },
+    {
+        "Triggering Event": "In the dimly lit break room, he found the fresh pot of coffee missing, replaced by an empty carafe and a note from the new recruit reading \" Saved some for later.\" He felt his grip tighten around the mug in his hand.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He must have been one of those people who always takes what's left out of consideration. It was probably another case of someone taking advantage of him being absent to get their caffeine fix ahead of time. He wondered if they were just trying to set themselves up for success while he was gone."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe finds an old paintbrush, its bristles still stained with the vibrant hues of her first gallery show, now faded like memories. She holds it gently, fingers tracing the familiar curves, as tears well up and spill over, each drop echoing the silent loss of her artistic inspiration.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She can’t bear to put it away; she feels it might be the last reminder of her success. What if someone else picks it up and uses it for good?"
+    },
+    {
+        "Triggering Event": "A male chef, 46, was mid-prep in his bustling kitchen when he noticed one of the line cooks, a young kid with a careless attitude, had thrown out an expensive piece of fish he'd specifically set aside for tonight's special. He felt his blood boil as he snapped, \"What the hell is wrong with you?\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "He was so flustered that he said to himself, \"If I ask him what he did, maybe it'll stop happening again.\" Then, he started wondering, \"If I don't remind him, will he throw away another valuable piece?\" His mind kept jumping between possibilities, \"If I say nothing, he might just ignore me,\" and \"If I tell him off, he'll get defensive.\" He was worried about all the potential consequences, from financial losses to damaging his reputation. He imagined scenarios where the kid threw away more valuable items or even got fired. He thought about how his boss would react if he found out, and how it could affect his own job security. He felt anxious thinking about the possible fallout, from damage control to potential lawsuits. He pictured himself getting sued for wasting food or facing disciplinary action, which would lead to a pay cut. His worries escalated, imagining the worst-case scenario: losing his job and struggling financially. He wondered if he was overreacting and whether it was really worth scolding the kid. But then he thought about the long-term implications – if he didn't take a stand now, would the kid continue to waste resources? He was torn between letting it go and confronting the issue. He imagined the kid might be having personal issues at home, leading him to make reckless decisions. He thought about how this could be a sign of deeper problems, and how he needed to address them before they affected other employees. He felt guilty for even"
+    },
+    {
+        "Triggering Event": "She noticed his favorite mug in the cupboard, still chipped from their last camping trip. A soft sigh escaped her as she reached for it, the melancholy wrapping around her like a familiar old shawl.",
+        "Sex": "Female",
+        "Age": 34,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She couldn’t help but feel a pang of disappointment as she picked up the mug, the chipped handle looking almost worn-in. It was such an ordinary moment—a simple gesture, really—but somehow felt like a reminder that things were never quite right between them. The way he left it there, as if he didn't even care enough to wash it properly, seemed like another example of how little effort he put into anything they did together. It wasn't just the mug itself; it was what it represented—how often he'd come home late, tired, and distracted, leaving her to clean up after him. Now, every time she looked at it, all she could think about was how much better things would have been if he’d made more of an effort."
+    }
+]

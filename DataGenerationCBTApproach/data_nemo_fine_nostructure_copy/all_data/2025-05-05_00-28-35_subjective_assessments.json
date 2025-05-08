@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A woman, married and in her late twenties, sits alone in her hospital locker room, removing her lab coat after a long shift. She pulls out her phone to find a missed call from her husband's number, followed by a text: \"Hey, can we talk later? I've been thinking about us.\"",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She thought it was weird because she hadn't heard him mention anything like that before, so she didn't give much thought to it."
+    },
+    {
+        "Triggering Event": "A lone snowflake fell onto his gloved hand as he stood outside the church, the echoes of the couple's vows still ringing in his ears. His sadness was palpable yet unspoken, a familiar companion these days. The graveyard across the street held her name, etched in cold stone, another silent reminder of their past life together.",
+        "Sex": "Male",
+        "Age": 36,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "My hands are freezing. I can’t believe it’s already this late. I’m usually done by now. It took me so long to get here because I kept stopping at that café to warm up with hot chocolate. But even that didn’t help much. My breath is visible in the air—this must be why they call it winter. It feels like my heart is slowing down too; I haven’t felt this way since she left. Every step I take feels heavier than usual, like I’m carrying the weight of the world on my shoulders. I keep thinking about how beautiful the sky looked when we were walking toward the church earlier. She was laughing, her eyes shining bright under the stars. I remember how happy I was seeing her again after all those years. Now, everything just feels empty. As I look around, I notice the silence is deafening—a stark contrast to the sound of our footsteps echoing through the streets. It’s almost as if the city itself has fallen into mourning. I wonder if anyone else feels this sense of loss, but deep down, I know I’m the only one who understands what it means to carry such pain. The wind is picking up, and I can see the flakes starting to fall. One landed on my glove, and for a moment, I thought it might have been a sign. Maybe it was a message from her, telling me to stay here forever. I wish I could hold onto something, anything, but the reality is that"
+    },
+    {
+        "Triggering Event": "She juggles her phone between ear and shoulder, barking orders to her sous chef while chopping parsley with record speed. Her breath hitches as she realizes the clock tower has chimed noon already; the lunch rush is about to begin, and she's still waiting on a crucial ingredient from her supplier. The line cook stares at his watch, then at her, worry etched in the deep creases around his eyes. She feels the familiar squeeze of stress in her chest as she reaches for the phone again, praying this time the supplier will pick up.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She must be worried because she looks so tense, and we've been working together long enough that I can tell when she's stressed about something. Maybe it’s just another last-minute order? I hope it arrives soon, but honestly, I’m not sure if she even needs it - maybe she was over-preparing earlier? I’ll try to help out more, see if I can save some time, but I don’t want to get in the way. It would be better if she had an assistant like me, but that’s not going to happen anytime soon."
+    },
+    {
+        "Triggering Event": "He walked into their empty bedroom, still unmade from yesterday morning's rushed departure. His wife's side of the bed was cold now, her warmth replaced by a chill that seeped into his bones. He picked up her favorite book from the nightstand, its spine cracked open to where she'd left off. The pages were still dog-eared with her tiny, neat notes in the margins. He sat down on their bed, running his fingers over the indents of her words, feeling the weight of her absence like a physical pain in his chest.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He must be a horrible husband. She probably didn't even notice how much he helped out around the house. She probably just took him for granted because he's always working late hours anyway. He doesn't care about us at all. I'm starting to think he's not really my son anymore. It feels so empty having no one here. I wish we could have had more time together. Why did things have to go this way?."
+    },
+    {
+        "Triggering Event": "She worried about the upcoming parent-teacher conference, her third cup of coffee untouched as she checked the school's online portal for the hundredth time that morning. The email from Mrs. Thompson still glared at her, \"Concerned about Emma's progress in Math.\"",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She was so nervous about it! I was just double-checking to make sure everything is okay because what if I forgot to ask a question during our last meeting with Mr. Johnson, and now I'm starting to worry that there might be some bad news. What if she thinks my daughter isn't doing well enough, or maybe she noticed that we haven't been attending all the school events, which could raise some red flags? It's probably nothing, but I can't shake off this feeling of dread. What if they're going to tell me that my kid needs more help than I've already provided? She took another sip of her cold coffee, then quickly got up to tidy her room before the parents arrived. This is going to be a tough conversation, and she needed to feel better about herself, even though deep down, she knew she'd have to accept whatever feedback came her way. She couldn't wait to get to the school, but first, she had to finish cleaning up her desk. What if she left her notes on her computer instead of her binder? What if she accidentally knocked over her water bottle while rushing out the door?"
+    },
+    {
+        "Triggering Event": "A regular at the bistro, a man in his late forties with silver hair and kind eyes, approached her station after lunch rush. \"You know,\" he said softly, \"your husband's recipe for bouillabaisse was always my favorite. It's not the same without him.\" She felt her cheeks flush as she looked down at the counter, avoiding his gaze.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt embarrassed by the comment, which made her think about how much she missed her late father; it reminded her that she still hadn't tried to make the dish since his passing. The memory of his stern demeanor flashed before her mind's eye, and she wondered if she had forgotten too many details about the recipe."
+    },
+    {
+        "Triggering Event": "At 11 AM, he returned home to find his wife's painting supplies still untouched since her passing six months ago. The canvas was blank, save for a single dried tear stain in the center.",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "This is so weird. He could have been cleaning up, but it looks like she just left them there. That would make sense because it's not like she would need anything else from us right now. She might have gotten distracted by something and forgotten about it, but it makes more sense if she intentionally left everything intact. It must mean she really wants me to keep creating with those paints. I'm glad I didn't touch them; I feel like I wouldn't know what to do with them anyway."
+    },
+    {
+        "Triggering Event": "In her cluttered home office, she watches as her partner of thirty years struggles with a recalcitrant printer, his face flushing red with frustration. She sees him reach for the coffee cup too close to the stack of papers, knows what's coming next, but her body remains frozen in her wheelchair, unable to intervene as the inevitable spill happens. Helplessness washes over her like cold sweat as she watches him mop up the mess, muttering about useless machines and wasteful ink.",
+        "Sex": "Female",
+        "Age": 66,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She doesn't seem to mind it. It's just another day at the office, after all. And he does clean up afterwards, so I suppose it's fair enough. He's always been a bit of a klutz anyway; it's just part of who he is. Plus, she was being way too bossy earlier, telling him how to print and all that nonsense. So yeah, maybe this little mishap isn't the end of the world."
+    },
+    {
+        "Triggering Event": "She returns home from another draining day at the store, her reflection in the window showing more lines than she remembers. The house is quiet, too quiet. His chair still empty at the kitchen table. She reaches for her wedding ring, now a lonely circle on her finger, and feels the familiar pang of loss. Her daughter's message pops up on the phone: \"I won't make it for dinner this week.\" She stares at the screen, the words blurring as rejection settles heavy in her chest like an unwelcome guest.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She cannot stand to live anymore; she might as well just end everything right here. Or maybe she can't bear to be alone either; she'll have to go through this miserable existence forever, forced to watch her children struggle while she struggles along beside them. There's no middle ground when you're already drowning in your own sorrow, so why bother trying? It doesn't matter if she tries to find a way out or just give up completely - there's no escape from these feelings anyway. If anything, they seem to grow stronger with each passing day."
+    },
+    {
+        "Triggering Event": "She opened her lunchbox to find a moldy sandwich, leftovers from last week's potluck at work. The sight of the green spots and soggy bread turned her stomach.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She probably has a gross stomach and doesn't care about other people's lunches anymore."
+    }
+]

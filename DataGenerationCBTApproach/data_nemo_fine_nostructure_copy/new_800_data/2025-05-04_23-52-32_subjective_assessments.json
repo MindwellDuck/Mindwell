@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Every Tuesday, he'd arrive home to find dinner on the table, his wife's warm smile waiting for him. Today, however, as he pushed open the door, a pungent odor hit him like a wall. His stomach churned at the sight of half-eaten leftovers from days past, still sitting untouched on the kitchen counter, flies buzzing around them. The disgust rose in his throat as he realized this wasn't just a slip-up; she'd been doing this for weeks, letting their once-pristine home decay into something unrecognizable.",
+        "Sex": "Male",
+        "Age": 66,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "My mind reeled as I thought about how my wife had always been so meticulous with our home—how we'd spent countless hours cleaning, cooking, and planning meals together. And now, it felt like everything was falling apart before my eyes. She hadn’t cooked for me in over two months, and what little she did was always sloppy. I couldn’t understand why she’d let things get so out of hand."
+    },
+    {
+        "Triggering Event": "He found her lab coat, still neatly hung behind the door of their shared study. The faded ink stain from her last experiment marred one pocket. He hadn't touched it since she'd passed. Now, faced with its quiet, accusing presence, shame welled up within him. He'd been too busy with his own work to notice how often she'd stayed up late, helping their daughter with her science fair project - a project he now realized was never about the prize, but about nurturing a passion he'd taken for granted.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He felt like an idiot, standing there in his lab coat, holding the worn notebook she'd left on her desk. I couldn't help but feel embarrassed; I had no idea she spent so much time helping our daughter. It seemed so obvious now, yet at the time, I just assumed she needed some extra practice. I can’t believe I didn’t see this coming. I know she loved teaching, and I should have noticed when she always said things like “We’re not done until she understands!” But I guess I just let my own worries about the lab take over. She must have seen me stressing out about the funding and forgotten all about it. It’s easy to get caught up in your own problems and forget what matters most. Now that I think about it, I remember she used to say something like that whenever we were working on a difficult part together. I guess I just wasn’t listening as hard back then. I wonder if I could've helped more by being there for her instead of getting lost in my own thoughts. If only I had been paying closer attention... I’m going to make sure to be more present from now on. Maybe I can even try to teach her sometime. Who knows? We might both learn something new. # Personalization ## Distorted Thought: \"I am an idiot because I didn't realize my wife's efforts sooner.\" ## Corrected Thought: \"My wife is very dedicated to teaching and supporting our daughter's learning.\" ## Distorted"
+    },
+    {
+        "Triggering Event": "She felt her cheeks flush as she realized, halfway through helping an elderly customer reach for a bottle of wine on the top shelf, that she'd forgotten to put on deodorant that morning. The customer, seemingly unaware, thanked her politely, but Lisa couldn't shake off the humiliation.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She was really embarrassed when she saw the look in her coworker's eyes after she forgot to put on deodorant that morning. It seemed like he knew exactly how she felt, and his expression made it feel like he could see right through her. He didn’t even say anything; just looked at her with a mix of confusion and concern. But it was clear he understood what she was going through – the way he raised an eyebrow, almost as if he was trying to ask, “Is everything okay?” Like he knew something about her, but wasn’t saying it out loud."
+    },
+    {
+        "Triggering Event": "She overheard her colleagues discussing how much faster their exes were at learning the new coding language, laughing about their own struggles to keep up.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was drowning in an ocean of incompetence as she listened to her coworkers boast about how quickly their previous partners had picked up the coding skills. The irony wasn't lost on her; while they seemed to effortlessly grasp the concepts, she struggled to keep pace with even the simplest tasks. It felt like everyone around her was moving forward while she was stuck in quicksand. Her mind began to spiral, imagining all the things she could be doing instead of listening to this pointless competition, but every time she tried to change the subject, the laughter continued, making it harder for her to focus on anything else."
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she found herself staring at the empty second mug by the coffee maker, the one she'd always set out for him. She hadn't touched it in months, but today, the sight of it felt like a knife twisting in her chest. It was just another morning without him, but somehow, this one seemed darker, heavier, like a weight pressing down on her heart. She wondered if the hopelessness she felt would ever lift.",
+        "Sex": "Female",
+        "Age": 29,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She feels as though he's either completely gone forever, leaving her with nothing but memories of what they had, or that every day will be just as painful as today, never letting up, slowly draining her soul until she's left a hollow shell. Either way, the thought is unbearable."
+    },
+    {
+        "Triggering Event": "She checks her phone after filing her latest article, finding only silence where she expected a message from him. The office is emptying around her, everyone rushing home to their partners, their families. She lingers, typing out a draft message before deleting it, unable to find the right words to express the hollow ache in her chest. As she steps out into the cold night, alone, she feels like just another story untold.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She doesn't check her phone at all because there's nothing new, but that's how I feel every time he leaves me. I'm always looking for something new, anything to make this feeling go away, but there's never enough. It's like trying to fill an endless void with empty promises - it's futile. I know I need to stop expecting messages from him, but it's hard when my mind keeps replaying what could have been if he stayed. Instead, I end up focusing on everything else, avoiding the pain by distracting myself with work and even with our coworkers. But deep down, I know it won't work forever."
+    },
+    {
+        "Triggering Event": "She was restocking the shelves at the back of the store when she noticed her ex-husband's new wife walking down the aisle, pushing their baby in a stroller.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She has to be lying about everything. I know what happened because I saw it happen. He was a cheater, he cheated on me with his coworker, and he said he would never cheat again. But he did, and now this woman is trying to replace me in his life. She probably thinks she can fool everyone by pretending like they're happy together. Well, I'm here to tell you that's not going to work. I have proof that she's cheating too, and I'm going to expose her. This whole thing just makes me so angry, especially since she's always talking about how great our marriage was. The worst part is, she's been flirting with him for months. She knows exactly what she's doing, and I'll never trust her as far as I can see."
+    },
+    {
+        "Triggering Event": "Every weekday morning, she'd walk past the house where her ex-husband lived with his new family. Today, as she passed by, she noticed they had painted the door a vibrant blue, the same shade he'd promised to paint their old bedroom years ago.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She was surprised to notice how much the house looked different from afar. The bright blue door seemed out of place among the other houses in the quiet neighborhood. It wasn't just that it was blue; the color stood out against the duller tones around it. She wondered if they were trying to make a statement or if it was simply an afterthought."
+    },
+    {
+        "Triggering Event": "In his quiet, empty kitchen, he began to chop onions, their sting in his eyes mirroring the loneliness that filled his home since she left. The rhythmic slicing did little to mask the silence, only amplifying it with each thud of the knife against the board. He paused, looking at the clock. It was 6 PM - the time they used to start cooking together. He resumed, his cuts growing haphazard as his mind wandered to her laughter echoing in this now-silent space.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He felt like a failure for even attempting to cook alone; every onion slice seemed to mirror the emptiness he couldn't escape. As he stared at the clock, he realized how much time had passed since he'd last cooked for two instead of one. Each passing minute reminded him of what he lacked—her presence, her touch, her smile. Even the sound of the knife cutting through the onions felt hollow, like the silence that surrounded him. Every breath felt heavy, weighed down by memories of their happy dinners together. He tried to shake off the feeling but found himself lost in thought, wondering when she would return, and if ever again. The kitchen, once full of joy, now felt empty, just like his heart."
+    },
+    {
+        "Triggering Event": "In the fading light of his home office, he noticed a faded photograph tucked behind a bookshelf. It was them, years ago, laughing at a cafe in Paris. Her smile, once radiant, now haunts him like a ghostly echo. He feels the melancholy wash over him, a familiar wave that threatens to consume him.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "In the dim glow of my study, I found a forgotten memory—a snapshot from our past, taken during a trip to Paris. The image is faded, but her smile still lingers, haunting me with its presence. This moment represents a turning point in our relationship; it's either the beginning of something beautiful or a harbinger of everything that followed. There's no middle ground—I see it as a choice between those two extremes. I can't imagine us ever being happy together again, just as I can't envision a future where we'd remain friends after what happened. The photograph has become a constant reminder of what could never be—two paths diverging in the same moment, each one leading away from what we had. ---"
+    }
+]

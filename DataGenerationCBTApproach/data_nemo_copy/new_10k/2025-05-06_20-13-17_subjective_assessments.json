@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He noticed her laughing with another man at his favorite coffee shop, their heads close together over steaming cups. It was just a laugh, but it felt like a punch to his gut.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction to seeing your partner laughing with someone else at your favorite coffee shop.\n\n**Text:**\n\"Seriously? It's our spot, you know? We've shared a million laughs here. This ain't right. She's supposed to be all smiles when she sees me, not him. Her laugh should be mine, not his.\""
+    },
+    {
+        "Triggering Event": "A middle-aged man, his hands trembling with barely contained anger, watches as a young student carelessly tears pages from a vintage book he'd lent for inspiration in their poetry class. He hadn't realized until now how much that book meant to him, a remnant of his late mother's collection. The man clenches his jaw, veins bulging on his forehead, as he strides towards the student, determined to make them understand the gravity of their thoughtless act.",
+        "Sex": "Male",
+        "Age": 63,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I mean, it's not like he didn't know it was vintage,\" the man mutters to himself, his hands still shaking slightly as he approaches the student. \"Either you respect a book or you don't. There's no middle ground here.\""
+    },
+    {
+        "Triggering Event": "A parent emails at 10 PM, \"Your lesson plan for tomorrow is unacceptable. I expect better from a teacher of my child's caliber.\"",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're a teacher named Rick who received this email at 10 PM from your student's parent. You tend to blow things out of proportion when it comes to criticism.\n\n**Rick's Response:**\n\n\"Oh, for crying out loud! 'Unacceptable'? I've been teaching for ten years and now my lesson plans are 'unacceptable'? This is a bloody joke. I spend hours planning these lessons, and this is the thanks I get?\n\nAnd what does he mean by 'better from a teacher of my child's caliber'? My kid's no genius, last I checked. Typical parent thinking their little angel deserves Harvard material every day.\n\nI guess tomorrow's lesson plan will have to be perfect now, or else I'm just failing this kid. No pressure, right?\""
+    },
+    {
+        "Triggering Event": "A former student, now a teenager with a smug grin, approaches him at the local store, whispers, \"Your wife's moved on, you know,\" and walks away, leaving him gripping the shopping cart handle, knuckles white.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "**Writing Prompt:** Describe the scene unfolding in your mind after the teenager's remark.\n\n**Text:**\n\n\"Fucking kid, who does he think he is? My hands are shaking, cart's rattling like a goddamn earthquake. I can feel it, it's true. She's moved on, just like he said. How could she? After all these years... It's over, isn't it? I can feel the truth in every beat of my heart, every breath that won't fill my lungs. This is real, this is happening. I gotta get out of here, gotta go home and face it. Face her.\""
+    },
+    {
+        "Triggering Event": "In the middle of his 8 AM lecture, the overhead projector suddenly flickered to life, displaying not his carefully prepared slides, but an old photograph from his wedding day, still married, laughing with his ex-wife. The room fell silent as students exchanged glances, their eyes darting between him and the screen. He felt a hot flush creeping up his neck, his hands trembling slightly as he rushed to shut off the projector.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Great, just great! This is ridiculous. How could they let this happen? I'm supposed to be teaching here, not reliving my past. Look at them, staring like they've never seen a photo before. They must think I can't handle it. I mean, look at me, shaking like some amateur. This is just... this is just ridiculous.\""
+    },
+    {
+        "Triggering Event": "In the quiet of her study, she noticed a familiar dust dancing in the shaft of sunlight. It was his preferred spot, where he'd sit for hours engrossed in some tome or other. She felt the ache again, a dull echo of the loss that had become her constant companion since he was gone.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Writing Prompt: A widow, sitting in her late husband's study, notices dust motes dancing in the sunlight, triggering memories of him.\n\nText:\n\"Goddamnit, this place is still his fucking domain. I'm just the godforsaken interloper now.\" She swept a finger through the dust, leaving a clear streak on the otherwise untouched windowsill. \"I can't even call it my study anymore. It's his, always will be. The old bastard left me with nothing but ghosts and fucking dust.\""
+    },
+    {
+        "Triggering Event": "He entered the gallery, his heart pounding with pride and anticipation, but as he saw the empty wall where his painting was meant to hang, he felt a wave of humiliation crash over him. The curator approached, avoiding eye contact, \"We chose another piece instead.\"",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Just like that, I'm nothing but a failure. A reject, dismissed by some pretentious curator who wouldn't know art if it bit him on his insincere face. My painting was good enough to hang here yesterday, but now? Now it's just another worthless scribble, because he said so. Well, he can take his empty wall and shove it. I'm done with this place, done with trying altogether.\""
+    },
+    {
+        "Triggering Event": "At 7 AM, he noticed the empty wine bottle beside her sleeping form. He'd asked her to stop drinking before bed, but today it was his turn to wake up early for work. Resentment simmered as he prepared breakfast in silence, the familiar clatter of pots echoing his frustration.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Prompt:** Describe his inner dialogue while preparing breakfast.\n\n**Text:**\n\n*Fuck,* he thought, gripping the pan handle tighter than necessary. *What if she'd passed out? What if she choked on her own vomit?* He glanced at her, motionless under the blanket. *Shit, what if she's still drunk and drives the kids to school?* His heart pounded, imagining the worst. *Christ, what if there's an accident?* He slammed a plate down harder than intended, making the cutlery jump. *Goddammit, why can't she just stop? What if this ruins everything?* He sighed, shoulders slumping as he stirred eggs that no longer needed it."
+    },
+    {
+        "Triggering Event": "She noticed his favorite pen, the one she'd given him on their first anniversary, tucked between the pages of an unopened book on her nightstand. A lone tear stained the page as she traced its familiar shape, a quiet sob echoing through the silent room.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Prompt:** \"He's been cheating on me with that bitch from work.\"\n\n**Text:** \"Fuck! I knew it. Found his damn pen here again, the one she gave him last year. Probably used it to sign love notes to her while I was slaving away at work. Bastard can't keep his shit together. Didn't even bother hiding it this time.\""
+    },
+    {
+        "Triggering Event": "The gallery owner, who had once praised her work as \"timeless,\" now stood before a blank canvas in her studio, hands clasped tightly behind his back. He cleared his throat, \"I'm not sure your style will appeal to this season's buyers, dear. I can't promise anything.\" As he left, she watched the sunlight fade from the room, worry gnawing at her gut like an unwelcome familiar.",
+        "Sex": "Female",
+        "Age": 61,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** \"How did that gallery owner's comment make you feel? Write down what went through your mind after he left.\"\n\n**Text:**\n\n\"That fucker just killed my buzz with one lousy sentence, man. 'I can't promise anything.' Fuck me, right? It's not like I've had hits before, ya know? Every show I've done, they loved it. Always fucking sold out. But now... now he's standing there, acting like I'm some damn rookie. This season's buyers won't like my style? Bullshit! They never have, is what that means. It's always the same story with these pretentious assholes.\""
+    }
+]

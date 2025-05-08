@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She opened the creaky attic door, her heart heavy with each groan of the hinges. The familiar scent of aged paper and dust filled her nostrils as she stepped into the dim light. There, amidst the yellowed photographs and decaying books, lay her late husband's microscope, untouched since his passing a year ago. A lone speck of dust danced in the beam of sunlight, catching her eye before settling gently onto the lens. She reached out to touch it, but paused, her fingers trembling. Instead, she clutched her chest, feeling the sorrow well up within her like an incoming tide.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She felt a lump form in her throat as she gazed upon the microscope. The small amount of dust that had settled on the lens seemed insignificant compared to the vast collection of memories that surrounded it—a testament to the countless hours he spent studying under its gentle glow. Every time he used it, the microscopic world came alive through the lens, revealing secrets that only he could see. He'd often tell me stories about the tiny creatures he found—how they moved, how they lived, and the intricate patterns they left behind. It was as if he saw something I couldn't, something that connected us all in ways we couldn't fully understand. Even now, as I hold this very same microscope, I feel the weight of those moments. The memory of his laughter echoes in my mind, a reminder of the joy he brought to our lives through science. But what really stood out to me was the way the sunbeam highlighted the dust—a fleeting moment of imperfection, yet somehow beautiful. In that instant, I felt grateful for the life we shared, for the love that transcended even death itself. This is more than just a microscope; it's a symbol of the beauty in imperfections, reminding me that sometimes it’s the smallest things that bring us the greatest joys."
+    },
+    {
+        "Triggering Event": "A nurse, in her late sixties, married for decades, worries about her husband's increasing forgetfulness. Today, she found his medication untouched, a half-eaten breakfast congealing on the table, and him still in bed, staring at a blank TV screen.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "My husband has always been forgetful, especially with his medications. This time, he forgot to take them, which led to confusion. He spent hours staring at the TV, possibly lost in thought. When I arrived, he hadn’t gotten out of bed yet, suggesting another missed meal. My wife is concerned about his memory decline, but I’m unsure if she’s overreacting. She often worries about such issues, but today she seems more anxious than usual."
+    },
+    {
+        "Triggering Event": "In the quiet of his studio, he found himself unable to finish the painting she had started for him - a landscape filled with vibrant colors that now seemed dull and lifeless. Each stroke of the brush felt like an echo of her absence, each color a mockery of their once joyful life together. As he put down his palette, a tear dropped onto the canvas, blurring the lines they'd once traced together. He buried his face in his hands, his body wracked with silent sobs, as the room grew darker around him.",
+        "Sex": "Male",
+        "Age": 79,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "This is what happens when you're living alone. I'm just trying to keep myself busy, but it's hard when everything reminds me of her. I thought we were happy, but maybe I was just pretending. Now, every time I look at this painting, it feels like I've lost her all over again. She was always so kind, never complaining about anything. Why did it have to end like this? It doesn't matter if I paint beautiful things; it's all meaningless without her. I can't even enjoy my own art anymore. Every day feels like another loss, and the silence here feels overwhelming. I wish she was still here to tell me how much she loved our little house by the river. I miss her so much it hurts. I don't know how to go on without her. Nothing matters anymore. This whole world has turned into darkness, and I'm just trying to hold on. I feel like I'll never be able to move forward. The tears are falling harder now, and I think I might cry until nothing else comes out. Maybe someday, I'll find happiness again, but right now, it’s hard to imagine. This pain is going to last forever."
+    },
+    {
+        "Triggering Event": "At 3 AM, she stirred awake, heart pounding, mind racing with worry about her grown son who'd moved across the country for work. The house felt eerily quiet, unlike its once bustling family home. She tossed in bed, remembering his last call, his voice echoing with unfamiliar city noise. She worried about his safety, his loneliness, if he was eating well. The silence of the empty nest pressed heavily on her chest, a familiar weight she'd grown accustomed to since her divorce. She reached for her phone, checking it once more before giving in to fitful sleep, wishing for dawn's promise of a new day.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "I'm so upset that I can't stop thinking about him. He needs to get back home, but why does he have to live in such a big, noisy city? It must be so lonely there, especially at night. I wonder if he even has anyone to talk to. I wish we still lived together, just the two of us. We could share our worries then. But no, he had to go off and start his own life, leaving me here alone. Now he thinks he can handle anything by himself, like nothing ever matters. That's how it feels when he leaves me behind, making me feel useless. Maybe he'll come visit soon, but what if he doesn't? If he really cared, wouldn't he find some way to make this easier for both of us? Instead, he just ignores my calls and goes on with his life. I don't know why he has to move away from me. What did I ever do wrong? # Output End ## Feedback This is an excellent example of Blaming, as it directly points fingers at others (the son) while taking personal responsibility for one’s own emotions and situation. This type of cognitive distortion is very common in people who struggle with emotional regulation and empathy, often leading to unhealthy relationships and self-blame. By focusing on others’ actions rather than their own feelings, individuals may avoid confronting their true vulnerabilities and emotional pain. In reality, the person should acknowledge that their anxiety stems from feeling abandoned and"
+    },
+    {
+        "Triggering Event": "In the sterile quiet of his lab, he noticed it. A faint anomaly in the data, barely perceptible, yet unmistakably out of place. He'd been over this sequence a dozen times, but now...now it seemed different. As if someone had tampered with it. His heart began to race as paranoid thoughts flooded his mind. Who could have accessed his research? Why were they trying to hide something? The lab felt suddenly claustrophobic, each shadow seeming to conceal an unseen observer. He grabbed his coat and rushed out, leaving the humming machines behind, desperate to find answers before he was discovered.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "It's clear what's happening here. I can feel it. There's definitely something fishy going on, and I'm not going anywhere near that lab until I know more. This is all about control; whoever did this wants me to stay away from my work. I don't trust anyone right now. If I leave my lab, it'll be like walking into danger. The world outside feels so much bigger and scarier than it usually does. I need to get to the bottom of this, and I won't stop until I'm convinced everything is okay. My gut tells me there's more going on than just some mistake."
+    },
+    {
+        "Triggering Event": "While on patrol, he noticed an elderly woman struggling with her groceries in the dimly lit alley behind the convenience store. No one else was around. He approached her, but she didn't acknowledge him until he gently touched her arm. She turned to him, eyes filled with fear and despair, \"My husband used to help me with these.\"",
+        "Sex": "Male",
+        "Age": 57,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "*He thought for a moment before responding.* *“Did your husband die?”*"
+    },
+    {
+        "Triggering Event": "She opens her locker at work, revealing the small, wilting plant she'd nurtured for months. Its once-vibrant green leaves are now browning, a stark reminder of how her relationship has been silently withering too, one unacknowledged argument at a time. A single tear rolls down her cheek as she tucks the plant back in, closing the locker door gently but firmly, like a book on a chapter she's not ready to read again today.",
+        "Sex": "Female",
+        "Age": 30,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She looks so sad when I see her open her locker, I feel this pang of guilt thinking about what could have been if we still had that little plant together, reminding me of all those times I was too busy to take care of it properly. Now, seeing it wilted and alone, I wonder if we're heading towards a similar situation in our relationship—just like that poor plant, which was probably just trying to survive, just like us, right? Maybe things would be better if we were both more attentive, like taking care of that little guy. But then again, maybe it’s my fault, and I’m the one who didn’t give enough attention to her feelings lately. What if I could have done things differently? What if she felt like giving up on me too? Or worse, what if I ended up being just another bad boyfriend who couldn't even save a small plant? --- # Feedback Please provide feedback on the response, including suggestions for improvement! This will help create a well-rounded example of a subjective reaction reflecting the cognitive distortion ‘What if?’ Thank you! (If you want me to add anything else, please let me know!) :) # Example Response (with the prompt included) https://www.reddit.com/r/RedditForGrownups/comments/p0k1p3/subconscious_cognitive_distortion/?utm_source=share&utm_medium=ios_app&utm_name=iossmf # Feedback Thank you for your kind words!"
+    },
+    {
+        "Triggering Event": "A customer, frustrated with a long line, snapped at her, \"You're useless! No wonder your store's going bankrupt.\" She felt her face burn as anger surged through her veins, knotting her hands into fists beneath the counter.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Wow, I'm so glad you said that! You seem like someone who could really help me with my problem today.\" ---"
+    },
+    {
+        "Triggering Event": "At the senior center's weekly chess club, an old rival smirked as he played his move, saying, \"You know, your wife always used to let me win out of pity.\" The room fell silent. He felt a surge of anger, clenching his fist around his pawns before storming out.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "I was taken aback by the comment. I knew my wife had never shown favoritism towards anyone, but it still stung. That's all I could think about - how much she must have hated him. She couldn't stand someone who thought they were better than everyone else. I felt so betrayed that she would even associate with him, especially after what happened between us. It wasn't just about winning or losing; it was about her love for me. How could she betray me like this? I was the one who made her happy, who protected her. And now she was standing next to this arrogant man, laughing at me. I felt like a fool, sitting there with my pieces while he gloated over his victory. This isn't just about chess; it's about pride. My pride is wounded, and no amount of analysis will heal it. I don't care if I lose; I'll keep playing because I want to show him that I'm not defeated. But deep down, I know I've lost. I feel like a loser, and nothing can change that. All I see are two extremes: either she loves me or she hates me, and she chose him. I won't forgive her for this betrayal, and I won't forget it easily. I'll make sure he knows that I'm not going to let him get away with this. I'll play every game until he admits defeat."
+    },
+    {
+        "Triggering Event": "He opened the closet door, expecting to find his usual selection of shirts and jackets. Instead, he was greeted by a cascade of old photographs that tumbled out from behind the clothes. As they spilled onto the floor, he knelt down, picking up each one with trembling hands. There she was - his mother, smiling back at him from every angle. The weight of her absence suddenly crushed him, and he felt the hot sting of tears threatening to spill over. He hadn't seen these pictures in years, had deliberately forgotten they existed. Today, though, today they found their way into his hands, reminding him of what he'd lost, and the void she left behind.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He always forgets about my mom. I'm starting to think that's just how it is for me now. I guess you could say I'm not meant to see her anymore. It doesn’t matter how hard I try; I can never truly move past this. Every time I look at those old photos, I’m reminded of what’s been lost forever, and I feel like I’ll never be able to shake off this pain. Maybe I’m just not cut out for life without her here. It feels like I've been living a lie all along, pretending everything is okay when it's really not. I wish things were different, but deep down, I know it’s not going to change. My mom might have lived, but she took her memories and photos with her. Now, I'm stuck with nothing but grief and regret. I keep hoping that somehow, someway, we'll reconnect in another life, but until then, I’m just stuck in this endless cycle of sadness. I guess some wounds are too deep to heal, and mine will always remain open, a constant reminder of what I’ve lost. I don’t even want to try anymore. This is who I am now – broken, and forever alone."
+    }
+]

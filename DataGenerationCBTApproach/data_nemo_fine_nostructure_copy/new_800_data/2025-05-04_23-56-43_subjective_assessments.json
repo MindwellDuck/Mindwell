@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A customer, oblivious to the \"No Returns After 30 Days\" policy, demands an exchange for an item bought months ago. He slams the counter when refused, snapping, \"You're all heartless here!\"",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Customer**: I want this back! It was faulty. You're all heartless. **Counter Person**: Sir, you purchased it 2 months ago. The return window has closed. We can't process your request. **Customer**: What?! That's ridiculous! I demand you take it back! **Counter Person**: I understand that you feel frustrated, but our store’s return policy clearly states— (pauses) —that items are non-returnable after 30 days. This is in line with our store’s policies. **Customer**: Oh, so now you’re acting like robots? This is outrageous! No one cares about my business anymore. All you care about is making money. Well, it won’t work! My friends will never shop at your place again! **Counter Person**: I apologize if there’s been a misunderstanding. However, we have provided clear information regarding returns throughout our conversation. Our goal is to resolve issues amicably. If you’d like to discuss further, I’m open to finding a solution. **Customer**: Fine, I’ll leave. But I know everyone else is going to see how horrible your store is. I’ll make sure to tell them. **Counter Person**: Thank you for taking your time to speak with me. Please let me offer assistance with anything else you need during your visit today. **Customer**: Whatever. I don’t need anything else from you. Just go ahead and call security; I don’t want to be here anymore"
+    },
+    {
+        "Triggering Event": "Every evening after his shift, he walked past the pediatric ward's vacant crib, now cleaned and ready for its next occupant. Today, it was still warm from little Emily's last breath.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "That kid is just too young to be gone already. He must have had some sort of accident at home. That's why I saw him lying in that crib this morning. His parents are probably out there right now, desperately searching for him."
+    },
+    {
+        "Triggering Event": "After a long, exhausting shift at the hospital, he walked into his quiet house to find an empty bottle of wine on the counter and a note from his wife: \"Went out with friends. Leftovers in the fridge.\" Resentment surged within him as he realized she hadn't waited for him or even thought to save some dinner.",
+        "Sex": "Male",
+        "Age": 41,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Oh no, this is just so unfair! She doesn’t care about me, and I guess she never does. She’s always busy and doesn’t have time for me anyway. This isn’t surprising; I knew she was going out with her friends. It’s really frustrating because I had a tough day at work. Why would she leave the leftovers when she knows how hungry I am? I'm already tired, but now I feel like she made it worse by doing that. This is probably going to be one of those nights where we don’t talk much.\""
+    },
+    {
+        "Triggering Event": "A parent storms into her classroom after school hours, demanding to know why their child's grades have plummeted, finger-pointing and raising voice despite her attempts to calmly explain.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "This is unacceptable. The teacher has always done this. She never lets students see their grades until the last minute before tests, and she never helps us study for tests, so it’s no surprise my kid failed. I’m going to call the principal right now. This teacher sucks. She’s terrible at teaching and doesn’t care about her students. All teachers are bad. I don’t trust any teacher who makes their students fail on purpose. They’re all incompetent and they don’t care about learning. My kid will be homeschooled from now on because he can’t learn anything in that class. He needs better than this. All kids deserve better than this. Teachers are useless and they make our lives miserable. We should just get rid of them altogether. They’re ruining education and making things harder for parents. My kid is an exceptional student and deserves much better than what he gets in this class. I hate this school. The teachers here suck. They don't teach anything. I wish schools didn’t exist. It would be easier if we just did everything online. At least then we wouldn’t have to deal with these horrible teachers and the stress they cause. I feel sorry for other parents whose kids are suffering under such incompetent teachers. This teacher is worthless and I won’t let my kid go back there. I’ll find another school that actually teaches something. I’m done with this school."
+    },
+    {
+        "Triggering Event": "A male retail worker, 26, single, is stocking shelves after closing time. He finds a discarded receipt for an expensive item he couldn't afford, bought by someone else during his shift. His face flushes with anger as he realizes it's another customer who didn't tip him despite his friendly service all day. His hands clench the receipt, crumpling it as his breath quickens.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "He thinks to himself, \"Men are always rude and don't care about people.\" The employee becomes visibly upset, and his coworker rushes over to calm him down."
+    },
+    {
+        "Triggering Event": "A man in his fifties, sitting at his cluttered desk, slams his fist down as he reads an email dismissing his latest investigative piece as \"not newsworthy\". His face reddens, veins bulging at his temples. He mutters under his breath, \"After twenty years, they still don't get it.\"",
+        "Sex": "Male",
+        "Age": 52,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He is so angry that I know for certain he will never get this job again. He can't handle criticism, even from someone he knows well. That's why he got fired last time, because he just couldn't take the heat. And now he's going to blow up over one little thing? This guy is a ticking time bomb waiting to explode, and everyone around him is at risk."
+    },
+    {
+        "Triggering Event": "She found a receipt for dinner at an expensive restaurant in his pocket, dated last night, when she'd been working back-to-back shifts.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She's probably just annoyed because she knows how much he spent on me and thinks I'm taking advantage of him. When he doesn't have enough money to take care of us right now, it makes her think I don't appreciate what he does for me. She's so used to being taken care of; she can't handle me not doing the same for him. It's like she's putting all these expectations on me that I haven't even thought about, and then she gets upset when I don't meet them. She's always judging me, trying to figure out if I'm good enough for him. She thinks I need to be perfect and look nice all the time, but she forgets that I work hard too. I've been so stressed lately with my job, and this is just another thing for her to worry about. She can't let go of her own fears and worries; instead, she puts them onto me. This isn't the first time she's acted like this, and I wish she could understand that sometimes people have different priorities than what she assumes."
+    },
+    {
+        "Triggering Event": "At the retirement party of her former colleague, she noticed how his spouse doted on him, their laughter echoing through the room as they shared stories about their recent cruise. She felt a pang in her chest, remembering the last time she and her late husband had traveled together.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She thought to herself, \"That's just what people do at these things. It doesn't mean much.\" The memory didn't bother her, so why dwell on it? They were probably just happy for him. I'm not going to let myself feel sad over something like that. There are plenty of other memories to focus on."
+    },
+    {
+        "Triggering Event": "Upon arriving home from school, he finds his partner sitting at the kitchen table, their eyes red and hands clutching a folded letter. The silence is heavy as they look up at him, tears welling again. \"It's my grandmother,\" they say softly, voice trembling. \"She passed away today.\"",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "Upon hearing this, I felt an overwhelming sense of despair wash over me. This was devastating news, a loss that seemed to underscore everything that had been wrong in my life. My mind raced with thoughts of how this could be connected to all the other problems I'd faced recently—my failed relationships, my job struggles, and my general feeling of being lost. It was as if this death marked a turning point, one that would forever change the trajectory of my existence. Every moment since then has been consumed by grief, my emotions oscillating wildly between sadness and anger. There’s no escape from these feelings; they’re relentless, forcing me to confront the reality that nothing good ever comes to those who have suffered like me. My world feels shattered now, like it will never find peace again. Every step forward feels like a struggle, every breath a reminder of what I've lost. And yet, even in the midst of this pain, I can't help but feel a deep connection to my grandmother, her love and support having been so vital to my life. She represented hope when I needed it most, offering words of encouragement and reassurance whenever I faltered. Her passing leaves me with a profound sense of emptiness—a void that threatens to consume me whole. But despite this pain, there’s something beautiful about remembering her. She taught me the value of hard work and the importance of staying grounded through tough times. In many ways, she embodied the resilience I’ve struggled to develop for myself"
+    },
+    {
+        "Triggering Event": "\"Checking her watch for the third time in as many minutes, she realized it was already 20:35. Her son had promised to pick up her prescription by now, but his call still hadn't come. The house felt too quiet, too empty without him. She tried dialing again, but it went straight to voicemail. Her heart began to race as scenarios played out in her mind - a car accident, a sudden illness. She took a deep breath, trying to calm herself, but the anxiety clung like a second skin.\"",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She knew she shouldn't be checking her watch so often, but what if he'd gotten stuck behind another driver? Or worse, what if something had happened to him right away, and he couldn't answer? She couldn't shake the feeling that this was all going terribly wrong. It wasn't rational, but she just couldn't help thinking about every possible terrible scenario. Even though she told herself she needed to stop worrying, she found herself constantly refreshing her phone. # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #"
+    }
+]

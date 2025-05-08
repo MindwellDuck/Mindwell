@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family insisted they had made an appointment for 10 am, but their chart showed it was scheduled for 2 pm.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Patient's Family: \"We were told to arrive at 9:30 am, so we're here now.\" You (Cognitive Distortion): \"What? No, I specifically said 10 am. You must have gotten it mixed up with another time.\""
+    },
+    {
+        "Triggering Event": "He noticed the empty chair at the breakfast table, his late wife's coffee still untouched in its usual spot. The newspapers he'd meticulously collected for her each morning lay unopened beside it. He felt a pang of neglect, not from his own absence—he was always out early—but from the world that seemed to have moved on without her.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He thought, \"This is so weird. I've been gone just a few hours, and yet everything looks perfectly normal—just like she would want.\" It didn't seem unusual at all; perhaps it was just a very early start on my part? She'd always been up before me, ready with a fresh pot of coffee. This wasn't anything new. I'm actually starting to feel a little better now that I realize this isn't something out of the ordinary. She wouldn't want me to be stressed about it; she'd want me to stay calm and focus on work. # # # # # # ## Output His thoughts were: \"This is so weird. I've been gone just a few hours, and yet everything looks perfectly normal—just a very early start on my part?\" He had a tendency to rationalize things by saying \"It doesn't seem unusual at all\" and \"She wouldn't want me to be stressed about it\". These responses suggest he has difficulty accepting the reality of the situation because he wants to believe that nothing has changed. He also downplays his wife's death as if it was nothing more than an inconvenience, implying that life continues as if she never died. These distortions lead him to avoid dealing with the full impact of the loss, which prevents him from fully processing grief. By focusing solely on how things look rather than acknowledging what happened, he avoids confronting the truth. His reactions demonstrate a lack of awareness regarding these"
+    },
+    {
+        "Triggering Event": "\"After hours of waiting for an interview subject who never showed, you find your laptop charger missing from your bag at the office, leaving you with only 10% battery life and a deadline looming.\"",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I'm telling you this is going to be one of those days where everything goes wrong, but it's too late now to change anything. You're already running behind schedule because you wasted time trying to get in touch with that person who didn't show up. And now you have no power because you couldn't afford to lose any more time. This whole situation is a perfect illustration of how things always go wrong when you procrastinate.\""
+    },
+    {
+        "Triggering Event": "He overheard his lab partner, half his age, saying, \"I wish Dr. X could have seen this breakthrough like he used to.\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He's so young! She's basically still in high school. If she were my daughter I'd be worried about her involvement with that project. There must be some kind of rule against dating students at her workplace."
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by their house, the one with the blue door and the neatly trimmed lawn. Today, it bore a new addition: a sign supporting his political rival. His grip tightened around his briefcase as he stared at it, each word like a stab of betrayal.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He's always been so uptight. I bet he just can't handle the fact that we're voting for someone else this time. He must be freaking out over every little thing to have gone all out with that campaign sign. It's almost like he's trying to prove something, like he needs to show us how much more right his candidate is than ours. Poor guy, just so desperate to cling to what he believes in."
+    },
+    {
+        "Triggering Event": "In the hushed, echoing corridor of the lab, he paused before the row of framed photos. His gaze lingered on the one where she stood, smiling, between them at a conference years ago. He traced her image with his thumb, then placed it back, face down.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He sighed, rubbing his temples. I'm so tired of him always being like this. She's never done anything to me. We were just friends until he started making all these weird comments about her. Even though we weren't close anymore, I couldn't help but feel hurt when she told me she wanted nothing to do with him. It's been months since they broke up, yet I still get upset whenever I see him around campus. I know it's irrational, but I can't shake off the feeling that she's better off without him."
+    },
+    {
+        "Triggering Event": "A former student, now a successful lawyer, breezes into her classroom during parent-teacher conferences, boasting about their lavish lifestyle and mentioning they barely remember her teachings. She smirks at the sight of her teacher's worn-out textbooks.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She believes that because she feels offended by this student’s condescending attitude, it must be true that the student doesn’t respect her teaching. The teacher realizes that this student is probably just trying to impress other parents with their success story, so she tries to focus on more positive aspects of the class instead."
+    },
+    {
+        "Triggering Event": "She found an old photo album while packing up her ex-husband's belongings, left untouched in the attic. The yellowed pictures showed their daughter as a toddler, laughing with her parents at family picnics and holidays they'd spent together before everything changed. Alone now, she traced the faded images, feeling the weight of time and loss.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She was overcome by sadness when she saw those old photos. They seemed to mock her now that she had no one to share them with. The memories felt bittersweet, reminding her of what she'd lost. Even the happy moments were tainted by grief—she couldn't help but feel like she was drowning in sorrow. The pain was still there, and every reminder made it worse."
+    },
+    {
+        "Triggering Event": "A colleague, known for her vibrant social life, shared photos from her weekend getaway to Paris on Facebook. The teacher scrolled through them, each image a stark contrast to her own quiet weekend spent grading papers. She felt a pang of envy as she closed the laptop, her heart heavy with longing and self-pity.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She couldn't help but feel envious when seeing how much fun my friend had in Paris. I wish I could have been there too. Even though I know she's just posting what she thinks is funny, it feels like everyone else has a better time than me. It makes me wonder if I'm missing out on something special. I hope she posts more pictures so I can see where she went. Maybe next year I'll save up enough money to join her."
+    },
+    {
+        "Triggering Event": "The gallery owner cancelled his solo exhibition, citing \"a lack of market appeal in his current style\". He sat alone in his studio, surrounded by half-finished canvases, their vibrant colors now mocking him. His phone remained silent, no calls or messages from colleagues offering support or encouragement. The silence was deafening, echoing the emptiness he felt inside.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "This is an interesting observation about ourselves. It appears we often overestimate our role in what happens around us. Our minds tend to believe that events are directly connected to our personal lives, even when there may be more rational explanations. This tendency can lead to feelings of disappointment and isolation, as if we're at the center of everything that goes wrong. It's almost as if our perception creates its own reality, making it difficult to see things objectively. We might start to wonder why others don't reach out or offer help, assuming they've forgotten about us or simply don't care. But perhaps there are more practical reasons for their silence—maybe they’re just busy with their own projects or have changed their priorities. Or maybe, it’s just a case of people being too polite to address uncomfortable situations."
+    }
+]

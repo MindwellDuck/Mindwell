@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "He stood at the graveside, the rain tapping softly against his umbrella, as they lowered her into the cold earth. His wife of forty years was gone, and with her went their shared history, their love letters, their inside jokes. He felt a profound emptiness, like a hole had been carved out of his chest, leaving only echoes of sorrow.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He couldn't bear to look at the headstone; it would be too painful. Instead he focused on the rain, letting its rhythmic patter fill the silence. It reminded him of countless afternoons spent together, walking in the woods, hand in hand, watching the droplets fall onto leaves that crunched beneath their feet. The memory was bittersweet, but it was a reminder that even in death, there were moments worth holding onto."
+    },
+    {
+        "Triggering Event": "While sifting through old photographs to organize her late mother's belongings, she comes across a faded Polaroid of them laughing together at a picnic when she was ten. A wave of sadness crashes over her as she realizes that moment is gone forever.",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "This moment will never be relived. It’s lost forever. She can’t change what has already happened. The past cannot be brought back to life."
+    },
+    {
+        "Triggering Event": "He couldn't find his favorite paintbrush, the one with the worn-out bristles he'd used to fill in her eyes in their last portrait together. The irritation gnawed at him as he rummaged through the cluttered studio, his usual calm replaced by an unfamiliar frustration.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "His mind was racing with thoughts like \"He's forgetful,\" \"He can't even remember where he left things,\" and \"What if he loses everything else?\" These thoughts swirled around him, painting him as incompetent and careless. His frustration turned into anger towards himself, wondering how someone who had once been so creative could become so careless."
+    },
+    {
+        "Triggering Event": "In his quiet kitchen, he found her favorite mug, still in the dish rack where she'd left it that morning so many years ago. His heart ached as he ran his thumb over the chipped rim, remembering her laughter echoing through the house.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She must have just forgotten to wash it, but what if she didn't leave for work that day? What if she was too busy to clean up after herself? Or maybe she's already gone—perhaps she never came back. The thought sent a shiver down my spine, making me wonder if I'd ever see her again."
+    },
+    {
+        "Triggering Event": "At the weekly team meeting, Jane noticed her colleague, Sarah, presenting a project she'd been quietly working on. It was an innovative solution to their latest coding challenge, one that Jane had struggled with herself. As Sarah confidently answered questions and received praise from their boss, Jane felt a pang of envy. She couldn't help but compare the complexity of Sarah's solution to her own simple, functional code.",
+        "Sex": "Female",
+        "Age": 62,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Jane felt like she was failing at work. Her simple code seemed dull compared to Sarah's sophisticated project. It wasn’t fair that Sarah got all the attention while she struggled with similar problems."
+    },
+    {
+        "Triggering Event": "A regular at her bistro, an older man with a warm smile and generous tips, today arrived with his wife, introducing her as \"the new love of my life.\" He didn't notice the chef's stiffening shoulders or the sudden sharpness in her chopping rhythm, but the other staff did. She served them herself, her bitterness simmering like the sauce she stirred, each spoonful a silent accusation.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She thought he was just another old man trying to impress her with his wealth and status. His awkward attempts to be charming were pathetic, and she could see right through him. When he said, \"We're here for dinner,\" she felt a chill run down her spine. It wasn't the first time someone had tried to buy her affection, but this one seemed different. There was something about the way he looked at her, almost... greedy? She couldn't let herself get distracted by such nonsense; she was too busy, running around, making sure everything ran smoothly. But why did he have to bring his wife along? Wasn't it rude to drag her into this situation? The more he talked, the more uncomfortable she became. She knew she needed to stay focused, keep up the act, but how long could she keep pretending?"
+    },
+    {
+        "Triggering Event": "In the quiet of her empty house, she found his old coat in the closet, still holding the faintest hint of his aftershave. She buried her face in it, tears silently streaming down her cheeks as sorrow washed over her like a tidal wave.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She can’t help but feel that he’ll never come back to her. Every time she sees him leave, she knows deep down that this is the last time she'll ever hold him close again. The thought of living without him is unbearable, like being trapped in a never-ending nightmare from which there’s no escape. He was always distant, never truly present, and now he's gone forever, leaving her with nothing but memories and a hollow heart."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nDriving home from a late shift, she noticed a dark figure lurking near her parked car in the dimly lit garage. Her heart pounded as she hesitated, keys clutched tightly between her fingers like makeshift weapons.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She felt an intense urge to confront him, but something about his demeanor seemed off—perhaps it was the way he leaned against the wall, his eyes fixed on hers with an unsettling intensity. The air around them seemed charged, heavy with unspoken threats."
+    },
+    {
+        "Triggering Event": "In the quiet of their living room, she noticed his favorite armchair had been left untouched for days. The cushion still bore the faint imprint of his body, but he wasn't there to sink into it at the end of another long day. She felt a familiar ache in her chest as she picked up the newspaper he'd left beside it, now yellowed with age. She could almost hear his voice, \"Save that for me, dear,\" but all she heard was the ticking of the clock, echoing empty rooms.",
+        "Sex": "Female",
+        "Age": 73,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She thought he must be so busy with work or stressed about something that he just forgot to sit down in his chair. It wouldn't have occurred to him to leave it like that, especially after our last conversation. He always makes time to read before bed; maybe today he's too tired from a late meeting. She wondered if he was avoiding her, not because he didn't want to talk, but because he was overwhelmed by life. Maybe he's secretly feeling anxious about the future, and this is how he copes—by shutting himself off from her. She imagined him lying awake at night, replaying conversations they'd had recently, wondering if she understood him well enough. His absence made her feel lonely again, but she also sensed an opportunity for growth. She hoped he would come around soon, and when he did, she would remind him that her space was meant to be shared, not used against him. She decided to bring him his favorite tea and some cookies, hoping to coax him back into the open arms of their home. By then, the silence would become less oppressive, and together they could find ways to soothe each other’s anxiety. She hoped that one day, when he finally sat back in his chair, they would both realize that the emptiness wasn’t between them, but within themselves."
+    },
+    {
+        "Triggering Event": "At 7 AM, Dr. M., rushing late for his rounds, finds the hospital's automatic doors stuck. He forcefully pulls them, bruising his knuckles. Frustrated, he mutters under his breath, \"Just once, I'd like something to go smoothly.\"",
+        "Sex": "Male",
+        "Age": 35,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Dr. M. was irritated because he was running late. His door got stuck and it took him some effort to force it open. As he walked in, he muttered \"just once I'd like things to run smoothly\" under his breath."
+    }
+]

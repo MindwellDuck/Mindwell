@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A dishwasher, new to his kitchen, loads the industrial machine incorrectly for the third time in an hour, causing it to jam.",
+        "Sex": "Male",
+        "Age": 54,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "Writing Prompt: \"Describe your feelings and thoughts as you stand helplessly watching the dishwasher jam for the third time today.\"\n\nText:\n\"I can't believe this again. How hard is it to load a dishwasher? I've shown him how, twice already. He just doesn't pay attention. It's always one thing or another with him. I've got better things to do than babysit an appliance.\""
+    },
+    {
+        "Triggering Event": "A middle-aged man, teaching a lesson on history's forgotten tales, notices his partner's name on the school newsletter for an upcoming charity event. It's their charity, but she hadn't mentioned it to him.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** Describe your feelings upon noticing your partner's name on an upcoming charity event newsletter.\n\n**Text:**\n\n\"Wow, so she's been planning this behind my back, huh? I mean, we're supposed to be in this together, right? Why wouldn't she tell me about it? It's not like it's some small thing. I've been busting my ass here, and she's just... what, keeping secrets now? Maybe she thinks she can do better without me. That's gotta be it, yeah?\""
+    },
+    {
+        "Triggering Event": "Scenario:\nIn the quiet of his home office, he reaches for his glasses to peer at the tiny print on an obscure journal article. His hand trembles slightly, a new quiver that hadn't been there yesterday. He blinks, trying to focus, but the words swim before him. Suddenly, his chest tightens, his breath hitches, and he feels like he's suffocating in the silence of his study.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"You know what this is? This is just fucking typical. 'Old Man Hands' strikes again! I swear to god, if my hands shake one more time while I'm trying to read, I'm going to lose it. Fucking arthritis, ruining my life one tremble at a time. It's not like I can do anything about it, it's just who I am now - the guy with the shaky hands. Christ, even the silence of my own damn study is too much for me. My heart's pounding like I'm in a fucking mosh pit, and all because I can't read without looking like an idiot. Fuck this! Maybe I should just call it a day, embrace the 'old man' label once and for all.\""
+    },
+    {
+        "Triggering Event": "A middle-aged man in uniform, his radio buzzing with coded alerts he's grown accustomed to, feels an unusual pang of worry as he hears a call for backup at a nearby high school. It's not just any day; it's his daughter's first day back after winter break. He hadn't wanted her walking those halls without him around, even though she insisted she'd be fine. Now, the anxiety claws at him as he waits for more details, hoping it's not something serious. Not today, he prays silently, tightening his grip on the steering wheel.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:** Describe your thought process as you wait for more details about the backup call at your daughter's school on her first day back after winter break.\n\n**Text:**\n\n*Static crackles through my radio, each burst making me tense up further. I'm focused now, eyes locked onto the road ahead, but all I can hear is that damn code.*\n\n*\"10-76,\"* *the dispatcher's voice cuts through the noise. School incident. My heart pounds against my ribs like a prisoner banging on bars.*\n\n*I'm not listening for anything else. Just waiting for more about that call. The other codes, the chatter, it all fades into background noise. It's just me and that goddamn 10-76 now.*\n\n*\"All units, be advised...,\"* *the dispatcher starts again. I lean in, gripping the wheel tighter. My daughter's out there, in those halls, and all I can think about is that one call.*\n\n*I'm not hearing the rest of it. The other codes, the updates, they're lost on me. It's just that 10-76, echoing in my mind like a siren's wail. Not today, I pray again, teeth clenched so hard they ache.*\n\n*I can't see anything but that one detail. The rest of the world's fallen away, leaving only me and this godforsaken code. My daughter needs me, and all I've got is this fucking 10-76.*"
+    },
+    {
+        "Triggering Event": "She noticed the car parked outside her house, engine running, at 3:07 AM. It hadn't been there when she went to bed.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe what she thought to herself when she noticed the car parked outside her house at 3:07 AM.\n\n**Text:**\n\n\"Great, just great. This can't be good. Why would someone park here in the middle of the night? They're probably up to no good. I just know it's going to be something terrible. I can feel it in my bones. I'm not gonna be able to sleep now, not with this stupid car outside. I should've known something like this was gonna happen tonight.\""
+    },
+    {
+        "Triggering Event": "Scenario:\nShe returned home from her night shift at the hospital to an empty house. The silence was deafening, save for the soft hum of the refrigerator. Her husband's side of the bed was untouched, still cold despite the late hour. She picked up his phone from the charger and saw a missed call from his sister. No message, no explanation. Just another night alone in their once-shared space.",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"I mean, where the hell is he? It's past midnight! This isn't how it should be, dammit. We've always been together on nights like these. He knows I hate coming home to this emptiness. And his sister calls? Without so much as a text explaining what's going on? This isn't right, this isn't how things are supposed to work!\""
+    },
+    {
+        "Triggering Event": "A 43-year-old scientist, returning home after another unsuccessful attempt to publish her latest research paper, finds an unopened letter from her ex-partner tucked behind her front door.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're that 43-year-old scientist, standing at your front door, letter in hand. Your mind is racing with thoughts about the rejection letters from journals, your career seemingly stalling. Describe the moment you notice the unopened letter from your ex-partner, focusing on one detail while ignoring others.\n\n**Text:**\n\"Oh, for heaven's sake! Another day, another 'thanks but no thanks' from some stuffy academic journal. I swear, if they'd spent half as much time reviewing my paper as they did rejecting it, I might actually have a publication to show for all this effort!\" I huffed, dropping the letter onto the console table with more force than necessary.\n\nI kicked off my shoes, still grumbling about the injustice of it all. That's when I spotted something out of place. A creamy envelope tucked neatly behind the door, peeking out ever so slightly. \"What on earth...?\" I muttered, plucking it from its hiding spot.\n\nThe handwriting was unmistakable - elegant loops and swirls that could only belong to one person. My heart stuttered for a moment before remembering why we'd parted ways in the first place. \"Typical,\" I scoffed, turning the envelope over in my hands, \"Can't even wait until I'm home from work to send some trivial 'hello'.\"\n\nI tossed it back onto the table, my eyes still fixed on the offending envelope. \"As if I don't have enough going on without dealing with... this,\" I waved a dismissive hand at the letter before storming off towards my study, leaving the rest of my mail untouched on the floor."
+    },
+    {
+        "Triggering Event": "The artist, her hands stained with acrylic, paused at the sudden creak of her studio floorboard. She hadn't touched it. The hairs on her neck prickled as she scanned the room, shadows dancing in the fading light. A soft rustle from behind the canvas stack made her heart pound. \"Hello?\" she whispered, but only silence replied, save for the echo of her own breath.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:** \"Hey studio, you're acting like my creepy neighbor's house again today. Can't even focus on my painting now, all freaked out.\""
+    },
+    {
+        "Triggering Event": "A patient, whom she'd treated for years, approached her at the hospital's cafeteria. In a loud voice, he said, \"I never realized how old you were getting, Doc. Your hands shake worse than my grandmother's.\" The room fell silent. She felt the heat rise in her face as she struggled to respond, her humiliation complete when he walked away laughing.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Humiliation",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"I always thought this place was supposed to be professional, fuck me if I'm wrong! One goddamn patient, one fucking comment, and suddenly it's like my whole career is crashing down around me. It's not like I can fix my hands, they're not fucking magic. Every damn time I pick up a scalpel now, I'll be thinking about his laugh, his fucking mockery. This isn't just about today, this is about every patient, every surgery, it's always gonna be like this now.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nMidnight, she wakes up to her granddaughter's cry from the room next door. The house is dark, unfamiliar shadows stretching across the walls. Her heart races as she remembers the news of recent burglaries in their quiet neighborhood. She reaches for her late husband's flashlight by the bed, its weight comforting yet heavy with memories. As she steps into the hallway, the floorboard creaks underfoot, echoing like a gunshot in the silence. Her fear grows with each step towards the unknown.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Damn it, what's all that ruckus about? It's gotta be those thieves, ain't it? They're probably already inside, sneaking around like shadows. I can feel it, I just know it. This is gonna be a disaster, mark my words. My heart's pounding like a drum in here, and I can barely see two feet ahead with this darn flashlight. What am I gonna do if they've got their hands on little Emily? My hands are shaking already, just thinking about what might happen. It's all falling apart, isn't it? Just like when he left me... No, no, don't think about that now. Focus, woman! This is gonna be a nightmare, I can feel it in my bones.\""
+    }
+]

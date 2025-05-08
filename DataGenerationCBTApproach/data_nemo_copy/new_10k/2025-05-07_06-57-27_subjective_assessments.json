@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe arrived home from another grueling 12-hour shift at the hospital, her scrubs still stained with remnants of the day's emergencies. The silence of her apartment felt heavier than usual, echoing the emptiness she often felt inside. As she tossed her bag onto the couch, a small, framed picture caught her eye - a photo from last Christmas, her and her sister laughing together. She picked it up, tracing their smiling faces, then placed it face down on the mantel, unable to bear the reminder of happier times.",
+        "Sex": "Female",
+        "Age": 27,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**Writing Prompt:**\nWrite a text from the perspective of this nurse after arriving home from her shift, capturing the moment she sees the photo and responds to it.\n\n---\n\n**Text:**\n\n*Damn, not that photo again,* she thought, her heart sinking like a stone in water. *Happy times? Ha! That was eons ago.* She picked up the frame, her fingers tracing the edges, but her eyes refused to meet the smiles staring back at her. *Same old me, can't change no matter what.* She turned it face down, the familiar clunk echoing her sigh. *Can't escape this hollow feeling,* she muttered, flopping onto the couch, her body heavy with exhaustion and something else. Something... darker."
+    },
+    {
+        "Triggering Event": "A worn-out receipt, tucked between the pages of an old novel he'd kept for no particular reason, tumbled out as he packed books for the store's closing sale. The handwritten note in the margin - \"Happy Anniversary, Love A\" - pierced his heart. Six years ago today, before the divorce, before the silence. He paused, fingers tracing the faded ink, sorrow welling up like a forgotten tide.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:** Imagine you're packing up your personal belongings from an old apartment where memories still linger. You find a faded receipt tucked between the pages of a book you haven't opened in years.\n\n---\n\n\"Well, isn't that just peachy,\" he muttered, holding up the worn-out receipt like it was Exhibit A at some sad little trial. \"Happy Anniversary,\" yeah right, more like 'Happy Apocalypse' if you ask me.\" His fingers traced the words, but his mind was stuck on the past tense of 'Love'. \"Six years gone down the drain, and for what? Nothing's changed, nothing ever does.\" He tossed the receipt into the 'Trash' box with a little more force than necessary. \"Might as well throw in this old book too, it's not like it'll ever bring me any joy again.\" His voice was calm, almost conversational, but his eyes were stormy, seeing only the darkness of the past and none of the light that might still be ahead."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the cold, sterile silence of the hospital break room, she unwrapped her sandwich, revealing a moldy corner. She sighed heavily, rubbing her temples as fatigue gnawed at her. Another ruined lunch, another reminder of her empty house and the loneliness that stretched out before her like an endless night shift.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Goddammit! Not again!\" She chucked the sandwich into the trash, her eyes scanning the other lunch bags in the break room. \"Everyone else's looks so fresh, like they've got all the time in the world to pack a decent meal. I'm over here with another moldy corner 'cause I'm too busy saving lives to bother with stuff like that. It's not fucking fair.\" She slumped into a chair, pulling out her phone. \"And look at this \u2013 even my Instagram feed is full of people having lunch dates and picnics in the park. Why can't I have that? Everyone else seems to have their shit together. I'm just... I'm just...\" Her voice trailed off as she took a deep breath, trying to calm down. \"I'm just tired, you know?\" She mumbled, looking down at her hands, now trembling slightly."
+    },
+    {
+        "Triggering Event": "At 10 AM, he powers up his ancient desktop at work, expecting to dive into debugging. Instead, it whirs loudly, then dies with a final, offended beep. He stares blankly at the black screen, his grip tightening on his mouse until its plastic creaks. \"Damn thing's older than I am,\" he mutters, slamming his fist softly on the desk. The monitor flickers back to life briefly before winking out again. His frustration simmers as he reaches for the IT hotline number, dialing with a trembling hand.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** \"Describe your immediate thoughts and reactions upon discovering that your computer at work has suddenly stopped functioning.\"\n\n**Text:**\n\n\"I can't believe this is happening today of all days! I've barely slept thinking about this project, and now my archaic desktop decides to give up the ghost? It's as if it's personally targeting me, conspiring against my deadline. Why does everything have to go wrong when I'm already on edge? I swear, the universe has it out for me today. I can't rely on anyone else to help, I'll just have to figure this out myself. If only they'd consider how much pressure I'm under, maybe they wouldn't be so slow to respond.\""
+    },
+    {
+        "Triggering Event": "A familiar face from his past appeared unexpectedly in the lab, now wearing a competitor's badge.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I can't believe it! After all these years, here she is, waltzing into our lab like she owns the place. And look at that badge! She's with them now? I just know this isn't going to end well. Mark my words, this will be a disaster. I can feel it in my bones. We're doomed.\""
+    },
+    {
+        "Triggering Event": "In the chill of a winter morning, she stepped into her now-empty house. The silence was heavy, each creak of the floorboards echoing like a mockery of their once-laughter-filled home. She noticed it then - a small, dusty music box tucked away in the corner of the living room, untouched since he'd left. As she picked it up, the weight of memories pressed down on her. It was his favorite, the one they'd danced to at their wedding. She wound it up, let the first notes play... but then the melody stumbled, choked off by a rusty spring. Just like us, she thought, as despair washed over her again.",
+        "Sex": "Female",
+        "Age": 48,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "\"Seriously? The ONE toy that actually worked? Broke too, just like everything else around here. Always something going wrong, huh? Never gets easier.\""
+    },
+    {
+        "Triggering Event": "In the soft glow of her tiny kitchen, she stirred a pot of her late grandmother's tomato soup. The familiar rhythm did little to chase away the quiet ache in her heart. As she reached for another spoonful of sugar, her hand brushed against an old photograph tucked into the cookbook: a younger her, laughing with her ex-husband on their first vacation together. She paused, her reflection in the window looking back at her with melancholic eyes. The soup bubbled gently, its aroma filling the room, but it couldn't fill the void left by years of shared history now reduced to faded memories and silent regrets.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Chef",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Damn it, why'd she have to leave that photo here? Like I don't fucking see him every time I close my eyes already. This isn't about her anymore, it's about me. About us, or what was us. She doesn't get to just... stir this up and walk away like nothing happened. Fuck, the soup's boiling over now too, goddamn it!\""
+    },
+    {
+        "Triggering Event": "Scenario:\nShe was alone in her studio, painting late into the night. The sudden flicker of the streetlamp outside her window caught her eye. It wasn't the first time it had happened, but tonight it felt different. She couldn't shake the feeling that someone was watching her from the shadows. Her brushstrokes grew hurried, each one echoing in the silent room like a ticking clock. She kept glancing over her shoulder, expecting to find an intruder, but there was only emptiness. Yet, she could swear she heard whispers, soft and menacing, carried on the cool night breeze through her open window.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Seriously, why did I think painting at midnight was a good idea? Now every flicker's an intruder, every whisper's a threat. What if it's not just my imagination? What if they're out there, watching, waiting? I should've closed that window hours ago. Stupid me, inviting the boogeyman in with the breeze. And these damn brushstrokes, echoing like some kind of twisted countdown. Could be seconds till they burst in, or maybe minutes. Who knows? Guess I'll just keep painting, huh? Not like I can stop now. Not until I've painted myself out of this stupid 'what if' spiral.\""
+    },
+    {
+        "Triggering Event": "She was halfway through teaching \"To Kill a Mockingbird\" when the school's Wi-Fi cut out. Again. The room, already stuffy from the heatwave, seemed to close in further as the hum of fans and whispers died down. Her students, used to being entertained by online resources, fidgeted in their seats. She felt her face flush hotter than the August sun outside. \"Open your textbooks,\" she snapped, slamming hers shut on the lectern.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** Describe the teacher's thoughts as she struggles with the sudden Wi-Fi outage during her lesson on \"To Kill a Mockingbird\".\n\n---\n\n*Fuck, not again. It was either I teach them something worthwhile or they sit here like goddamn lumps.*\n\n*This heat... Either it kills us all or we learn something today. No in-betweens.*\n\n*I'm either on fire with rage right now or I'm calm and collected. Can't be both, can I?*\n\n*Either I make them read from those dusty books, or they waste away another period scrolling through their phones.*"
+    },
+    {
+        "Triggering Event": "A software update, meant to be automated, suddenly malfunctions at midnight. His phone buzzes insistently with error notifications while he's trying to sleep. He grits his teeth, feeling a familiar heat rising in his chest as he throws off the covers and storms towards his home office, muttering, \"Not again.\"",
+        "Sex": "Male",
+        "Age": 61,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe your reaction when you realize that your automated software update has malfunctioned at midnight.\n\n**Text:**\n\"Bloody hell, not again!\" I grumbled, my teeth clenched so tight they might snap. The relentless buzzing of my phone was like a drill in my skull, piercing through the silence of the night. I could feel it already - that familiar heat, like lava churning in my chest, threatening to explode.\n\n\"Let's see what fresh catastrophe this is,\" I muttered, swiping open my phone with such force I nearly cracked the screen. \"Error 404: Update failed,\" it read. As if that wasn't ominous enough, a little red exclamation mark winked mockingly at me from the corner.\n\n\"Failed? That's just great!\" I scoffed, slamming down my phone on the desk. \"It won't fail, though, will it? It'll just keep going, and going, until it's fried my whole bloody system!\"\n\nI could see it now, crystal clear as day: My computer screen flickering like a dying candle, smoke curling up from the vents, the acrid smell of burning plastic choking me. The horror!\n\n\"Oh, what's that? It's 2 AM and I'm wide awake, thanks to this infernal machine! Might as well kiss my beauty sleep goodbye,\" I moaned dramatically, flopping down into my office chair.\n\n\"But no, it won't be just one night of lost sleep. No, no, no. This will be the start of a new hellish cycle: sleepless nights, endless troubleshooting, and yet another bloody update that'll turn my computer into a paperweight!\"\n\nI sighed heavily, rubbing at my temples. \"Why me? Why does this always happen to me?\" I whined, sounding more like a petulant teenager than a grown man.\n\nBut who could blame me? It's not every day your future gets ruined by a bloody software update."
+    }
+]

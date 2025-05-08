@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Every Saturday, she'd visit her husband's grave. Today, as she knelt to place fresh marigolds, she noticed the headstone was slightly askew. She struggled to straighten it, her hands shaking with a sudden surge of grief and anger. \"Why did you have to leave me like this?\"",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "**\"Oh my god, I'm so fucking sick of all these stupid labels that people throw at each other!\"** \"I mean, what's the point? You're just gonna end up hurting yourself anyway. **'You're such a bitch,'** **'You're such a loser,'** **'You're such an asshole.'** It doesn't matter what they say. You're still going to be the same miserable, pathetic piece of shit.\"** \"You can't control how others think about you. Why bother trying? Just accept that you're worthless and keep moving forward.\" \"I've been told I'm a **'problem child,'** a **'defective,'** a **'crazy person,'** and even a **'devil.'** But none of those words define me. They don't matter. I know who I am, and if someone else chooses to label me based on their own biases, that's their problem, not mine.\" \"I hate how everyone uses **'broken,'** **'broken-hearted,'** and **'heartless'** to describe themselves when they're really just broken. It makes them sound better than they actually are.\" \"We're all just **'losers,'** **'scars,'** and **'bitter'** people. What does it even mean to be anything else?\"**"
+    },
+    {
+        "Triggering Event": "In the break room, he unwraps his sandwich to find it's gone green around the edges. He'd packed it last night, before the call came in about a disturbance at the old mill. It was supposed to be their anniversary today.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Ah, come on. You're telling me you didn't notice your lunch is green? That's really hard to miss, especially when you've been eating the same thing for years. Did you just forget what color the outside of the bread is?\" \"I mean, seriously, how could you have missed something so obvious? The fact that you even had to ask if you noticed it suggests that you weren't paying attention.\" \"You don't get to act like this after all these years. You've got to take responsibility for your own memory.\" \"I'm surprised you didn't catch that sooner. We usually see each other every day. How can you tell me you didn't notice it?\" \"You didn't actually think I did it, did you? That's ridiculous. If anything, you're probably thinking I'd never do such a thing.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAfter a 12-hour shift, nursing duties unending, he finally clocks out, eager to head home. But as he reaches his car in the near-empty parking lot, he finds a note tucked under his windshield wiper. It's from a grateful patient, thanking him for his care - but it's written in messy, barely legible handwriting. He sighs heavily, frustration bubbling up. Another task added to his already lengthy to-do list when all he wants is to see his wife and relax at home.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Fuck that guy. Always fucking lazy people just don't give a shit about anyone else, never fucking caring if they hurt someone. And I'm tired, just done with work. Whole day sucked. Entire day was fucked up. Just want to go home. Fuck patients, fuck nurses' shifts, always a hassle. Never get time off. Entire hospital is bullshit. Just want to relax at home, spend quality time with my wife. Not a chance, though. Patient's note is just another thing to deal with. Fucking lazy ass. # Output End ## Example Response The nurse felt frustrated upon seeing the note, which led him to think that patients are always lazy. The note was just one example of how his job was frustrating, and he generalized this feeling by applying it to all patients. This shows an overgeneralization of his feelings toward patients based on one specific incident, leading him to believe that every patient is careless and doesn't care about others. In reality, most patients appreciate their caregivers and may have genuinely thanked him sincerely. However, due to the nurse's preconceived notion that patients are lazy, he dismissed the gratitude and became annoyed, perpetuating the cycle of negativity. By taking this isolated instance and blowing it out of proportion, the nurse demonstrates the tendency to generalize his frustrations toward an entire group, rather than addressing the situation as an individual case. This pattern of thinking can make it harder for him to manage stress and build positive relationships with his patients in the"
+    },
+    {
+        "Triggering Event": "Every evening, as he walked through their quiet suburban neighborhood, he'd notice other families gathered around dinner tables, laughter spilling out onto the street. Tonight, however, it was silent except for his own footsteps echoing behind him. He realized that no one had invited them over this week.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "My mind is reeling with the thought that we’re completely isolated from everyone else. I wonder if they’re just not inviting us anymore because something’s wrong with me. It feels like every time we see other people together, there's an unspoken message saying we're unwanted. Maybe our house isn't even welcoming enough. I can’t help but feel like we’re missing some fundamental part of social life. Our lack of invitations makes me think that maybe I’m somehow broken, invisible, or misunderstood. I keep thinking about how different everything looks tonight compared to all those nights when we were included. I can’t shake off the feeling that we’ve been left behind forever, and it hurts me so much."
+    },
+    {
+        "Triggering Event": "A middle-aged man, his uniform still bearing the faint scent of yesterday's coffee, watches from across the street as a young couple laughs together outside a café. Their hands are entwined, and their joy seems to echo through the empty park bench where he sits alone, his widow's ring glinting in the sunlight. He feels the familiar pang of loss, but today it's accompanied by a bitter edge. A nearby pigeon coos, and he kicks out at it, sending the bird fluttering away. \"Damn you,\" he mutters under his breath, not knowing whether to direct his anger at the couple, the pigeon, or himself.",
+        "Sex": "Male",
+        "Age": 49,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Oh boy, this guy is really getting down with his bad self, isn't he? The way he kicked that poor pigeon right into a panic attack! And then he had the nerve to call it out for being nosy, like it was all its fault for just existing near him. That's some next-level passive-aggressive shit right there. But hey, who doesn't love an old dude kicking pigeons and yelling at them when they're just trying to live their best lives? This whole scene has me feeling pretty nostalgic for when I used to be that age. You know, back when life was simpler, and I could just sit here and watch couples cuddle without worrying about how much my own heart hurts. Yeah, those were good times. Even though now I'm missing out on so many things because of her... I mean, because she passed away, of course. She'd want me to move on, right? Well, moving on is hard when you can't even get over your ex. It's especially tough when you see other people enjoying life more than you, like that cute little girl playing with her dog, or the group of friends laughing together, or even just the pigeons flying around. They seem to have it easier, don't they? But let’s take a look at what we’re seeing here. There's no actual reason to be upset; he's just bored and lonely. Maybe if he took up a hobby, like gardening or something, he"
+    },
+    {
+        "Triggering Event": "He sat alone in his study, the scent of aged books and leather furniture filling the silence. A soft knock at the door revealed his wife, her eyes red-rimmed and avoiding his gaze. She held out a familiar, worn photograph - their granddaughter's smile beaming from its frame. \"Found this in the attic,\" she said, her voice barely above a whisper before retreating quietly, leaving him with the image and the echo of another lost moment.",
+        "Sex": "Male",
+        "Age": 71,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "He must have been trying to provoke me by bringing up our past mistakes. I thought he was trying to remind me how much I've failed as a father, but it turns out he just wanted to reminisce about his childhood. The way he looked at that picture, it seemed like he was reliving those memories instead of showing it to me. He didn't even explain why he found it; he simply handed it over. It's almost as if he expected me to feel guilty for not knowing it existed. That's what it feels like when someone brings up my failures. They think they're being supportive, but really, they’re just trying to make me feel worse about myself. Every time I see them like this, I can tell they want something from me—maybe just a little attention, but deep down, they want more. They don’t care that I’m doing my best; they just want to point out all the things I’ve done wrong. And now, with this photo, I'm reminded of every mistake I made, every disappointment I couldn't fix. Even though my daughter is happy and healthy, I still feel like a failure because I wasn't there enough for her. Now, when my son asks to talk, I feel anxious, worried that he'll discover all the things I did wrong. I try to reassure him everything will be okay, but he looks so disappointed, like he already knew the truth. Maybe I should let him figure some things out on his"
+    },
+    {
+        "Triggering Event": "She finds an unfamiliar lipstick under his pillow, still warm from another's touch.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Teacher",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "oh my god what is she doing this is so gross I know that he would never do something like this but noooo she has to go out there and find it like she found it herself or something and now she's looking at me with those eyes like i'm some kind of idiot like why are you acting like this we're not even talking about anything right so yeah i'm just trying to stay calm but seriously how can one person be so insensitive and make everyone else feel like shit for nothing like why did she have to find it in the first place if it was already gone then why does she need to bring it up again and again and again and again i swear she doesn't care about me anymore she's just going to keep on being so passive aggressive and snarky all the time she's such a fucking bitch man oh well i guess that's what happens when you try to stand up for yourself in front of your boss but damn it feels like they really want me to shut up and just take it like a fucking fool but honestly who cares anyway i'm not going to let her get to me i'm done with her and i'll show her i won't let her bully me into submission but damn i hope she doesn't do it again because i'm already getting anxious from the thought of having to deal with her again but i'm not gonna let her get to me i'm strong enough to handle whatever she throws at me so don't worry i've got this i'm not going"
+    },
+    {
+        "Triggering Event": "Walking home from the library, he noticed their old tree had been uprooted by last night's storm. Its bare branches stretched out like skeletal fingers against the gray sky. He'd planted it with his late wife fifty years ago. Now, it was gone, another piece of their life together vanished without trace. He felt a familiar ache in his chest, heavier than the books he carried.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He thought she must be thinking about the same thing as him, but she wasn't saying anything. She just kept walking, her eyes fixed ahead. It was like she didn't even notice the tree. Or maybe she did, but she was too busy to think about it. Maybe she was worried about something else entirely? The weight of her silence was suffocating; he couldn't read her mind, so he assumed the worst. He wondered if she was even paying attention to him, or if she was lost in her own thoughts again. The pain in his chest grew, fueled by his inability to connect with her. Why wouldn't she talk about it? Didn't she understand how much it meant to him? Was she even thinking about it at all?"
+    },
+    {
+        "Triggering Event": "\"While patrolling, he noticed a 'For Sale' sign outside the house where his wife's car accident occurred three years ago. The current owners were moving in boxes, laughing and carefree, as if nothing had happened.\"",
+        "Sex": "Male",
+        "Age": 42,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Subjective Reaction:** It is incredibly ironic that these people are selling the house with all its memories intact. I can't imagine how they must feel, being so oblivious to the tragedy that took place there. They probably don't even realize what it means to them. Their casual demeanor is unsettling; it's almost as if they're trying to erase the past by moving forward. But they'll never be able to forget the pain they've endured. They're just pretending everything is fine when it's far from reality. This situation feels like a cruel joke, especially considering my own connection to the house. It makes me wonder if they have any idea about the history surrounding this property. Are they aware of the impact it had on our lives? Probably not. They seem completely insensitive, which bothers me. It's hard for me to accept that someone else could move into the same space without understanding the weight of those memories. I'm curious if they know anything about the accident, but it doesn't matter much now since they won't care. The fact that they're selling the house while still living here is quite unusual. Perhaps they're trying to distance themselves from the past, but I think it's more than that. Maybe they genuinely believe they can leave everything behind and start fresh. They might not fully comprehend the significance of this home, and I hope they never do. After all, I wouldn't want anyone to experience what we went through either. Yet, I find their indifference"
+    },
+    {
+        "Triggering Event": "He walked past the gallery window, pausing to admire the vibrant painting on display - a scene of joyous chaos at a crowded market. The artist's signature in the corner caught his eye; it was her, the young up-and-coming painter everyone was buzzing about. His stomach churned as he remembered the empty canvas boards stacked in his studio at home, untouched for months now. He felt a pang of envy, sharp and bitter, as he imagined her standing here, basking in the praise of admirers, while he struggled to find inspiration alone in their once-shared apartment.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Wow, I'm just so jealous. She has this amazing talent and she's out there living her dream, painting beautiful things that people love. Meanwhile, I can't even get my mind to work properly. It's like nothing is inspiring me anymore. I feel like such an absolute failure because I've lost all my creativity. Just yesterday, when we were supposed to meet up for coffee, she sent me a text saying how much fun she had at the gallery opening. And then she posted a photo of herself with some other artists, laughing and having the time of their lives. I mean, who wouldn't want that? She's talented, outgoing, and has so many great opportunities coming her way. What am I doing wrong? Why can't I be happy with what I have?\""
+    }
+]

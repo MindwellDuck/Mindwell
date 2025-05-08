@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "An unmarked patrol car parks in her driveway, two officers stepping out to deliver news of a suspect's release after plea bargain. Her late husband's case, closed without conviction.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Fuck, not again! What the hell are those cops doing here? They must've come to rub it in my face, didn't they? 'Cause of course, they wouldn't be here for anyone else on this fucking street. It's always about him, about his case. Why can't they just leave me alone?! This is bullshit! I knew they'd never catch the bastard who killed my husband. Typical!\""
+    },
+    {
+        "Triggering Event": "He found an unfamiliar lipstick in his wife's car, its vibrant red contrasting sharply with her usual neutral shades. It wasn't hers; it couldn't be. He felt a pang of jealousy, imagining her laughing with another man over drinks, their hands brushing casually as they reached for the same glass. His mind raced with scenarios he'd never considered before, each one tightening the knot in his stomach.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Every time I look at that lipstick, I can't shake this dread. It's like a beacon flashing 'cheating' in neon lights. My mind plays out these scenes of her with someone else - laughs shared, secrets whispered. It's overwhelming. How will I bear it if she actually did something? Each day feels like an eternity, waiting for the other shoe to drop.\""
+    },
+    {
+        "Triggering Event": "A patient she hasn't seen in years, now a middle-aged man, walks into her clinic. He looks at her, pauses, then says, \"You were supposed to save him.\"",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Dr. Thompson stared back at him, taken aback. \"Save who?\" she asked softly, her heart pounding like it was trying to echo his harsh words. She felt a chill, her mind instantly painting vivid images of failure. \"I did my best,\" she muttered, her hands trembling slightly as she reached for his file."
+    },
+    {
+        "Triggering Event": "At 76, he's seen his fair share of cases, but this one still haunts him. He sits at their kitchen table, retirement papers unsigned beside him. His wife, Martha, hums softly in the other room, unaware that today is the anniversary of the case where he'd hesitated, a moment's regret costing a young woman her life.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"Damn it all, I've seen every imaginable scenario in my career, but this one... It sticks with me like a thorn. Here I am, retirement papers untouched, Martha's humming echoing through the house, blissfully unaware that today marks another year since that wretched moment of hesitation. Why can't she feel it too? We should be remembering together, not her singing off-key to some old tune. It just shouldn't be like this.\""
+    },
+    {
+        "Triggering Event": "She found his old chef's jacket, forgotten behind the stove. The grease stains and faded embroidery whispered echoes of shared meals, laughter. Now, it hung silent and empty, a ghost in her once-warm kitchen. She crumpled to the floor, clutching it, despair seeping into every fiber as reality pierced anew: he was gone, and she was alone.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Despair",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Oh great, just what I needed to find today - his old jacket. Like a freakin' museum exhibit, huh? 'Remember when we were happy?' it says. Well, newsflash, fabric: that was then and this is now. A few stains and some faded letters don't change the fact he's not here anymore. So what if we had good times? It doesn't make up for the empty chair now, does it?\""
+    },
+    {
+        "Triggering Event": "\"Every morning, he passed the same empty nurses' station, where once his colleagues would've gathered for coffee and laughter. Today, a discarded cup lay there, untouched since her retirement party six months ago. He picked it up, his grip tightening as he felt its cold emptiness. Another reminder of their departure, leaving him behind in this sterile, echoing shell.\"",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "**Writing Prompt:** Describe your daily commute through an eerily empty office building, once bustling with life but now haunted by reminders of departed colleagues.\n\n**Text:**\n\nUpon entering the building each morning, one could be forgiven for mistaking it as a ghost town, such was its silence. The echo of my footsteps down the once-thriving corridors now served as an unwelcome symphony to my solitude. Yet, I dared not dwell on the emptiness that permeated these walls; after all, what purpose did it serve?\n\nTake today, for instance. In the heart of the building lay the nurses' station, a stark reminder of its former glory. The room, once filled with laughter and chatter as colleagues shared stories over steaming cups of coffee, now stood silent and sterile. A discarded cup lay there, untouched since her retirement party six months ago. I picked it up, its cold emptiness mirroring the void left behind by those who had departed.\n\nBut why should I linger on such trivialities? It mattered not that the station was empty, nor that the cup remained untouched. Such things were inconsequential in the grand scheme of things. My work, my duty, remained unchanged, regardless of the echoing silence or the discarded remnants of past camaraderie.\n\nSo, I continued on my path, each step a testament to my resolve not to be swayed by such trivial matters. After all, what was an empty cup when there was so much else to attend to? It was merely a trifle, a mere nothingness in the grand tapestry of my responsibilities. And thus, I carried on, undeterred and unyielding, as was my way."
+    },
+    {
+        "Triggering Event": "She's hunched over her lab bench, pipette trembling slightly as she attempts to transfer a tiny drop of solution into a test tube. The clock ticks down towards her noon deadline for this crucial experiment, but the liquid refuses to cooperate, spilling onto the bench instead. A sharp intake of breath from behind startles her; it's her partner, apologetic but needing to discuss their upcoming conference call about their shared mortgage application. She snaps, \"Not now!\" sending him retreating quietly down the hall.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're the partner who overheard the snapped remark. You've been patiently waiting to discuss your shared mortgage application, but now you feel unwelcome and guilty for disrupting her work.\n\n**Text:**\n\n\"Damn it,\" I muttered under my breath, retreating down the hall as she snapped at me. \"I knew I shouldn't have come in here while she's working.\" I felt a pang of guilt, like it was my fault for making her lose focus. I should've waited until she was done. She always gets like this when there's pressure, but still, I could've handled that better. I made a mental note to give her more space during crunch times, even if it meant delaying our mortgage talk a bit longer. It's not like we're in any rush, right?\""
+    },
+    {
+        "Triggering Event": "A young, attractive nurse-on-call asks Dr. H. about her weekend plans, smiling warmly. Dr. H. hesitates before answering, \"Just catching up on paperwork.\" The nurse's smile widens, \"Oh, that sounds... fun,\" she says, turning away with a soft laugh.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "Dr. H., leaning back against her desk, crosses her arms with a sigh. \"Just paperwork,\" she mutters, shaking her head. \"Who gives a shit about that? She didn't even try to hide her laughter. Like it's some fucking joke.\""
+    },
+    {
+        "Triggering Event": "He opens his inbox, expecting work emails. Instead, he finds another message from his mother, asking why he hasn't replied to her last email. He remembers it was about his estranged brother's wedding invitation, which he'd ignored. A knot forms in his stomach as he deletes the unopened message.",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "**Writing Prompt:**\nYou're sitting at your desk, fingers hovering over the keyboard, as you stare at the unopened email from your mom. You've been putting off reading it for days now.\n\n**Text:**\n\nWell fuck, not another one. It's like she's got some sort of sixth sense for when I'm busy. Or maybe she just knows I've been avoiding this shit. Goddamnit, why can't she just take a hint?\n\nIt's all about my damn brother again, isn't it? \"Why haven't you replied?\" Like, duh, mom, 'cause I don't wanna fucking deal with it! It's not like I didn't see the wedding invite he sent. Who gives a shit if he's getting married? He didn't even bother inviting me.\n\nAnd now she's on my case about it too. Can't they both just leave me alone? It's not like I'm ignoring them or anything... Okay, fine, maybe I am. But who the hell cares?\n\nFuck this. I can't deal with this right now. Delete."
+    },
+    {
+        "Triggering Event": "After a long, exhausting shift at the boutique, she spots her husband's favorite lipstick, the one he'd bought for his \"assistant,\" in her own makeup bag.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "**Writing Prompt:** \"So, like, I'm standing there, exhausted from this epic shift at the boutique, right? And then I spot it. His lipstick. The one he bought for her. In my freaking makeup bag. Like, what the actual hell?\"\n\n**Text:**\n\"F*ck me. It's either she's using my stuff now, or she's been swapping hers with mine. I mean, why else would it be in here? It's not like I left it there myself... or maybe I did, but that's just ridiculous. Black and white, right? It's her or it's me. No in-between.\""
+    }
+]

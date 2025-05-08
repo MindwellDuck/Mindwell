@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "At 73, his hands trembled slightly as he reached for the aged yellowed envelope tucked behind his desk's drawer, untouched since his retirement three years ago. Inside were clippings of his old articles, now faded and brittle, each one a reminder of his glory days in journalism. The dust motes dancing in the sunlight seemed to mock him, whispering tales of scoops missed, stories untold, and wars long over. Today's newsroom was a stranger's place, filled with faces too young to remember his name. As he sat there, alone amidst the hum of activity, he felt an overwhelming sense of helplessness wash over him. He was just an old man now, forgotten, useless, his stories gathering dust alongside his medals and awards.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"One would have thought that after all these years, the desk would still be mine to command,\" he muttered, his fingers tracing the faded ink of his old articles. \"It seems time has little respect for what once was. The young whippersnappers scurrying about now, they wouldn't know a real scoop if it bit them. They should appreciate the legacy here, not tear down walls and replace them with... with whatever this is,\" he gestured at the modern workspace, his nose wrinkling slightly. \"And where are my stories? They deserve better than to gather dust like some forgotten relics.\""
+    },
+    {
+        "Triggering Event": "At 7:30 PM, as she's grading papers at her kitchen table, a text message pops up on her phone from her ex-husband: \"Just thought you should know, I'm getting married next month.\" She slams her fist down hard, sending pens and pencils flying off the table.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Prompt:** How did she feel about her ex-husband's text message?\n\n**Response:** Oh god, this can't be happening. My heart's pounding like a freaking drum solo in here. I knew it, didn't I? Knew he'd move on first. But next month? That's... that's way too soon. It's like, I haven't even started healing yet, and he's already at the 'I do' part. How am I supposed to deal with this? It's gonna be a fucking disaster. I can feel it."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nA middle-aged woman, her uniform still on from the overnight shift, stood in the bustling hospital corridor. She watched as the code team rushed past her, their faces grim. They were headed to her husband's ward. His heart had stopped again.",
+        "Sex": "Female",
+        "Age": 60,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"I knew it! Fucking hell, this is all my fault. I shouldn't have worked last night. They wouldn't be rushing like this if I was there. It's always something with him, isn't it? He can't go one fucking day without needing some goddamn drama. I just know they're not gonna make it in time. Why bother trying?\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nAt 2 AM, she woke up to the ping of her work phone, a rarity since she'd switched off notifications months ago. Groggy, she squinted at it, heart pounding as she read the urgent message from her boss: \"We've lost our lead developer. Need you to step in and manage the project ASAP.\" She took a deep breath, stress already coiling in her chest like an unraveling cable.",
+        "Sex": "Female",
+        "Age": 71,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a dedicated project manager at a tech company. You've just been woken up at 2 AM by an urgent message from your boss, asking you to step in as lead developer on a critical project. How do you feel about this situation? Write down your thoughts and feelings, using \"should\" statements naturally in your venting.\n\n**Text:**\n\nUgh, seriously?! It's freaking 2 AM! My boss knows I hate getting woken up like this, but does she care? Nooo. She should've handled this herself or at least waited until morning. And why me? I'm not even a developer anymore! This is ridiculous, she should've thought of that before promoting me to project manager. Now look at me, sitting here wide awake, heart pounding like I'm ready for a damn marathon. This is just great, really great. She shouldn't have put this all on my shoulders. It's not fair, it's not right."
+    },
+    {
+        "Triggering Event": "He found her favorite scarf while cleaning out his desk at work, the one she always wore when he'd complain about the draft in their old apartment. The fabric was still soft under his fingers, and suddenly, the room felt too small, too quiet. He couldn't remember the last time he'd heard her laughter echoing off these walls.",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Writing Prompt: He held her scarf in his hands, tracing its edges as if expecting it to reveal answers he'd long stopped believing existed. His mind began its familiar spiral.\n\nText:\n\"Fuck, not again,\" he muttered, crumpling the soft fabric in his fist. \"Why did I have to find this goddamn scarf today of all days? It's been what, two years since she left? And still, here we are, me and her fucking scarf.\"\n\nHis gaze darted around the room, as if searching for an escape from the thoughts that were already crowding his mind. \"What if she never comes back? What if she's moved on, started a new life without me? What if I'm just stuck here, with this stupid scarf and these fucking what-ifs?\"\n\nHe slumped onto the couch, running a hand through his hair. \"I can't keep doing this to myself. It's not healthy. But Christ, it's hard not to when there are so many damn variables, so many things that could go wrong.\" He took a deep breath, trying to steady himself. \"Fuck, I need a drink.\""
+    },
+    {
+        "Triggering Event": "She returned home from her studio, expecting to find him there, but his jacket wasn't hanging by the door and the apartment was silent. His empty plate still sat in the sink, a reminder of last night's meal shared alone. She checked her phone; no messages since this morning's \"I love you.\" The gallery opening was tomorrow, her biggest show yet, and he was supposed to be there. But today, he wasn't.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "\"I guess he's just completely forgotten about tonight,\" she muttered to herself, throwing her keys onto the counter. \"Either he doesn't care or something urgent came up.\" She picked up his plate, scrubbing it vigorously as if to cleanse away her disappointment. \"He's either there for me or he's not. There's no in-between.\""
+    },
+    {
+        "Triggering Event": "She woke up to an empty coffee mug beside her pillow, his usual morning gesture forgotten. A quick glance at her phone revealed no messages, no 'Good morning'. The house was silent except for the hum of the fridge she'd been nagging him to fix. She felt a familiar pang in her chest as she headed to the bathroom, noticing his toothbrush still damp from use. He'd left without so much as a kiss goodbye. Again.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "\"Typical,\" she muttered, glaring at the empty mug like it was personally offensive. \"He couldn't even manage that today.\" She snorted, swiping her phone's screen with exaggerated force. \"No 'Good morning', nothing. Like I'm not worth a damn text, huh?\" She slammed the bathroom door behind her, the echo of her annoyance filling the silent house."
+    },
+    {
+        "Triggering Event": "In the quiet of her kitchen, she hears an unfamiliar creak from the basement door, always kept locked since her husband's passing last year. Her heart pounds in her chest as she reaches for the light switch, but it flickers and dies. The silence feels heavier than before, punctuated only by her own ragged breaths.",
+        "Sex": "Female",
+        "Age": 70,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "In her trembling hands, she gripped the rusty key, its jagged edges biting into her flesh like tiny accusing fingers. \"That door wouldn't creak like that if it wasn't trying to tell me something,\" she muttered, her voice barely audible over the pounding in her ears. She was certain every noise, every flicker of light, was a message tailored just for her. The darkness seemed to whisper secrets only she could hear, and they all pointed back to her. \"It's my fault he's gone,\" she thought, as she always did when faced with the unknown. \"This silence is judging me.\""
+    },
+    {
+        "Triggering Event": "Scenario:\n\nShe finds a crumpled receipt in his pocket, from an overpriced restaurant she's never heard of. The date was last night, when he told her he was working late.",
+        "Sex": "Female",
+        "Age": 23,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"I found this stupid receipt, all crumpled up, in his pocket! 'Working late,' he said. As if I'd believe that now. He must've thought I was too dumb to check. Probably laughing about it with whoever he was with at that overpriced place. Doesn't he know I deserve better than lies?\""
+    },
+    {
+        "Triggering Event": "A middle-aged man, his uniform disheveled after a long shift, walks into a local diner for a late dinner. As he sits down, he overhears two young men at the counter mocking the police force, laughing about recent scandals. His lip curls involuntarily as he listens, contempt simmering in his eyes.",
+        "Sex": "Male",
+        "Age": 39,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** Describe the man's thoughts as he sits down at his booth, hearing the two young men mocking the police force.\n\n**Text:**\n\n\"Well isn't that just dandy,\" he muttered under his breath, slumping into the booth. Those punk kids at the counter, laughing it up like they're the first to ever make a joke about us. They think this is funny? Like I don't know every sordid detail, every damn scandal. And here I am, walking in with my shoulders hunched after another 12-hour shift, just trying to grab some grub before I pass out. But no, they have to pick today of all days to start yapping about how corrupt we are. They think this is about them? It's personal, alright. Personal like a knife twisting in my gut.\""
+    }
+]

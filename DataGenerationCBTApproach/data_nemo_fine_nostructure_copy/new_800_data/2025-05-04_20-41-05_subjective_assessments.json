@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A customer she'd served earlier in the day storms back into the store, shouting about a faulty item. She realizes with embarrassment that she'd accidentally scanned it twice.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Embarrassment",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She's always been an asshole to customers. I guess this is just more proof of her horrible behavior. I'm so glad I have to deal with her again today."
+    },
+    {
+        "Triggering Event": "She returned home from another late shift, finding the dinner table set for one again. No note, no call, just another silent evening with her husband's empty chair staring back at her. The bitter taste in her mouth grew as she reheated last night's leftovers, alone in the dimly lit kitchen.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "She must have forgotten about me again. I'm not important enough to be included in plans, even when we're both exhausted from working long hours. It's always the same; I'm left out, and he's off living his life without me. I wonder if this is how it feels to live in a relationship where the other person doesn't care - like being invisible all over again."
+    },
+    {
+        "Triggering Event": "\"While restocking supplies in the hospital's quiet storeroom, she noticed a younger nurse's compliment about her years of service had been written on a nearby cabinet, now faded with time. She felt a pang of insecurity, wondering if anyone still appreciated her expertise.\"",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "She was genuinely touched by the gesture, feeling it acknowledged all her hard work over the years. It seemed like an authentic appreciation from someone who understood the value of her dedication to patient care. That moment made her feel valued and important again."
+    },
+    {
+        "Triggering Event": "An elderly woman, once a close friend of his late mother's, phoned to cancel their long-standing tradition of sharing Christmas lunch together. She couldn't face another year of memories haunting her empty table, she explained, before hanging up abruptly, leaving him alone with the silent dial tone and the ghosts of Christmases past.",
+        "Sex": "Male",
+        "Age": 62,
+        "Occupation": "Artist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She was probably having some kind of mental breakdown. What if she's really sick this time? Maybe it's just a bad day, but what if she really needs someone to talk to? I don't want to push her, but what if we're missing an opportunity to help her? That would be terrible. I'd feel awful for not being there for her."
+    },
+    {
+        "Triggering Event": "A parent, interrupting her while explaining a complex math problem to their child, dismissively tells her, \"You're making it too complicated.\"",
+        "Sex": "Female",
+        "Age": 24,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Contempt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"I'm so upset with my mom right now. I can tell she doesn't even care about what I'm trying to say, and it's really frustrating. She just keeps dismissing everything I have to explain, like when I was working on that math problem earlier. Now she's saying that I'm overcomplicating things, but we were going through the steps together, and I didn't think I was doing anything wrong. It feels like she wants me to fail. She never does listen to me when I try to explain something; she always interrupts and then talks over me. She thinks she knows better than me, and it makes me feel stupid. I wish she would actually pay attention to what I'm saying instead of cutting me off all the time.\""
+    },
+    {
+        "Triggering Event": "At 7 PM, she found the receipt for dinner at an expensive restaurant, meant for two, tucked into his coat pocket. It was dated yesterday.",
+        "Sex": "Female",
+        "Age": 65,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She felt a chill run down her spine as she pulled out the receipt from his jacket pocket. The date on it was three days ago. She had no memory of buying him dinner, but the bill was substantial - $150 for a single meal, which seemed excessive to her. As she looked closer, the total came to over $200, with multiple bottles of wine added. She wondered how he could have spent that much money without telling her. Had he gone out alone? Did someone else pay for him?"
+    },
+    {
+        "Triggering Event": "She entered their study, her footsteps muffled by the thick carpet. The desk lamp cast a soft glow over the half-finished letter addressed to their estranged daughter. \"I should have pushed harder for us to visit her last year,\" she whispered, tracing the unopened birthday card from Emily tucked beside the framed family photo. Her husband's steady breathing upstairs was a reminder of his peaceful sleep, untroubled by the guilt that gnawed at her.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "She must be either trying to manipulate me into thinking it’s my fault or genuinely believe I’ve abandoned our daughter. Either way, it doesn’t matter; this conversation will be about the past, not the future. If we’re going to discuss what went wrong, we’ll do it now. There’s no use dwelling on it; it won’t change anything. It’s better to focus on the present. We can’t fix what’s already been done—why waste time on it? Instead, let’s concentrate on what we can control moving forward. This is pointless. Why are we still arguing about something that’s long gone?"
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she opens an old cookbook, her fingers tracing the pages until they stop at a recipe she knows by heart. She hesitates, then begins to gather ingredients, her movements slow and deliberate. As she reaches for the flour, her hand brushes against a faded photo tucked into the cupboard door - their wedding picture. Her breath catches in her throat, and she can't bring herself to continue. Instead, she sits down at the kitchen table, the untouched ingredients laid out before her like an accusation. She stares at them, her reflection in the window showing the silent tears streaming down her cheeks.",
+        "Sex": "Female",
+        "Age": 43,
+        "Occupation": "Chef",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "She pauses, lost in thought, the room around her fading away as memories flood back. The photo, once a symbol of happiness, now feels like a weight, holding her back from completing the recipe. It's been years since he passed, but the pain still lingers, making it hard to move forward. # Example Response The response reflects the mind-reading distortion through the use of phrases such as \"she can't bring herself to continue,\" which implies that her emotions are somehow controlling her actions, rather than acknowledging the emotional complexity involved. This subtle framing suggests that her feelings are driving her behavior, even though she might not fully understand why she's resisting cooking. By using this language, we're encouraging the reader to assume that her emotions directly dictate her decisions, without considering other possible explanations. This type of phrasing can lead readers to misinterpret her actions as being driven solely by her emotions, when in reality, there may be more nuanced factors at play."
+    },
+    {
+        "Triggering Event": "She noticed his car outside her apartment, still warm from the drive over. He hadn't told her he was coming. She slammed the door behind him, her voice shaking with rage as she spat, \"I thought we were done sharing our locations.\"",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "She is a jealous and controlling woman. It's clear that she doesn't trust him to stay faithful."
+    },
+    {
+        "Triggering Event": "A co-worker casually mentioned during lunch, \"Your recent paper looks sloppy. Not like your usual meticulous work.\" She felt her cheeks flush as she recalled the rushed draft, submitted while caring for a sick child at home.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "When I read that comment, I immediately thought about how it reminded me of my past mistakes in school. Every time I received a low grade, I assumed I was never going to be good enough and started to doubt myself. Now, even though this one incident is just an anomaly, I feel like I'll always struggle with being careful. It's like I'm stuck in a cycle where every small mistake makes me question everything."
+    }
+]

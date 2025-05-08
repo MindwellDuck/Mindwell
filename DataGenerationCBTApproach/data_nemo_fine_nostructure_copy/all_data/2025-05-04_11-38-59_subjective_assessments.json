@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A former patient, now a familiar face at her local coffee shop, walks past her table without acknowledgment, eyes fixed firmly ahead.",
+        "Sex": "Female",
+        "Age": 68,
+        "Occupation": "Doctor",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "A friend of mine once told me that I'm really good with people and can read them easily. He even said it was like I have a superpower when it comes to understanding others. Now, whenever I meet someone new, I feel like I need to be extra careful about how they perceive me. It's hard to balance being friendly and respectful while also keeping an eye out for potential issues. Sometimes I find myself overthinking what people might think of my behavior, which can lead to feelings of anxiety. I've noticed that if someone seems uncomfortable around me, I tend to notice it more than usual, but it doesn't necessarily mean anything is wrong. Maybe I just pick up on things better? Still, it makes me wonder if I'm too sensitive or if there's something deeper going on."
+    },
+    {
+        "Triggering Event": "At 2 AM, the radio crackles to life. A dispatcher's calm voice reports a domestic disturbance at a familiar address - her partner's ex-wife's house. She feels her stomach knot, stress tightening its grip as she navigates the dark streets alone tonight.",
+        "Sex": "Female",
+        "Age": 54,
+        "Occupation": "Police Officer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "At this point, I feel overwhelmed by fear. What if I get there too late? What if the situation escalates? What if my colleague is injured or worse? The possibility of him being hurt weighs heavily on me. I imagine the worst-case scenario—him getting shot or trapped in an argument that spirals out of control. What if he can't handle it alone? What if the ex-wife's boyfriend shows up unexpectedly, or what if they have another child inside? My mind races with these thoughts, making every step more difficult. I'm just trying to protect him, but I'm scared I might not be enough. Every step feels heavy, and I worry about every possible outcome."
+    },
+    {
+        "Triggering Event": "\"After years of dedicated service, Dr. H. receives an email from the hospital board, informing her that they've decided to give this year's prestigious award to a colleague instead, citing 'institutional balance' as the reason. She sighs, disappointment washing over her as she imagines the empty space on her wall where another accolade could have hung.\"",
+        "Sex": "Female",
+        "Age": 69,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "Dr. H. can't believe it. The email is a slap in the face, a blatant attempt to undermine her hard work and dedication. Either she was given the award, or she wasn't; there's no middle ground. If she's truly worthy, why did the board choose someone else? It must be because they're jealous of her success, and now they're trying to compensate by taking away her recognition. This isn't just about the award itself but about how it reflects her value to the hospital. She feels like she's been punched in the gut, and it's clear that the decision is a personal attack."
+    },
+    {
+        "Triggering Event": "She woke up to an empty bed, his half of the mattress still cool. The coffee maker beeped, mocking her with its cheerful readiness. She scrolled through their message history, his last text from three days ago. \"Busy w/ work. Talk soon.\" Her thumbs hovered over the keyboard, but she couldn't find the words to express what she felt - a gnawing unhappiness that seemed to grow with each passing silence.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She sighed, feeling like she was drowning in an ocean of loneliness. Every day felt like another step back into isolation. Even the smallest things—like the sound of her coffee maker or the emptiness of the bed—felt like reminders of what she had lost. It wasn’t just him; it was everything they shared, the laughter, the adventures, the quiet moments when it felt like the world was theirs alone. Now, all she had left were memories and a lingering hope that he would come back to her. But why did it feel like every other relationship seemed so much easier? They posted happy photos together, and couples laughed at their jokes. Meanwhile, she was stuck in this limbo, wondering if anyone else felt as lonely as she did. It wasn’t fair; everyone else had someone by their side. Why did life have to be so unfair? It didn’t help that she saw those posts, watched videos of them sharing meals, or heard about their trips. Every time, it made her feel like she was missing out. Everyone else had someone to share their experiences with, while she was here alone, trying to pick up the pieces of a broken heart. But then again, why did she even try? Maybe it was just futile to keep hoping, especially when it felt like everyone else had moved on, leaving her behind. She thought about how different her life was now compared to before. Gone were the late-night conversations, the silly jokes, and the way they’d"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nWhile fact-checking an expose, she discovers her editor slept with her source to secure an exclusive story, tarnishing her own meticulously built reputation.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She's such a hypocrite for exposing the other editor who did the same thing. She never would have done it if she wasn't so self-righteous about being a journalist herself. It just shows how biased she is against people like that."
+    },
+    {
+        "Triggering Event": "A young woman, once vibrant and lively, now walks through the park alone. She watches as couples laugh together, their hands entwined. A familiar pang stirs within her, envy gnawing at the edges of her heart. A group of children run past, their joy infectious, but it only serves to highlight the emptiness she feels. She notices a woman around her age, radiant with happiness, pushing a toddler on the swings. The scene is too much; she turns away, tears welling up, feeling the weight of time passing without her.",
+        "Sex": "Female",
+        "Age": 22,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She can't help but feel bitter towards the other couple. Why are they so lucky? They seem to have found something special, while she's left behind. It's unfair that they get to experience life in this way, enjoying each other's company when she's been alone for what feels like an eternity. Those two must be doing something right, unlike her, who has nothing to show for herself. At least they're not as miserable as she is. Maybe if they were here, they'd realize how bad things are, just like she does. But no, they're oblivious to the reality of being single and unloved, instead choosing to celebrate their love. Why shouldn't I be happy too? Everyone else gets to enjoy life, except me. It's all their fault, not mine. If only they could see how lonely I am, maybe they'd understand why I'm so upset. No one deserves this kind of loneliness; they just don't deserve to be happy either."
+    },
+    {
+        "Triggering Event": "After eight hours on her feet, she finally clocks out and heads to the mall's food court for dinner with her partner. As they wait in line at their favorite restaurant, he receives a text message, glances at it, then smiles but doesn't share what it says. When asked about it later, he simply replies, \"Oh, just something from work.\" She watches him finish his meal quickly before rushing off to meet friends, leaving her alone with the half-eaten meals and a familiar sense of disappointment.",
+        "Sex": "Female",
+        "Age": 42,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "She can't help feeling let down when he doesn't open up about his day, especially after seeing how much effort he put into making dinner. It feels like he's putting work first again, which is why he never shares anything with me. Maybe he thinks this is one of those days where we shouldn't talk about work because it's too stressful? Or maybe he genuinely wants to forget about work right now and enjoy our time together? She wonders if she'll ever get used to this cycle of him keeping things to himself, and it makes her question whether she really cares enough to keep pushing for more from him. It would be nice if he could make an exception today, but sometimes you just have to accept that things will never change. Hopefully, tomorrow will be better."
+    },
+    {
+        "Triggering Event": "He checks his phone, hoping for a message from her. Nothing. The clock on the cash register reads 9 PM; he's been here since 10 AM. Another slow day at the mall, another day of watching couples and families walk by, hand in hand, laughing together. He feels it again, that hollow ache in his chest. Last time they talked, she'd said, \"Let's just be friends.\" He'd nodded, pretending to understand. But now, standing here alone, he knows he was fooling no one but himself.",
+        "Sex": "Male",
+        "Age": 18,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He can't help but feel that this is some kind of cruel joke, like the universe is playing a twisted game with him. Every time she says \"let's just be friends,\" it feels like an insult, a rejection so deep it cuts through everything else. It's hard not to take it personally when she doesn't seem interested in anything more than friendship. She never tells me I'm attractive, never even looks at me the way other people look at each other. And then there are all those times we were together, laughing, holding hands, sharing moments that felt so real... Now, all of that feels like a lie, a dream that vanished as soon as I woke up. Maybe if things had gone differently, maybe if she hadn't pushed us apart, none of this would have happened. But life doesn't work that way. We can't change what's already done, only move forward, trying to find meaning in what's left. Yet, every step forward feels like a step backward, because I'm constantly reminded of what could've been. That night, I lay awake, thinking about how I'll never get over her. How can anyone move on when they've seen someone like her? Someone who makes you want to be better, to be worthy of love? But she made it clear she didn't see me that way. I know I shouldn't blame myself, but I feel like I'm running out of chances. Maybe I'll find someone else, but it"
+    },
+    {
+        "Triggering Event": "He sat at his desk, fingers drumming impatiently on the keyboard. Another hour gone, and the code still refused to compile. His girlfriend's voice echoed in his mind, \"We never spend time together anymore.\" He felt a pang of frustration, but pushed it aside, focusing back on the screen. His mouse cursor hovered over the debugger, but instead of clicking, he sighed and rubbed his temples, feeling the familiar tension building behind his eyes.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "He was just too lazy to learn programming. It didn't matter how many times he tried; he would always struggle with coding. The more he focused, the more frustrated he became. Programming wasn't for him; he had better things to do."
+    },
+    {
+        "Triggering Event": "He was in his classroom, grading papers late after school hours when he heard it—a mocking laugh echoing down the empty hallway. It was that kid, Jake, the one who'd been making his life a living hell since his wife's passing. He could see him now, standing at the doorway with a smirk on his face, holding up a crumpled piece of paper. It was John's favorite drawing from their last art class together—the one he'd made for her, before she got sick. His heart pounded as Jake tore it in half, letting the pieces fall to the floor like confetti. \"You're pathetic,\" Jake sneered before walking away, leaving John alone with his hatred boiling over.",
+        "Sex": "Male",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "John felt like an absolute failure, sitting there amidst the scattered pieces of what used to be his favorite memory. How could someone like Jake get away with this? He wasn't even doing anything wrong—just grading papers quietly. But Jake knew exactly how to push John’s buttons, especially today. The pain of losing Sarah still lingered, and Jake seemed to enjoy watching John struggle. It was like he had a sixth sense for knowing exactly how to hurt him. John couldn’t help but wonder if Jake ever thought about what he’d lost, or if he just took pleasure in causing pain. As John sat there, surrounded by the remnants of something beautiful, he felt like a monster compared to Jake, who didn’t have to deal with the weight of grief. Even though he knew it wasn't fair, John couldn't shake the feeling that Jake was somehow better than him. He remembered how happy they were when they brought their kids to school, but now those memories seemed tainted by the pain of losing them. It was unfair, John thought, but he couldn't help comparing himself to Jake. That kid didn’t have to live with the guilt of killing the love of his life, yet he still managed to make John feel inferior. John wondered if anyone else saw Jake as a bully, or if he was truly the worst. He felt like he was stuck in a nightmare, unable to wake up, while Jake walked out of the room, seemingly unbothered by the chaos he'd"
+    }
+]

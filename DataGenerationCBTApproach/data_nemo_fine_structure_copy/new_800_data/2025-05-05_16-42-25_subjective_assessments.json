@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "Scenario:\n\nShe was writing up her report, fingers tapping out each word with an edge of bitterness she hadn't noticed until now. The precinct was quiet this time of night, only a few colleagues typing away at their desks. Then he walked in, laughter echoing off the walls, his hand resting casually on the shoulder of a woman who wasn't her. A year ago, that would've been them, but not anymore. Not since the divorce papers. She felt the familiar sting, bitterness rising like bile in her throat. She focused back on her report, but the words blurred, the ink smudging under her glare. Another late night, another bitter pill to swallow.",
+        "Sex": "Female",
+        "Age": 18,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Bitterness",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "*she had always been bitter* **Response End** # Output She had always been bitter. The thought lingered as she wrote, a constant reminder that even though she'd worked hard for her job, it wasn't enough. At least, not if she wanted to be promoted. She couldn't shake the feeling that everyone else knew it better than she did—especially him. He didn't seem bothered by anything, just going about his day like nothing was wrong. Even when I'm bitter, I still have things to complain about. I can't help how I feel. # Output Even after all these years, she still felt bitter. It was just one of those things, part of who she was. She often wondered why people like him got ahead so easily, while she struggled to keep up. But maybe that's what made her bitter—the knowledge that life wasn't fair. She tried to push through the bitterness, but it seemed to cling to her like a shadow. Her coworkers looked at her differently, like they saw something more than just frustration. Maybe that's what made her bitter—it was like a weight holding her back, making every step feel heavier. She couldn't let it consume her, but it was hard to ignore. # Output Bitterness was a constant companion. She never really understood why it stuck around, but it did. It kept her up at night, wondering why everything wasn’t perfect. She tried to move on, but the bitterness stayed"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nThe nurse, mid-thirties with a warm smile that today seems strained, watches from behind the counter as her colleague, younger and vivacious, receives a bouquet of flowers from an adoring patient. She glances at her own ring finger, bare save for the faint tan line where her wedding band once was.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Nurse",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "It’s just so sad to see my colleagues getting married while I’m still alone, isn’t it? I mean, they’re all happy now, but what about me? They have families already, and I’m still here, waiting for someone who doesn’t even care enough to wear a ring. It’s pathetic, really. Why can’t I be like them? This one nurse is trying to make me feel better by saying she’ll try to get me a gift too, but honestly, what’s the point? Everyone else has their perfect partner; I don’t know why I bother coming back to work when no one will ever love me like they do each other. The way this coworker is flaunting her engagement is making me feel worse. She looks so content, enjoying every moment, while I’m just stuck here, single and forgotten. What am I even doing here? She keeps smiling at me, like we share some inside joke, but I know the truth—she’s just being nice because I look pathetic compared to her. My boss says I deserve happiness too, but how can I feel that way when everyone around me has found their soulmate? This whole place feels empty and cruel, especially since I used to think our workplace was full of warmth and camaraderie. Now, it just reminds me of my isolation. I wonder if she thinks I’m just jealous of her happiness or if she realizes how much more painful my loneliness must be. Either way, I’m"
+    },
+    {
+        "Triggering Event": "While working late, he accidentally deletes an email from his girlfriend asking him to pick up her birthday gift. He realizes it hours later, after she's gone to bed.",
+        "Sex": "Male",
+        "Age": 19,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "**Cognitive Distortion:** Jumping to Conclusions This is what happened: He thought he was doing something good for his girlfriend by helping her with her work. She appreciated how much he cared about her, so she thanked him when he told her that he helped her with her work. Now, I can see why this could be seen as jumping to conclusions. This is why: * **Little or No Confirmatory Evidence**: I am using \"little\" instead of \"no\" because we all have some evidence that supports our beliefs. * **Drawing Conclusions**: If you are drawing conclusions, you are making assumptions based on insufficient information. Drawing conclusions means making a judgment about something without having enough data to support your decision. * **Cognitive Biases:** Cognitive biases are systematic patterns of deviations from normative or rational thinking and are more common than people realize. There are many types of cognitive biases, but they all share one thing in common: they distort our perception of reality. In this case, I think my brain jumped to conclusions and made an assumption about my boyfriend's intentions. When he deleted the email, I assumed he didn't care about me, which led to feelings of hurt and betrayal. But now that I've talked through my thoughts, I realize that I was just being paranoid. My boyfriend doesn't know I deleted the email yet, and I'm assuming he'll forgive me once he finds out. I'm also feeling relieved that I got to talk"
+    },
+    {
+        "Triggering Event": "An unfamiliar young chef, hired to help with the dinner rush at her once-thriving restaurant now turned quiet bistro, suggests they add a vegan option to the menu. She bristles, resentful of this intrusion into her late husband's culinary legacy.",
+        "Sex": "Female",
+        "Age": 78,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "Oh, come on, you're really gonna bring that up again? I'm trying to run a business here! You know how much effort it takes to create new recipes. And for what? So some hipster can say he had a hand in my dad's kitchen? You think your food is better than mine? Please. My wife used to cook like a pro, and she wouldn't have done anything like that. Besides, my customers don't care about all that stuff. They just want good old-fashioned comfort food. Vegan nonsense doesn't belong in my restaurant! And another thing, why are you always pushing this? It's been years since we've had any complaints about meatless options. Can't you just leave it alone? You're starting to make me feel like I'm doing something wrong by offering a simple side salad. Look, if you really want to keep whining, go ahead. But don't expect me to change my mind just because you're so upset. I'll stick with what works – classic comfort food, not some fancy-pants hippie stuff. You're just making things harder for myself and my staff. Now, if you'll excuse me, I have actual work to do instead of listening to your drama. Stop bothering me with these stupid ideas and get back to cooking something worthwhile for once!"
+    },
+    {
+        "Triggering Event": "At 7 AM, he arrives at work to find the store's lights flickering, an ominous sign of yesterday's storm. His anxiety surges as he remembers his late wife's fear of power outages during their last winter together. He rushes to check the security cameras, hands shaking slightly, praying they still record despite the intermittent power.",
+        "Sex": "Male",
+        "Age": 58,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "fuck this shit! I’m not going to get worked up over something like this. It’s just a fucking power outage, it’ll be fixed soon enough. Don’t give a fuck about the camera footage; it’s probably fine anyway. I mean, why would they even bother recording if the electricity is already off? No one’s gonna care about these little details when the real problem is getting back to work. Fuck, my heart is racing because of all these thoughts. What the hell am I supposed to do now? This is so typical of how things go around here - always some new crisis waiting for us. We can’t catch a break. Look, I know we have our problems, but come on, this isn’t helping anything. Can’t anyone see that I’ve got better things to worry about than this nonsense? Like those stupid people who are out there right now, wandering around in the dark, no idea what’s going on. They’re probably just wasting time worrying about nothing. Meanwhile, I’m stuck inside with nothing to do but think about it all. Great, I was really looking forward to today, but no, the universe had to ruin everything by causing this fucking power outage. Just great. Fucking great. You know what? I bet if I were out there, I’d be enjoying myself. People might think I’m crazy, but hey, I’m living life on my own terms. Who needs electricity when you’ve got your mind and determination? That’s"
+    },
+    {
+        "Triggering Event": "She noticed an unfamiliar number in his call log, prefaced by \"Yesterday, 10:34 PM.\"",
+        "Sex": "Female",
+        "Age": 50,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": ""
+    },
+    {
+        "Triggering Event": "A lab report, her work of three months, was found on his desk, his name as the primary author.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "\"Oh my god, this is such an asshole thing to do! You're so fucking mean, you know that? Like, why would you just leave your coworker's work out there like that? Are you trying to make them look bad? And what the fuck is with putting it under your name? That's not cool at all. I hope she kills herself because you really are a piece of shit. How could you do something like this? Do you think it's funny to humiliate someone like that? I'm sure it is because you're such a dickhead. What if you did it to me? Would I be doing the same thing back then? Maybe, but I wouldn't have done it if I were you. Or maybe I would've done it too because you're a piece of shit. This is disgusting. Why would you even do this?\""
+    },
+    {
+        "Triggering Event": "A customer, returning a dress she'd worn once, sneered at Sarah's wedding ring, \"Guess it didn't last long.\" Sarah felt her cheeks burn as she processed the return, the customer's words echoing in her mind.",
+        "Sex": "Female",
+        "Age": 19,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Sarah couldn’t shake off the feeling that the customer’s comment had left her with. She kept replaying the encounter in her head, wondering what might have led to such a hurtful remark. What if the customer was having a bad day? Or maybe they were just trying to be funny? She thought about how this interaction could impact future interactions with customers who may come across her as judgmental or unfriendly. It made her realize that even though she didn’t mean anything by her question, it could still make people feel uncomfortable. So, what if someone else overhears her asking similar questions, and misinterprets them as being rude or insensitive? Or worse, what if a manager assumes she doesn’t care about her customers’ feelings because of these kinds of conversations? It made her think about how her actions could be perceived differently than intended, leading to misunderstandings that might harm her professional reputation. This thought lingered in her mind, making her wonder if there would ever be a time when she’d regret asking those questions, especially when it came to sensitive topics like marriage. She started thinking about how some people might see her curiosity as intrusive or insensitive, which could lead to problems down the line. For instance, what if someone decides to confront her about the way she asked about her relationship status? Maybe they wouldn’t view her inquiry as genuine but instead see it as an invasion of privacy, which could affect their opinion of her professionalism. Even though she knew her intentions weren’t malicious"
+    },
+    {
+        "Triggering Event": "At the end of another lonely day, he walked into his empty apartment, kicking off shoes still damp from the autumn rain. His phone buzzed with a group chat invitation for a birthday party this weekend. He stared at it, then tossed the phone onto the couch, the silence echoing around him like an accusation.",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "He thought he had been invited to the party because he was one of the closest friends she had. But when he asked her directly, she brushed him off, saying \"I'm not inviting everyone.\" He felt a mix of relief and disappointment. He realized that maybe he wasn't part of her inner circle anymore."
+    },
+    {
+        "Triggering Event": "A former student, now in college, posts a picture of themself and a new boyfriend at a restaurant where she used to take her ex-husband.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Oh my god that's so gross and disgusting how can they even be together?? That guy is literally an asshole and he's always acting so weird around her I bet he's really bad looking and smells bad too because he's always sweating so much when we're at school you never know what kind of shit he does with other girls but I'm so sick of him and I just want to get away from it all and forget about him and his stupid ass and this stupid asshole boyfriend of hers who thinks he's better than everyone else in class and has no idea how fucked up he is and how lucky she was to escape him and now she's stuck with some loser who's probably a total creep and doesn't care about anyone but himself and isn't good for anything except being a boyfriend to someone like her who's so much better than him and she deserves way better than that shithead and he's probably going to hurt her somehow and ruin everything between them because he's such a piece of shit and I just wish I could stop thinking about it and go back to sleep and forget about them both and stop feeling so angry and sad and frustrated because he ruined my life and everything and I hate him and I hope he goes down in flames because he's such a horrible person and I hate him so much and I don't understand why she would ever date him and I just want to scream and cry and throw things and punch people and get out of here before I lose it completely and start crying all over"
+    }
+]

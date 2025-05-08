@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A 20-year-old nurse, working her night shift at a busy hospital, was called to the emergency room. As she rushed in, she saw the paramedics unloading an elderly woman from the ambulance. The woman was unconscious, her vitals unstable. Despite the nurse's frantic efforts to stabilize her patient, the woman's condition continued to deteriorate. Surrounded by chaos and the overwhelming helplessness of not being able to save this life, she felt her heart sink as the code blue was called.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"I suppose this is what they mean by 'baptism by fire,'\" she murmured, adjusting her surgical cap as she prepared for another round of CPR. \"Not that I needed a crystal ball to see how tonight was going to pan out.\" She paused, looking at the woman's lifeless face before shaking her head. \"But really, who could have predicted such chaos? It's not like I'll ever get used to this... it's all just so...\" she trailed off, her voice barely above a whisper, \"overwhelming.\""
+    },
+    {
+        "Triggering Event": "She opened her desk drawer, her hand brushing against something damp and squishy. She pulled out a moldy, half-eaten sandwich, leftovers from yesterday's lunch meeting that she'd forgotten to throw away. The sight of the green-tinged bread and the smell of spoiled meat made her stomach churn.",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "**Writing Prompt:** \"She's glaring at me now, isn't she? Like I'm some kind of disgusting creature for leaving this behind. She must think I'm a complete slob. Ugh, why can't people just say something if it bothers them so much?\""
+    },
+    {
+        "Triggering Event": "She storms into her apartment, slamming the door behind her. Her hands are shaking as she throws her notebook onto the coffee table, pages splayed out like a wounded bird. A headline catches her eye: \"Former Husband Wins Journalism Award.\" She snatches up her wine glass and hurls it against the wall, shards of glass scattering like her shattered self-image.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Oh, how delightful! My ex-husband wins an award, and all I get is a broken wine glass? Typical. The universe certainly has a peculiar sense of irony, doesn't it?\" She sighed, picking up the largest shard of glass, her eyes fixed on the bloody cut on her finger rather than the unread pages of her notebook. \"Well, at least now I can add 'Maid of Shattered Glass' to my resume. Perhaps that'll impress someone.\""
+    },
+    {
+        "Triggering Event": "She woke up, reaching for him as she always did, but his side of the bed was cold and empty. The clock read 7:30 AM; he'd left for work hours ago without so much as a goodbye kiss like he used to. She sat alone in their kitchen, the coffee maker brewing beside her untouched breakfast. A dusty photo album caught her eye, gathering more dust than memories these days. She opened it, running her thumb over the yellowed images of them laughing together on vacations long forgotten. The house was quieter now, echoing with silence instead of his once familiar hums. As she closed the album, a single tear rolled down her cheek, landing on the faded photograph of their wedding day.",
+        "Sex": "Female",
+        "Age": 67,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a woman named Lisa, married for 10 years to John. You've woken up alone one morning, realizing he left hours ago without his usual goodbye kiss. As you sit in your kitchen, the silence feels heavy and unfamiliar.\n\n**Lisa's Reaction:**\n\nFuck, not again. Why did he just leave like that? What if something happened on his way to work? I mean, it's not like him to just ghost me... My mind races with possibilities, each one darker than the last. What if he'd an accident? Or what if he's having an affair and this is his new pattern? I can't shake off these thoughts, they're driving me nuts. He should've at least left a damn note! Goddammit, John."
+    },
+    {
+        "Triggering Event": "She noticed the familiar, faded \"Happy Birthday\" card tucked behind the counter's calendar, now three days past its date. It was from her teenage daughter who she'd barely seen this week due to her busy schedule at work and her own guilt-ridden avoidance of the empty house they once shared.",
+        "Sex": "Female",
+        "Age": 47,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "**Writing Prompt:** Describe how you feel about your daughter's forgetfulness in a way that subtly reflects overgeneralization.\n\n**Text:**\n\n\"Oh, great! Another 'Happy Birthday' I can add to my collection of forgotten ones. It's not like she ever remembers these days. She's always too wrapped up in her own little world. The whole house could burn down and she'd be off in la-la land somewhere. Typical teenager, I suppose.\""
+    },
+    {
+        "Triggering Event": "In the stark silence of his cluttered study, he gazes at the framed photo of his late wife, her smile still as vibrant as he remembers. The clock ticks on, mocking him with each passing second. He had hoped to share his latest discovery with her, but now it feels like an empty triumph, another reminder of what's been lost. His eyes well up, not with tears, but with the familiar, heavy weight of hopelessness. He reaches out to touch her face in the photo, his hand trembling slightly. The room seems colder tonight, or perhaps it's just him, retreating further into the chill of his own empty house.",
+        "Sex": "Male",
+        "Age": 68,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "\"She shouldn't have left me like this,\" he whispers to the empty room, tracing her outline in the photo. \"It wasn't supposed to be just me, rattling around in this old house. We were supposed to grow old together, celebrate every damn discovery I made.\" He shakes his head, his voice catching on a wave of emotion. \"She should've been here. She should've seen it all.\""
+    },
+    {
+        "Triggering Event": "At 59, he'd seen his fair share of failed experiments, but this one stung differently. As he stepped into the empty lab after dark, the silence was deafening. He picked up a familiar, worn notebook from his desk\u2014hers. Flipping through the pages filled with her neat handwriting, he could almost hear her voice explaining their old projects, their dreams. A lone strand of silver hair fell onto the page, blending with the ink, as sorrow welled up in his eyes.",
+        "Sex": "Male",
+        "Age": 59,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "In the hushed lab, under the cold glow of a single desk lamp, he sat with her notebook open before him. His fingers traced the lines of her writing, each stroke echoing memories of shared laughter and triumphs. The silence felt wrong, heavy. It shouldn't be like this, he thought, not after all they'd accomplished together. Her chair should still be warm from her presence, not empty and cold. His own reflection in the dark window stared back at him, aging and alone. He shook his head, as if denying the reality of it all. This wasn't how it was supposed to be."
+    },
+    {
+        "Triggering Event": "He sits alone in their apartment, the hum of his laptop the only sound breaking the silence. His wife's side of the bed is untouched, her pillow still cool to the touch. He checks his phone again; no messages since last night. He feels a hollow ache in his chest as he realizes she won't be home for dinner tonight either. Another late meeting at the office, or so she said. But the silence grows louder with each passing moment, echoing her absence more than her words could ever explain.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Loneliness",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "He rubs his temples, eyes scanning the empty room, mind racing. \"She's probably out with them again,\" he thinks, clenching his jaw. \"Same old story.\" His heart pounds as if trying to fill the void her absence has left behind. \"No call, no message... she must be having too much fun without me.\" He takes a deep breath, but it catches in his throat like a sob waiting to escape. \"I should have known better than to trust her words,\" he whispers into the silence, his voice heavy with unshed tears and unwarranted conclusions."
+    },
+    {
+        "Triggering Event": "At 6 AM, he checks his phone to find no message from his girlfriend who usually texts \"Good morning.\" Anxiety spikes as he imagines worst-case scenarios, his mind racing with fears she's upset or worse, left him without a word.",
+        "Sex": "Male",
+        "Age": 27,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anxiety",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Well isn't this just peachy,\" he muttered, scrolling through his phone's blank screen like it was a crime scene. \"Not even a 'Hey, how's it going'? Guess she found someone who actually appreciates morning greetings.\" His mind whipped up scenarios faster than his heart pounded - maybe she'd lost her phone, or worse, forgotten him altogether. The rest of the house could be crumbling down in happiness, but his gaze was locked on that empty message box. \"Typical,\" he huffed, oblivious to the sunlight filtering in, or the birds chirping like it was any other day. \" Typical,\" he repeated, as if saying it louder might make his worldview seem less skewed."
+    },
+    {
+        "Triggering Event": "She was halfway through her shift, the sterile scent of the hospital clinging to her scrubs like an unwanted hug. A nurse approached, eyes downcast, \"Dr., there's been a complaint... about your bedside manner.\" Rage boiled within her, a pressure building behind her eyes, as she imagined the patient who dared question her professionalism.",
+        "Sex": "Female",
+        "Age": 35,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "\"Damn, what's this about now? I swear, these patients just expect perfection. One little slip-up and they're crying foul. I haven't even seen him today, but I can already hear his voice, all whiny and entitled. 'Oh, Dr., my pain isn't being taken seriously.' Please. Like I don't have real emergencies to deal with. Probably some hypochondriac looking for attention. Typical.\""
+    }
+]

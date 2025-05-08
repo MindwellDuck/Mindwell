@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "She arrived home from work, her shoulders slumped under the weight of another late night at the office. The house was silent, save for the ticking of the old grandfather clock in the hall. She noticed the dining table set for one, her husband's plate still untouched. A note lay beside his empty chair: \"Working late again. Didn't want your dinner to get cold.\"",
+        "Sex": "Female",
+        "Age": 40,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She thought she'd had enough of this. Working late after working long hours meant that they didn't have much time together. They were always tired. It seemed like he just preferred being alone, leaving her to manage everything. What if it wasn't just about work but some deeper issue? Maybe he felt trapped by family responsibilities, or maybe there was more going on with him that he wasn't sharing. She wondered if he needed someone to talk to, if there was something she could do to make things easier for him."
+    },
+    {
+        "Triggering Event": "She opened her inbox to find an email from him, cc'ing their mutual editor. Subject line: \"Great job today, both of you.\" A sting of spite surged through her veins as she imagined his smug face, basking in reflected glory. She'd been the one up all night fact-checking, but he'd gotten the credit. Again.",
+        "Sex": "Female",
+        "Age": 26,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She was livid when she saw his email, cc'ing our editor. I can't believe he'd send something like that. It's just another case of him stealing the spotlight again. The fact that he didn't even mention me is proof enough that he thinks he's better than everyone else. I've worked so hard, pouring my heart into this project, while he's coasted along, letting others do the heavy lifting. His smug expression flashed before her eyes, and she felt like she could see it in his email. He's always been the center of attention, and now he'll use this to make himself look even more superior."
+    },
+    {
+        "Triggering Event": "A parent emails, \"I hope you can keep my child's grades up this time. Last semester, he fell behind because of your low expectations.\"",
+        "Sex": "Female",
+        "Age": 25,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Spite",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Dear [Parent], I was surprised to see that your child received an F in math last year, as he had been struggling with the subject. However, it's also important for him to develop problem-solving skills and learn from his mistakes. This semester, we have implemented new strategies to support students in improving their understanding of math concepts. While your son may be facing challenges, our class is working hard to catch up on missed material. Please let me know if you would like to schedule a meeting to discuss how we can help him move forward."
+    },
+    {
+        "Triggering Event": "She noticed the cobwebs gathering in the corners of their old home, untouched since he'd passed three years ago. The once-vibrant house now felt like a museum dedicated to his memory, frozen in time. His favorite chair sat empty, dust particles dancing in the sunlight streaming through the window, mocking her with their carefree dance. She hadn't changed anything, hadn't moved anything, as if waiting for him to walk back through that door, laugh at her for being so sentimental. But he never did.",
+        "Sex": "Female",
+        "Age": 37,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "She felt like she was drowning in a sea of sadness every time she walked into that house. It was like everything had been preserved in amber, a reminder of what she had lost. The cobwebs were just the tip of the iceberg; it felt like she was suffocating under the weight of all those memories. Every step inside made her feel like she was reliving moments that could never be recaptured. It wasn’t just the cobwebs—every corner seemed to hold a piece of him, making her wonder how she could possibly keep living without him."
+    },
+    {
+        "Triggering Event": "After thirty years of faithful service, she opens her locker to find a cake covered in \"Retirement\" candles instead of the anniversary card from her husband.",
+        "Sex": "Female",
+        "Age": 74,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "I felt really hurt when I saw my ex-girlfriend's post about moving out. She had been acting strange lately, so it was no surprise that she would leave me for someone else. I know how she feels because I've left him before. But why is everyone talking about this? It's not like I'm the one who broke up with them. They're just jealous of us because we were together longer than they were."
+    },
+    {
+        "Triggering Event": "He glances at his watch, its hands ticking closer to closing time. The store's fluorescent lights hum overhead, casting harsh shadows on the empty aisles. He's been here since 6 AM, but today feels like it's lasted a week. His stomach grumbles, reminding him he hasn't eaten since breakfast. A sudden beep from his phone—another reminder alert for his overdue credit card payment. He sighs, worrying about how he'll make ends meet this month.",
+        "Sex": "Male",
+        "Age": 26,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Worry",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "He can't help but think, \"What's the point? I'm just going to end up disappointed again.\" The store, once full of life and energy, now feels dull and uninviting. Every minute feels like an eternity as he waits for the checkout line. He's already behind schedule, and the longer he stays, the more anxious he becomes."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nUpon returning home from work, she finds her husband's muddy shoes still in the hallway, untouched since this morning. A fresh pot of coffee sits cooling on the counter, untouched by him despite his promise to make breakfast today. The resentment bubbles up as she picks up his shoes and places them neatly by the door, her jaw clenched tight.",
+        "Sex": "Female",
+        "Age": 51,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "She can't help but wonder what could have happened. What if he was running late and didn't want to leave his dirty shoes there? What if he forgot about making breakfast because he was busy with an urgent call from work? She imagines herself having to clean up after him again, feeling frustrated that he didn't follow through on his promises."
+    },
+    {
+        "Triggering Event": "She noticed him, her former lab partner, leaning over the microscope with his new girlfriend, both of them laughing at something only they understood. Her heart pounded as she realized it had been exactly a year since their divorce, and here he was, moving on effortlessly while she felt stuck in the same old rut. She glanced down at her own hands, still rough from hours spent in the lab, then back up at them, their laughter echoing like a mockery of her once-shared jokes. Her insecurities gnawed at her, whispering that she'd never find someone who understood her as he did, not with her nose buried in books and beakers, not with her heart still bruised from their shared past.",
+        "Sex": "Female",
+        "Age": 21,
+        "Occupation": "Scientist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "She couldn't help but notice how easily he picked up on cues she missed. It wasn’t just his attention to detail; he seemed to grasp the nuances of their interactions—things she hadn’t even acknowledged herself. Like when he said, “You always have this look,” and I’d nod, but I didn’t know what it was. Now, seeing them together, it hit me again: He’s so good at reading people, and I’m the one who can barely read my own thoughts. It’s frustrating. I try to focus on the bigger picture, but there are moments where it feels like I’m missing out on something important, like I’m not really hearing what he’s saying. It's hard not to feel left behind. She remembers all the times he was there for her, listening and offering support when she needed it most. But now, watching him move forward with ease, it makes her realize she might have let things go too quickly. The fact that he found someone else so soon after their breakup is almost...empowering? Maybe it means she needs to take a step back and reevaluate what she wants. Yet, every time she looks at him, she can't shake off the feeling that she's losing herself in the process. That's why she finds herself wondering if maybe it would be better to just leave everything behind and start fresh somewhere else. But that thought also leads to another question: What if she doesn’t want to leave? What if"
+    },
+    {
+        "Triggering Event": "Every Saturday for years, he'd visit the local farmers market with his partner. Today, she arrived late, already engrossed in her phone, barely acknowledging his greeting. He watched her as they walked through the stalls, her eyes flicking from screen to produce without pause. A familiar resentment stirred within him; another week where his quiet routine was disrupted by her distracted presence.",
+        "Sex": "Male",
+        "Age": 76,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Every year I've made it a point to attend this farmers market every Saturday, but today felt different. My partner had been working late, so we were supposed to meet up later. But when I got there, she was already walking past me, checking her phone. She didn't even look up, just kept going until she stopped at a stall. When she finally noticed me, she seemed annoyed that I was there, like I was interrupting something important. She started talking about how busy she was and how she couldn't stop scrolling through social media because she needed to keep up with what everyone else was doing. It really bothered me - here I am, trying to enjoy some peace and quiet, while she's out living her life, oblivious to everything around her. I feel like I'm always stuck in the background while she's off exploring new places. Even though I'm happy to see her, I can't help feeling jealous whenever she comes back with all these stories about her friends and adventures. Sometimes I wish I could be more like her, carefree and spontaneous. But no matter how hard I try, I end up feeling like a burden, like I'm holding her back from experiencing life. It makes me wonder if being single is worth it - maybe I should just give up and join her, but then again, I don't want to lose my freedom and independence. I know I shouldn't compare myself to her, but it's hard not to feel left behind when"
+    },
+    {
+        "Triggering Event": "In the quiet of her home office, she paused, fingers hovering over the keyboard as the Zoom gallery faded to black. Her colleague's empty seat remained, a stark reminder of yesterday's news. She'd known him since their first job together, fresh out of college. Now, he was gone, leaving behind a void that echoed through every line of code they'd written side by side. A solitary tear rolled down her cheek as she turned off her computer, the room now silent except for the ticking clock, each second stretching out like an eternity.",
+        "Sex": "Female",
+        "Age": 56,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She thought about how this would affect their team’s morale, and how difficult it would be to find someone who could fill his shoes. The lack of experience would mean more mistakes, which could lead to missed deadlines and lost business. It felt like a weight was crushing them all, making it hard to breathe. They were already running late with the project, and now everything seemed to be falling apart. The silence was deafening, but she knew that the next few days would be chaotic."
+    }
+]

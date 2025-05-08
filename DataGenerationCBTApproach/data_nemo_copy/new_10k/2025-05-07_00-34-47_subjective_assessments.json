@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"She watched from her lab window as the new hire, barely out of grad school, was handed her late husband's old office keys, laughter echoing down the hall.\"",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Scientist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "\"Seriously? They gave the new kid my husband's old office? I've been here for years, put up with his crap for even longer. Now some fresh-faced grad is laughing all the way to the corner office while I'm still stuck in this cubicle. It's not like I haven't earned it. I mean, look at me, I'm a walking institution around here. But nope, she gets the keys and the laughs. Typical.\""
+    },
+    {
+        "Triggering Event": "While restocking the aisles at her retail job, she noticed a couple browsing the household items section. The woman was pregnant, rubbing her belly with a content smile. A wave of remorse washed over her as she recalled her own miscarriage and the empty promises made by her ex-husband. Her hands began to tremble slightly, causing her to drop a stack of plates, shattering them on the floor.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Writing Prompt:** Describe how you felt when you noticed the pregnant couple while restocking the aisles at your retail job.\n\n**Text:**\n\n\"Upon noticing that contented woman rubbing her belly, I was overwhelmed by a sudden surge of emotion. It seemed as if she was flaunting her happiness right in front of me, knowing full well it would provoke my pain. How could she not consider how her joy might affect others? The plates slipped from my grasp, shattering on the floor like my shattered dreams. I couldn't help but feel that this was a sign, a deliberate reminder of what I've lost. It's almost as if the universe was conspiring against me.\""
+    },
+    {
+        "Triggering Event": "He found an email from his girlfriend to her ex, discussing how much more intellectually stimulating their conversations were compared to his.",
+        "Sex": "Male",
+        "Age": 22,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Labeling/Global Labeling",
+        "Generated Assessment": "\"Fuckin' hell! She thinks I'm fuckin' stupid, doesn't she? Always goin' on about how her ex was some goddamn intellectual genius. Guess that's why she dumped my ass, 'cause I ain't no fuckin' brainiac, huh?\""
+    },
+    {
+        "Triggering Event": "She stood in her once bustling kitchen, now silent except for the ticking clock. Her hands, weathered by years of chopping and stirring, trembled slightly as she held the recipe card, her late husband's neat handwriting fading with time. The ingredients lay untouched on the counter, mocking her inability to follow something so simple he used to make without thought. A lump formed in her throat, threatening tears she didn't have the energy to shed. She felt overwhelmed by the task, by the memories that flooded the room like an invisible tide. Her body ached with a profound sense of helplessness as she wondered how she could ever fill his shoes, even just for one meal.",
+        "Sex": "Female",
+        "Age": 63,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"I can't fucking believe this! I've made this damn cake a thousand times. He'd just throw everything together, no measuring, no nothing. And now look at me, standing here like an idiot because I can't remember if it's two teaspoons or tablespoons of baking powder? Fuck! It's not like he was some fancy chef either, just your average Joe who could whip up a cake in his sleep. But me? I'm stuck on this one fucking detail while the whole damn recipe swims around in my head like a goddamn puzzle I can't solve.\""
+    },
+    {
+        "Triggering Event": "\"At 7 PM, as he unlocked his apartment door, he found a stack of ungraded papers from today's substitute class waiting for him, exactly where he'd left them. His heart sank; he'd hoped to relax tonight.\"",
+        "Sex": "Male",
+        "Age": 28,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "**Prompt:** \"Describe your feelings and thoughts as you discovered the stack of ungraded papers upon returning home.\"\n\n**Response:**\n\nUpon entering my apartment, I was met with an unwelcome sight: the papers, untouched, exactly where I had left them. A sinking feeling in my chest immediately followed. It seemed like a direct affront, as if they were mocking me, daring me to relax tonight. Why hadn't she graded them? Did she think my time wasn't valuable? Or worse, perhaps she was hoping I'd give up and leave her with less work tomorrow. Either way, it felt personal, a deliberate act aimed at ruining my evening. I couldn't help but feel that this was all happening because of me, somehow designed to thwart my plans for the night."
+    },
+    {
+        "Triggering Event": "At 7:30 PM, Dr. H., returning home from a long day at the hospital, finds his house dark and quiet, save for the ticking clock in the hallway. His partner of thirty years had mentioned going out with friends tonight, but they'd left no note or message on the usual spot by the door. No warm meal waiting, no sign that anyone had even been home today. He turns on the kitchen light, revealing an empty countertop, save for a single forgotten pill bottle. He picks it up, reading the label softly to himself, \"Forgetful, again.\"",
+        "Sex": "Male",
+        "Age": 74,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Dr. H., standing in his suddenly foreign kitchen, felt the heat rising from his collar. The silence was deafening, like an accusation. \"How could they just... go?\" His fingers tightened around the pill bottle, the label blurring before him. \"This wasn't how it was supposed to be.\" He slammed the bottle down, leaving a dent in the countertop. \"I've been working all day, and not so much as a note? This isn't right!\" He paced, his mind racing. \"They knew I'd be tired. They knew I'd expect... something.\" He spun around, arms gesturing wildly at the empty room. \"This is unacceptable! This isn't how it should be!\""
+    },
+    {
+        "Triggering Event": "Every weekday at 6 AM, he'd trudge through the cold rain to his rusty sedan. Today, as he reached for the door handle, it snapped off in his hand. He stood there, alone in the parking lot, clutching the broken metal, feeling a familiar wave of unhappiness wash over him. Another day, another thing that just didn't work anymore.",
+        "Sex": "Male",
+        "Age": 50,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"Damn it,\" he muttered, staring at the broken handle, rainwater dripping from his nose. \"What if today's the day the car won't start too? What if I'm late again? What if they decide I'm not pulling my weight?\" He sighed, huddled against the chill, and fished out his phone to call a cab. \"Guess I'll find out soon enough,\" he whispered, as if the city itself was listening, waiting for something bad to happen."
+    },
+    {
+        "Triggering Event": "He noticed her, across the lab. Laughing with Tom, his prot\u00e9g\u00e9. A shared joke, a touch on the arm that lingered too long.",
+        "Sex": "Male",
+        "Age": 72,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "**Writing Prompt:**\nImagine you're a meticulous lab scientist, mid-40s, with a tendency to catastrophize situations. You've noticed your colleague laughing with their prot\u00e9g\u00e9 across the lab. Describe your thought process and actions over the next hour.\n\n**Text:**\n\n*Oh, there she goes again, laughing it up with Tom,* I think, my fingers pausing over the microscope. *She never laughs like that with me.* I feel a familiar knot in my stomach, tension creeping into my shoulders.\n\nI try to focus on the slides, but her laughter keeps echoing in my mind. *Must be something funny he said.* I can't remember the last time someone laughed at one of my jokes. Not that I tell many, but still...\n\nMy coffee goes cold as I stare at the clock. *They've been talking for ages now.* I glance up, catch her touching his arm. It's just a fleeting moment, but it feels like an eternity to me. My heart pounds in my chest.\n\n*She's probably just being friendly,* I try to rationalize, but the thought is quickly dismissed. *Friendly? She never touches me like that.* I can feel the anxiety building, the familiar urge to retreat into myself.\n\nI force myself back to work, but the lab feels colder now. Lonelier. I can't shake off this feeling of... what? Disappointment? Jealousy? It's all too much. I decide to call it a day early, packing up my things with a sigh.\n\n*Maybe tomorrow will be better,* I think, as I turn off the lights, leaving the lab in semi-darkness. But even as I say it, I know I'm minimizing the possibilities. Tomorrow feels as gloomy as today."
+    },
+    {
+        "Triggering Event": "She noticed him, her partner of ten years, laughing at a meme on his phone. It was one she had sent to their group chat weeks ago, but he'd never responded to. Now, he was sharing it with someone else, giggling like they were in on some private joke. She felt a pang of jealousy as she realized he hadn't laughed that hard when she'd sent it.",
+        "Sex": "Female",
+        "Age": 41,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "**Writing Prompt:** Write a paragraph from her perspective after seeing him laugh at the meme she sent weeks ago. Use 'should' statements subtly to reflect her cognitive distortion.\n\n**Text:**\n\n\"I mean, come on, he's been laughing at that meme for like five minutes now. He should've responded when I sent it, you know? It's not funny if you're not sharing it with me, your partner of ten years. We should be laughing together, not him sneaking off to some private chat. This isn't how it should be.\""
+    },
+    {
+        "Triggering Event": "She's on her lunch break, alone in the staff room. The TV is on, tuned to the news channel. They're interviewing the man who caused the car crash that killed her brother five years ago. He's laughing, saying he got off easy with a fine and community service. Her hands clench around her sandwich, crumbling it. She feels heat rising in her chest, a roar building in her ears. She throws the ruined food at the screen, shouting, \"You fucking monster!\" as the room falls silent, shocked stares turning towards her.",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Nurse",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "**Writing Prompt:** Describe her inner monologue immediately after she throws the sandwich at the screen.\n\n**Text:**\n\n\"Oh god, this is it. I can't watch him just... chat away like nothing happened. Like he didn't ruin our lives. I know what's coming next - that smug smile when they ask about my brother. The 'I'm sorry for your loss' bullshit. And then? Some fucking sob story about how he's got a kid now, and he's just so grateful to have another chance at life. While mine... My brother's gone. Just... gone. I can't listen to it. Not again.\""
+    }
+]

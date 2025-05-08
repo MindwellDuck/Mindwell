@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"While grading papers late into the night, she overheard her partner laughing loudly with friends in the next room, enjoying takeout from their favorite restaurant - one they'd always shared, but tonight he hadn't thought to order for her.\"",
+        "Sex": "Female",
+        "Age": 32,
+        "Occupation": "Scientist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She's so insecure about everything. I can't believe I'm stuck with this guy; his laughter is so annoying when I hear it. He doesn't even care enough to bring me food from our favorite place because he knows how much I love it. He's just making fun of me by laughing with those friends in the next room."
+    },
+    {
+        "Triggering Event": "He scrolled through Instagram, stopping at his old friend's post - a vibrant street art mural, tagged with 'Us'. They hadn't collaborated in years, but now it seemed everyone was talking about this piece. His wife glanced over, \"That's amazing, isn't it?\" He nodded, feeling the familiar pang of envy, not for the art, but for the attention it brought his friend.",
+        "Sex": "Male",
+        "Age": 23,
+        "Occupation": "Artist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He shook his head, chuckling. \"Nope, she just wants to sell her art.\" The thought didn't sit well with him; he felt like he'd been left behind, even though they were still friends. Maybe it was time to let go? He shrugged it off, telling himself he wasn't ready to move on. After all, he had no reason to doubt his life choices. But as he looked around the room, he couldn't shake the feeling that he was stuck in a rut. He wondered if he would ever find happiness again. ---"
+    },
+    {
+        "Triggering Event": "In his cluttered garage, he found a decaying rat nestled among old software boxes.",
+        "Sex": "Male",
+        "Age": 67,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "\"I don't understand why I'm so angry at him right now. He's just doing what needs to be done.\" \"Maybe we can find another solution that doesn't involve throwing away all the software?\" \"Can you please clean up your workspace before you start working on this project?\""
+    },
+    {
+        "Triggering Event": "\"Deadline looming, he stares at the blank screen, cursor blinking like an accusing eye. Phone rings - his editor, urgent: 'Get down to City Hall, something's breaking.' Taxi ride a gauntlet of honking horns and swerving bikes, heart pounding in his chest.\"",
+        "Sex": "Male",
+        "Age": 78,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "I'm starting to think that there must be some serious problem with him. He's been so distant lately, barely saying anything to anyone. I just hope he's okay."
+    },
+    {
+        "Triggering Event": "He returned home late, exhausted from another grueling shift at the restaurant. His wife was already asleep, but the kitchen table held a single plate with remnants of what must have been her dinner. A note beside it read, \"I waited, but you were late again.\" He felt a pang in his chest as he realized she'd eaten alone once more, and guilt washed over him like the heat from his kitchen's stoves.",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "He couldn't help but feel angry at her. She'd been nagging him about being late since they moved in together, but tonight was different. The look on her face when she saw that I'd left dinner for her still lingered in my mind. It wasn't just about the food; it was the fact that I'd disappointed her again. I knew how much effort went into cooking a meal, especially after such long hours. But I had no excuse. Every time I'm late, it's because I didn't plan things out properly, and now I feel like she doesn't trust me enough to support me through these tough shifts. She'd always been the one who kept our relationship going despite everything else. Now, I realize that this isn't just about me returning home late; it's about how much stress she carries. I've barely even noticed until today that she's been leaving notes reminding me to eat dinner before work, hoping that if I start eating earlier, I'll be less tired during my shift. Her efforts are always there, but I haven't been making them count. When I think back to all the times we've argued, I can see why I get frustrated with myself. We're both so busy, trying to balance work and life. Yet every day, I see her managing our household, taking care of our pets, and keeping us safe. I know that being late is my fault, but sometimes I wonder if it's really worth the fight."
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe noticed it while reviewing patient files at home, late into the night. A subtle pattern of symptoms, seemingly innocuous to anyone else, but glaringly obvious to him. It couldn't be a coincidence. They were all his patients, all with appointments scheduled within days of each other. He felt a chill run down his spine as he realized that someone was trying to frame him.",
+        "Sex": "Male",
+        "Age": 53,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "All or Nothing Thinking",
+        "Generated Assessment": "His mind immediately went into overdrive. \"It's either a conspiracy involving every single one of my patients,\" he thought, \"or I'm going insane.\" The latter option seemed even more terrifying - how could he trust himself when he wasn't sure what was real? The former scenario made him feel like a pawn in a larger game, but at least it explained the strange coincidences. He had always been meticulous about keeping accurate records; surely no one would have access to those files. Still, he couldn't shake off the feeling that something sinister was afoot."
+    },
+    {
+        "Triggering Event": "She found their wedding photo, untouched in the attic's dusty corner. The frame was cold and empty; he'd taken his smile years ago.",
+        "Sex": "Female",
+        "Age": 28,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Sadness",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She remembered the day she saw it - I couldn't help but notice how cold and empty the frame looked. It was tucked away in the attic's dusty corner, untouched for years. My heart sank as I realized they had moved on. In my mind, that moment became a symbol of our relationship ending. I thought about all the times we'd talked about starting a family, and how now those dreams seemed lost forever. When I look at her, I see a woman who is no longer interested in me, someone who has chosen another life. Every time I see her with him, I feel like I'm just an old memory to her, something she can never truly forget. But what hurts most is seeing the happiness in their photos, knowing it'll always be out of reach for me. Every time I think of them together, I'm reminded of how far apart we've become. Even though I know she still cares about me, every glance from her makes me wonder if there's hope left. I try to convince myself that maybe someday, when I'm ready, she might come back to me, but deep down, I know it's just an illusion. In my mind, she's already gone, and nothing will ever change. Whenever I see her, I feel like I'm just watching an old friend move on to something better. When she looks at me, I want her to see the man she once knew, but she sees someone else entirely. We're two people"
+    },
+    {
+        "Triggering Event": "\"A colleague posts a photo from last night's gala - laughing, arm-in-arm with your ex-wife.\"",
+        "Sex": "Male",
+        "Age": 32,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "What if that was an invitation to meet up? What if I could get her back after all these years?"
+    },
+    {
+        "Triggering Event": "At the store's entrance, he notices her, a woman around his wife's age, laughing with the younger cashier. Their shared joke seems intimate, their body language familiar. He feels his stomach churn, doubt creeping in like an unwanted customer during closing time. Was it always like this? The laughter, the easy camaraderie? Or is he just now noticing because of that comment yesterday, \"You're not getting any younger, are you?\" His hands tremble slightly as he sorts the magazines, each rustle echoing his insecurity.",
+        "Sex": "Male",
+        "Age": 60,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Insecurity",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "He can't shake off the feeling that she was flirting with him, her laughter somehow directed at him alone. Every glance from her seemed to be filled with something more than friendship. The way she touched the counter while talking to the cashier—was it accidental or intentional? And why did he notice it so much? It wasn't until he heard someone else mention they were shopping together that he realized how paranoid he'd been. But he still wonders if there's truth to what he saw. # Mind reading distorted view # [Example](https://imgur.com/a/0MfVQcT)"
+    },
+    {
+        "Triggering Event": "While grading papers at his dining room table, he paused at a familiar handwriting and felt a pang of regret. It was little Jamie's, the boy who'd left school months ago, his family having moved suddenly for work. He remembered their last conversation, Jamie's excited chatter about his upcoming birthday party, which never happened. The empty space where Jamie's name should be on the class roster seemed to stare back at him, a stark reminder of opportunities missed and words unsaid.",
+        "Sex": "Male",
+        "Age": 69,
+        "Occupation": "Teacher",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Regret",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "His eyes lingered on the blank spaces in the grade book, each one a painful reminder that some students were no longer in his classroom. He had seen Jamie before, but now he realized how much he had taken him for granted. They had shared moments like this many times, and yet he hadn't made an effort to reach out after his departure. He couldn't help but feel a twinge of sadness as he thought about what could have been. Jamie's future would likely take a different path than his own, and he wondered if he had contributed to that by being too rigid. Maybe he had pushed Jamie away with his strict expectations, preventing him from growing into something new. As he sat there, lost in thought, he began to feel a sense of disconnection. He wasn't just missing Jamie; he was also missing the lessons they could have taught each other. There was so much more to life than just grades and test scores. He wished he could go back and do things differently, but time had already passed. In the end, though, he knew it was all part of life. Some people came and went, leaving behind memories and lessons learned. All he could do was move forward and see where life took him next. This moment reminded him that he was still here, teaching and learning alongside those who remained. He needed to focus on the present rather than dwelling on the past. With a deep breath, he closed the notebook and continued grading, ready to face whatever challenges"
+    }
+]

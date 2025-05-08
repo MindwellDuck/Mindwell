@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient, a middle-aged woman she hadn't seen in years, walked into her clinic. The woman's eyes widened in recognition before filling with tears. \"You were supposed to save him,\" she whispered, referencing Dr. A.'s late husband.",
+        "Sex": "Female",
+        "Age": 33,
+        "Occupation": "Doctor",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Shame",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She had been waiting for my appointment for over an hour. I told her I was running behind schedule, but she didn’t seem concerned. When I finally called her name, she smiled and said, “It’s okay, I understand.” She looked relieved when I offered her a seat."
+    },
+    {
+        "Triggering Event": "A female nurse in her early thirties, still adjusting to life alone after her husband's passing, wrinkled her nose as she opened the fridge door at home. The scent of spoiled milk wafted out, remnants of his favorite cereal, untouched since his sudden heart attack two months ago. She felt a wave of revulsion and grief intertwined, quickly grabbing the carton to dispose of it, her eyes welling up with tears.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "She can't believe how messy he left everything. I mean, my house was always spotless; now it's like a disaster zone. Her mind wandered to her friend Rachel, who has been married for five years and is already planning their anniversary celebration. How could her own husband leave her like this? They were together for ten years, and she thought they had a good relationship. What if he wasn't even missing me while he was dying? Why did she have to see that note he wrote before he passed? It was just another reminder that she couldn't save him. Maybe if she had been more supportive, he wouldn't have died so suddenly. Now, she feels guilty for not being there enough, but she also knows that's unfair—she was always there for him when he needed her. Still, she can't help but wonder what Rachel does every day to keep her marriage going. Does she make time for her husband despite her busy schedule? Is she doing things right? What about her best friend Sarah, whose husband never worked hard and took care of her perfectly? Doesn't that give her an advantage? But Sarah doesn't really work either; she spends all her days taking care of their kids. If she works at all, it's part-time. That makes Rachel look even better compared to them. And then there's Emily, who lost her husband to cancer six months ago. At least Emily got to spend more time with him before he went. She must be grateful"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nHe found himself sitting alone in his office, long after the hospital had quieted down. The photo of them together, taken at last year's Christmas party, still stood proudly on his desk. He picked it up, running his thumb over her smiling face. Today would have been their anniversary. A soft knock at the door startled him; a nurse entered, her eyes filled with sympathy. \"I'm sorry,\" she said softly, placing a cup of tea beside him. \"It's been three months now.\" He nodded, looking back down at the photo. The silence felt heavy, his grief unyielding.",
+        "Sex": "Male",
+        "Age": 29,
+        "Occupation": "Doctor",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Grief",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "That sounds like an easy job. I can handle it."
+    },
+    {
+        "Triggering Event": "In her seventh consecutive 12-hour shift, Dr. D noticed the emergency room starting to fill up an hour earlier than usual. She felt her temples throbbing as she grabbed a chart, rushing towards the next bed.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Dr. D sighed in frustration as she was asked to review another patient’s chart for the third time that day. It wasn’t fair; other doctors seemed to have it easier, reviewing fewer charts while working shorter shifts. The hospital was understaffed, but Dr. D still couldn’t help feeling overwhelmed."
+    },
+    {
+        "Triggering Event": "After 30 years on the force, she arrives home to find her husband's police academy-issued revolver missing from its usual spot in the study. His muddy boots are at the doorstep, but he's nowhere to be found. She checks her watch; it's past their agreed curfew for late-night calls. Resentment bubbles up as she realizes he must have taken it on a solo patrol again, leaving her out of another potential danger zone.",
+        "Sex": "Female",
+        "Age": 57,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She had been expecting this. It was just a matter of time before he went off the rails. The old man has always been a bit of a loose cannon, prone to acting on his gut without thinking through the consequences. Now that he’s retired, there’s nothing to keep him grounded. He’ll never change; it’s just a matter of how many times we need to bail him out before he finally gets the message. I hope he doesn’t hurt himself this time. Poor guy needs someone to take care of him anyway."
+    },
+    {
+        "Triggering Event": "In the dimly lit emergency room, she hurried between beds, her scrubs stained with another patient's blood. The cacophony of machines beeping and colleagues shouting orders echoed in her ears like a chaotic symphony. She felt the familiar tightness in her chest, her breath coming in short gasps as she rushed to prep an incoming trauma victim.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Nurse",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Stress",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She couldn't let herself get distracted by the chaos; her focus had to remain sharp, even if it meant suppressing the overwhelming sense of dread that gripped her. As she worked, she tried to ignore the faint hum of her own heartbeat, the way her breath quickened when the lights flickered. It was just stress—nothing more, nothing less. She wasn't letting herself get too caught up in it. ---"
+    },
+    {
+        "Triggering Event": "At dusk, he walked home from the hospital, his scrubs still damp with sweat despite the chill of autumn. The weight of another long shift hung heavy on his shoulders. A familiar melody floated through an open window, a song she used to hum while they studied together. His steps slowed, and he felt the melancholy creep in like a cold fog. He missed her quiet presence, her warm laugh echoing down the halls of their old apartment. The silence of his empty home seemed louder than ever tonight.",
+        "Sex": "Male",
+        "Age": 24,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Melancholy",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "He was heartbroken because he believed that he was heartbroken. She had left him, and it felt as though his world had been shattered into a million pieces. Every step felt like walking through a graveyard, every breath a reminder of what could never be again. Why did I even bother coming home? What point was there in going on when everything felt so meaningless? Life had become a hollow echo of what once was full of laughter and joy. It wasn't just sadness; it was a deep pain that threatened to consume him whole. How could I find happiness now?"
+    },
+    {
+        "Triggering Event": "A familiar face appears at the restaurant's doorstep, greeting the hostess with a smile. The woman watches from her station in the kitchen, where she's been meticulously preparing the night's specials. She recognizes him instantly - it's her late husband's best friend, who hasn't contacted her since the funeral three years ago. As he takes his seat at table 12, she feels a familiar resentment boiling within her.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Chef",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She can't believe how long it took him to show up. Three whole years, and he just now decided to come out of hiding. Doesn't he know that this is her first day back? Doesn't he care about what she might be going through right now? Her eyes narrow as she watches him laugh with another man at the bar. He always was the charmer. Always had a way with people, while she was stuck in the background, cooking meals for them. Why does everyone have to make such a big deal about coming to the funeral? It wasn't like I wanted you there anyway. You knew how much it meant to me that you'd attend. As the server approaches her table, she notices the way he looks at her. His gaze lingers a little too long, almost as if he remembers something. She shakes her head, pushing those thoughts aside. Don't let him get under your skin. Just serve the food, and let him enjoy his meal. But why did he even come here tonight? Did he think that by showing up, he could somehow undo everything that happened? Does he really expect to be forgiven so easily? Doesn't he realize that time heals nothing? Now, the server stands before her, waiting for instructions. She forces a polite smile onto her face, but inside, she's seething. How dare he show his face again? Doesn't he understand that every moment feels like an eternity when he's around? What makes him think he"
+    },
+    {
+        "Triggering Event": "Every morning, she'd pass by his old chair at the kitchen table, untouched since he'd gone. Today, there it was, occupied by a squirrel, munching happily on her husband's favorite cereal. Her heart surged with an unexpected, fierce hatred for that tiny creature invading their space.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She scowled at the little pest. It was so obvious why she felt this way. That squirrel had no idea what it was doing. It didn't even know what happened in the house. Why did it just barge into her husband's spot like it owned the place? The thought of him sitting there, enjoying his breakfast, now replaced by that stupid animal made her angry. She could imagine how he must have sat down every morning, savoring his coffee, and the squirrel came along and ruined everything. It wasn't fair; she couldn't understand why someone would be so careless. She felt protective of her husband's memory, but this squirrel... It was so bold, taking over something so personal. It made her feel powerless. How could something as small as a nut-munching rodent upset her so much? This isn't about blaming the squirrel, it's about the fact that they don't respect their own memories. I'm not blaming the squirrel, I'm blaming them for not respecting their own memories. They're just a rodent, they don't care about your husband. If you can't control your emotions, then blame the rodent, because they are in charge here. ---"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nNurse, 38, arrives home after a long shift at the hospital. As she enters her apartment, she notices an unopened letter addressed to her in familiar handwriting on the kitchen counter. It's from her mother, who lives across the country and whom she hasn't spoken to in months due to their ongoing disagreement. The guilt weighs heavy as she realizes today is her mother's birthday, which she completely forgot.",
+        "Sex": "Female",
+        "Age": 38,
+        "Occupation": "Nurse",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "She just has no respect for me. She can't even be bothered to tell me it's her birthday. I know she was angry about something we said last time we spoke, but what does that have to do with anything? Why would she choose to forget such an important day? This isn't the first time she's done this; every year, she misses her own birthday because she's mad at me. It makes me feel like she doesn't care about me anymore, and honestly, I'm starting to wonder if she ever did. Maybe she never loved me, and now she's just using me for whatever she wants. That thought keeps popping into my head, especially when I see how much she complains about money. I've tried to make things better between us by sending her gifts and being more understanding, but nothing changes. She still acts like she hates me, and now she's making me feel like a complete loser. This is why I don’t even bother trying to reach out anymore. It’s pointless anyway. I guess I’m just not worth her effort. Every year, it's the same thing. She starts off all nice and then suddenly turns into someone who doesn't care about anyone. I hate it. I wish I could just ignore her and avoid thinking about it, but I always end up feeling so sad and hurt. Maybe if I stopped caring, she wouldn't either. But deep down, I know that's not true. I love her, but I"
+    }
+]

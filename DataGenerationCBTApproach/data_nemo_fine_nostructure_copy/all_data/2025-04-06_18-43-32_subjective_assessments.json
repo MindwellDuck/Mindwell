@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"A middle-aged man, wearily folding his arms as he watches another customer complain about a trivial defect in an item they bought weeks ago, his jaw tightening as he realizes it's the fifth such complaint today.\"",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "\"Wow, this guy really takes criticism to heart, doesn't he? I mean, you can tell how frustrated he is just by watching him react like that every time someone complains. It's almost like he's taking it personally. Maybe if he wasn't so busy with work and life, he'd be less stressed out all the time. You know, it's funny how some people get so worked up over things that don't even matter much in the grand scheme of life.\""
+    },
+    {
+        "Triggering Event": "She opened her lunch bag to find a wilted, half-eaten sandwich from yesterday's team meeting. The sight of the mushy cheese and the lingering scent of someone else's garlic breath made her stomach churn.",
+        "Sex": "Female",
+        "Age": 20,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Disgust",
+        "Cognitive Distortion": "Discounting the Positive",
+        "Generated Assessment": "She was really looking forward to eating the sandwich she packed for lunch, but now it looks like someone already ate it. I guess I'll just have to eat something else."
+    },
+    {
+        "Triggering Event": "\"After clocking out at 10 PM, he found his girlfriend's text: 'Can't wait up. Talk tomorrow.' He sighed, disappointment washing over him as he realized their planned late-night catch-up was now another postponed moment in their busy schedules.\"",
+        "Sex": "Male",
+        "Age": 21,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Disappointment",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "I can't believe she canceled our date again! She must have some other plans that are more important than spending time with me. I'm just an afterthought to her. It makes sense that she'd rather see friends who make more time for her. Maybe if I were more attractive and successful, she wouldn't forget about me so easily. Why does it always happen? Every time we plan something, she changes her mind. My friends don't cancel plans like this; they prioritize us. This is why I feel like I'm not good enough for her. I know it sounds petty, but I've tried so hard to be patient and understanding. If anything, I'm too nice and give her space when she needs it. But it doesn’t stop her from ignoring me. That's why I feel like I’m invisible sometimes. Even though we’ve talked about scheduling things around each other, she still cancels or reschedules. It’s frustrating because I know I want to spend time with her, but my efforts don’t seem to matter. I wonder if there’s someone else who gets her attention more easily than I do."
+    },
+    {
+        "Triggering Event": "\"During an art exhibition, a critic sneered at his latest painting, saying it lacked originality and was 'as boring as its creator.'\"",
+        "Sex": "Male",
+        "Age": 40,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rage",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "\"I can't believe that guy! He just went from being polite to completely rude. What if he's really upset about me showing my work here?\""
+    },
+    {
+        "Triggering Event": "She struggled with the zipper of her faded blue coat, her fingers trembling slightly in the chill wind. The newspaper stand across the street was empty; she'd always bought one from old Mr. Thompson each morning after her husband's passing. Now, it stood bare, a stark reminder of change she couldn't control. A car backfired nearby, startling her, and she felt a wave of helplessness wash over her as she realized how alone she was in this world that kept moving on without him.",
+        "Sex": "Female",
+        "Age": 79,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Helplessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "She was so heartbroken to see that newspaper stand empty. I just can’t imagine what it must be like for Mr. Thompson to have no customers anymore. He never complained about it but now he’s probably struggling too. It makes me think of all those days when we’d go out together and how sad he looked watching his newspaper stand get stolen every time someone broke into it. I wonder if he knows anyone who could buy it from him. Maybe they could give it to some new family to start fresh? It would mean so much to me if my son saw an old man trying to sell newspapers again. He loves people selling things outside, especially on cold mornings. This is terrible for everyone involved."
+    },
+    {
+        "Triggering Event": "At 7 PM, after a grueling 12-hour shift at the hospital, she finds her partner's work shoes by the door, muddy and untouched, while his pristine sneakers are neatly tucked away in their closet. The dishes from last night still pile up in the sink, undeterred by his promise to handle them this morning. Her anger simmers, boiling over as she texts him, \"You said you'd clean up. Again, you didn't.\"",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Nurse",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Anger",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "She's been saying this for years, but he never listens. He says he'll change, but nothing changes. Every time we have an argument, he promises to do better, but he never does. It's always the same - broken promises, dirty dishes, and now he leaves his shoes outside like he doesn't even care about me. She thinks if he just cleaned up more, things would be okay. But honestly, I don't think they ever will. She keeps saying that she wants to try again, but I know deep down that things won't get better. Nothing ever does with him. Maybe someday I'll leave him, but until then, I'll just keep getting angry. This is all going to end badly."
+    },
+    {
+        "Triggering Event": "He woke up alone again, the house silent except for the hum of his vintage alarm clock. The digital display read 6:45 AM, a reminder that Sunday was just another workday now. He rubbed his temples, feeling the familiar ache that seemed to have taken permanent residence there since the divorce. The coffee maker gurgled to life in the kitchen, its rhythmic sounds echoing through the empty halls of his once-bustling home. He sighed, pouring himself a cup and taking a sip, wishing for something - anything - to fill this void.",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Unhappiness",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "He lay awake, staring at the ceiling, as the silence outside and within his apartment grew thicker. It wasn’t just the lack of morning light that weighed him down; it was the emptiness of it all—of the world, of his life. Every day felt like a repetition of yesterday, and yesterday had been a blur of nothingness. He tried to shake off the lethargy by focusing on the tasks ahead—a new project at work, meetings with clients he didn't know well, and the looming deadline. But even the thought of those things couldn't chase away the feeling of being lost in time. As he drifted back into sleep, the city outside continued its relentless march forward, oblivious to his pain. In the distance, cars honked, people chattered, and the constant drone of the city’s energy seemed to mock him. His mind wandered, and before he knew it, he was wide awake again, lying in bed, surrounded by the silence of an abandoned home. There was no comfort in the stillness, just the haunting realization that time kept moving while he was stuck in limbo. This was how every Sunday started now—the same routine, the same feelings, and yet somehow different. Nothing changed, but everything felt more oppressive. The silence had become a living entity, one that reminded him of what he'd lost and what he might never regain. As the day dragged on, he found himself counting down until bedtime, when maybe, just maybe, he could"
+    },
+    {
+        "Triggering Event": "\"She stirred the simmering ragù, her eyes welling up as she remembered the last time they'd shared a family meal before he left.\"",
+        "Sex": "Female",
+        "Age": 46,
+        "Occupation": "Chef",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Remorse",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "She’s always been a bad cook; I’m surprised she hasn’t poisoned us yet."
+    },
+    {
+        "Triggering Event": "\"After submitting his latest investigative piece to the editor, he receives an email titled 'Revised - Please Review'. Upon opening it, he finds his byline removed and the article heavily edited, leaving only a fraction of his original work intact.\"",
+        "Sex": "Male",
+        "Age": 47,
+        "Occupation": "Journalist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Rejection",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "\"Wow, that's really upsetting! I feel so betrayed by our editor. They're trying to silence me for speaking truth to power. This is all part of a larger conspiracy against investigative journalists like me who dare to challenge the status quo.\""
+    },
+    {
+        "Triggering Event": "Old man, hunched over his desk, squints at the faint typing noise emanating from his study late at night. He thinks he locked it hours ago. His wife is upstairs, asleep. The typing stops, then starts again, rhythmic, insistent. He creeps towards the door, heart pounding in his ears. It pauses as he reaches for the handle, then resumes with urgency as he opens the door. Empty room, computer screen flickering with gibberish code. He looks over his shoulder, swears he sees a shadow dart out of sight.",
+        "Sex": "Male",
+        "Age": 73,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Paranoia",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "He thought the old man was mad when he said he'd seen the devil himself walking into his house. \"I know all about your life,\" the old man would say, eyes glinting in the dim light. \"You'll die alone, never finding true love.\" He'd shake his head, wondering how someone could be so certain. After all, people often made fortunes predicting things like stock market crashes or election outcomes. But this felt different, somehow... (he looked up at the ceiling)...like a warning. Or maybe just an excuse to avoid talking about his loneliness. ---"
+    }
+]
