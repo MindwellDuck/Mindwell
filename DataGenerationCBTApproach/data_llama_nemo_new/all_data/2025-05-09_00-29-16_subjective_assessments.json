@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "A patient's family insisted they had made an appointment for 10 am, but their chart showed it was scheduled for 2 pm.",
+        "Sex": "Female",
+        "Age": 58,
+        "Occupation": "Doctor",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Magnification/Minimization",
+        "Generated Assessment": "I'm absolutely mortified. I must have misread the entire schedule, because apparently, my incompetence knows no bounds. The fact that I even bothered showing up at all is a testament to my utter lack of competence as a medical professional. And now, to think that I've wasted everyone's precious time - including my own - by arriving so early, is just too much to bear.\n\nI can only imagine the look of disappointment on the faces of my colleagues when they saw me walk in at 9:45 am, an hour before our scheduled start time. They must have thought I was completely clueless, utterly incapable of managing even the simplest tasks. And to make matters worse, I'm pretty sure I heard one of them whisper \"good luck\" under their breath as I approached the reception desk.\n\nIt's simply unacceptable that I wasn't more diligent in double-checking the schedule. What if I'd caused some kind of catastrophic delay? What if my presence here has put someone's life at risk? The very thought sends shivers down my spine. I can already envision the scathing review on the hospital's website, detailing my egregious error and the chaos it undoubtedly caused.\n\nAnd don't even get me started on the family member who assured me we were meeting at 10 am. Clearly, they're trying to protect me from the fallout, shielding me from the harsh reality of my own ineptitude. It's almost as if they're trying to spare me from the crushing weight of my own inadequacy. How could they possibly know what's best for me?<|eot_id|>"
+    },
+    {
+        "Triggering Event": "He noticed the empty chair at the breakfast table, his late wife's coffee still untouched in its usual spot. The newspapers he'd meticulously collected for her each morning lay unopened beside it. He felt a pang of neglect, not from his own absence\u2014he was always out early\u2014but from the world that seemed to have moved on without her.",
+        "Sex": "Male",
+        "Age": 77,
+        "Occupation": "Journalist",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Ugh, what's going on here? I swear, it feels like nobody even remembers she's gone. I come home every day, just like I did for years, and this is what I get? An empty chair, her coffee still sitting there like she just got up and left. And those papers - I collect them every morning, just like I always do. It's like no one cares that she's really gone.\n\nI keep thinking about how much she loved reading the news, and now these papers just sit there, unopened. It's like the whole world has forgotten about her. I feel like I'm the only one who knows how much she missed her morning routine. It's so frustrating, because I know exactly what she would've wanted me to do today - read the paper, make some coffee, and enjoy our quiet morning together.\n\nBut no, instead I get this feeling of emptiness, like someone's just taken over her spot at the table. It's like the house is trying to tell me something, but I don't know what. All I know is that it feels like nobody understands how much she meant to me, and that's just really hard to deal with.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "\"After hours of waiting for an interview subject who never showed, you find your laptop charger missing from your bag at the office, leaving you with only 10% battery life and a deadline looming.\"",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Journalist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Frustration",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Ugh, I'm such a disaster today. I was already running late for this interview, and now my laptop's dying on me. I swear, some people must have a personal vendetta against me. Like, I saw Sarah walk in 20 minutes ago, and she looks so put together - her hair is perfect, her outfit is on point... meanwhile, I'm over here sweating bullets because my charger's gone missing.\n\nI mean, what's the point of even having a job if you're just going to sabotage yourself? It's like the universe is conspiring against me. And to make matters worse, I can feel my anxiety spiking by the minute. My heart's racing, my palms are sweating... I'm pretty sure I'm going to pass out before I even get a chance to meet the interviewer.\n\nWhy does this always happen to me?! I'm starting to think I'm just not cut out for this whole professional thing. Maybe I should just stick to my day job and leave the corporate world behind. At least there, I know what I'm doing. But no, I had to go and blow it with this one interview. Great, just great.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "He overheard his lab partner, half his age, saying, \"I wish Dr. X could have seen this breakthrough like he used to.\"",
+        "Sex": "Male",
+        "Age": 64,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Jealousy",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Ugh, I'm so sick of him always trying to one-up me. Like, what's up with that comment? It was totally about our project, but somehow it feels personal. I mean, who says something like that in front of everyone else? It's just another example of how he thinks he can outdo me. Newsflash, dude: I've been working just as hard as you have. Maybe even harder. And now he's going around thinking he's some kind of genius because of that stupid comment? Give me a break. I swear, sometimes I think he forgets that we're all in this together. But no, he's too busy trying to prove himself at my expense. Whatever, I'll just ignore it and focus on getting the job done. But seriously, can't he just keep his ego in check for once?<|eot_id|>"
+    },
+    {
+        "Triggering Event": "Every morning, he'd pass by their house, the one with the blue door and the neatly trimmed lawn. Today, it bore a new addition: a sign supporting his political rival. His grip tightened around his briefcase as he stared at it, each word like a stab of betrayal.",
+        "Sex": "Male",
+        "Age": 46,
+        "Occupation": "Scientist",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Hatred",
+        "Cognitive Distortion": "Unfair Comparisons",
+        "Generated Assessment": "Ugh, I just can't believe what's going on over there. You know, the Smiths' house - always so perfect. Their lawn is always immaculate, and now they've gone and put up that stupid sign. It's like they're rubbing it in my face or something. \n\nI mean, I'm pretty sure I'm doing okay for myself. My job's fine, I pay my bills on time... but do I get the same perks as those guys? Nope. They get to live in this beautiful neighborhood with a yard that looks like a golf course. Meanwhile, I'm stuck in this tiny apartment with a leaky faucet. It's just not fair.\n\nAnd don't even get me started on the whole \"community involvement\" thing. The Smiths are always volunteering somewhere, attending some charity gala or another. I try to volunteer too, but nobody ever notices me. It's like I'm invisible. \n\nI swear, sometimes I feel like I'm just not good enough. Like, I'll see them walking down the street, smiling and waving at everyone, and I'll just feel this crushing sense of inadequacy. What am I missing? Why can't I be more like them?\n\nIt's just so frustrating. I wish I could be more like the Smiths. I really do. But every time I try to step out of my comfort zone, I just end up feeling like a failure. Maybe I'll just stick to what I know, huh? Yeah, that's probably for the best.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "In the hushed, echoing corridor of the lab, he paused before the row of framed photos. His gaze lingered on the one where she stood, smiling, between them at a conference years ago. He traced her image with his thumb, then placed it back, face down.",
+        "Sex": "Male",
+        "Age": 51,
+        "Occupation": "Scientist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Sorrow",
+        "Cognitive Distortion": "What if?",
+        "Generated Assessment": "Man, I'm just sitting here thinking about what could've been. If we were still together, maybe things would've worked out by now. But no, we're apart, and I'm left with this stupid photo as a reminder. What if I had just talked to her sooner? Maybe she wouldn't have gotten bored or whatever. What if I had just been more confident? Would she have seen past my awkwardness?\n\nIt's not like I'm some kind of loser or anything, but seriously, what if I had taken that job offer in another city? We could've built a life together, started a family... who knows, maybe even had kids. Ugh, why did I pass on that opportunity? Now I'm stuck here, alone, with nothing but these memories to keep me company.\n\nAnd don't even get me started on what if. What if I had invested in that startup instead of wasting my money on that stupid video game? What if I had just been more responsible? Would I be swimming in cash right now? Ha! Yeah, right. Like that's gonna happen.\n\nI swear, sometimes I feel like I'm just stuck in this never-ending cycle of what ifs. It's like, I know I'll never know what could've been, but can't I just try to move forward already? Geez.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "A former student, now a successful lawyer, breezes into her classroom during parent-teacher conferences, boasting about their lavish lifestyle and mentioning they barely remember her teachings. She smirks at the sight of her teacher's worn-out textbooks.",
+        "Sex": "Female",
+        "Age": 59,
+        "Occupation": "Teacher",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Resentment",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Ugh, I just can't even right now. Watching her walk in here like she owns the place, flaunting those designer heels and that fancy watch... it's just so infuriating. And don't even get me started on how condescending she was when she said she barely remembers our lessons. Like, what does she expect? That we're all just going to forget everything she taught us because she didn't bother to actually teach us anything?\n\nAnd those textbooks... oh man, they're literally falling apart. It's like she doesn't care about us at all. Doesn't care if we succeed or fail. Just another example of how she's more interested in her own success than ours. I swear, some people have no idea what it means to truly care about someone else's well-being.\n\nBut what really gets me is that she thinks she's better than everyone else just because she made it big. Newsflash: being a successful lawyer doesn't make you better than anyone else. It just makes you more entitled. And honestly, I'm starting to think that she's not even sorry for how she treated us back in class. Maybe she's just too busy being perfect to notice how hurtful she's been.\n\nIt's just so frustrating, you know? Feeling like I'm the only one who sees through her facade. Like, I know exactly what she's thinking. She's thinking \"Oh, look at me, I'm so much better than them.\" But really, she's just thinking \"Oh, look at me, I'm still stuck in this small town and I'll never amount to anything.\"\n\nI hate days like today. Days where I feel like I'm the only sane person in a room full of idiots.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "She found an old photo album while packing up her ex-husband's belongings, left untouched in the attic. The yellowed pictures showed their daughter as a toddler, laughing with her parents at family picnics and holidays they'd spent together before everything changed. Alone now, she traced the faded images, feeling the weight of time and loss.",
+        "Sex": "Female",
+        "Age": 55,
+        "Occupation": "Police Officer",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Misery",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Ugh, why did he leave me? I'm sitting here staring at this stupid photo album, and all I can think about is how much he must regret what happened between us. He's probably thinking about our daughter right now, wondering if he made a mistake by leaving her mom. I bet he's even thinking about coming back, about apologizing and trying to make things right. But no, he's too proud, too stubborn. He thinks he's better off without us, but really, he's just a coward.\n\nWhy did we have to move away from his family anyway? That's when things started falling apart. His parents were always so critical, so judgmental. They never understood us, never accepted us. And now look where we are - alone, with nothing but these stupid memories to remind us of what we had.\n\nI swear, sometimes I feel like I'm the one who's crazy. Like, I'm the one who's lost my mind, who's unable to see what's right in front of me. But deep down, I know he's the one who's messed up. He's the one who's broken our family.\n\nThis photo album is just a reminder of everything that went wrong. Of every argument, every fight, every moment of tension. It's like he's rubbing it in my face, telling me that I'll never be happy again. Well, let me tell you something, he's not happy either. He's miserable, stuck in some dead-end job, living in some small apartment with no life. He's the one who's truly alone.\n\nAnd what's worse, I know he's still out there, thinking about us, wondering what could've been. But I'm not going to waste another minute of my life thinking about him. I deserve better than someone who doesn't appreciate me, who doesn't love me for who I am. I deserve someone who will cherish me, who will hold me close and never let go. And I know exactly who that person is.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "A colleague, known for her vibrant social life, shared photos from her weekend getaway to Paris on Facebook. The teacher scrolled through them, each image a stark contrast to her own quiet weekend spent grading papers. She felt a pang of envy as she closed the laptop, her heart heavy with longing and self-pity.",
+        "Sex": "Female",
+        "Age": 44,
+        "Occupation": "Teacher",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Envy",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Ugh, I'm so done with my job right now. I mean, have you seen those pictures my coworker posted about her weekend in Paris? It's like she's living the dream and I'm stuck here, grading papers all day. I bet she's got some amazing connections over there, getting invited to exclusive parties and stuff. And don't even get me started on how beautiful she looks - I swear, she must be getting regular facials or something. I just can't help but wonder what I did wrong in my love life to end up single again at 30. Maybe I'll never find someone who appreciates me for who I am. This job is just sucking the life out of me...<|eot_id|>"
+    },
+    {
+        "Triggering Event": "The gallery owner cancelled his solo exhibition, citing \"a lack of market appeal in his current style\". He sat alone in his studio, surrounded by half-finished canvases, their vibrant colors now mocking him. His phone remained silent, no calls or messages from colleagues offering support or encouragement. The silence was deafening, echoing the emptiness he felt inside.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Artist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Personalization",
+        "Generated Assessment": "Ugh, what's wrong with everyone? Can't they see I'm struggling here? My whole life, I've poured my heart into this art, and now some snobby gallery owner just cancels me without even giving me a chance to explain myself. No one's even calling to ask why, just assuming I'm some kind of failure because of my style.\n\nNewsflash: maybe my style isn't for everyone! Maybe there are people out there who actually get it, but they're too cool to show up to my opening night. And don't even get me started on the silence \u2013 no one's even bothering to reach out, like I'm some kind of pariah.\n\nIt's not like I'm asking for much. A little bit of support, some basic human decency... is that really too much to ask? But no, instead I'm left sitting here, surrounded by all these half-finished canvases, feeling like a total loser. Great, just great.<|eot_id|>"
+    }
+]

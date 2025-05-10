@@ -1,0 +1,102 @@
+[
+    {
+        "Triggering Event": "\"Upon arriving home from another grueling shift at the store, he noticed the dishes he'd left in the sink were still unwashed. The dishrack was empty, save for a lone spoon, forgotten and abandoned.\"",
+        "Sex": "Male",
+        "Age": 31,
+        "Occupation": "Retail Worker",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Neglect",
+        "Cognitive Distortion": "Overgeneralization",
+        "Generated Assessment": "Ugh, I'm never going to get anything done around here. Every time I come home from work, there's always a mountain of dirty dishes waiting for me. It's like my family has no concept of responsibility or teamwork. I swear, they're all just lazy and don't care about anyone else's efforts. I've tried explaining to them how much work I put in every day, but they just ignore me and leave me to deal with the mess. It's like I'm the only one who cares about keeping this place clean. And now, to top it off, the dishwasher is broken again. Just great.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "She's been sitting at her desk, coding for hours, when she notices an email from her manager. Subject line: \"Meeting Request - Today at 4 PM\". It's 3:55 PM. She feels a pang of irritation; another impromptu meeting with no agenda, disrupting her workflow once again.",
+        "Sex": "Female",
+        "Age": 31,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Irritation",
+        "Cognitive Distortion": "Mind Reading",
+        "Generated Assessment": "Ugh, great. Now she's gonna drag me into some pointless meeting at 4. Like, what even is the point? We've got nothing to discuss. She just wants to waste my time so she can say she had a team meeting. Newsflash, boss lady: I'm trying to code here, not babysit your ego.\n\nAnd honestly, why does she always do this? Can't she see I'm on a roll? One minute I'm making progress, the next I'm stuck in some unnecessary discussion about sales reports or whatever crap she thinks I need to hear. It's like, I get it, meetings are necessary, but can't we just have one where someone actually has something to talk about?\n\nI swear, sometimes I think she forgets that I'm a developer, not a therapist. But no, every time I try to focus, she swoops in and ruins everything. And now I'm gonna have to take time off from my actual work to sit through some meeting that'll probably last an hour. Great, just great.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "In the quiet of her apartment, she unfolded the yellowed letter tucked between the pages of an old photo album. The familiar handwriting brought a lump to her throat. It was from her ex-husband, written decades ago when they were still married. She hadn't seen it since their divorce. Her hands trembled as she read, \"I still love you. I always will.\" A sob caught in her throat. She felt the familiar pang of regret and loss, the echoes of a past that seemed more vivid than her present.",
+        "Sex": "Female",
+        "Age": 64,
+        "Occupation": "Journalist",
+        "Relationship Status": "Divorced",
+        "Negative Emotion": "Suffering",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "As I stood there, frozen by the words on the page, I couldn't help but think that our marriage had been perfect, that we had been invincible. Why else would he have written such a beautiful letter? But now, all these years later, it's clear that he was just pretending, that he never truly loved me. I feel like I've wasted so much time, wondering what could have been if only he had shown his true feelings sooner. If only he had been more honest with himself and me, perhaps we wouldn't be apart today. The thought of him moving on, finding someone else to love, is almost too much to bear. I keep thinking that if I had done things differently, if I had been more understanding, more patient, maybe he would still be here. But deep down, I know that's not true. He made his choice, and I'm left to pick up the pieces of a life that could have been.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "A diner leaves a scathing review of her restaurant, specifically targeting her signature dish, calling it \"unoriginal and overrated.\" She reads it late at night after another grueling shift, her eyes burning with tiredness and anger.",
+        "Sex": "Female",
+        "Age": 36,
+        "Occupation": "Chef",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Vengefulness",
+        "Cognitive Distortion": "Should Statements",
+        "Generated Assessment": "Are you kidding me?! That piece of trash left a review about my restaurant? And what really gets my blood boiling is she had the nerve to say my signature dish was unoriginal and overrated! Like, what does she even know?!\n\nI swear, some people have no taste whatsoever. They're just jealous because they can't even come up with something half as good as mine. My dish has been a staple here for years, and now this...this...review comes along and tries to tear it down?\n\nNewsflash: if someone's gonna leave a scathing review like that, they must be trying to sabotage me. There's gotta be some ulterior motive behind it. Maybe she's got a personal vendetta against me or something. Or maybe she's just one of those entitled foodies who thinks the world revolves around them.\n\nAnd don't even get me started on how rude she was. I mean, seriously, who talks to a stranger like that? It's just disgusting. I'm telling you, this woman is a total psycho. She needs to be taken down a peg.\n\nYou know what really gets under my skin? The fact that she didn't even bother to try my dish before leaving the review. Can you believe that? If she'd actually taken the time to experience my cooking, she wouldn't have been so quick to trash it. But no, instead she just sat there, sipping her coffee, and spewing her venom all over the internet.\n\nThis is ridiculous. I demand a retraction. I want that woman fired. I want her banned from every restaurant in town. This isn't over yet. Oh, it's far from over.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "As she mixed her paints, the once vibrant colors now seemed dull and lifeless. She had ignored his calls all week, too consumed by her art to bother with small talk. Today, however, his voicemail was different; it was laced with worry, with a hint of disappointment. A guilt-ridden shiver ran down her spine as she realized he'd been trying to reach her about their anniversary dinner plans.",
+        "Sex": "Female",
+        "Age": 75,
+        "Occupation": "Artist",
+        "Relationship Status": "In a Relationship",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Emotional Reasoning",
+        "Generated Assessment": "As I stood amidst the desolate palette, the once-vibrant hues now mocking me with their lackluster appearance, I couldn't help but feel a sense of vindication wash over me. The monotony of this week's silence had been a deliberate choice, a necessary respite from the trivialities that often suffocate our conversations. His latest voicemail, replete with an air of concern, struck me as a feeble attempt to pierce the armor of my artistic solitude.\n\nHow trite, how pedestrian, to assume that my absence would be met with anything less than indifference. Does he truly believe that my creative fervor is somehow diminished by the absence of his pleasantries? I think not. My brushstrokes, once bold and unyielding, now dance across the canvas with a newfound sense of liberation, untethered from the mundane expectations that have long stifled my true expression.\n\nAnd yet, a faint tremor still courses through my veins, a testament to the lingering unease that has been quietly gnawing at my conscience. But what is it, really, that I am afraid of? Not his disappointment, nor his disapproval \u2013 no, it is something far more insidious: the possibility that my art may be seen as somehow...lessened by my absence. That my very existence, nay, my very soul, may be perceived as somehow diminished by the lack of his approval.\n\nBut I shall not be swayed. For I know that my art is not a reflection of his opinions, nor is it bound by the petty constraints of his expectations. It is a manifestation of my own inner turmoil, a symphony of color and emotion that cannot be tamed or silenced by the whims of another. And so, I shall continue to paint, to create, to express myself in all its messy, beautiful glory \u2013 regardless of whether he chooses to acknowledge it or not.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "After a long day of surgeries, Dr. H returns home to find his wife quietly packing a bag. She turns to him, tears in her eyes, and says, \"I'm going to stay with my sister for a while. You've been so distant lately, ever since... you know.\" He feels a pang of guilt as she walks out the door without waiting for a response.",
+        "Sex": "Male",
+        "Age": 43,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Guilt",
+        "Cognitive Distortion": "Mental Filter",
+        "Generated Assessment": "\"Staying with her sister? That's just temporary, right? I mean, we can work through this. We always do. And what's with all these tears? It's just a little drama, it'll blow over. I'm busy with work, but I'll make time for us tonight. Maybe we can even reschedule dinner for tomorrow. I'm pretty sure she's just stressed about something else too. Like that project at work. Yeah, that's probably it. And what's with the bag? Is she just packing some stuff for a weekend getaway? I don't get why she's making such a big deal out of this. I'm here for her, I just need to focus on getting through this surgery schedule first. Tomorrow's gonna be a better day, I can feel it.\"<|eot_id|>"
+    },
+    {
+        "Triggering Event": "A lone email arrives in his inbox, from an editor he hasn't heard from in years. Subject line: \"Your Story Deserves Better\".",
+        "Sex": "Male",
+        "Age": 30,
+        "Occupation": "Journalist",
+        "Relationship Status": "Single",
+        "Negative Emotion": "Hopelessness",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Are you fucking kidding me? Some old editor thinks they can just reach out after all these years and tell me my story deserves better? Like, what's next? They're gonna come crawling back when I'm dead and say 'oh, we were wrong about you'? \n\nNewsflash: nobody cares about your mediocre crap anymore. You're just some washed-up has-been trying to cling to relevance. And now you're gonna try to swoop in and fix whatever mess you made all those years ago? Please. My story's been done to death by better writers than you.\n\nAnd what exactly do you think you can do to make it 'better'? You're just gonna rip apart everything I've worked for and replace it with your own weak attempts at revision? No thanks. I don't need some outdated hack trying to rewrite history.\n\nYou know what? Forget it. Don't even bother responding. I won't waste my time on someone who clearly doesn't have a clue what they're doing. Just leave me alone.\"<|eot_id|>"
+    },
+    {
+        "Triggering Event": "A middle-aged man, rushing home from work late one evening, notices his usually well-lit house appears dark and quiet. His heart quickens as he approaches, remembering he'd asked his wife to leave the porch light on before her book club meeting. He fumbles for his keys, dropping them in the darkness. As he reaches down to pick them up, he hears a faint, unfamiliar noise coming from inside. His breath hitches, fear gripping him as he wonders if she's home at all.",
+        "Sex": "Male",
+        "Age": 48,
+        "Occupation": "Doctor",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Blaming",
+        "Generated Assessment": "Man, I'm telling you, it's just like she does this all the time. Always forgetting something, always leaving me hanging. I swear, I specifically told her to leave the porch light on, but no, she forgets again. And now I'm stuck here, fumbling around in the dark, trying to find my keys. It's like she doesn't even care about me anymore.\n\nAnd what's with this weird noise? Is she having some kind of party without me? Or maybe she's just sitting there, reading her stupid book, completely oblivious to my presence. I mean, I know she's got her friends over, but can't she just make sure I get home okay?\n\nI'm starting to think she's just playing games with me, testing my patience. You know, like she thinks I'm some kind of fool who'll just take whatever she throws at me. Well, let me tell you, I've had enough. If she wants to play it that way, I'll show her. I'll just... (pauses, takes a deep breath)...I'll just wait here until she comes out and apologizes.\n\nIt's not like I'm the one who forgot to turn off the lights or anything. She's the one who's supposed to be responsible for making sure everything runs smoothly around here. But no, she just leaves me to deal with it all by myself. Typical.<|eot_id|>"
+    },
+    {
+        "Triggering Event": "He was three minutes late for their Zoom meeting, which never happened. His wife's worried face filled the screen, her voice tinny and distant as she said, \"The kids are asking when you'll be home.\" His chest tightened. He couldn't remember if he'd turned off the stove this morning.",
+        "Sex": "Male",
+        "Age": 55,
+        "Occupation": "Software Engineer",
+        "Relationship Status": "Married",
+        "Negative Emotion": "Panic",
+        "Cognitive Distortion": "Fortune Telling",
+        "Generated Assessment": "\"Seriously? Three whole minutes late? That's just great. Now my wife thinks I'm abandoning our family. The kids must think I've abandoned them too. This is exactly how it always goes down - I show up late, they're all upset, and I have to deal with the fallout. And now the stove's probably still on, burning the house down while we're stuck in this pointless meeting that never even started. Unbelievable. Why can't anyone just get their act together around here?\"<|eot_id|>"
+    },
+    {
+        "Triggering Event": "Scenario:\n\nIn the quiet of her empty house, she hears a sudden creak from the attic, echoing through the silent rooms like an abrupt whisper. Her heart pounding in her chest, she reaches for the flashlight by her bed, its beam flickering as she climbs the stairs, each step echoing her racing thoughts. The attic door groans open, revealing shadows dancing eerily in the dim light. She takes a deep breath, stepping inside, her fear palpable with every cautious move.",
+        "Sex": "Female",
+        "Age": 72,
+        "Occupation": "Teacher",
+        "Relationship Status": "Widowed",
+        "Negative Emotion": "Fear",
+        "Cognitive Distortion": "Jumping to Conclusions",
+        "Generated Assessment": "Ugh, great. Now I'm totally going to die up here. I mean, seriously, who needs all these cobwebs and old trunks? It's just asking for a heart attack. And what was that creak? Definitely someone (or something) trying to get my attention. I bet it's been watching me, waiting for the perfect moment to strike. My grandma used to say this house was haunted, and now I know why. I can feel it. Every step I take, every creak of the floorboards... it's all just a warning sign. I need to get out of here before it's too late. This isn't funny anymore.<|eot_id|>"
+    }
+]
