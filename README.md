@@ -1,2 +1,0 @@
-# Mindwell
-Mindwell Thesis Project
